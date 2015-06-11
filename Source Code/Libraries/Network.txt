@@ -1,0 +1,1 @@
+https://github.com/couchbase/couchbase-lite-androidhttps://github.com/couchbaselabs/GrocerySync-AndroidJSONhttp://square.github.io/retrofit/https://github.com/square/moshi

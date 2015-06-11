@@ -1,0 +1,9 @@
+https://github.com/halysongoncalves/Material-Design-Example
+https://github.com/tekinarslan/AndroidMaterialDesignToolbar
+
+Apps
+https://github.com/C-Aniruddh/ACEMusicPlayer
+https://github.com/tarek360/Material-Animation-Samples
+
+
+https://github.com/naman14/MaterialPowerMenu

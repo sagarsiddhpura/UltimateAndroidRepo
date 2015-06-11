@@ -1,0 +1,25 @@
+https://github.com/noveogroup/android-logger
+http://logback.qos.ch/manual/introduction.html
+https://github.com/tony19/logback-android
+http://www.slf4j.org/android/
+https://psdev.de/slf4j-android-logger/
+
+good
+https://github.com/omegasoft7/FSLogger
+https://github.com/orhanobut/logger - nice output format
+https://github.com/JakeWharton/hugo - annotation based logging
+
+
+Network
+https://github.com/cookpad/puree-android
+https://github.com/sschendel/RemoteLogger
+
+Live Logging
+https://github.com/jgilfelt/NotificationLog
+https://github.com/Smyshliaiev/scrog
+https://github.com/inaka/galgo
+https://github.com/orhanobut/bee
+
+
+Exagerrated logging
+https://github.com/blundell/ArrowLogger
