@@ -1,1 +1,10 @@
 https://github.com/Todd-Davies/ProgressWheel
+https://github.com/rahatarmanahmed/CircularProgressView
+
+FAB
+https://github.com/futuresimple/android-floating-action-button
+https://github.com/ckurtm/FabButton
+
+
+EditText
+https://github.com/rengwuxian/MaterialEditText

@@ -1,1 +1,7 @@
 https://github.com/avafab/URLMediaPlayer
+https://github.com/claucookie/mini-equalizer-library-android
+https://github.com/vsmaks/audiostream-metadata-retriever
+https://github.com/PRX/PlayerHater
+Good
+https://github.com/jaydeepw/audio-wife
+https://github.com/audionowdigital/openplayer-android

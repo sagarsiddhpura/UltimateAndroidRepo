@@ -1,1 +1,3 @@
 https://github.com/RomainPiel/Titanic
+http://flavienlaurent.com/blog/2013/08/28/each-navigation-drawer-hides-a-viewdraghelper/
+http://blog.denevell.org/android-viewdraghelper-example-tutorial.html

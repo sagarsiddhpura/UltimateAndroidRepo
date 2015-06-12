@@ -1,0 +1,9 @@
+Animations
+https://github.com/naman14/MaterialPowerMenu
+https://github.com/Yalantis/Euclid
+https://github.com/naman14/PlayAnimations
+https://github.com/chrisbanes/cheesesquare
+
+More
+https://github.com/halysongoncalves/Material-Design-Example
+https://github.com/tekinarslan/AndroidMaterialDesignToolbar
