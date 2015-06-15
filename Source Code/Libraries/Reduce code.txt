@@ -1,2 +1,10 @@
 via annotations
 https://github.com/JakeWharton/butterknife
+integrate libs faster
+https://github.com/percolate/foam
+Dont use fragments
+https://github.com/konmik/StackLayout
+https://github.com/neevek/Paginize
+
+
+http://boltsframework.github.io/docs/android/

@@ -1,0 +1,5 @@
+https://github.com/PomepuyN/BlurEffectForAndroidDesign
+
+http://facebook.github.io/rebound/
+https://github.com/RomainPiel/Titanic
+http://facebook.github.io/shimmer-android/
