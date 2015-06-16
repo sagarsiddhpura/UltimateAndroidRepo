@@ -12,3 +12,8 @@ http://stackoverflow.com/questions/27771646/picasso-keeps-reloading-images-while
 http://cypressnorth.com/mobile-application-development/setting-android-google-volley-imageloader-networkimageview/
 http://www.androidhive.info/2014/05/android-working-with-volley-library-1/
 http://stackoverflow.com/questions/18808114/picasso-loading-of-image-spawned-inside-asynctask
+http://stackoverflow.com/questions/21270152/volleys-networkimageview-setimagebitmap-method-doesnt-work
+http://developer.android.com/training/volley/request.html
+https://github.com/JakeWharton/DiskLruCache
+http://www.captechconsulting.com/blogs/google-io-2013-volley-image-cache-tutorial
+https://github.com/rdrobinson3/VolleyImageCacheExample
