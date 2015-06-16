@@ -3,3 +3,12 @@ https://github.com/PomepuyN/BlurEffectForAndroidDesign
 http://facebook.github.io/rebound/
 https://github.com/RomainPiel/Titanic
 http://facebook.github.io/shimmer-android/
+
+Image loading using volley
+https://www.bignerdranch.com/blog/solving-the-android-image-loading-problem-volley-vs-picasso/
+http://stackoverflow.com/questions/26501112/picasso-images-reloading-on-scroll-in-listview
+http://stackoverflow.com/questions/23280242/using-picasso-with-custom-disk-cache#answer-23281195
+http://stackoverflow.com/questions/27771646/picasso-keeps-reloading-images-while-scrolling-upwards-in-listview-loads-slowly
+http://cypressnorth.com/mobile-application-development/setting-android-google-volley-imageloader-networkimageview/
+http://www.androidhive.info/2014/05/android-working-with-volley-library-1/
+http://stackoverflow.com/questions/18808114/picasso-loading-of-image-spawned-inside-asynctask
