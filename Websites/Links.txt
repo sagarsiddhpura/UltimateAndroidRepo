@@ -1,0 +1,19 @@
+Online Demo
+https://appetize.io/info
+
+Libraries Collection sites
+https://android-arsenal.com
+
+UI wireframing
+https://marvelapp.com/
+
+Android Blogs
+https://github.com/vbauer/android-blogs
+
+SEO for android
+http://bestasotool.com/
+
+Android Studio
+https://gautam.io/work/android_studio_shortcuts
+
+http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/
