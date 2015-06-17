@@ -12,3 +12,4 @@ https://github.com/ckurtm/FabButton
 EditText
 https://github.com/rengwuxian/MaterialEditText
 https://github.com/jayrambhia/FloatingLabelLayout
+https://gist.github.com/chrisbanes/11247418

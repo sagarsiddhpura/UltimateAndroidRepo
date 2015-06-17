@@ -15,5 +15,9 @@ http://bestasotool.com/
 
 Android Studio
 https://gautam.io/work/android_studio_shortcuts
+http://stablekernel.com/blog/level-up-with-android-studio-shortcuts-and-live-templates/
 
 http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/
+
+
+http://www.androidcentral.com/google-highlights-best-apps-material-design-google-play-showcase
