@@ -1,3 +1,2 @@
-http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/
 https://code.facebook.com/posts/1648953042007882
 http://fbinfer.com/

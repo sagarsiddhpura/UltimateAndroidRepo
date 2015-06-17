@@ -1,7 +1,13 @@
 via annotations
 https://github.com/JakeWharton/butterknife
+http://androidannotations.org/
+https://github.com/orfjackal/retrolambda
+
+
 integrate libs faster
 https://github.com/percolate/foam
+
+
 Dont use fragments
 https://github.com/konmik/StackLayout
 https://github.com/neevek/Paginize

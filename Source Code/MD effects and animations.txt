@@ -3,6 +3,10 @@ https://github.com/naman14/MaterialPowerMenu
 https://github.com/Yalantis/Euclid
 https://github.com/naman14/PlayAnimations
 https://github.com/chrisbanes/cheesesquare
+https://github.com/DenisMondon/material-design-library
+
+https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4
+http://fiskur.eu/?p=752
 
 More
 https://github.com/halysongoncalves/Material-Design-Example

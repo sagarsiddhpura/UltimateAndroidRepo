@@ -1,1 +1,0 @@
-https://github.com/couchbase/couchbase-lite-androidhttps://github.com/couchbaselabs/GrocerySync-Androidhttps://github.com/RomainPiel/Shimmer-androidJSONhttp://square.github.io/retrofit/https://github.com/square/moshiLocationhttps://github.com/mcharmas/Android-ReactiveLocation
