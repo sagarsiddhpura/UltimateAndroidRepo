@@ -3,6 +3,7 @@ https://github.com/JakeWharton/butterknife
 http://androidannotations.org/
 https://github.com/orfjackal/retrolambda
 
+http://www.androidbootstrap.com/
 
 integrate libs faster
 https://github.com/percolate/foam

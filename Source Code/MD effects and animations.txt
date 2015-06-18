@@ -10,6 +10,9 @@ https://github.com/daimajia/AndroidViewAnimations
 https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4
 http://fiskur.eu/?p=752
 
+View collapse and expand
+http://stackoverflow.com/questions/4946295/android-expand-collapse-animation
+
 More
 https://github.com/halysongoncalves/Material-Design-Example
 https://github.com/tekinarslan/AndroidMaterialDesignToolbar
@@ -19,3 +22,22 @@ https://github.com/jayrambhia/contactsdemo
 
 Rebound effect
 http://facebook.github.io/rebound/
+
+Pull to refresh
+https://github.com/Yalantis/Taurus
+https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS
+http://yalantis.com/blog/how-we-built-customizable-pull-to-refresh-pull-to-cook-soup-animation/
+https://github.com/Yalantis/PullToMakeFlight
+
+Nav menu
+https://github.com/Yalantis/GuillotineMenu-Android
+https://github.com/Yalantis/Side-Menu.Android
+
+Context menu
+https://github.com/Yalantis/Context-Menu.Android
+
+Label
+https://github.com/Yalantis/Preloader.Ophiuchus
+
+List
+https://github.com/Yalantis/Euclid
