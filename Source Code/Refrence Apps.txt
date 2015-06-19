@@ -5,7 +5,12 @@ https://github.com/eddturtle/TurtlePlayer
 https://github.com/tomahawk-player/tomahawk-android
 https://github.com/MPieter/Notification-Analyser
 https://github.com/googlesamples/android-topeka
+https://github.com/mikepenz/wallsplash-android
+
 
 https://github.com/florent37/OCiney
 
 https://github.com/tarek360/Material-Animation-Samples
+
+
+https://github.com/rrtigga/GetDisciplined

@@ -2,3 +2,4 @@ Examples
 https://github.com/hmkcode/Android/tree/master/android-material-design-appcompat
 https://github.com/smuldr/design-support-demo
 https://github.com/chrisbanes/cheesesquare
+https://github.com/swissonid/android-design-support-lib-sample

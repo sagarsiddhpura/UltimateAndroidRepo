@@ -1,3 +1,5 @@
 http://cookicons.co/#
 http://www.materialup.com/posts/material-product-icon-template
 http://fontawesome.io/icons/
+http://www.icons4android.com/
+http://romannurik.github.io/AndroidAssetStudio/

@@ -13,3 +13,11 @@ EditText
 https://github.com/rengwuxian/MaterialEditText
 https://github.com/jayrambhia/FloatingLabelLayout
 https://gist.github.com/chrisbanes/11247418
+
+
+
+https://github.com/Bearded-Hen/Android-Bootstrap
+
+
+bafge in actionbar
+https://github.com/mikepenz/Android-ActionItemBadge
