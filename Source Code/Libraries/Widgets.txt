@@ -21,3 +21,7 @@ https://github.com/Bearded-Hen/Android-Bootstrap
 
 bafge in actionbar
 https://github.com/mikepenz/Android-ActionItemBadge
+
+
+Swipe recycler view
+https://github.com/rahulrj/Swipe_RecyclerView

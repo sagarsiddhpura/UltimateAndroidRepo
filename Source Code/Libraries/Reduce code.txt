@@ -2,6 +2,8 @@ via annotations
 https://github.com/JakeWharton/butterknife
 http://androidannotations.org/
 https://github.com/orfjackal/retrolambda
+https://github.com/frankiesardo/icepick
+https://github.com/hansenji/pocketknife
 
 http://www.androidbootstrap.com/
 
