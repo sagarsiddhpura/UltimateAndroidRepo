@@ -14,3 +14,16 @@ https://github.com/tarek360/Material-Animation-Samples
 
 
 https://github.com/rrtigga/GetDisciplined
+
+
+
+
+http://www.reddit.com/r/androiddev/comments/3av6ht/example_of_a_very_well_programmed_open_source_app/
+
+https://github.com/LiveTyping/u2020-mvp
+https://github.com/jparkie/Aizoban
+https://github.com/MizzleDK/Mizuu
+https://github.com/chrisbanes/philm
+https://github.com/maxpower47/pindroid
+https://github.com/UweTrottmann/SeriesGuide
+http://www.aptoide.org/browser/aptoide-client?order=name
