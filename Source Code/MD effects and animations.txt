@@ -7,6 +7,7 @@ https://github.com/DenisMondon/material-design-library
 https://github.com/jayrambhia/IndicatorViewPager
 https://github.com/daimajia/AndroidViewAnimations
 https://github.com/mikepenz/LollipopShowcase
+https://github.com/Adirockzz95/FABtransitions
 
 Summary of principles
 https://github.com/DominikAngerer/fire-bear
