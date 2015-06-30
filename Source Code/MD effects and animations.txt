@@ -9,6 +9,9 @@ https://github.com/daimajia/AndroidViewAnimations
 https://github.com/mikepenz/LollipopShowcase
 https://github.com/Adirockzz95/FABtransitions
 
+Circular reveal
+https://github.com/googlesamples/android-RevealEffectBasic
+
 Summary of principles
 https://github.com/DominikAngerer/fire-bear
 
@@ -49,3 +52,7 @@ https://github.com/Yalantis/Preloader.Ophiuchus
 
 List
 https://github.com/Yalantis/Euclid
+
+
+Transistions
+https://github.com/googlesamples/android-CustomTransition

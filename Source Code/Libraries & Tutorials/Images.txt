@@ -4,6 +4,9 @@ http://facebook.github.io/rebound/
 https://github.com/RomainPiel/Titanic
 http://facebook.github.io/shimmer-android/
 
+Have state drawable
+http://www.donnfelker.com/quick-and-easy-statelistdrawables-in-android-with-one-png/
+
 Image loading using volley
 https://www.bignerdranch.com/blog/solving-the-android-image-loading-problem-volley-vs-picasso/
 http://stackoverflow.com/questions/26501112/picasso-images-reloading-on-scroll-in-listview

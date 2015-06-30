@@ -4,9 +4,12 @@ https://github.com/psaravan/JamsMusicPlayer
 https://github.com/eddturtle/TurtlePlayer
 https://github.com/tomahawk-player/tomahawk-android
 https://github.com/MPieter/Notification-Analyser
-https://github.com/googlesamples/android-topeka
 https://github.com/mikepenz/wallsplash-android
 
+From Google
+https://github.com/googlesamples/android-XYZTouristAttractions/
+https://github.com/googlesamples/android-topeka
+https://github.com/googlesamples/android-UniversalMusicPlayer
 
 https://github.com/florent37/OCiney
 

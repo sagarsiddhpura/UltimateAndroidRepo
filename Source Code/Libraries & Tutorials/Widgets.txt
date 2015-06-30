@@ -3,6 +3,7 @@ https://github.com/Todd-Davies/ProgressWheel
 https://github.com/rahatarmanahmed/CircularProgressView
 https://github.com/pnikosis/materialish-progress
 https://github.com/ckurtm/FabButton
+https://github.com/panwrona/DownloadProgressBar
 
 FAB
 https://github.com/futuresimple/android-floating-action-button
@@ -15,7 +16,9 @@ https://github.com/rengwuxian/MaterialEditText
 https://github.com/jayrambhia/FloatingLabelLayout
 https://gist.github.com/chrisbanes/11247418
 
-
+Sliding tabas
+https://github.com/googlesamples/android-SlidingTabsColors
+https://github.com/googlesamples/android-SlidingTabsBasic
 
 https://github.com/Bearded-Hen/Android-Bootstrap
 
@@ -23,6 +26,8 @@ https://github.com/Bearded-Hen/Android-Bootstrap
 bafge in actionbar
 https://github.com/mikepenz/Android-ActionItemBadge
 
+recycler view
+https://github.com/googlesamples/android-RecyclerView
 
 Swipe recycler view
 https://github.com/rahulrj/Swipe_RecyclerView
