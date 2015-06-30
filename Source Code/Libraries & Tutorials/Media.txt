@@ -5,3 +5,7 @@ https://github.com/PRX/PlayerHater
 Good
 https://github.com/jaydeepw/audio-wife
 https://github.com/audionowdigital/openplayer-android
+
+
+Video
+https://github.com/yqritc/Android-ScalableVideoView

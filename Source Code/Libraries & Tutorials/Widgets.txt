@@ -4,6 +4,8 @@ https://github.com/rahatarmanahmed/CircularProgressView
 https://github.com/pnikosis/materialish-progress
 https://github.com/ckurtm/FabButton
 https://github.com/panwrona/DownloadProgressBar
+https://github.com/fahimk/SmoothProgressBar
+https://github.com/cdeange/RopeProgressBar
 
 FAB
 https://github.com/futuresimple/android-floating-action-button
@@ -22,8 +24,11 @@ https://github.com/googlesamples/android-SlidingTabsBasic
 
 https://github.com/Bearded-Hen/Android-Bootstrap
 
+Wizard pager
+https://github.com/romannurik/android-wizardpager
+https://github.com/MarkOSullivan94/Android-Material-Wizard
 
-bafge in actionbar
+badge in actionbar
 https://github.com/mikepenz/Android-ActionItemBadge
 
 recycler view
@@ -31,3 +36,12 @@ https://github.com/googlesamples/android-RecyclerView
 
 Swipe recycler view
 https://github.com/rahulrj/Swipe_RecyclerView
+
+Widget
+https://github.com/romannurik/Android-MonthCalendarWidget
+
+Tree View
+https://github.com/fahimk/AndroidTreeView
+
+Buttons
+https://github.com/fahimk/fancybuttons

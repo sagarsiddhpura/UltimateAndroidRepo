@@ -8,9 +8,12 @@ https://github.com/jayrambhia/IndicatorViewPager
 https://github.com/daimajia/AndroidViewAnimations
 https://github.com/mikepenz/LollipopShowcase
 https://github.com/Adirockzz95/FABtransitions
+https://github.com/fahimk/Android-ObservableScrollView
 
-Circular reveal
+Circular reveal & ripple
+https://github.com/thomsonreuters/RippleDecoratorView
 https://github.com/googlesamples/android-RevealEffectBasic
+https://github.com/fahimk/CircularReveal
 
 Summary of principles
 https://github.com/DominikAngerer/fire-bear

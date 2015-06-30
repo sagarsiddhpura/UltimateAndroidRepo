@@ -27,3 +27,6 @@ http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-an
 
 
 http://www.androidcentral.com/google-highlights-best-apps-material-design-google-play-showcase
+
+Testing
+http://innopplinc.com/blog/top-61-mobile-app-testing-tips-for-2015/

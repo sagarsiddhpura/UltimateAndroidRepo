@@ -16,6 +16,8 @@ https://github.com/percolate/foam
 Dont use fragments
 https://github.com/konmik/StackLayout
 https://github.com/neevek/Paginize
-
+https://github.com/fahimk/Dynamo
 
 http://boltsframework.github.io/docs/android/
+
+

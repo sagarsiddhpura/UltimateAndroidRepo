@@ -1,1 +1,6 @@
 http://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/
+http://www.reddit.com/r/androiddev/comments/3bedpi/any_example_of_a_non_trivial_app_trying_to/
+http://hannesdorfmann.com/android/sqlbrite-dao/
+http://www.reddit.com/r/androiddev/comments/3b4p3n/rxjava_and_orientation_changes/
+http://fahimk.github.io/2015/04/21/using-rxjava-with-mvp-to-handle-configuration-changes/
+https://github.com/fahimk/RxStarter

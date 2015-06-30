@@ -6,6 +6,9 @@ https://github.com/tomahawk-player/tomahawk-android
 https://github.com/MPieter/Notification-Analyser
 https://github.com/mikepenz/wallsplash-android
 
+Camera
+https://github.com/MonkeyViewController/SnapThat
+
 From Google
 https://github.com/googlesamples/android-XYZTouristAttractions/
 https://github.com/googlesamples/android-topeka
