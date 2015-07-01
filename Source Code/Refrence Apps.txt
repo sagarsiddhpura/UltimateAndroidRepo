@@ -5,6 +5,8 @@ https://github.com/eddturtle/TurtlePlayer
 https://github.com/tomahawk-player/tomahawk-android
 https://github.com/MPieter/Notification-Analyser
 https://github.com/mikepenz/wallsplash-android
+https://github.com/federicoiosue/Omni-Notes
+
 
 Camera
 https://github.com/MonkeyViewController/SnapThat
