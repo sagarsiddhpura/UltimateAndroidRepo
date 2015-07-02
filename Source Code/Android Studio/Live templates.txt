@@ -1,0 +1,2 @@
+https://github.com/keyboardsurfer/idea-live-templates
+https://github.com/mrmike/AndroidLiveTemplates

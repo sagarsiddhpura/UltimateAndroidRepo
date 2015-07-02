@@ -7,3 +7,6 @@ https://github.com/swissonid/android-design-support-lib-sample
 
 tutorial
 http://inthecheesefactory.com/blog/android-design-support-library-codelab/en
+
+Color palette
+https://github.com/Musenkishi/Atelier
