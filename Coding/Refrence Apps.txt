@@ -23,8 +23,8 @@ https://github.com/tarek360/Material-Animation-Samples
 
 https://github.com/rrtigga/GetDisciplined
 
-
-
+Libs RxJava
+https://bitbucket.org/prash2488/sharechannels-for-pushbullet/
 
 http://www.reddit.com/r/androiddev/comments/3av6ht/example_of_a_very_well_programmed_open_source_app/
 
