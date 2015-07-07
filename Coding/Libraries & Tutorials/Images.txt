@@ -1,5 +1,10 @@
-https://github.com/PomepuyN/BlurEffectForAndroidDesign
+Image loading
+https://github.com/nostra13/Android-Universal-Image-Loader
+https://developer.android.com/training/volley/index.html
+http://square.github.io/picasso/
 
+Effects
+https://github.com/PomepuyN/BlurEffectForAndroidDesign
 http://facebook.github.io/rebound/
 https://github.com/RomainPiel/Titanic
 http://facebook.github.io/shimmer-android/
@@ -24,3 +29,5 @@ http://developer.android.com/training/volley/request.html
 https://github.com/JakeWharton/DiskLruCache
 http://www.captechconsulting.com/blogs/google-io-2013-volley-image-cache-tutorial
 https://github.com/rdrobinson3/VolleyImageCacheExample
+refrence apps for volley:
+https://github.com/TheKeeperOfPie/Reader

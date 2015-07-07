@@ -5,3 +5,4 @@ http://www.reddit.com/r/androiddev/comments/3b4p3n/rxjava_and_orientation_change
 http://fahimk.github.io/2015/04/21/using-rxjava-with-mvp-to-handle-configuration-changes/
 https://github.com/fahimk/RxStarter
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/
+https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329

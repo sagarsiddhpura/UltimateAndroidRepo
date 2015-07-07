@@ -18,9 +18,10 @@ https://github.com/rengwuxian/MaterialEditText
 https://github.com/jayrambhia/FloatingLabelLayout
 https://gist.github.com/chrisbanes/11247418
 
-Sliding tabas
+Sliding tabs
 https://github.com/googlesamples/android-SlidingTabsColors
 https://github.com/googlesamples/android-SlidingTabsBasic
+https://github.com/jpardogo/PagerSlidingTabStrip
 
 https://github.com/Bearded-Hen/Android-Bootstrap
 

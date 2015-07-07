@@ -1,3 +1,5 @@
 https://github.com/square/sqlbrite
 http://hannesdorfmann.com/android/sqlbrite-dao/
 https://github.com/pushtorefresh/storio
+https://realm.io/pricing/
+https://bitbucket.org/qbusict/cupboard

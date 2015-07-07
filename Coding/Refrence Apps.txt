@@ -7,6 +7,8 @@ https://github.com/MPieter/Notification-Analyser
 https://github.com/mikepenz/wallsplash-android
 https://github.com/federicoiosue/Omni-Notes
 
+Reddit client: comments, upvote downvote
+https://github.com/TheKeeperOfPie/Reader
 
 Camera
 https://github.com/MonkeyViewController/SnapThat
@@ -25,6 +27,7 @@ https://github.com/rrtigga/GetDisciplined
 
 Libs RxJava
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/
+https://github.com/Jawnnypoo/voat-android
 
 http://www.reddit.com/r/androiddev/comments/3av6ht/example_of_a_very_well_programmed_open_source_app/
 
