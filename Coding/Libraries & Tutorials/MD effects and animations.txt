@@ -9,6 +9,8 @@ https://github.com/daimajia/AndroidViewAnimations
 https://github.com/mikepenz/LollipopShowcase
 https://github.com/Adirockzz95/FABtransitions
 https://github.com/fahimk/Android-ObservableScrollView
+http://www.materialup.com/blog/create-material-design-animation
+https://github.com/KeepSafe/MultiStateAnimation
 
 Circular reveal & ripple
 https://github.com/thomsonreuters/RippleDecoratorView

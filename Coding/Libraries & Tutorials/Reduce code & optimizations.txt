@@ -20,4 +20,4 @@ https://github.com/fahimk/Dynamo
 
 http://boltsframework.github.io/docs/android/
 
-
+https://github.com/KeepSafe/android-resource-remover

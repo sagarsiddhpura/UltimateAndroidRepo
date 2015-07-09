@@ -6,3 +6,4 @@ http://fahimk.github.io/2015/04/21/using-rxjava-with-mvp-to-handle-configuration
 https://github.com/fahimk/RxStarter
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/
 https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329
+http://ryanharter.com/blog/2015/07/07/wrapping-existing-libraries-with-rxjava/
