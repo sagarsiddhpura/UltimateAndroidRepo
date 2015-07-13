@@ -11,6 +11,7 @@ https://github.com/Adirockzz95/FABtransitions
 https://github.com/fahimk/Android-ObservableScrollView
 http://www.materialup.com/blog/create-material-design-animation
 https://github.com/KeepSafe/MultiStateAnimation
+https://github.com/daimajia/AnimationEasingFunctions
 
 Circular reveal & ripple
 https://github.com/thomsonreuters/RippleDecoratorView

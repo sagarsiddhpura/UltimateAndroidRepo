@@ -1,1 +1,2 @@
-http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465
+http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465.
+https://github.com/Stoyicker/RecyclerViewSyncDemo

@@ -6,6 +6,8 @@ https://github.com/tomahawk-player/tomahawk-android
 https://github.com/MPieter/Notification-Analyser
 https://github.com/mikepenz/wallsplash-android
 https://github.com/federicoiosue/Omni-Notes
+https://github.com/romainguy/google-io-2014
+https://github.com/leavjenn/Hews
 
 Reddit client: comments, upvote downvote
 https://github.com/TheKeeperOfPie/Reader
