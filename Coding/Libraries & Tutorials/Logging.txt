@@ -25,3 +25,6 @@ Exagerrated logging
 https://github.com/blundell/ArrowLogger
 
 http://buckbuild.com/
+
+Log filters
+https://github.com/JakeWharton/pidcat

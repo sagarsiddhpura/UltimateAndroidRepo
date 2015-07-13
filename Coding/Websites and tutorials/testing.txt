@@ -1,0 +1,7 @@
+https://www.reddit.com/r/androiddev/comments/3cb6jm/what_devices_should_i_be_testing_against/
+https://www.reddit.com/r/androiddev/comments/3cf940/unit_testing_why_should_i_use_it_what_problem/
+
+
+http://ubertesters.com/plans/
+
+http://mockito.org/
