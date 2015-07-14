@@ -1,2 +1,3 @@
 https://github.com/danieljonker/dagger2trial
 https://github.com/antoniolg/DaggerExample
+http://siphon9.net/loune/2015/04/dagger-2-0-android-migration-tips/

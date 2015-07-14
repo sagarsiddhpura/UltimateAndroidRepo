@@ -62,6 +62,8 @@ https://github.com/Yalantis/Preloader.Ophiuchus
 List
 https://github.com/Yalantis/Euclid
 
+Titlebar
+https://github.com/pjambo/ToolbarTitleAnimation
 
 Transistions
 https://github.com/googlesamples/android-CustomTransition

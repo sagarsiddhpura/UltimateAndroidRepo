@@ -1,0 +1,1 @@
+http://makingiants.com/blog/how-to-include-espresso-contrib-with-proguard-and-dont-die-in-the-try/

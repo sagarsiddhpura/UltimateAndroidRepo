@@ -40,3 +40,12 @@ https://github.com/chrisbanes/philm
 https://github.com/maxpower47/pindroid
 https://github.com/UweTrottmann/SeriesGuide
 http://www.aptoide.org/browser/aptoide-client?order=name
+
+
+https://github.com/UweTrottmann/SeriesGuide/
+https://github.com/KeenSoftwareHouse/SpaceEngineers
+https://github.com/WhisperSystems/TextSecure
+https://github.com/WhisperSystems/TextSecure-Server
+https://github.com/WhisperSystems/TextSecure-Browser
+https://github.com/dinosaurwithakatana/hacker-news-android
+https://github.com/aegamesi/SteamTrade/
