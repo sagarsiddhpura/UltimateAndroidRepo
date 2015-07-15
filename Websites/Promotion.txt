@@ -1,2 +1,3 @@
 http://www.reddit.com/r/androiddev/comments/3a52sz/free_app_reviews_start_up_blog/
 http://beta.uihaus.com/
+https://github.com/vinaygaba/AppRate-for-Android

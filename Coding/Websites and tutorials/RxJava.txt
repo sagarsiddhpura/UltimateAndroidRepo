@@ -7,6 +7,7 @@ https://github.com/fahimk/RxStarter
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/
 https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329
 http://ryanharter.com/blog/2015/07/07/wrapping-existing-libraries-with-rxjava/
+https://newcircle.com/s/post/1744/2015/06/29/learning-rxjava-for-android-by-example
 
 Apps
 https://github.com/leavjenn/Hews

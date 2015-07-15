@@ -42,6 +42,7 @@ https://github.com/jayrambhia/contactsdemo
 
 Rebound effect
 http://facebook.github.io/rebound/
+https://gist.github.com/willbailey/8811581
 
 Pull to refresh
 https://github.com/Yalantis/Taurus

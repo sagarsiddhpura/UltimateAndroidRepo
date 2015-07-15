@@ -8,6 +8,8 @@ https://github.com/mikepenz/wallsplash-android
 https://github.com/federicoiosue/Omni-Notes
 https://github.com/romainguy/google-io-2014
 https://github.com/leavjenn/Hews
+https://github.com/jariz/MaterialUp
+
 
 Reddit client: comments, upvote downvote
 https://github.com/TheKeeperOfPie/Reader
