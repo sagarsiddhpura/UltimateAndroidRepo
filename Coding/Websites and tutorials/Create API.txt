@@ -1,1 +1,2 @@
 https://www.mashape.com
+http://aws.amazon.com/free/

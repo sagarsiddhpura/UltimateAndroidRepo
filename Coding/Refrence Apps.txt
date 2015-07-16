@@ -9,7 +9,11 @@ https://github.com/federicoiosue/Omni-Notes
 https://github.com/romainguy/google-io-2014
 https://github.com/leavjenn/Hews
 https://github.com/jariz/MaterialUp
+https://github.com/frogermcs/InstaMaterial
+https://github.com/swissonid/android-design-support-lib-sample
 
+Chat
+https://github.com/GleasonK/pubnub-android-lolli-chat
 
 Reddit client: comments, upvote downvote
 https://github.com/TheKeeperOfPie/Reader
@@ -34,6 +38,7 @@ https://bitbucket.org/prash2488/sharechannels-for-pushbullet/
 https://github.com/Jawnnypoo/voat-android
 
 http://www.reddit.com/r/androiddev/comments/3av6ht/example_of_a_very_well_programmed_open_source_app/
+http://www.androidcentral.com/google-highlights-best-apps-material-design-google-play-showcase
 
 https://github.com/LiveTyping/u2020-mvp
 https://github.com/jparkie/Aizoban

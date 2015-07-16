@@ -1,1 +1,2 @@
 https://www.reddit.com/r/androiddev/comments/3d11gp/tips_for_implementing_special_offers_in_google/
+http://emuneee.com/blog/2015/07/15/google-play-in-app-billing-server-purchase-verification/

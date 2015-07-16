@@ -50,3 +50,7 @@ https://github.com/fahimk/fancybuttons
 
 Navigation drawer
 https://github.com/neokree/MaterialNavigationDrawer
+https://github.com/frogermcs/DrawerLayoutInstaller
+
+Alert dialog
+https://github.com/pedant/sweet-alert-dialog

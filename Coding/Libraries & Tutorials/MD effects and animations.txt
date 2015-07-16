@@ -12,6 +12,8 @@ https://github.com/fahimk/Android-ObservableScrollView
 http://www.materialup.com/blog/create-material-design-animation
 https://github.com/KeepSafe/MultiStateAnimation
 https://github.com/daimajia/AnimationEasingFunctions
+https://github.com/swissonid/android-design-support-lib-sample
+https://github.com/geftimov/android-pathview
 
 Circular reveal & ripple
 https://github.com/thomsonreuters/RippleDecoratorView
@@ -68,3 +70,6 @@ https://github.com/pjambo/ToolbarTitleAnimation
 
 Transistions
 https://github.com/googlesamples/android-CustomTransition
+
+Animations L+
+https://medium.com/@fredrikaldgard/easy-android-shared-element-transition-ac36952a4a4
