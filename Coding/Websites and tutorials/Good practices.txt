@@ -4,3 +4,4 @@ https://www.reddit.com/r/androiddev/comments/3cq1wn/what_are_some_your_musthave_
 http://www.philosophicalhacker.com/2015/07/09/6-things-i-wish-i-knew-before-i-wrote-my-first-android-app/?utm_source=Android+Weekly&utm_campaign=5303dcddb7-Android_Weekly_161&utm_medium=email&utm_term=0_4eb677ad19-5303dcddb7-337868029
 http://vincentbrison.com/2014/07/19/how-to-improve-quality-and-syntax-of-your-android-code/
 https://github.com/futurice/android-best-practices
+http://blog.gouline.net/2015/07/06/drawables-in-null-safe-models/

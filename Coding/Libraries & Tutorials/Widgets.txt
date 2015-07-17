@@ -54,3 +54,6 @@ https://github.com/frogermcs/DrawerLayoutInstaller
 
 Alert dialog
 https://github.com/pedant/sweet-alert-dialog
+
+Viewpager
+https://github.com/florent37/MaterialViewPager

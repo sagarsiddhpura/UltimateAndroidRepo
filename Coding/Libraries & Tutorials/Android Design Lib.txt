@@ -3,10 +3,12 @@ https://github.com/hmkcode/Android/tree/master/android-material-design-appcompat
 https://github.com/smuldr/design-support-demo
 https://github.com/chrisbanes/cheesesquare
 https://github.com/swissonid/android-design-support-lib-sample
-
+https://github.com/florent37/TutosAndroidFrance/tree/master/PaletteSample
 
 tutorial
 http://inthecheesefactory.com/blog/android-design-support-library-codelab/en
 
 Color palette
 https://github.com/Musenkishi/Atelier
+https://github.com/florent37/GlidePalette
+https://github.com/florent37/PicassoPalette

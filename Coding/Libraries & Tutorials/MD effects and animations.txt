@@ -14,6 +14,9 @@ https://github.com/KeepSafe/MultiStateAnimation
 https://github.com/daimajia/AnimationEasingFunctions
 https://github.com/swissonid/android-design-support-lib-sample
 https://github.com/geftimov/android-pathview
+https://github.com/florent37/android_maskable_layout
+https://github.com/florent37/Material-Animations
+https://github.com/saulmm/Android-Material-Examples
 
 Circular reveal & ripple
 https://github.com/thomsonreuters/RippleDecoratorView

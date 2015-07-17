@@ -4,3 +4,7 @@ http://www.getmdl.io/index.html
 http://kushagragour.in/lab/ctajs/
 
 http://www.materialup.com/posts/mdlwp-material-design-lite-wordpress-theme
+
+http://www.materialup.com/posts/javascript-jelly-input-field
+
+https://github.com/DaniGuardiola/product-webpage-generator

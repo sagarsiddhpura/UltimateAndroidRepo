@@ -1,5 +1,8 @@
 via annotations
 https://github.com/JakeWharton/butterknife
+https://github.com/florent37/TutosAndroidFrance/tree/master/ButterKnifeSample
+
+
 http://androidannotations.org/
 https://github.com/orfjackal/retrolambda
 https://github.com/frankiesardo/icepick

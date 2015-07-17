@@ -4,6 +4,7 @@ Image loading
 https://github.com/nostra13/Android-Universal-Image-Loader
 https://developer.android.com/training/volley/index.html
 http://square.github.io/picasso/
+https://github.com/florent37/MaterialImageLoading
 
 Effects
 https://github.com/PomepuyN/BlurEffectForAndroidDesign
@@ -11,6 +12,7 @@ http://facebook.github.io/rebound/
 https://github.com/RomainPiel/Titanic
 http://facebook.github.io/shimmer-android/
 https://github.com/cooltechworks/BitmapMerger
+https://github.com/florent37/KenBurnsView
 
 Have state drawable
 http://www.donnfelker.com/quick-and-easy-statelistdrawables-in-android-with-one-png/

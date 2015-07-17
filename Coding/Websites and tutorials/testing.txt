@@ -5,6 +5,8 @@ http://andersonleite.com.br/2015/07/13/better-tests-in-android-with-dependency-i
 http://vexdev.com/2015/05/06/unit-testing-android/
 https://groups.google.com/forum/#!topic/adt-dev/LwZiKTnj8Bc
 http://innopplinc.com/blog/top-61-mobile-app-testing-tips-for-2015/
+https://github.com/konmik/testable-activity-example
+https://gi-lo.github.io/testing/android/2015/07/06/spock-ahoi/
 
 http://ubertesters.com/plans/
 

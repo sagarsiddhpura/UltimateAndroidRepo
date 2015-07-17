@@ -11,6 +11,7 @@ https://github.com/leavjenn/Hews
 https://github.com/jariz/MaterialUp
 https://github.com/frogermcs/InstaMaterial
 https://github.com/swissonid/android-design-support-lib-sample
+https://github.com/tanallnight/Blip
 
 Chat
 https://github.com/GleasonK/pubnub-android-lolli-chat
