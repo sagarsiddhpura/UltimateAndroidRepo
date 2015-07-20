@@ -1,1 +1,4 @@
 https://github.com/JakeWharton/ProcessPhoenix
+
+Statusbar
+https://github.com/code-mc/kitkatsolidstatusbar

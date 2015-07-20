@@ -12,6 +12,8 @@ https://github.com/jariz/MaterialUp
 https://github.com/frogermcs/InstaMaterial
 https://github.com/swissonid/android-design-support-lib-sample
 https://github.com/tanallnight/Blip
+https://github.com/Redgram/redgram-for-reddit
+https://github.com/cadialex/MaterialTutorial
 
 Chat
 https://github.com/GleasonK/pubnub-android-lolli-chat
@@ -57,3 +59,7 @@ https://github.com/WhisperSystems/TextSecure-Server
 https://github.com/WhisperSystems/TextSecure-Browser
 https://github.com/dinosaurwithakatana/hacker-news-android
 https://github.com/aegamesi/SteamTrade/
+
+
+Xposed
+https://github.com/DHM47/Native-Clip-Board

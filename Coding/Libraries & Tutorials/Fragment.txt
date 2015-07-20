@@ -1,1 +1,3 @@
 https://github.com/DesarrolloAntonio/FragmentTransactionExtended
+https://github.com/neevek/Paginize
+https://github.com/Pixplicity/MultiViewPager

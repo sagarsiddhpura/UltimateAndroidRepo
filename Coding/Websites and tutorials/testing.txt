@@ -7,6 +7,8 @@ https://groups.google.com/forum/#!topic/adt-dev/LwZiKTnj8Bc
 http://innopplinc.com/blog/top-61-mobile-app-testing-tips-for-2015/
 https://github.com/konmik/testable-activity-example
 https://gi-lo.github.io/testing/android/2015/07/06/spock-ahoi/
+https://plus.google.com/+OleksandrKucherenko/posts/VvykyMrkDMT
+https://passy.github.io/android-lint-summary/
 
 http://ubertesters.com/plans/
 

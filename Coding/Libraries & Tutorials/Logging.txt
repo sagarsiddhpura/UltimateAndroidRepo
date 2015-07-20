@@ -28,3 +28,6 @@ http://buckbuild.com/
 
 Log filters
 https://github.com/JakeWharton/pidcat
+
+App for logging
+https://github.com/plusCubed/matlog

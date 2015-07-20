@@ -4,6 +4,7 @@ https://github.com/smuldr/design-support-demo
 https://github.com/chrisbanes/cheesesquare
 https://github.com/swissonid/android-design-support-lib-sample
 https://github.com/florent37/TutosAndroidFrance/tree/master/PaletteSample
+https://github.com/cadialex/MaterialTutorial
 
 tutorial
 http://inthecheesefactory.com/blog/android-design-support-library-codelab/en

@@ -1,1 +1,3 @@
 https://github.com/gabrielemariotti/cardslib
+
+https://medium.com/android-news/using-full-width-cards-to-maximize-content-f739cb863ce8

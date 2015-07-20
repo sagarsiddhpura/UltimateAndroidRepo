@@ -1,3 +1,4 @@
+
 http://cookicons.co/#
 http://www.materialup.com/posts/material-product-icon-template
 http://fontawesome.io/icons/
@@ -8,5 +9,9 @@ https://plus.google.com/communities/101396908503225933493
 http://www.materialup.com/posts/set-of-material-design-stationary-icons
 http://www.materialup.com/posts/material-product-icon-template?wb48617274=A0AC9789
 
-
+https://useiconic.com/open/
+http://www.sketchappsources.com/resource/download-733.html
 http://graphicburger.com/icons-set/
+https://github.com/iconic/open-iconic
+https://materialdesignicons.com/
+http://www.flaticon.com/

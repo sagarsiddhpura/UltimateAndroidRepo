@@ -2,3 +2,5 @@ https://github.com/danieljonker/dagger2trial
 https://github.com/antoniolg/DaggerExample
 http://siphon9.net/loune/2015/04/dagger-2-0-android-migration-tips/
 http://frogermcs.github.io/dependency-injection-with-dagger-2-the-api/
+https://github.com/Redgram/redgram-for-reddit
+http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
