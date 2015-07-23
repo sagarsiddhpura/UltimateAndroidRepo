@@ -73,6 +73,7 @@ https://github.com/pjambo/ToolbarTitleAnimation
 
 Transistions
 https://github.com/googlesamples/android-CustomTransition
+https://github.com/flavienlaurent/poppyview
 
 Animations L+
 https://medium.com/@fredrikaldgard/easy-android-shared-element-transition-ac36952a4a4

@@ -1,0 +1,2 @@
+http://blog.mostafazh.me/2015/07/20/verify-twitter-digits-session-with-php-laravel-on-android/
+http://blog.udinic.com/2013/04/24/write-your-own-android-authenticator/

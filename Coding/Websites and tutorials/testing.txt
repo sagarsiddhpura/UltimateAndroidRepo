@@ -14,3 +14,4 @@ http://ubertesters.com/plans/
 
 libs
 http://mockito.org/
+https://github.com/openstf/stf

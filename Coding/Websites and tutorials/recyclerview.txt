@@ -1,2 +1,4 @@
 http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465.
 https://github.com/Stoyicker/RecyclerViewSyncDemo
+http://vishnurajeevan.com/2015/07/12/using-recyclerview-with-multiple-items.html
+https://github.com/commonsguy/cw-omnibus/tree/master/RecyclerView

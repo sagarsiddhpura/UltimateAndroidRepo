@@ -7,3 +7,6 @@ https://github.com/futurice/android-best-practices
 http://blog.gouline.net/2015/07/06/drawables-in-null-safe-models/
 https://www.reddit.com/r/androiddev/comments/3dra8p/one_activity_to_rule_them_all/
 http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
+https://www.reddit.com/r/androiddev/comments/3e48bj/architecture_for_beginners_solid_principles/
+https://www.reddit.com/r/androiddev/comments/3e6pnh/ask_addev_whats_your_stack/
+https://www.reddit.com/r/androiddev/comments/3cs666/best_option_for_data_persistence/
