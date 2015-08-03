@@ -1,0 +1,2 @@
+https://github.com/sockeqwe/SwipeBack
+https://www.reddit.com/r/androiddev/comments/3epqx8/how_to_add_swipe_left_to_right_for_up_navigation/

@@ -54,6 +54,7 @@ https://github.com/Yalantis/Taurus
 https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS
 http://yalantis.com/blog/how-we-built-customizable-pull-to-refresh-pull-to-cook-soup-animation/
 https://github.com/Yalantis/PullToMakeFlight
+https://github.com/allan1st/JellyRefreshLayout
 
 Nav menu
 https://github.com/Yalantis/GuillotineMenu-Android

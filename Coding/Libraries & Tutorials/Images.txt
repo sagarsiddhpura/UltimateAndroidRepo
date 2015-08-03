@@ -14,6 +14,7 @@ https://github.com/RomainPiel/Titanic
 http://facebook.github.io/shimmer-android/
 https://github.com/cooltechworks/BitmapMerger
 https://github.com/florent37/KenBurnsView
+https://github.com/wasabeef/Blurry
 
 Have state drawable
 http://www.donnfelker.com/quick-and-easy-statelistdrawables-in-android-with-one-png/

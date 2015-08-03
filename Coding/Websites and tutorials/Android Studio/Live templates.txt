@@ -1,0 +1,6 @@
+https://www.bignerdranch.com/blog/android-studio-live-templates/
+https://github.com/keyboardsurfer/idea-live-templates
+https://github.com/mrmike/AndroidLiveTemplates
+https://gautam.io/work/android_studio_shortcuts
+http://stablekernel.com/blog/level-up-with-android-studio-shortcuts-and-live-templates/
+http://blog.codeleak.pl/2014/06/how-to-surround-text-with-quote-in.html

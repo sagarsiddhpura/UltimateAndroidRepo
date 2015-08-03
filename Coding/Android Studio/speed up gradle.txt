@@ -1,1 +1,0 @@
-https://rockyroadtocoding.wordpress.com/2015/06/20/speed-up-gradle-builds-in-android-studio/

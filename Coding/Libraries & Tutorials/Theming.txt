@@ -1,2 +1,4 @@
 https://github.com/eluleci/FlatUI
 https://github.com/StylingAndroid/Prism
+
+https://blog.stylingandroid.com/prism-fundamentals-part-2/

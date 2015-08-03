@@ -17,6 +17,7 @@ EditText
 https://github.com/rengwuxian/MaterialEditText
 https://github.com/jayrambhia/FloatingLabelLayout
 https://gist.github.com/chrisbanes/11247418
+http://www.dmytrodanylyk.com/pages/blog/error-label.html
 
 Sliding tabs
 https://github.com/googlesamples/android-SlidingTabsColors
@@ -46,7 +47,8 @@ https://github.com/fahimk/AndroidTreeView
 
 Buttons
 https://github.com/fahimk/fancybuttons
-
+http://www.dmytrodanylyk.com/pages/blog/material-flat-button.html
+http://www.dmytrodanylyk.com/pages/blog/flat-button.html
 
 Navigation drawer
 https://github.com/neokree/MaterialNavigationDrawer

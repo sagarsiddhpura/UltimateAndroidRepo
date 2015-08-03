@@ -1,0 +1,6 @@
+templato
+http://frogermcs.github.io/instamaterial-meets-design-support-library/
+
+@SerializedName("username") public final String mUserName;
+
+http://www.androidpolice.com/2015/07/30/audiobooks-com-becomes-the-first-audio-book-app-with-android-auto-support/

@@ -3,3 +3,5 @@ http://hannesdorfmann.com/android/sqlbrite-dao/
 https://github.com/pushtorefresh/storio
 https://realm.io/pricing/
 https://bitbucket.org/qbusict/cupboard
+
+http://www.dmytrodanylyk.com/pages/blog/concurrent-database.html

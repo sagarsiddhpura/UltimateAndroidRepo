@@ -11,3 +11,10 @@ http://www.materialup.com/posts/javascript-jelly-input-field
 http://www.materialup.com/posts/material-design-buttons-interface-web
 https://github.com/DaniGuardiola/product-webpage-generator
 https://github.com/vincurekf/Native-like-Menu-Drawer
+http://www.materialup.com/posts/super-simple-material-design-toggle
+http://codepen.io/yusufbkr/pen/aOjGNq
+
+http://www.materialup.com/posts/search-input-focus-animation
+http://www.materialup.com/posts/css3-jquery-material-design-close-animation
+http://www.materialup.com/posts/material-playing-cards
+http://www.materialup.com/posts/material-design-toggle
