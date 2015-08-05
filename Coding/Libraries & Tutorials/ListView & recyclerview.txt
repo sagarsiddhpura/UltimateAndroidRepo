@@ -5,6 +5,12 @@ http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardvie
 http://vishnurajeevan.com/2015/07/12/using-recyclerview-with-multiple-items.html
 https://github.com/Stoyicker/RecyclerViewSyncDemo
 https://github.com/bignerdranch/expandable-recycler-view
+How to write adapters
+http://hannesdorfmann.com/android/adapter-delegates/
+https://github.com/sockeqwe/AdapterDelegates
+
+Click listeners
+https://www.reddit.com/r/androiddev/comments/3ezvyu/which_is_the_best_approach_for_implementing/
 
 Code Sample
 https://github.com/commonsguy/cw-omnibus/tree/master/RecyclerView

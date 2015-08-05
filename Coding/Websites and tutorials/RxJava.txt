@@ -12,7 +12,12 @@ http://beust.com/weblog/2015/06/01/easy-sqlite-on-android-with-rxjava/
 http://www.philosophicalhacker.com/2015/06/12/an-introduction-to-rxjava-for-android/
 http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
 http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/
+http://mattlogan.me/replacing-otto-with-rxjava
+https://www.reddit.com/r/androiddev/comments/3exgmw/is_there_any_open_source_app_that_uses_rxandroid/
 
 Apps
 https://github.com/leavjenn/Hews
 https://github.com/Redgram/redgram-for-reddit
+
+Testing
+https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329

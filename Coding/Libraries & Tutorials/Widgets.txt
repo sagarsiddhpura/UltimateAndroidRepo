@@ -1,3 +1,8 @@
+Material lib
+https://github.com/rey5137/material
+https://github.com/Bearded-Hen/Android-Bootstrap
+
+
 Progres bar
 https://github.com/Todd-Davies/ProgressWheel
 https://github.com/rahatarmanahmed/CircularProgressView
@@ -12,6 +17,7 @@ https://github.com/futuresimple/android-floating-action-button
 https://github.com/ckurtm/FabButton
 https://github.com/oguzbilgener/CircularFloatingActionMenu
 https://github.com/Adirockzz95/FABtransitions
+http://androiduiux.com/2015/07/22/make-the-right-fab/
 
 EditText
 https://github.com/rengwuxian/MaterialEditText
@@ -24,11 +30,10 @@ https://github.com/googlesamples/android-SlidingTabsColors
 https://github.com/googlesamples/android-SlidingTabsBasic
 https://github.com/jpardogo/PagerSlidingTabStrip
 
-https://github.com/Bearded-Hen/Android-Bootstrap
-
 Wizard pager
 https://github.com/romannurik/android-wizardpager
 https://github.com/MarkOSullivan94/Android-Material-Wizard
+https://github.com/Pixplicity/MultiViewPager
 
 badge in actionbar
 https://github.com/mikepenz/Android-ActionItemBadge

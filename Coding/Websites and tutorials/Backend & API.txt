@@ -4,3 +4,4 @@ https://www.mashape.com
 http://aws.amazon.com/free/
 https://www.firebase.com
 http://www.androidbegin.com/blog/list-best-android-backend-service-baas-provider/
+http://aws.amazon.com/cognito/

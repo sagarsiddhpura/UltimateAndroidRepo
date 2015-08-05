@@ -5,6 +5,7 @@ https://github.com/chrisbanes/cheesesquare
 https://github.com/swissonid/android-design-support-lib-sample
 https://github.com/florent37/TutosAndroidFrance/tree/master/PaletteSample
 https://github.com/cadialex/MaterialTutorial
+http://frogermcs.github.io/instamaterial-meets-design-support-library/
 
 tutorial
 http://inthecheesefactory.com/blog/android-design-support-library-codelab/en
@@ -13,3 +14,6 @@ Color palette
 https://github.com/Musenkishi/Atelier
 https://github.com/florent37/GlidePalette
 https://github.com/florent37/PicassoPalette
+
+Libs
+https://github.com/rey5137/material

@@ -1,3 +1,6 @@
+Lib
+https://github.com/rey5137/material
+
 Animations
 https://github.com/naman14/MaterialPowerMenu
 https://github.com/Yalantis/Euclid
@@ -78,3 +81,6 @@ https://github.com/flavienlaurent/poppyview
 
 Animations L+
 https://medium.com/@fredrikaldgard/easy-android-shared-element-transition-ac36952a4a4
+
+Examples
+http://frogermcs.github.io/instamaterial-meets-design-support-library/

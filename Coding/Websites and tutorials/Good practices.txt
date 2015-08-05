@@ -10,3 +10,7 @@ http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
 https://www.reddit.com/r/androiddev/comments/3e48bj/architecture_for_beginners_solid_principles/
 https://www.reddit.com/r/androiddev/comments/3e6pnh/ask_addev_whats_your_stack/
 https://www.reddit.com/r/androiddev/comments/3cs666/best_option_for_data_persistence/
+
+
+Storing passwords
+https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/

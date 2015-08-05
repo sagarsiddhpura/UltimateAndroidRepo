@@ -9,9 +9,19 @@ https://github.com/konmik/testable-activity-example
 https://gi-lo.github.io/testing/android/2015/07/06/spock-ahoi/
 https://plus.google.com/+OleksandrKucherenko/posts/VvykyMrkDMT
 https://passy.github.io/android-lint-summary/
+http://blog.xebia.com/2015/07/24/android-custom-matchers-in-espresso/
 
 http://ubertesters.com/plans/
 
 libs
 http://mockito.org/
 https://github.com/openstf/stf
+
+
+A/B testing
+http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/
+https://github.com/seatgeek/sixpack-java
+
+Deploying to multple devices
+http://try.crashlytics.com/beta/
+http://hockeyapp.net/features/

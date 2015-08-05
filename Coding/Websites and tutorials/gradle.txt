@@ -3,3 +3,5 @@ https://github.com/shareme/GWSAndroidReadMeTemplate/tree/master/buildsystem
 https://www.reddit.com/r/androiddev/comments/3e3c2y/reducing_code_duplication_across_projects/
 https://gist.github.com/artem-zinnatullin/4c250e04636e25797165
 https://github.com/aalmiray/stats-gradle-plugin
+http://gmariotti.blogspot.fr/2015/07/how-to-centralize-support-libraries.html
+http://saulmm.github.io/squeezing-gradle-builds/
