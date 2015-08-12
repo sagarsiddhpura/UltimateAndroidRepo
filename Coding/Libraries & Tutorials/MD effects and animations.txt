@@ -20,6 +20,8 @@ https://github.com/geftimov/android-pathview
 https://github.com/florent37/android_maskable_layout
 https://github.com/florent37/Material-Animations
 https://github.com/saulmm/Android-Material-Examples
+https://blog.stylingandroid.com/curved-motion-part-1/
+https://github.com/ppamorim/PrismView
 
 Circular reveal & ripple
 https://github.com/thomsonreuters/RippleDecoratorView

@@ -1,0 +1,1 @@
+http://www.thedroidsonroids.com/blog/how-to-generate-java-sources-using-buildsrc-gradle-project/

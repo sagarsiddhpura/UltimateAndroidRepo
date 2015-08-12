@@ -21,3 +21,8 @@ https://github.com/Redgram/redgram-for-reddit
 
 Testing
 https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329
+
+http://blog.kaush.co/2015/07/11/a-note-about-the-warmth-share-operator/
+
+https://github.com/colintheshots/AnDevCon-RxPatterns
+https://github.com/kaushikgopal/RxJava-Android-Samples

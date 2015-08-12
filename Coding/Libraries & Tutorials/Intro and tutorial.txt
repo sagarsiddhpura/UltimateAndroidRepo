@@ -4,3 +4,5 @@ https://www.reddit.com/r/androiddev/comments/38nu7x/how_can_i_make_this_onboardi
 https://www.pinterest.com/pin/155726099589353989/
 
 https://github.com/jonfinerty/Once
+
+https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f

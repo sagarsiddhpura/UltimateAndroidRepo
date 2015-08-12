@@ -1,3 +1,8 @@
 https://medium.com/@KounterB/redesigning-chrome-android-part-2-of-2-8884f0430940
 http://www.smashingmagazine.com/2015/07/redesigning-a-calendar-experience-for-android/
-v
+http://novoda.com/blog/londroid-wutson/
+http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/
+https://code.facebook.com/posts/872547912839369/improving-facebook-s-performance-on-android-with-flatbuffers
+
+Cross platfrom
+http://oleb.net/blog/2014/05/how-dropbox-uses-cplusplus-cross-platform-development/

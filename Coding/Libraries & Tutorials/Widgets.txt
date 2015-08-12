@@ -65,3 +65,5 @@ https://github.com/pedant/sweet-alert-dialog
 Viewpager
 https://github.com/florent37/MaterialViewPager
 https://github.com/Pixplicity/MultiViewPager
+https://www.bignerdranch.com/blog/viewpager-without-fragments/
+https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f

@@ -1,3 +1,8 @@
 https://android-arsenal.com
 https://github.com/wasabeef/awesome-android-ui
 https://github.com/wasabeef/awesome-android-libraries
+http://makingiants.com/blog/awesome_mobile/
+http://androidlibs.org/
+https://github.com/snowdream/awesome-android
+https://github.com/JStumpp/awesome-android
+https://guides.codepath.com/android/Must-Have-Libraries

@@ -4,4 +4,6 @@ https://www.reddit.com/r/androiddev/comments/3e3c2y/reducing_code_duplication_ac
 https://gist.github.com/artem-zinnatullin/4c250e04636e25797165
 https://github.com/aalmiray/stats-gradle-plugin
 http://gmariotti.blogspot.fr/2015/07/how-to-centralize-support-libraries.html
-http://saulmm.github.io/squeezing-gradle-builds/
+https://jeroenmols.github.io/blog/2015/08/06/artifactory/
+http://stackoverflow.com/questions/17324849/android-studio-gradle-build-speed-up
+https://www.reddit.com/r/androiddev/comments/3femjd/including_your_readme_file_to_your_resource/

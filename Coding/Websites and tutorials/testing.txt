@@ -10,8 +10,13 @@ https://gi-lo.github.io/testing/android/2015/07/06/spock-ahoi/
 https://plus.google.com/+OleksandrKucherenko/posts/VvykyMrkDMT
 https://passy.github.io/android-lint-summary/
 http://blog.xebia.com/2015/07/24/android-custom-matchers-in-espresso/
+https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv
 
 http://ubertesters.com/plans/
+
+Sample projects
+https://github.com/chiuki/android-test-demo
+https://github.com/googlesamples/android-testing
 
 libs
 http://mockito.org/
@@ -25,3 +30,8 @@ https://github.com/seatgeek/sixpack-java
 Deploying to multple devices
 http://try.crashlytics.com/beta/
 http://hockeyapp.net/features/
+
+Expresso
+http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/
+http://makingiants.com/blog/how-to-include-espresso-contrib-with-proguard-and-dont-die-in-the-try/
+https://github.com/googlesamples/android-testing/blob/master/downloads/Espresso%20Cheat%20Sheet%20Master.pdf

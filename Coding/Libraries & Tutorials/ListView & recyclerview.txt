@@ -1,29 +1,30 @@
 https://github.com/nhaarman/ListViewAnimations
 
 RecyclerView
+https://github.com/lucasr/twoway-view
+https://github.com/bignerdranch/expandable-recycler-view
+https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/
+Tutorials:
 http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465.
 http://vishnurajeevan.com/2015/07/12/using-recyclerview-with-multiple-items.html
 https://github.com/Stoyicker/RecyclerViewSyncDemo
-https://github.com/bignerdranch/expandable-recycler-view
-How to write adapters
-http://hannesdorfmann.com/android/adapter-delegates/
-https://github.com/sockeqwe/AdapterDelegates
-
-Click listeners
-https://www.reddit.com/r/androiddev/comments/3ezvyu/which_is_the_best_approach_for_implementing/
-
-Code Sample
-https://github.com/commonsguy/cw-omnibus/tree/master/RecyclerView
-
-Tutorials
 http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465.
 https://github.com/Stoyicker/RecyclerViewSyncDemo
 http://vishnurajeevan.com/2015/07/12/using-recyclerview-with-multiple-items.html
 https://github.com/commonsguy/cw-omnibus/tree/master/RecyclerView
 http://www.dmytrodanylyk.com/pages/blog/lazy-data-loading.html
 
+How to write adapters
+http://hannesdorfmann.com/android/adapter-delegates/
+https://github.com/sockeqwe/AdapterDelegates
+
+Click listeners
+https://www.reddit.com/r/androiddev/comments/3ezvyu/which_is_the_best_approach_for_implementing/
 https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf
 https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-6a6f0c422efd
+
+Code Sample
+https://github.com/commonsguy/cw-omnibus/tree/master/RecyclerView
 
 Dynamic layout recycler view
 http://blog.sqisland.com/2014/12/recyclerview-grid-with-header.html
