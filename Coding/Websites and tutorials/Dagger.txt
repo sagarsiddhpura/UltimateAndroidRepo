@@ -7,3 +7,6 @@ http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
 https://www.reddit.com/r/androiddev/comments/3ecwly/struggling_to_understand_dagger2_please_help/
 https://www.reddit.com/r/androiddev/comments/3eqz11/in_dagger2_when_should_we_add_component_as/
 https://gist.github.com/konmik/6ac725fa7134402539c4
+
+
+https://github.com/guiwro/StarWrobs

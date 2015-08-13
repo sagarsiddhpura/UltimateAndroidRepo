@@ -1,3 +1,0 @@
-https://drone.io/
-https://circleci.com/
-http://blog.greenhouseci.com/tutorials/android_tutorial/#specify-git-repository

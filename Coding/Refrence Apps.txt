@@ -15,6 +15,8 @@ https://github.com/tanallnight/Blip
 https://github.com/Redgram/redgram-for-reddit
 https://github.com/cadialex/MaterialTutorial
 https://github.com/saulmm/OpenLibra-Material
+https://github.com/guiwro/StarWrobs - Dagger 2, ButterKnife, Retrofit, OkHttp, RxJava, Timber, AutoParcel, SQLBrite
+https://github.com/JakeWharton/u2020
 
 Chat
 https://github.com/GleasonK/pubnub-android-lolli-chat

@@ -17,8 +17,18 @@ Architecture
 http://lgvalle.github.io/2015/08/04/flux-architecture/
 http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
 https://www.reddit.com/r/androiddev/comments/3e48bj/architecture_for_beginners_solid_principles/
+https://www.reddit.com/r/androiddev/comments/3frcwd/how_many_of_you_use_mvcmvp_in_your_work_projects/
 
 Making lib resources private
 https://plus.google.com/+ChrisBanes/posts/8Rip6rQGK32
 
 https://passy.svbtle.com/simpler-android-apis-with-autoparcel
+
+Making lib project
+https://www.reddit.com/r/androiddev/comments/3fnfdc/best_way_to_share_code_between_apps/
+
+Reducing APK size
+http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/
+
+Performance
+https://www.youtube.com/watch?v=ORgucLTtTDI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE

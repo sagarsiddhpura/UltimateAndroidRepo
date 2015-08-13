@@ -18,6 +18,7 @@ https://www.reddit.com/r/androiddev/comments/3exgmw/is_there_any_open_source_app
 Apps
 https://github.com/leavjenn/Hews
 https://github.com/Redgram/redgram-for-reddit
+https://github.com/guiwro/StarWrobs
 
 Testing
 https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329

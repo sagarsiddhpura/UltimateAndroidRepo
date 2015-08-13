@@ -1,0 +1,7 @@
+https://drone.io/
+https://circleci.com/
+http://blog.greenhouseci.com/tutorials/android_tutorial/#specify-git-repository
+https://www.assembla.com
+http://open-paas.org/
+https://hubl.in/
+https://www.assembla.com

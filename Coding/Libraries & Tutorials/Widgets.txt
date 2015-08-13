@@ -58,6 +58,7 @@ http://www.dmytrodanylyk.com/pages/blog/flat-button.html
 Navigation drawer
 https://github.com/neokree/MaterialNavigationDrawer
 https://github.com/frogermcs/DrawerLayoutInstaller
+https://github.com/jfeinstein10/SlidingMenu
 
 Alert dialog
 https://github.com/pedant/sweet-alert-dialog

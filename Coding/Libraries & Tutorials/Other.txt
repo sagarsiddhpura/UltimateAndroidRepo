@@ -2,3 +2,5 @@ https://github.com/JakeWharton/ProcessPhoenix
 
 Statusbar
 https://github.com/code-mc/kitkatsolidstatusbar
+
+https://github.com/thiagokimo/KonamiCode
