@@ -15,7 +15,7 @@ http://testdroid.com/tech/how-to-use-image-recognition-for-mobile-app-and-game-t
 https://www.reddit.com/r/androiddev/comments/3fpuuq/how_do_you_test_your_app_which_toolsframeworks_do/
 
 http://ubertesters.com/plans/
-
+http://www.qatestingtools.com/testing-tools/mobile-testing
 Sample projects
 https://github.com/chiuki/android-test-demo
 https://github.com/googlesamples/android-testing

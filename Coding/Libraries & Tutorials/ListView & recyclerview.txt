@@ -17,6 +17,7 @@ http://www.dmytrodanylyk.com/pages/blog/lazy-data-loading.html
 How to write adapters
 http://hannesdorfmann.com/android/adapter-delegates/
 https://github.com/sockeqwe/AdapterDelegates
+https://github.com/c0nnector/Least
 
 Click listeners
 https://www.reddit.com/r/androiddev/comments/3ezvyu/which_is_the_best_approach_for_implementing/

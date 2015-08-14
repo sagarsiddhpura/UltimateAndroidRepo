@@ -1,3 +1,6 @@
+Assets
+http://izvornikod.com/Blog/tabid/82/EntryId/5/GIMP-script-for-creating-Android-icons-at-once.aspx
+
 https://github.com/Pkmmte/CircularImageView
 
 Image loading
@@ -6,6 +9,7 @@ https://developer.android.com/training/volley/index.html
 http://square.github.io/picasso/
 https://github.com/florent37/MaterialImageLoading
 http://frescolib.org/
+https://github.com/koush/ion
 
 Effects
 https://github.com/PomepuyN/BlurEffectForAndroidDesign
@@ -46,7 +50,11 @@ https://github.com/TheKeeperOfPie/Reader
 Glide
 http://engineeringblog.yelp.com/2015/07/glide-how-yelps-android-app-loads-images.html
 
-
+SVG
+https://www.reddit.com/r/androiddev/comments/3gu77t/whats_a_decent_svg_library/
+https://github.com/trello/victor
+https://github.com/avianey/androidsvgdrawable-plugin
+https://github.com/Pixplicity/sharp
 
 Icons
 https://github.com/code-mc/material-icon-lib

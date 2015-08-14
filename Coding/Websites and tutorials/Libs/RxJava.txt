@@ -14,6 +14,8 @@ http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
 http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/
 http://mattlogan.me/replacing-otto-with-rxjava
 https://www.reddit.com/r/androiddev/comments/3exgmw/is_there_any_open_source_app_that_uses_rxandroid/
+http://docs.couchbase.com/developer/java-2.0/observables.html
+http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/
 
 Apps
 https://github.com/leavjenn/Hews

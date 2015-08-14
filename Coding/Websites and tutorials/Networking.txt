@@ -1,1 +1,0 @@
-http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/

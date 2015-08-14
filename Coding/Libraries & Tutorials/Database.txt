@@ -5,3 +5,5 @@ https://realm.io/pricing/
 https://bitbucket.org/qbusict/cupboard
 
 http://www.dmytrodanylyk.com/pages/blog/concurrent-database.html
+https://www.reddit.com/r/androiddev/comments/3g1g1q/have_you_guys_tried_out_the_database_library/
+https://www.reddit.com/r/androiddev/comments/3g1154/using_eventbus_instead_of_the_cursornotifychange/

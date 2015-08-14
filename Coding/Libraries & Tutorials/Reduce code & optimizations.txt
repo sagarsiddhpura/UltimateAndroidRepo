@@ -2,11 +2,15 @@ via annotations
 https://github.com/JakeWharton/butterknife
 https://github.com/florent37/TutosAndroidFrance/tree/master/ButterKnifeSample
 https://github.com/f2prateek/dart
+http://brianattwell.com/android-annotation-processing-pojo-string-generator/
 
 http://androidannotations.org/
 https://github.com/orfjackal/retrolambda
 https://github.com/frankiesardo/icepick
 https://github.com/hansenji/pocketknife
+
+https://github.com/workday/postman
+https://github.com/johncarl81/parceler
 
 Project templates generators
 http://www.androidbootstrap.com/
@@ -16,6 +20,7 @@ http://yeoman.io/generators/
 integrate libs faster
 https://github.com/percolate/foam
 
+http://www.thedroidsonroids.com/blog/how-to-generate-java-sources-using-buildsrc-gradle-project/
 
 Dont use fragments
 https://github.com/konmik/StackLayout
@@ -28,3 +33,5 @@ https://github.com/KeepSafe/android-resource-remover
 
 
 https://github.com/pocorall/scaloid
+
+https://github.com/BoD/android-contentprovider-generator
