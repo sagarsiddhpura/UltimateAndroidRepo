@@ -1,0 +1,49 @@
+https://www.reddit.com/r/androiddev/comments/3cb6jm/what_devices_should_i_be_testing_against/
+https://www.reddit.com/r/androiddev/comments/3cf940/unit_testing_why_should_i_use_it_what_problem/
+http://marcouberti.net/2015/07/11/mock-async-task-in-android-during-testing/
+http://andersonleite.com.br/2015/07/13/better-tests-in-android-with-dependency-injectin.html
+http://vexdev.com/2015/05/06/unit-testing-android/
+https://groups.google.com/forum/#!topic/adt-dev/LwZiKTnj8Bc
+http://innopplinc.com/blog/top-61-mobile-app-testing-tips-for-2015/
+https://github.com/konmik/testable-activity-example
+https://gi-lo.github.io/testing/android/2015/07/06/spock-ahoi/
+https://plus.google.com/+OleksandrKucherenko/posts/VvykyMrkDMT
+https://passy.github.io/android-lint-summary/
+http://blog.xebia.com/2015/07/24/android-custom-matchers-in-espresso/
+https://plus.google.com/+AndroidDevelopers/posts/NPagF6bpHsv
+http://testdroid.com/tech/how-to-use-image-recognition-for-mobile-app-and-game-testing
+https://www.reddit.com/r/androiddev/comments/3fpuuq/how_do_you_test_your_app_which_toolsframeworks_do/
+http://www.adavis.info/2015/08/testing-your-apps-with-aws-device-farm.html
+http://andersonleite.com.br/2015/08/14/android-espresso.html
+http://ubertesters.com/plans/
+http://www.qatestingtools.com/testing-tools/mobile-testing
+http://marcouberti.net/2015/07/11/mock-async-task-in-android-during-testing/
+Sample projects
+https://github.com/chiuki/android-test-demo
+https://github.com/googlesamples/android-testing
+
+libs
+http://mockito.org/
+https://github.com/openstf/stf
+https://github.com/hotchemi/awesome-android-testing
+
+A/B testing
+http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/
+https://github.com/seatgeek/sixpack-java
+
+Deploying to multple devices
+http://try.crashlytics.com/beta/
+http://hockeyapp.net/features/
+
+Expresso
+http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/
+http://makingiants.com/blog/how-to-include-espresso-contrib-with-proguard-and-dont-die-in-the-try/
+https://github.com/googlesamples/android-testing/blob/master/downloads/Espresso%20Cheat%20Sheet%20Master.pdf
+http://andersonleite.com.br/2015/08/14/android-espresso.html
+
+Online testing
+http://developer.samsung.com/remotetestlab/rtlDeviceList.action
+
+
+Validation
+https://github.com/ragunathjawahar/android-saripaar

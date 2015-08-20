@@ -22,12 +22,18 @@ https://github.com/florent37/Material-Animations
 https://github.com/saulmm/Android-Material-Examples
 https://blog.stylingandroid.com/curved-motion-part-1/
 https://github.com/ppamorim/PrismView
+http://andersonleite.com.br/2015/08/11/android-animations.html
+
+Loading
+http://jorgecastillo.xyz/2015/08/16/android-fillable-loaders/
+https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
 
 Circular reveal & ripple
 https://github.com/thomsonreuters/RippleDecoratorView
 https://github.com/googlesamples/android-RevealEffectBasic
 https://github.com/fahimk/CircularReveal
 https://github.com/balysv/material-ripple
+https://github.com/ozodrukh/CircularReveal - https://github.com/gowong/material-sheet-fab
 
 Summary of principles
 https://github.com/DominikAngerer/fire-bear

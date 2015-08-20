@@ -1,3 +1,5 @@
 http://codepen.io/anon/pen/bdrwJw
 http://www.materialup.com/posts/material-fab-to-dialog-box
 http://www.materialup.com/posts/burger-menu
+http://www.materialup.com/posts/codepen-material-design-fab-motion-animation
+http://www.materialup.com/posts/simple-toggle-menu

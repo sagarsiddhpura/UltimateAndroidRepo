@@ -1,3 +1,6 @@
 http://codepen.io/VictoryDesign/full/PqQevB/
 http://www.pixate.com/education/demos/keezy/
 https://uxinmotion.net/google-material-point-of-origin/
+http://www.materialup.com/posts/material-design-hierarchical-display-animate-css
+http://www.materialup.com/posts/hi-there-card
+http://www.materialup.com/posts/material-design-form-interface

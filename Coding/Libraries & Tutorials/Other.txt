@@ -4,3 +4,14 @@ Statusbar
 https://github.com/code-mc/kitkatsolidstatusbar
 
 https://github.com/thiagokimo/KonamiCode
+
+Loading from obb
+http://nullpointerexc.blogspot.fr/2014/05/android-read-media-file-from-obb-using.html
+
+Translations
+https://github.com/EverythingMe/jitt
+
+https://github.com/tslamic/AndroidDeviceNames
+
+Gaming
+http://gameprogrammingpatterns.com/contents.html

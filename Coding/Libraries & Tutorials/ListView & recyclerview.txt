@@ -13,6 +13,11 @@ https://github.com/Stoyicker/RecyclerViewSyncDemo
 http://vishnurajeevan.com/2015/07/12/using-recyclerview-with-multiple-items.html
 https://github.com/commonsguy/cw-omnibus/tree/master/RecyclerView
 http://www.dmytrodanylyk.com/pages/blog/lazy-data-loading.html
+http://www.mutualmobile.com/posts/using-data-binding-api-in-recyclerview
+https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1
+
+With database
+https://www.reddit.com/r/androiddev/comments/3hje1u/best_way_to_populate_a_recyclerview_with_a_sqlite/
 
 How to write adapters
 http://hannesdorfmann.com/android/adapter-delegates/
@@ -23,6 +28,7 @@ Click listeners
 https://www.reddit.com/r/androiddev/comments/3ezvyu/which_is_the_best_approach_for_implementing/
 https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf
 https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-6a6f0c422efd
+http://www.littlerobots.nl/blog/Handle-Android-RecyclerView-Clicks/
 
 Code Sample
 https://github.com/commonsguy/cw-omnibus/tree/master/RecyclerView

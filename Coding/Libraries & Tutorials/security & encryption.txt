@@ -1,0 +1,11 @@
+http://www.rainbowbreeze.it/environmental-variables-api-key-and-secret-buildconfig-and-android-studio/
+http://emuneee.com/blog/2015/07/15/google-play-in-app-billing-server-purchase-verification/
+https://www.reddit.com/r/androiddev/comments/3dedaj/dear_android_developer_this_is_an_intervention/
+https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/
+https://www.reddit.com/r/androiddev/comments/3g3eaq/finding_xml_layout_of_another_app/
+
+
+Encryption
+Spongy Castle on Android: https://rtyley.github.io/spongycastle/
+forge.js on the web / extensions: https://github.com/digitalbazaar/forge
+OpenSSL on iOS / Mac (coming soon)

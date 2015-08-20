@@ -17,6 +17,9 @@ https://github.com/cadialex/MaterialTutorial
 https://github.com/saulmm/OpenLibra-Material
 https://github.com/guiwro/StarWrobs - Dagger 2, ButterKnife, Retrofit, OkHttp, RxJava, Timber, AutoParcel, SQLBrite
 https://github.com/JakeWharton/u2020
+https://github.com/josecalles/Tistiq - Dagger 2, ButterKnife, RxJava, Calligraphy, EventBus, JodaTimeAndroid, CircleImageView, Realm
+https://github.com/hitherejoe/HackerNewsReader - butterknife, timber, retrofit, rxandroid, dagger, tests
+https://github.com/qklabs/qksms
 
 Chat
 https://github.com/GleasonK/pubnub-android-lolli-chat
@@ -38,6 +41,9 @@ https://github.com/tarek360/Material-Animation-Samples
 
 
 https://github.com/rrtigga/GetDisciplined
+
+Architecture
+https://github.com/patrykpoborca/CleanArchitecture/tree/feature/furtherwork
 
 Libs RxJava
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/

@@ -11,6 +11,7 @@ https://github.com/ckurtm/FabButton
 https://github.com/panwrona/DownloadProgressBar
 https://github.com/fahimk/SmoothProgressBar
 https://github.com/cdeange/RopeProgressBar
+https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
 
 FAB
 https://github.com/futuresimple/android-floating-action-button
@@ -18,12 +19,26 @@ https://github.com/ckurtm/FabButton
 https://github.com/oguzbilgener/CircularFloatingActionMenu
 https://github.com/Adirockzz95/FABtransitions
 http://androiduiux.com/2015/07/22/make-the-right-fab/
+https://github.com/gowong/material-sheet-fab
 
-EditText
+EditText 
 https://github.com/rengwuxian/MaterialEditText
 https://github.com/jayrambhia/FloatingLabelLayout
 https://gist.github.com/chrisbanes/11247418
 http://www.dmytrodanylyk.com/pages/blog/error-label.html
+
+https://github.com/RomainPiel/Shimmer-android
+https://github.com/chiuki/advanced-textview
+https://github.com/RomainPiel/Titanic
+https://github.com/googlesamples/android-TextLinkify
+https://github.com/googlesamples/android-TextSwitcher
+
+http://antonioleiva.com/textview_power_drawables/
+
+http://matthewwear.ghost.io/for-posterity-how-to-render-html-in-a-text-view-and-handle-link-clicks/
+
+TextView
+http://adarshspatel.in/android-autocompletetextview-example/
 
 Sliding tabs
 https://github.com/googlesamples/android-SlidingTabsColors

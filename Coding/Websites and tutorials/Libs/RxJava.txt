@@ -16,6 +16,11 @@ http://mattlogan.me/replacing-otto-with-rxjava
 https://www.reddit.com/r/androiddev/comments/3exgmw/is_there_any_open_source_app_that_uses_rxandroid/
 http://docs.couchbase.com/developer/java-2.0/observables.html
 http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/
+https://www.reddit.com/r/androiddev/comments/3gcsma/what_is_the_usage_of_rxandroid_on_android_apps/
+https://github.com/clackbib/RxSuggestions
+
+Monitor Network
+https://github.com/pwittchen/ReactiveNetwork
 
 Apps
 https://github.com/leavjenn/Hews

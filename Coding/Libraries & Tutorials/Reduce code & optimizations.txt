@@ -3,6 +3,7 @@ https://github.com/JakeWharton/butterknife
 https://github.com/florent37/TutosAndroidFrance/tree/master/ButterKnifeSample
 https://github.com/f2prateek/dart
 http://brianattwell.com/android-annotation-processing-pojo-string-generator/
+https://github.com/ragunathjawahar/android-saripaar
 
 http://androidannotations.org/
 https://github.com/orfjackal/retrolambda
@@ -35,3 +36,6 @@ https://github.com/KeepSafe/android-resource-remover
 https://github.com/pocorall/scaloid
 
 https://github.com/BoD/android-contentprovider-generator
+
+BuildSystem
+https://github.com/mmin18/LayoutCast

@@ -1,5 +1,6 @@
 https://github.com/hmkcode/Android
 https://github.com/googlesamples
 https://github.com/aaronjwood/PortAuthority
+https://github.com/codepath/android_guides/wiki
 
 https://github.com/android/platform_frameworks_support

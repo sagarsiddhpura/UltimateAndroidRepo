@@ -3,3 +3,5 @@ https://github.com/OleksandrKucherenko/binding-tc
 https://medium.com/@fabioCollini/android-data-binding-f9f9d3afc761
 http://stablekernel.com/blog/mvvm-on-android-using-the-data-binding-library/
 http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/
+http://prashamtrivedi.github.io/adventures-databinding-4/
+http://www.mutualmobile.com/posts/using-data-binding-api-in-recyclerview
