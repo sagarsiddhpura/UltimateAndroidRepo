@@ -1,0 +1,2 @@
+https://github.com/EsotericSoftware/kryo
+https://github.com/frogermcs/FlatBuffs

@@ -4,3 +4,8 @@ https://github.com/aaronjwood/PortAuthority
 https://github.com/codepath/android_guides/wiki
 
 https://github.com/android/platform_frameworks_support
+https://search-codelabs.appspot.com/
+
+AOSP code
+https://android.googlesource.com/?format=HTML
+ 

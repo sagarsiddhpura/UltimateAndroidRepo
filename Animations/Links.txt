@@ -4,3 +4,4 @@ https://uxinmotion.net/google-material-point-of-origin/
 http://www.materialup.com/posts/material-design-hierarchical-display-animate-css
 http://www.materialup.com/posts/hi-there-card
 http://www.materialup.com/posts/material-design-form-interface
+http://www.materialup.com/posts/profile-card

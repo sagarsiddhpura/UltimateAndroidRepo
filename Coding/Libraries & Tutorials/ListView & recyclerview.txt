@@ -23,6 +23,7 @@ How to write adapters
 http://hannesdorfmann.com/android/adapter-delegates/
 https://github.com/sockeqwe/AdapterDelegates
 https://github.com/c0nnector/Least
+http://hannesdorfmann.com/android/dont-interrupt-user-flow/
 
 Click listeners
 https://www.reddit.com/r/androiddev/comments/3ezvyu/which_is_the_best_approach_for_implementing/

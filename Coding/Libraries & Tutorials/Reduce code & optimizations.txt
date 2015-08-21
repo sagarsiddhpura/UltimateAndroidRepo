@@ -5,6 +5,8 @@ https://github.com/f2prateek/dart
 http://brianattwell.com/android-annotation-processing-pojo-string-generator/
 https://github.com/ragunathjawahar/android-saripaar
 
+https://github.com/google/auto/tree/master/value
+
 http://androidannotations.org/
 https://github.com/orfjackal/retrolambda
 https://github.com/frankiesardo/icepick
@@ -22,6 +24,9 @@ integrate libs faster
 https://github.com/percolate/foam
 
 http://www.thedroidsonroids.com/blog/how-to-generate-java-sources-using-buildsrc-gradle-project/
+
+Dry Run libs
+https://github.com/cesarferreira/dryrun
 
 Dont use fragments
 https://github.com/konmik/StackLayout

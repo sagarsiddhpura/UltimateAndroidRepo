@@ -25,6 +25,7 @@ Have state drawable
 http://www.donnfelker.com/quick-and-easy-statelistdrawables-in-android-with-one-png/
 http://antonioleiva.com/unveiling-bandhook-foreground-any-layout/
 
+http://andraskindler.com/blog/2015/tinting_drawables/
 
 Make imageview ripple on touch
 https://plus.google.com/+AndroidDevelopers/posts/aHPVDtr6mcp
@@ -61,6 +62,7 @@ Icons
 https://romannurik.github.io/AndroidAssetStudio/index.htmlx
 https://github.com/code-mc/material-icon-lib
 http://codepen.io/grapestheme/pen/vOVybG
+https://github.com/google/material-design-icons
 
 http://cookicons.co/#
 http://www.materialup.com/posts/material-product-icon-template

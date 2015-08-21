@@ -21,6 +21,7 @@ http://marcouberti.net/2015/07/11/mock-async-task-in-android-during-testing/
 Sample projects
 https://github.com/chiuki/android-test-demo
 https://github.com/googlesamples/android-testing
+https://medium.com/@vashisthg/android-testing-notes-and-resources-58484bc280a6
 
 libs
 http://mockito.org/

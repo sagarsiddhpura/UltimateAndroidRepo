@@ -1,1 +1,2 @@
 http://blog.sqisland.com/2015/07/how-to-test-a-watch-face.html
+https://github.com/jrejaud/WearSocket
