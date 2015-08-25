@@ -75,8 +75,9 @@ https://github.com/neokree/MaterialNavigationDrawer
 https://github.com/frogermcs/DrawerLayoutInstaller
 https://github.com/jfeinstein10/SlidingMenu
 
-Alert dialog
+Dialog
 https://github.com/pedant/sweet-alert-dialog
+https://github.com/afollestad/material-dialogs
 
 Viewpager
 https://github.com/florent37/MaterialViewPager

@@ -13,6 +13,10 @@ http://firsttimefounderthoughts.blogspot.fr/2015/08/how-to-solve-dick-pic-proble
 Gaming
 http://gameprogrammingpatterns.com/contents.html
 
+API
+http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api
+https://www.reddit.com/r/androiddev/comments/3i8dwv/api_design_best_practices_and_reading/
+
 UserFlow
 http://hannesdorfmann.com/android/dont-interrupt-user-flow/
 

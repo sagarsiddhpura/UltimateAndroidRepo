@@ -32,6 +32,7 @@ https://plus.google.com/+AndroidDevelopers/posts/aHPVDtr6mcp
 http://antoine-merle.com/blog/2013/07/17/adding-a-foreground-selector-to-a-view/
 
 Image loading using volley
+https://github.com/asifmujteba/EasyVolley
 https://www.bignerdranch.com/blog/solving-the-android-image-loading-problem-volley-vs-picasso/
 http://stackoverflow.com/questions/26501112/picasso-images-reloading-on-scroll-in-listview
 http://stackoverflow.com/questions/23280242/using-picasso-with-custom-disk-cache#answer-23281195

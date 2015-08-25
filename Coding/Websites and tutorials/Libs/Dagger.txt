@@ -10,3 +10,9 @@ https://gist.github.com/konmik/6ac725fa7134402539c4
 http://antonioleiva.com/dependency-injection-android-dagger-part-1/
 
 https://github.com/guiwro/StarWrobs
+
+
+http://frogermcs.github.io/dependency-injection-with-dagger-2-introdution-to-di/
+http://frogermcs.github.io/dependency-injection-with-dagger-2-the-api/
+http://frogermcs.github.io/dependency-injection-with-dagger-2-custom-scopes/
+https://www.parleys.com/tutorial/architecting-android-applications-dagger

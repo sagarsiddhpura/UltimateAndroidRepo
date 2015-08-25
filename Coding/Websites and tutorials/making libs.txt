@@ -1,0 +1,9 @@
+https://www.reddit.com/r/androiddev/comments/3hzg06/building_an_android_library/
+https://github.com/dcendents/android-maven-gradle-plugin
+https://jitpack.io/
+https://github.com/simpligility/android-maven-plugin/tree/master/src/test/projects
+https://github.com/square/sqlbrite/blob/1479605b02a0e63344dfbb393c762e75233eeec1/gradle/gradle-mvn-push.gradle
+http://chris.banes.xyz/2013/08/27/pushing-aars-to-maven-central/
+https://github.com/chrisbanes/gradle-mvn-push
+https://gist.github.com/PrashamTrivedi/61fe9156f3c7800b734d
+https://gist.github.com/doridori/031d87e15bc7ce6f5371

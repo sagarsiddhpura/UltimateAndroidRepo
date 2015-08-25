@@ -13,3 +13,4 @@ https://github.com/yqritc/Android-ScalableVideoView
 
 Audio
 http://superpowered.com/#axzz3gVU4wJsj
+https://github.com/NathanielWaggoner/AndroidAudioExamples

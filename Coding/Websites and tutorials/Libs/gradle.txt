@@ -9,3 +9,4 @@ http://stackoverflow.com/questions/17324849/android-studio-gradle-build-speed-up
 https://www.reddit.com/r/androiddev/comments/3femjd/including_your_readme_file_to_your_resource/
 https://www.reddit.com/r/androiddev/comments/3gzkpo/feedback_on_proguard_proguard_snippets/
 https://medium.com/@Mul0w/publish-with-gradle-on-bitbucket-1463236dc460
+http://gregloesch.com/dev/2015/08/19/Android-Gradle-Learnings.html
