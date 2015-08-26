@@ -7,3 +7,5 @@ http://www.androidpolice.com/2015/07/30/audiobooks-com-becomes-the-first-audio-b
 http://frogermcs.github.io/instamaterial-meets-design-support-library/
 
 https://www.reddit.com/r/androiddev/comments/3hje1u/best_way_to_populate_a_recyclerview_with_a_sqlite/
+https://github.com/google/battery-historian
+http://www.ssaurel.com/blog/monitor-and-analyze-battery-usage-data-on-android/

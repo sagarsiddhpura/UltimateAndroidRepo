@@ -26,6 +26,7 @@ https://github.com/saulmm/Material-Movies
 https://github.com/borax12/Searcher
 https://github.com/hitherejoe/Android-Boilerplate -  Espresso, Robolectric, RxJava and RxAndroid, Retrofit and OkHttp, Dagger 2, SqlBrite, EasyAdapter, Butterknife, Timber, Mockito, Glide
 https://github.com/syncthing/syncthing-android - Syncing
+https://github.com/google/battery-historian
 
 Game
 https://github.com/JTronLabs/Space-Shooter-Android
@@ -51,8 +52,9 @@ https://github.com/tarek360/Material-Animation-Samples
 
 https://github.com/rrtigga/GetDisciplined
 
-Architecture
+Architecture & Best Practices
 https://github.com/patrykpoborca/CleanArchitecture/tree/feature/furtherwork
+https://github.com/futurice/android-best-practices
 
 Libs RxJava
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/

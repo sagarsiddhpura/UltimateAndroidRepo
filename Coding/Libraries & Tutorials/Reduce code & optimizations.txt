@@ -44,3 +44,6 @@ https://github.com/BoD/android-contentprovider-generator
 
 BuildSystem
 https://github.com/mmin18/LayoutCast
+
+Generate code
+https://github.com/facebook/hack-codegen

@@ -22,6 +22,7 @@ Sample projects
 https://github.com/chiuki/android-test-demo
 https://github.com/googlesamples/android-testing
 https://medium.com/@vashisthg/android-testing-notes-and-resources-58484bc280a6
+https://github.com/googlesamples/android-testing-templates/tree/master/AndroidTestingBlueprint
 
 libs
 http://mockito.org/

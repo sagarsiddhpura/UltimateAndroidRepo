@@ -34,6 +34,7 @@ https://www.reddit.com/r/androiddev/comments/3frcwd/how_many_of_you_use_mvcmvp_i
 https://www.reddit.com/r/androiddev/comments/3g0zjr/mvp_what_are_the_most_shared_ui_functionalities/
 https://www.reddit.com/r/androiddev/comments/3girbv/i_keep_seeing_mvp_mvvm_mvc_but_i_am_utterly/
 https://github.com/patrykpoborca/CleanArchitecture/tree/feature/furtherwork
+https://github.com/hitherejoe/MVVM_Hacker_News
 
 Making lib resources private
 https://plus.google.com/+ChrisBanes/posts/8Rip6rQGK32
