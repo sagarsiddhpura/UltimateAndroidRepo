@@ -1,0 +1,4 @@
+https://www.reddit.com/r/androiddev/comments/3iisfv/how_do_you_guys_switch_between_your_api_endpoints/
+http://square.github.io/retrofit/
+https://github.com/florent37/TutosAndroidFrance/tree/master/RetrofitSample
+http://themakeinfo.com/2015/04/retrofit-android-tutorial/

@@ -1,16 +1,22 @@
 Assets
 http://izvornikod.com/Blog/tabid/82/EntryId/5/GIMP-script-for-creating-Android-icons-at-once.aspx
 https://romannurik.github.io/AndroidAssetStudio/index.html
+https://unsplash.com/
 
 https://github.com/Pkmmte/CircularImageView
 
 Image loading
 https://github.com/nostra13/Android-Universal-Image-Loader
 https://developer.android.com/training/volley/index.html
-http://square.github.io/picasso/
 https://github.com/florent37/MaterialImageLoading
 http://frescolib.org/
 https://github.com/koush/ion
+ImageGallery
+https://github.com/lawloretienne/ImageGallery
+Picasso:
+http://square.github.io/picasso/
+https://futurestud.io/blog/picasso-getting-started-simple-loading/
+
 
 Effects
 https://github.com/PomepuyN/BlurEffectForAndroidDesign

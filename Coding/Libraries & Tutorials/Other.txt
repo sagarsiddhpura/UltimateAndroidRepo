@@ -21,3 +21,6 @@ http://www.vysor.io/
 
 Battery
 http://www.ssaurel.com/blog/monitor-and-analyze-battery-usage-data-on-android/
+
+Clipboard
+https://github.com/Ghuizing/Clippr

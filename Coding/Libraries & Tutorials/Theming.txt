@@ -4,3 +4,5 @@ https://github.com/negusoft/GreenMatter
 
 https://blog.stylingandroid.com/prism-fundamentals-part-2/
 https://blog.stylingandroid.com/prism-fundamentals-part-3/
+
+http://stackoverflow.com/questions/32066277/how-do-i-set-a-different-theme-for-a-spinners-dropdown/32066279#32066279

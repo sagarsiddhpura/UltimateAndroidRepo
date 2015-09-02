@@ -18,16 +18,22 @@ http://andersonleite.com.br/2015/08/14/android-espresso.html
 http://ubertesters.com/plans/
 http://www.qatestingtools.com/testing-tools/mobile-testing
 http://marcouberti.net/2015/07/11/mock-async-task-in-android-during-testing/
+https://www.reddit.com/r/androiddev/comments/3irfa9/what_frameworks_libs_you_use_for_unit_testing/
+https://realm.io/news/ellen-shapiro-android-testing/
+https://medium.com/@patrykpoborca/making-a-best-practice-app-5-clean-architecture-testing-84a1672dd000
+
 Sample projects
 https://github.com/chiuki/android-test-demo
 https://github.com/googlesamples/android-testing
 https://medium.com/@vashisthg/android-testing-notes-and-resources-58484bc280a6
 https://github.com/googlesamples/android-testing-templates/tree/master/AndroidTestingBlueprint
+https://github.com/stephanenicolas/Quality-Tools-for-Android
 
 libs
 http://mockito.org/
 https://github.com/openstf/stf
 https://github.com/hotchemi/awesome-android-testing
+https://github.com/ribot/assertj-rx
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/

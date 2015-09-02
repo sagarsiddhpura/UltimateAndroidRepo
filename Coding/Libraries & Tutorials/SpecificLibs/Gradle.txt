@@ -1,0 +1,16 @@
+http://saulmm.github.io/squeezing-gradle-builds/
+https://github.com/shareme/GWSAndroidReadMeTemplate/tree/master/buildsystem
+https://www.reddit.com/r/androiddev/comments/3e3c2y/reducing_code_duplication_across_projects/
+https://gist.github.com/artem-zinnatullin/4c250e04636e25797165
+https://github.com/aalmiray/stats-gradle-plugin
+http://gmariotti.blogspot.fr/2015/07/how-to-centralize-support-libraries.html
+https://jeroenmols.github.io/blog/2015/08/06/artifactory/
+http://stackoverflow.com/questions/17324849/android-studio-gradle-build-speed-up
+https://www.reddit.com/r/androiddev/comments/3femjd/including_your_readme_file_to_your_resource/
+https://www.reddit.com/r/androiddev/comments/3gzkpo/feedback_on_proguard_proguard_snippets/
+https://medium.com/@Mul0w/publish-with-gradle-on-bitbucket-1463236dc460
+http://gregloesch.com/dev/2015/08/19/Android-Gradle-Learnings.html
+https://www.reddit.com/r/androiddev/comments/3ig3gm/show_us_your_gradle_tasks/
+https://www.reddit.com/r/androiddev/comments/3iqk09/gradle_build_times_have_me_like_%EF%BE%89%E0%B2%A5%E7%9B%8A%E0%B2%A5%EF%BE%89/
+
+https://github.com/evant/gradle-retrolambda

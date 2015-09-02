@@ -10,6 +10,7 @@ https://www.reddit.com/r/androiddev/comments/3e6pnh/ask_addev_whats_your_stack/
 https://www.reddit.com/r/androiddev/comments/3cs666/best_option_for_data_persistence/
 https://www.reddit.com/r/androiddev/comments/3fcd1s/is_it_bad_practice_to_convert_a_cursor_once/
 http://firsttimefounderthoughts.blogspot.fr/2015/08/how-to-solve-dick-pic-problem.html
+https://lnikki.la/articles/android-extended-touch-view/
 Gaming
 http://gameprogrammingpatterns.com/contents.html
 
@@ -35,6 +36,7 @@ https://www.reddit.com/r/androiddev/comments/3g0zjr/mvp_what_are_the_most_shared
 https://www.reddit.com/r/androiddev/comments/3girbv/i_keep_seeing_mvp_mvvm_mvc_but_i_am_utterly/
 https://github.com/patrykpoborca/CleanArchitecture/tree/feature/furtherwork
 https://github.com/hitherejoe/MVVM_Hacker_News
+https://medium.com/android-news/android-architecture-2f12e1c7d4db
 
 Making lib resources private
 https://plus.google.com/+ChrisBanes/posts/8Rip6rQGK32

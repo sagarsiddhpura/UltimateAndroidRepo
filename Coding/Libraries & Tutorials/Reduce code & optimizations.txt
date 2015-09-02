@@ -1,6 +1,7 @@
 via annotations
 https://github.com/JakeWharton/butterknife
 https://github.com/florent37/TutosAndroidFrance/tree/master/ButterKnifeSample
+
 https://github.com/f2prateek/dart
 http://brianattwell.com/android-annotation-processing-pojo-string-generator/
 https://github.com/ragunathjawahar/android-saripaar
@@ -36,7 +37,6 @@ https://github.com/fahimk/Dynamo
 http://boltsframework.github.io/docs/android/
 
 https://github.com/KeepSafe/android-resource-remover
-
 
 https://github.com/pocorall/scaloid
 

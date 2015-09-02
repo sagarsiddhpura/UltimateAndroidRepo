@@ -26,6 +26,7 @@ https://github.com/rengwuxian/MaterialEditText
 https://github.com/jayrambhia/FloatingLabelLayout
 https://gist.github.com/chrisbanes/11247418
 http://www.dmytrodanylyk.com/pages/blog/error-label.html
+https://blog.stylingandroid.com/textinputlayout/
 
 https://github.com/RomainPiel/Shimmer-android
 https://github.com/chiuki/advanced-textview
@@ -59,7 +60,7 @@ https://github.com/googlesamples/android-RecyclerView
 Swipe recycler view
 https://github.com/rahulrj/Swipe_RecyclerView
 
-Widget
+Calendar Widget
 https://github.com/romannurik/Android-MonthCalendarWidget
 
 Tree View
@@ -84,3 +85,9 @@ https://github.com/florent37/MaterialViewPager
 https://github.com/Pixplicity/MultiViewPager
 https://www.bignerdranch.com/blog/viewpager-without-fragments/
 https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f
+
+Percentage Layout
+https://plus.google.com/+AndroidDevelopers/posts/C8oaLunpEEj
+
+Spinner
+http://stackoverflow.com/questions/32066277/how-do-i-set-a-different-theme-for-a-spinners-dropdown/32066279#32066279

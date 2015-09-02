@@ -27,6 +27,7 @@ https://github.com/borax12/Searcher
 https://github.com/hitherejoe/Android-Boilerplate -  Espresso, Robolectric, RxJava and RxAndroid, Retrofit and OkHttp, Dagger 2, SqlBrite, EasyAdapter, Butterknife, Timber, Mockito, Glide
 https://github.com/syncthing/syncthing-android - Syncing
 https://github.com/google/battery-historian
+https://github.com/chiuki/friendspell - Google Nearby, Google Plus, Dagger 2, Espresso 2, Mockito, VectorDrawableCompat, Noto emoji, Picasso, GSON, Cupboard, Timber, Butterknife
 
 Game
 https://github.com/JTronLabs/Space-Shooter-Android
@@ -83,3 +84,6 @@ https://github.com/aegamesi/SteamTrade/
 
 Xposed
 https://github.com/DHM47/Native-Clip-Board
+
+Vision API
+https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/

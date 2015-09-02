@@ -7,3 +7,4 @@ http://chris.banes.xyz/2013/08/27/pushing-aars-to-maven-central/
 https://github.com/chrisbanes/gradle-mvn-push
 https://gist.github.com/PrashamTrivedi/61fe9156f3c7800b734d
 https://gist.github.com/doridori/031d87e15bc7ce6f5371
+https://github.com/oguzbabaoglu/butterfork

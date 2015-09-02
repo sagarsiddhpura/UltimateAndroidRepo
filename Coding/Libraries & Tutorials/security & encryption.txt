@@ -12,3 +12,10 @@ OpenSSL on iOS / Mac (coming soon)
 
 
 https://corner.squareup.com/2015/08/a-small-leak.html
+
+stackoverflow.com/questions/14570989/best-practice-for-storing-private-api-keys-in-android
+http://fuzion24.github.io/android/obfuscation/ndk/llvm/o-llvm/2014/07/27/android-obfuscation-o-llvm-ndk/
+https://medium.com/@vashisthg/android-secure-shared-preferences-10f8356a4c2b
+
+Libs & Tools
+https://github.com/linkedin/qark
