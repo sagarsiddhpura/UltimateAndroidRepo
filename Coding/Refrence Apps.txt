@@ -28,6 +28,11 @@ https://github.com/hitherejoe/Android-Boilerplate -  Espresso, Robolectric, RxJa
 https://github.com/syncthing/syncthing-android - Syncing
 https://github.com/google/battery-historian
 https://github.com/chiuki/friendspell - Google Nearby, Google Plus, Dagger 2, Espresso 2, Mockito, VectorDrawableCompat, Noto emoji, Picasso, GSON, Cupboard, Timber, Butterknife
+https://github.com/dulleh/akhyou - OkHttp, 2. Picasso, 3. Nucleus, 4. EventBus, 5. RxAndroid, 6. jsoup, 7. Material Dialogs, 8. Jackson, 9. LeakCanary, 10. Crashlyitcs/Fabric
+https://github.com/PaNaVTEC/Clean-Contacts/
+https://github.com/romannurik/muzei
+https://github.com/grandstaish/hello-mvp-dagger-2 - Dagger 2, RxJava - Relates to get data from cache, if not then from db, if not then from network
+https://github.com/c0nnector/paradise - retrofit, dagger 1.2, rxjava, otto
 
 Game
 https://github.com/JTronLabs/Space-Shooter-Android

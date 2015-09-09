@@ -6,7 +6,8 @@ https://github.com/swissonid/android-design-support-lib-sample
 https://github.com/florent37/TutosAndroidFrance/tree/master/PaletteSample
 https://github.com/cadialex/MaterialTutorial
 http://frogermcs.github.io/instamaterial-meets-design-support-library/
-
+https://github.com/cmc00022/CityMapperTabs - Coloured tabs
+http://panavtec.me/playing-with-the-new-support-tablayout/
 tutorial
 http://inthecheesefactory.com/blog/android-design-support-library-codelab/en
 

@@ -1,0 +1,8 @@
+https://www.reddit.com/r/androiddev/comments/3jpwyd/til_you_can_set_custom_dpi_for_your_app/
+DisplayMetrics displayMetrics = context.getResources().getDisplayMetrics();
+
+Configuration config = context.getResources().getConfiguration();
+displayMetrics.densityDpi = 200; //DisplayMetrics.DENSITY_LOW;
+config.densityDpi = 200; //DisplayMetrics.DENSITY_LOW;
+
+context.getResources().updateConfiguration(config, displayMetrics);

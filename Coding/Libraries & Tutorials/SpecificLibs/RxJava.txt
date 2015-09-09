@@ -45,3 +45,6 @@ http://blog.kaush.co/2015/07/11/a-note-about-the-warmth-share-operator/
 
 https://github.com/colintheshots/AnDevCon-RxPatterns
 https://github.com/kaushikgopal/RxJava-Android-Samples
+
+DB
+https://realm.io/news/using-realm-with-rxjava/

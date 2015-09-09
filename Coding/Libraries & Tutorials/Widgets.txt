@@ -2,6 +2,8 @@ Material lib
 https://github.com/rey5137/material
 https://github.com/Bearded-Hen/Android-Bootstrap
 
+StickyBar
+http://mindbowser.com/blog/implementing-stickybar-in-android/
 
 Progres bar
 https://github.com/Todd-Davies/ProgressWheel
@@ -45,6 +47,8 @@ Sliding tabs
 https://github.com/googlesamples/android-SlidingTabsColors
 https://github.com/googlesamples/android-SlidingTabsBasic
 https://github.com/jpardogo/PagerSlidingTabStrip
+https://github.com/cmc00022/CityMapperTabs - Color changing tabs
+http://panavtec.me/playing-with-the-new-support-tablayout/
 
 Wizard pager
 https://github.com/romannurik/android-wizardpager

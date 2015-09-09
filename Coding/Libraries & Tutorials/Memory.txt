@@ -1,0 +1,1 @@
+https://github.com/badoo/android-weak-handler

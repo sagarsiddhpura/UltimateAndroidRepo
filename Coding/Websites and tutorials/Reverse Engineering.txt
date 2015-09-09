@@ -1,2 +1,3 @@
 https://www.reddit.com/r/androiddev/comments/3g3eaq/finding_xml_layout_of_another_app/
 http://darkmatters.norsecorp.com/2015/07/15/how-to-reverse-engineer-android-applications/
+https://github.com/Juude/droidReverse/blob/master/README-EN.md

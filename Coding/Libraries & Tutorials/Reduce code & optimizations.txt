@@ -1,6 +1,7 @@
 via annotations
 https://github.com/JakeWharton/butterknife
 https://github.com/florent37/TutosAndroidFrance/tree/master/ButterKnifeSample
+https://github.com/jug6ernaut/saber
 
 https://github.com/f2prateek/dart
 http://brianattwell.com/android-annotation-processing-pojo-string-generator/

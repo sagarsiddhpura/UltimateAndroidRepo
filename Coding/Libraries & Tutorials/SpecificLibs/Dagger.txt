@@ -20,3 +20,6 @@ https://www.parleys.com/tutorial/architecting-android-applications-dagger
 
 Dagger2
 https://medium.com/@patrykpoborca/making-a-best-practice-app-4-dagger-2-267ec5f6c89a
+https://github.com/konmik/konmik.github.io/wiki/Snorkeling-with-Dagger-2
+
+http://fedepaol.github.io/blog/2015/09/05/mocking-with-robolectric-and-dagger-2/

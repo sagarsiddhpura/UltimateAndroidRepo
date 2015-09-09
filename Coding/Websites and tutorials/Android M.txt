@@ -1,5 +1,7 @@
+
 http://inthecheesefactory.com/blog/things-you-need-to-know-about-android-m-permission-developer-edition/en
 https://medium.com/@rotxed/drawing-over-other-apps-marshmallow-edition-987eff9f99a9
 https://commonsware.com/blog/2015/08/17/random-musings-android-6p0-sdk.html
 https://github.com/hotchemi/PermissionsDispatcher
 https://github.com/tajchert/RuntimePermissionWorkshop
+https://plus.google.com/+AndroidDevelopers/posts/FqgHUevqHiK?linkId=16779621

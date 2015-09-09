@@ -2,3 +2,11 @@ https://www.reddit.com/r/androiddev/comments/3iisfv/how_do_you_guys_switch_betwe
 http://square.github.io/retrofit/
 https://github.com/florent37/TutosAndroidFrance/tree/master/RetrofitSample
 http://themakeinfo.com/2015/04/retrofit-android-tutorial/
+
+Retrofit 2.0
+http://inthecheesefactory.com/blog/retrofit-2.0/en
+I have to change my error handling strategy, but I think it's good for clarity.
+I used to parse the throwable error by checking if it's an instance of RetrofitError, and by calling getBodyAs(MyErrorObject.class).
+Now, failure comes in onResponse, and I just have to call isSuccess(), and if it's false, I parse the errorBody like:
+ErrorMessage errorMessage = new Gson().fromJson(response.errorBody().string(), ErrorMessage.class);
+do you think there is a better way, knowing I'd like to print a toast with the errorMessage.message for each call ?
