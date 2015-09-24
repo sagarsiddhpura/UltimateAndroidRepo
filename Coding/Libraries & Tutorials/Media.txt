@@ -9,7 +9,8 @@ http://developer.android.com/guide/topics/media/mediaplayer.html
 
 Video
 https://github.com/yqritc/Android-ScalableVideoView
-
+Video Chat
+https://developers.oovoo.com/
 
 Audio
 http://superpowered.com/#axzz3gVU4wJsj

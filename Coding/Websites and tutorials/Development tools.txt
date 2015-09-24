@@ -1,0 +1,1 @@
+http://bazel.io/docs/mobile-install.html

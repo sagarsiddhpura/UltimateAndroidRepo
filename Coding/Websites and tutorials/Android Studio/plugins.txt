@@ -14,3 +14,11 @@ http://www.vysor.io/
 
 Create Plugin
 https://plus.google.com/+AndroidDevelopers/posts/C8oaLunpEEj
+
+http://plugins.jetbrains.com/plugin/7275?pr=
+https://plugins.jetbrains.com/plugin/1003
+https://plugins.jetbrains.com/plugin/7834?pr=idea
+https://plugins.jetbrains.com/plugin/7567
+https://plugins.jetbrains.com/plugin/7211?pr=idea
+https://plugins.jetbrains.com/plugin/7212?pr=idea
+

@@ -15,6 +15,7 @@ Color palette
 https://github.com/Musenkishi/Atelier
 https://github.com/florent37/GlidePalette
 https://github.com/florent37/PicassoPalette
+http://androidessence.com/top-5-color-scheme-tools/
 
 Libs
 https://github.com/rey5137/material

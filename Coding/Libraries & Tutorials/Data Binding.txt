@@ -1,4 +1,5 @@
 https://github.com/OleksandrKucherenko/binding-tc
+https://github.com/davityle/ngAndroid
 
 https://medium.com/@fabioCollini/android-data-binding-f9f9d3afc761
 http://stablekernel.com/blog/mvvm-on-android-using-the-data-binding-library/

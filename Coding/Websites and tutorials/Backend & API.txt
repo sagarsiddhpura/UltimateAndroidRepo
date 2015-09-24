@@ -7,3 +7,6 @@ http://www.androidbegin.com/blog/list-best-android-backend-service-baas-provider
 http://aws.amazon.com/cognito/
 https://www.openshift.com
 Batch.com
+https://www.reddit.com/r/androiddev/comments/3km4ak/using_google_cloud_platform_as_a_backend/
+https://www.expeditedssl.com/aws-in-plain-english
+https://cloud.google.com/appengine/docs

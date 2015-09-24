@@ -17,6 +17,7 @@ http://www.dmytrodanylyk.com/pages/blog/lazy-data-loading.html
 http://www.mutualmobile.com/posts/using-data-binding-api-in-recyclerview
 https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1
 http://panavtec.me/retain-restore-recycler-view-scroll-position/
+https://github.com/candidcold/ViewTypes
 
 With database
 https://www.reddit.com/r/androiddev/comments/3hje1u/best_way_to_populate_a_recyclerview_with_a_sqlite/

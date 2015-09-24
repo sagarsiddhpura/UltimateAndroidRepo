@@ -3,6 +3,7 @@ https://github.com/googlesamples
 https://github.com/aaronjwood/PortAuthority
 https://github.com/codepath/android_guides/wiki
 https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
+https://github.com/udacity/Advanced_Android_Development
 
 https://github.com/android/platform_frameworks_support
 https://search-codelabs.appspot.com/

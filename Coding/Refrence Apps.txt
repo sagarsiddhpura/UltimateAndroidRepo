@@ -33,6 +33,10 @@ https://github.com/PaNaVTEC/Clean-Contacts/
 https://github.com/romannurik/muzei
 https://github.com/grandstaish/hello-mvp-dagger-2 - Dagger 2, RxJava - Relates to get data from cache, if not then from db, if not then from network
 https://github.com/c0nnector/paradise - retrofit, dagger 1.2, rxjava, otto
+https://gitlab.com/Commit451/GitLabAndroid - AppCompat, Design, RecyclerView, Retrofit and OkHttp, Picasso, butterknife, timber, GSON Parceler Bypass Material-ish Progress PhysicsLayout CircleImageView 
+https://github.com/k0shk0sh/Fast-Access-Floating-Toolbox-
+https://github.com/avjinder/Minimal-Todo
+https://github.com/romainguy/road-trip - animations
 
 Game
 https://github.com/JTronLabs/Space-Shooter-Android
@@ -61,6 +65,7 @@ https://github.com/rrtigga/GetDisciplined
 Architecture & Best Practices
 https://github.com/patrykpoborca/CleanArchitecture/tree/feature/furtherwork
 https://github.com/futurice/android-best-practices
+https://github.com/ivacf/archi
 
 Libs RxJava
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/
@@ -92,3 +97,9 @@ https://github.com/DHM47/Native-Clip-Board
 
 Vision API
 https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
+
+Android TV
+https://github.com/sregg/spotify-tv
+
+Tutorials
+http://www.pubnub.com/blog/tutorial-realtime-android-heart-rate-monitor-and-dashboard/

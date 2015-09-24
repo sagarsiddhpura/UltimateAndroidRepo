@@ -22,6 +22,7 @@ https://github.com/oguzbilgener/CircularFloatingActionMenu
 https://github.com/Adirockzz95/FABtransitions
 http://androiduiux.com/2015/07/22/make-the-right-fab/
 https://github.com/gowong/material-sheet-fab
+https://medium.com/@nullthemall/floatingactionmenu-floatingactionbutton-behavior-dd33cc0d9ba7
 
 EditText 
 https://github.com/rengwuxian/MaterialEditText
@@ -79,6 +80,7 @@ Navigation drawer
 https://github.com/neokree/MaterialNavigationDrawer
 https://github.com/frogermcs/DrawerLayoutInstaller
 https://github.com/jfeinstein10/SlidingMenu
+https://www.reddit.com/r/androiddev/comments/3kdkct/quick_tip_preview_your_drawerlayout_drawer_in_the/
 
 Dialog
 https://github.com/pedant/sweet-alert-dialog
@@ -89,6 +91,7 @@ https://github.com/florent37/MaterialViewPager
 https://github.com/Pixplicity/MultiViewPager
 https://www.bignerdranch.com/blog/viewpager-without-fragments/
 https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f
+http://blog.grafixartist.com/parallax-scrolling-tabs-design-support-library/
 
 Percentage Layout
 https://plus.google.com/+AndroidDevelopers/posts/C8oaLunpEEj

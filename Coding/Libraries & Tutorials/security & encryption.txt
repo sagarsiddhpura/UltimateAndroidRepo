@@ -4,6 +4,7 @@ https://www.reddit.com/r/androiddev/comments/3dedaj/dear_android_developer_this_
 https://rammic.github.io/2015/07/28/hiding-secrets-in-android-apps/
 https://www.reddit.com/r/androiddev/comments/3g3eaq/finding_xml_layout_of_another_app/
 https://www.reddit.com/r/androiddev/comments/3hss6v/heads_up_for_those_using_proguard_play_services/
+https://koz.io/inside-safetynet/
 
 Encryption
 Spongy Castle on Android: https://rtyley.github.io/spongycastle/
@@ -19,3 +20,5 @@ https://medium.com/@vashisthg/android-secure-shared-preferences-10f8356a4c2b
 
 Libs & Tools
 https://github.com/linkedin/qark
+https://facebook.github.io/conceal/
+https://github.com/tozny/java-aes-crypto

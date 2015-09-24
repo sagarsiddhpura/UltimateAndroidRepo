@@ -10,12 +10,14 @@ https://github.com/nostra13/Android-Universal-Image-Loader
 https://developer.android.com/training/volley/index.html
 https://github.com/florent37/MaterialImageLoading
 http://frescolib.org/
+https://github.com/wasabeef/fresco-processors
 https://github.com/koush/ion
 ImageGallery
 https://github.com/lawloretienne/ImageGallery
 Picasso:
 http://square.github.io/picasso/
 https://futurestud.io/blog/picasso-getting-started-simple-loading/
+https://github.com/wasabeef/picasso-transformations
 
 
 Effects
@@ -58,6 +60,7 @@ https://github.com/TheKeeperOfPie/Reader
 
 Glide
 http://engineeringblog.yelp.com/2015/07/glide-how-yelps-android-app-loads-images.html
+https://github.com/wasabeef/glide-transformations
 
 SVG
 https://www.reddit.com/r/androiddev/comments/3gu77t/whats_a_decent_svg_library/
@@ -70,7 +73,9 @@ https://romannurik.github.io/AndroidAssetStudio/index.htmlx
 https://github.com/code-mc/material-icon-lib
 http://codepen.io/grapestheme/pen/vOVybG
 https://github.com/google/material-design-icons
+https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAAahUKEwit94GMw_vHAhUJcY4KHYUSCgs&url=http%3A%2F%2Fwww.iconspedia.com%2F&usg=AFQjCNGxu8w6vxh-v3sjQt1V5ctq02k6Jw&sig2=zS_vj5gSxBQSMFjpxDes0Q
 
+https://icons8.com/
 http://cookicons.co/#
 http://www.materialup.com/posts/material-product-icon-template
 http://fontawesome.io/icons/

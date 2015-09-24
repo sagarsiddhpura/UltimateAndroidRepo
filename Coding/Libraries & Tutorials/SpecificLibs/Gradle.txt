@@ -16,3 +16,7 @@ https://www.reddit.com/r/androiddev/comments/3iqk09/gradle_build_times_have_me_l
 http://fuzzydroid.blogspot.hu/2015/09/some-gradle-tricks-for-android.html
 
 https://github.com/evant/gradle-retrolambda
+
+https://github.com/Genymobile/genymotion-gradle-plugin
+
+https://brock.io/blog/post/repeatable_android_builds/

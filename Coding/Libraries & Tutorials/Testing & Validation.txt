@@ -49,6 +49,7 @@ http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/
 http://makingiants.com/blog/how-to-include-espresso-contrib-with-proguard-and-dont-die-in-the-try/
 https://github.com/googlesamples/android-testing/blob/master/downloads/Espresso%20Cheat%20Sheet%20Master.pdf
 http://andersonleite.com.br/2015/08/14/android-espresso.html
+http://michaelevans.org/blog/2015/09/15/testing-intents-with-espresso-intents/
 
 Online testing
 http://developer.samsung.com/remotetestlab/rtlDeviceList.action

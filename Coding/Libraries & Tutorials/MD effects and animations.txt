@@ -24,6 +24,9 @@ https://github.com/saulmm/Android-Material-Examples
 https://blog.stylingandroid.com/curved-motion-part-1/
 https://github.com/ppamorim/PrismView
 http://andersonleite.com.br/2015/08/11/android-animations.html
+https://github.com/dtx12/AndroidAnimationsActions
+https://www.reddit.com/r/androiddev/comments/3lgnlh/google_play_newsstand_parallax_appbarlayout/
+http://www.malmstein.com/blog/2015/09/20/yahnac-meets-the-material-design-library/
 
 Loading
 http://jorgecastillo.xyz/2015/08/16/android-fillable-loaders/
@@ -93,3 +96,4 @@ https://medium.com/@fredrikaldgard/easy-android-shared-element-transition-ac3695
 
 Examples
 http://frogermcs.github.io/instamaterial-meets-design-support-library/
+https://github.com/DenisMondon/material-design-library

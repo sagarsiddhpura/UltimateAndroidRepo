@@ -1,2 +1,0 @@
-http://www.xda-developers.com/making-your-own-xposed-modules-is-easier-than-you-think/
-https://github.com/DHM47/Native-Clip-Board

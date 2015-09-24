@@ -18,6 +18,18 @@ https://www.reddit.com/r/androidapps
 https://www.reddit.com/r/indieapps/
 http://www.androidappsreview.com/
 https://developers.getsocial.im/#/register/
+http://www.appbrain.com/info/advertise
+https://www.reddit.com/r/androiddev/comments/3lca4x/as_an_aspiring_dev_id_like_to_share_my_good_and/
+http://mobilispot.com/reviews/
+
+https://www.reddit.com/r/androiddev/comments/3kfexy/our_favorite_free_app_marketing_tools_resources/
+Storefront's App Store Planner
+Mobilispot's App Analysis Service
+Sensor Tower ASO Research Tool
+MockUPhone Screenshot Generator
+Apptamin's List of Developer Tools
+MobyAffiliate's List of iOS and Android Review Sites
+Google Trends (for keyword research)
 
 Alternate stores
 https://www.wandoujia.com/
