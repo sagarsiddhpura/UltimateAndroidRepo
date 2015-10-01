@@ -22,6 +22,7 @@ https://www.reddit.com/r/androiddev/comments/3irfa9/what_frameworks_libs_you_use
 https://realm.io/news/ellen-shapiro-android-testing/
 https://medium.com/@patrykpoborca/making-a-best-practice-app-5-clean-architecture-testing-84a1672dd000
 https://io2015codelabs.appspot.com/codelabs/android-studio-testing#1
+https://packetzoom.com/blog/continuous-integration-with-the-aws-device-farm.html
 
 Sample projects
 https://github.com/chiuki/android-test-demo
@@ -35,6 +36,8 @@ http://mockito.org/
 https://github.com/openstf/stf
 https://github.com/hotchemi/awesome-android-testing
 https://github.com/ribot/assertj-rx
+https://github.com/square/burst
+https://github.com/ryanw-se/SimpleRouter
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/

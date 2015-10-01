@@ -10,6 +10,7 @@ http://nullpointerexc.blogspot.fr/2014/05/android-read-media-file-from-obb-using
 
 Translations
 https://github.com/EverythingMe/jitt
+https://github.com/Jintin/transai
 
 https://github.com/tslamic/AndroidDeviceNames
 
@@ -26,3 +27,5 @@ Clipboard
 https://github.com/Ghuizing/Clippr
 
 https://github.com/PaNaVTEC/Coordinator-java
+
+https://github.com/airbnb/DeepLinkDispatch

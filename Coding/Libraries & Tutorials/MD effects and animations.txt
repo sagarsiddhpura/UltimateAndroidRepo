@@ -31,6 +31,7 @@ http://www.malmstein.com/blog/2015/09/20/yahnac-meets-the-material-design-librar
 Loading
 http://jorgecastillo.xyz/2015/08/16/android-fillable-loaders/
 https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
+https://github.com/smasoumi/FAB-Loading
 
 Circular reveal & ripple
 https://github.com/thomsonreuters/RippleDecoratorView

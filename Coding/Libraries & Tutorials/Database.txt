@@ -4,11 +4,14 @@ https://github.com/pushtorefresh/storio
 https://realm.io/pricing/
 https://bitbucket.org/qbusict/cupboard
 
+http://gradlewhy.ghost.io/realm-results-with-recyclerview/
+
 http://www.dmytrodanylyk.com/pages/blog/concurrent-database.html
 https://www.reddit.com/r/androiddev/comments/3g1g1q/have_you_guys_tried_out_the_database_library/
 https://www.reddit.com/r/androiddev/comments/3g1154/using_eventbus_instead_of_the_cursornotifychange/
 https://www.reddit.com/r/androiddev/comments/3iz7ft/best_database_solution/
 https://www.reddit.com/r/androiddev/comments/3j80sw/best_practices_for_asynchronous_sqlite_inserts_in/
+http://softwaretree.com/2015/products/jdxa/jdxa_introduction.html
 
 With recycler view
 https://www.reddit.com/r/androiddev/comments/3hje1u/best_way_to_populate_a_recyclerview_with_a_sqlite/

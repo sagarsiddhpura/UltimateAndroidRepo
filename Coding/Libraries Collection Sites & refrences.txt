@@ -11,3 +11,5 @@ https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
 
 Java
 https://github.com/cxxr/better-java
+
+http://newandroidbook.com/index.php

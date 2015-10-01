@@ -12,6 +12,7 @@ https://medium.com/@Mul0w/publish-with-gradle-on-bitbucket-1463236dc460
 http://gregloesch.com/dev/2015/08/19/Android-Gradle-Learnings.html
 https://www.reddit.com/r/androiddev/comments/3ig3gm/show_us_your_gradle_tasks/
 https://www.reddit.com/r/androiddev/comments/3iqk09/gradle_build_times_have_me_like_%EF%BE%89%E0%B2%A5%E7%9B%8A%E0%B2%A5%EF%BE%89/
+https://www.reddit.com/r/androiddev/comments/3n313g/psa_upgrade_your_gradle_version_to_28rc1_for_a/
 
 http://fuzzydroid.blogspot.hu/2015/09/some-gradle-tricks-for-android.html
 
@@ -20,3 +21,5 @@ https://github.com/evant/gradle-retrolambda
 https://github.com/Genymobile/genymotion-gradle-plugin
 
 https://brock.io/blog/post/repeatable_android_builds/
+
+https://nullpointer.wtf/tools/keeping-your-dependencies-up-to-date/

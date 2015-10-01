@@ -31,3 +31,11 @@ https://github.com/JakeWharton/pidcat
 
 App for logging
 https://github.com/plusCubed/matlog
+
+Sniff packets
+https://www.reddit.com/r/androiddev/comments/3m298v/is_there_any_way_to_monitor_incoming_and_outgoing/
+https://github.com/hexene/LocalVPN
+
+Debugging
+http://code.tutsplus.com/tutorials/debugging-android-apps-with-facebooks-stetho--cms-24205
+https://github.com/romainguy/ViewServer

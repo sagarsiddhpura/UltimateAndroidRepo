@@ -11,6 +11,7 @@ http://antonioleiva.com/dependency-injection-android-dagger-part-1/
 https://github.com/patrykpoborca/CleanArchitecture/
 
 https://github.com/guiwro/StarWrobs
+https://github.com/JayNewstrom/AutoModule
 
 
 http://frogermcs.github.io/dependency-injection-with-dagger-2-introdution-to-di/

@@ -6,3 +6,5 @@ http://stablekernel.com/blog/mvvm-on-android-using-the-data-binding-library/
 http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/
 http://prashamtrivedi.github.io/adventures-databinding-4/
 http://www.mutualmobile.com/posts/using-data-binding-api-in-recyclerview
+https://speakerdeck.com/jacobtabak/data-binding-techniques-at-droidcon-nyc-2015
+https://medium.com/@ivanc/loading-images-with-data-binding-and-picasso-555dad683fdc

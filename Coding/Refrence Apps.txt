@@ -37,9 +37,12 @@ https://gitlab.com/Commit451/GitLabAndroid - AppCompat, Design, RecyclerView, Re
 https://github.com/k0shk0sh/Fast-Access-Floating-Toolbox-
 https://github.com/avjinder/Minimal-Todo
 https://github.com/romainguy/road-trip - animations
-
+https://github.com/vquigley/ConstantReminder-Android - Okay app
+https://github.com/twitterdev/cannonball-web - twitter digits, crashlytics.
+https://github.com/hitherejoe/MVVM_Hacker_News - MVVM
 Game
 https://github.com/JTronLabs/Space-Shooter-Android
+https://github.com/DoubleElite/EzCaloriez
 
 Chat
 https://github.com/GleasonK/pubnub-android-lolli-chat

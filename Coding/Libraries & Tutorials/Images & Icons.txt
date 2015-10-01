@@ -12,6 +12,7 @@ https://github.com/florent37/MaterialImageLoading
 http://frescolib.org/
 https://github.com/wasabeef/fresco-processors
 https://github.com/koush/ion
+https://github.com/davemorrissey/subsampling-scale-image-view
 ImageGallery
 https://github.com/lawloretienne/ImageGallery
 Picasso:
@@ -74,6 +75,7 @@ https://github.com/code-mc/material-icon-lib
 http://codepen.io/grapestheme/pen/vOVybG
 https://github.com/google/material-design-icons
 https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAAahUKEwit94GMw_vHAhUJcY4KHYUSCgs&url=http%3A%2F%2Fwww.iconspedia.com%2F&usg=AFQjCNGxu8w6vxh-v3sjQt1V5ctq02k6Jw&sig2=zS_vj5gSxBQSMFjpxDes0Q
+https://www.reddit.com/r/androiddev/comments/3lz11h/need_some_help_with_your_apps_icon_im_a_graphics/
 
 https://icons8.com/
 http://cookicons.co/#

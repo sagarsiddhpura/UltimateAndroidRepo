@@ -1,5 +1,6 @@
 https://plus.google.com/+AndroidDevelopers/posts/9kZ3SsXdT2T
 http://engineering.flipboard.com/2015/09/psync/
+https://plus.google.com/+AndroidDevelopers/posts/9kZ3SsXdT2T
 
 Shared Prefrences
 https://github.com/konmik/proxypref

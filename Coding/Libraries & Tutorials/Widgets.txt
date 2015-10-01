@@ -30,6 +30,7 @@ https://github.com/jayrambhia/FloatingLabelLayout
 https://gist.github.com/chrisbanes/11247418
 http://www.dmytrodanylyk.com/pages/blog/error-label.html
 https://blog.stylingandroid.com/textinputlayout/
+https://github.com/chathudan/KitKatEmoji
 
 https://github.com/RomainPiel/Shimmer-android
 https://github.com/chiuki/advanced-textview
@@ -43,6 +44,9 @@ http://matthewwear.ghost.io/for-posterity-how-to-render-html-in-a-text-view-and-
 
 TextView
 http://adarshspatel.in/android-autocompletetextview-example/
+https://github.com/android-awesome/Awesome-Material
+https://github.com/QVDev/DistilledViewPrefs - readablity
+https://github.com/chathudan/KitKatEmoji
 
 Sliding tabs
 https://github.com/googlesamples/android-SlidingTabsColors
@@ -50,23 +54,24 @@ https://github.com/googlesamples/android-SlidingTabsBasic
 https://github.com/jpardogo/PagerSlidingTabStrip
 https://github.com/cmc00022/CityMapperTabs - Color changing tabs
 http://panavtec.me/playing-with-the-new-support-tablayout/
+https://github.com/vitovalov/TabbedCoordinatorLayout
 
 Wizard pager
 https://github.com/romannurik/android-wizardpager
 https://github.com/MarkOSullivan94/Android-Material-Wizard
 https://github.com/Pixplicity/MultiViewPager
 
-badge in actionbar
+actionbar, toolbar
 https://github.com/mikepenz/Android-ActionItemBadge
-
-recycler view
-https://github.com/googlesamples/android-RecyclerView
-
-Swipe recycler view
-https://github.com/rahulrj/Swipe_RecyclerView
+https://medium.com/@ZakTaccardi/goodbye-actionbar-apis-hello-toolbar-af6ae7b31e5d
+https://github.com/fahimk/material-menu
+https://plus.google.com/+AndroidDevelopers/posts/AV2ooBWY1iy
+https://www.reddit.com/r/androiddev/comments/3m92ho/is_there_a_way_to_change_the_title_bar_color_in/    recents view
+https://github.com/vitovalov/TabbedCoordinatorLayout
 
 Calendar Widget
 https://github.com/romannurik/Android-MonthCalendarWidget
+https://github.com/prolificinteractive/material-calendarview
 
 Tree View
 https://github.com/fahimk/AndroidTreeView
@@ -75,6 +80,7 @@ Buttons
 https://github.com/fahimk/fancybuttons
 http://www.dmytrodanylyk.com/pages/blog/material-flat-button.html
 http://www.dmytrodanylyk.com/pages/blog/flat-button.html
+https://github.com/android-awesome/Awesome-Material
 
 Navigation drawer
 https://github.com/neokree/MaterialNavigationDrawer
@@ -92,6 +98,7 @@ https://github.com/Pixplicity/MultiViewPager
 https://www.bignerdranch.com/blog/viewpager-without-fragments/
 https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f
 http://blog.grafixartist.com/parallax-scrolling-tabs-design-support-library/
+https://github.com/sacot41/SCViewPager
 
 Percentage Layout
 https://plus.google.com/+AndroidDevelopers/posts/C8oaLunpEEj
