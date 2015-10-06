@@ -13,13 +13,14 @@ http://frescolib.org/
 https://github.com/wasabeef/fresco-processors
 https://github.com/koush/ion
 https://github.com/davemorrissey/subsampling-scale-image-view
+https://github.com/avianey/android-smart-image-view
 ImageGallery
 https://github.com/lawloretienne/ImageGallery
 Picasso:
 http://square.github.io/picasso/
 https://futurestud.io/blog/picasso-getting-started-simple-loading/
 https://github.com/wasabeef/picasso-transformations
-
+https://nullpointer.wtf/android/image-loading-with-picasso/
 
 Effects
 https://github.com/PomepuyN/BlurEffectForAndroidDesign
@@ -76,6 +77,7 @@ http://codepen.io/grapestheme/pen/vOVybG
 https://github.com/google/material-design-icons
 https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAAahUKEwit94GMw_vHAhUJcY4KHYUSCgs&url=http%3A%2F%2Fwww.iconspedia.com%2F&usg=AFQjCNGxu8w6vxh-v3sjQt1V5ctq02k6Jw&sig2=zS_vj5gSxBQSMFjpxDes0Q
 https://www.reddit.com/r/androiddev/comments/3lz11h/need_some_help_with_your_apps_icon_im_a_graphics/
+https://medium.com/materialup-exploring-material-design/tips-thoughts-on-creating-quality-material-design-icons-4b02b8d0bdd5
 
 https://icons8.com/
 http://cookicons.co/#

@@ -23,6 +23,8 @@ https://realm.io/news/ellen-shapiro-android-testing/
 https://medium.com/@patrykpoborca/making-a-best-practice-app-5-clean-architecture-testing-84a1672dd000
 https://io2015codelabs.appspot.com/codelabs/android-studio-testing#1
 https://packetzoom.com/blog/continuous-integration-with-the-aws-device-farm.html
+http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/
+https://speakerdeck.com/asfalcone/android-developer-options
 
 Sample projects
 https://github.com/chiuki/android-test-demo

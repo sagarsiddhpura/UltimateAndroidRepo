@@ -1,0 +1,12 @@
+http://lgvalle.github.io/2015/08/04/flux-architecture/
+http://fernandocejas.com/2015/07/18/architecting-android-the-evolution/
+https://www.reddit.com/r/androiddev/comments/3e48bj/architecture_for_beginners_solid_principles/
+https://www.reddit.com/r/androiddev/comments/3frcwd/how_many_of_you_use_mvcmvp_in_your_work_projects/
+https://www.reddit.com/r/androiddev/comments/3g0zjr/mvp_what_are_the_most_shared_ui_functionalities/
+https://www.reddit.com/r/androiddev/comments/3girbv/i_keep_seeing_mvp_mvvm_mvc_but_i_am_utterly/
+https://github.com/patrykpoborca/CleanArchitecture/tree/feature/furtherwork
+https://github.com/hitherejoe/MVVM_Hacker_News
+https://medium.com/android-news/android-architecture-2f12e1c7d4db
+https://medium.com/ribot-labs/approaching-android-with-mvvm-8ceec02d5442
+https://www.reddit.com/r/androiddev/comments/3lx99j/mvp_where_to_put_activity_intent/
+https://github.com/doridori/Pilot

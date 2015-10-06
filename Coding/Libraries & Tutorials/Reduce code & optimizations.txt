@@ -1,5 +1,6 @@
 via annotations
 https://github.com/JakeWharton/butterknife
+https://github.com/avast/android-butterknife-zelezny
 https://github.com/florent37/TutosAndroidFrance/tree/master/ButterKnifeSample
 https://github.com/jug6ernaut/saber
 https://github.com/f2prateek/dart
@@ -12,6 +13,7 @@ https://github.com/frankiesardo/icepick
 https://github.com/hansenji/pocketknife
 https://github.com/MichaelEvans/Aftermath
 https://github.com/uPhyca/GAlette - Google analytics
+https://code.facebook.com/posts/1480969635539475
 
 https://github.com/workday/postman
 https://github.com/johncarl81/parceler

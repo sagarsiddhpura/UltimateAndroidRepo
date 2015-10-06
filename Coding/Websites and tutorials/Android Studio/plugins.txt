@@ -22,3 +22,8 @@ https://plugins.jetbrains.com/plugin/7567
 https://plugins.jetbrains.com/plugin/7211?pr=idea
 https://plugins.jetbrains.com/plugin/7212?pr=idea
 
+
+https://github.com/avast/android-butterknife-zelezny
+https://plugins.jetbrains.com/plugin/4455?pr=clion
+https://github.com/pbreault/adb-idea
+https://plugins.jetbrains.com/plugin/7086?pr=

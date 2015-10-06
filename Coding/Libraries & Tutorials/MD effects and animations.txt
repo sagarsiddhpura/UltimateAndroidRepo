@@ -27,6 +27,8 @@ http://andersonleite.com.br/2015/08/11/android-animations.html
 https://github.com/dtx12/AndroidAnimationsActions
 https://www.reddit.com/r/androiddev/comments/3lgnlh/google_play_newsstand_parallax_appbarlayout/
 http://www.malmstein.com/blog/2015/09/20/yahnac-meets-the-material-design-library/
+https://github.com/IvBaranov/MaterialFavoriteButton
+https://github.com/tumblr/Backboard
 
 Loading
 http://jorgecastillo.xyz/2015/08/16/android-fillable-loaders/
@@ -95,6 +97,13 @@ https://github.com/flavienlaurent/poppyview
 Animations L+
 https://medium.com/@fredrikaldgard/easy-android-shared-element-transition-ac36952a4a4
 
+Parallax
+https://github.com/florent37/BeautifulParallax
+
 Examples
 http://frogermcs.github.io/instamaterial-meets-design-support-library/
 https://github.com/DenisMondon/material-design-library
+https://github.com/mwolfson/android-historian
+
+SVG
+https://github.com/bonnyfone/vectalign - Animations

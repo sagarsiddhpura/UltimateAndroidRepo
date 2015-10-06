@@ -1,2 +1,3 @@
 https://www.crashlytics.com/blog/mastering-proguard-for-building-lightweight-android-code
 https://github.com/artem-zinnatullin/RxJavaProGuardRules
+https://github.com/PrashamTrivedi/ProguardSnips

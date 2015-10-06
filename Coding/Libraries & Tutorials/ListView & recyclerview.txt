@@ -22,6 +22,10 @@ https://medium.com/@bherbst/quick-return-with-recyclerview-e70c8da9b4c1
 http://panavtec.me/retain-restore-recycler-view-scroll-position/
 https://github.com/candidcold/ViewTypes
 https://speakerdeck.com/devunwired/mastering-recyclerview-layouts
+https://nullpointer.wtf/android/image-loading-with-picasso/
+http://stackoverflow.com/questions/32926508/android-best-way-to-get-pagination-scroll-for-lazy-loading-with-fast-scroll?noredirect=1#comment53679492_32926508
+https://github.com/florent37/BeautifulParallax
+https://www.bignerdranch.com/blog/recyclerview-part-1-fundamentals-for-listview-experts/
 
 With database
 https://www.reddit.com/r/androiddev/comments/3hje1u/best_way_to_populate_a_recyclerview_with_a_sqlite/
@@ -32,6 +36,9 @@ https://github.com/sockeqwe/AdapterDelegates
 https://github.com/c0nnector/Least
 http://hannesdorfmann.com/android/dont-interrupt-user-flow/
 https://matalamaki.fi/2015/09/24/implementing-sticky-recyclerview-grid-headers-on-android/
+
+Headers
+https://github.com/timehop/sticky-headers-recyclerview
 
 Click listeners
 https://www.reddit.com/r/androiddev/comments/3ezvyu/which_is_the_best_approach_for_implementing/

@@ -29,3 +29,7 @@ https://github.com/Ghuizing/Clippr
 https://github.com/PaNaVTEC/Coordinator-java
 
 https://github.com/airbnb/DeepLinkDispatch
+https://github.com/konmik/solid
+
+Documentation
+https://github.com/vanniktech/gradle-android-javadoc-plugin

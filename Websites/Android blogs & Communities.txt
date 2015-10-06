@@ -1,3 +1,4 @@
 https://github.com/vbauer/android-blogs
 
 http://androidchat.co/join
+https://github.com/ziem/android-development-blogs
