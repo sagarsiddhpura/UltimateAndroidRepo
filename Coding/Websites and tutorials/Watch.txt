@@ -1,2 +1,3 @@
 http://blog.sqisland.com/2015/07/how-to-test-a-watch-face.html
 https://github.com/jrejaud/WearSocket
+http://marcouberti.net/2015/10/11/how-to-create-a-stunning-android-wear-watch-face-like-american-sunsets-watch-face/

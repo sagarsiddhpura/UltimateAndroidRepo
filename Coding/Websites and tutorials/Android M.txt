@@ -9,3 +9,6 @@ http://android-developers.blogspot.com/2015/08/building-better-apps-with-runtime
 http://stackoverflow.com/questions/32471888/application-not-able-to-access-sd-card-when-write-external-storage-permission-is
 https://github.com/tbruyelle/RxPermissions
 https://plus.google.com/+AndroidDevelopers/posts/FqgHUevqHiK
+http://blog.danlew.net/2015/10/07/sharing-files-on-android-in-a-world-with-runtime-permissions/
+https://commonsware.com/blog/2015/10/07/runtime-permissions-files-action-send.html
+http://android-developers.blogspot.com/2015/09/new-android-marshmallow-sample-apps.html

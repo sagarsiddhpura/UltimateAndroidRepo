@@ -26,9 +26,12 @@ https://www.ykode.com/2015/02/20/android-frp-rxjava-retrolambda.html
 https://github.com/tbruyelle/RxPermissions
 http://blog.wittchen.biz.pl/introducing-reactivesensors/
 http://angusmorton.com/observable-share/
+http://blog.human-readable.net/2015/03/android-rxjava-ui1.html
+http://andriydruk.github.io/post/rxdnssd/
 
 Good
 https://medium.com/@cesarmcferreira/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c
+https://blog.growth.supply/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c
 https://www.reddit.com/r/androiddev/comments/3iir8o/party_tricks_with_rxjava_rxandroid_retrolambda/
 https://github.com/JakeWharton/RxBinding/
 https://github.com/artem-zinnatullin/RxJavaProGuardRules

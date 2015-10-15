@@ -2,3 +2,5 @@ https://github.com/emmaguy/clean-status-bar
 http://www.materialup.com/posts/screener-resources
 https://www.reddit.com/r/androiddev/comments/3cgexb/is_there_any_place_i_can_get_free_stock_photos_of/
 http://appscreenshotmaker.com/
+https://medium.com/@emmaguy/death-to-ugly-android-screenshots-48ea071d912e
+http://developer.android.com/distribute/tools/promote/device-art.html

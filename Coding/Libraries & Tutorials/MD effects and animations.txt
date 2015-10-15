@@ -29,6 +29,12 @@ https://www.reddit.com/r/androiddev/comments/3lgnlh/google_play_newsstand_parall
 http://www.malmstein.com/blog/2015/09/20/yahnac-meets-the-material-design-library/
 https://github.com/IvBaranov/MaterialFavoriteButton
 https://github.com/tumblr/Backboard
+https://www.reddit.com/r/androiddev/comments/3nxvo9/how_to_recreate_the_shared_elements_transition_of/
+https://github.com/lgvalle/Material-Animations/
+https://github.com/saulmm/Android-Material-Examples
+
+Recyclerview
+http://antonioleiva.com/layout-animations-on-recyclerview/
 
 Loading
 http://jorgecastillo.xyz/2015/08/16/android-fillable-loaders/
@@ -93,6 +99,7 @@ https://github.com/pjambo/ToolbarTitleAnimation
 Transistions
 https://github.com/googlesamples/android-CustomTransition
 https://github.com/flavienlaurent/poppyview
+https://www.reddit.com/r/androiddev/comments/3odsdq/shared_element_transition_picasso_after_oncreate/
 
 Animations L+
 https://medium.com/@fredrikaldgard/easy-android-shared-element-transition-ac36952a4a4

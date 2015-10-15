@@ -4,3 +4,4 @@ http://developer.android.com/google/play/billing/billing_testing.html
 http://stackoverflow.com/questions/24480069/google-in-app-billing-illegalargumentexception-service-intent-must-be-explicit
 https://www.reddit.com/r/androiddev/comments/3jes97/testing_inapp_subscriptions_is_it_really_this/
 https://github.com/onepf/OpenIAB
+https://www.reddit.com/r/androiddev/comments/3nymx7/how_do_you_manage_inapp_purchases_in_your/

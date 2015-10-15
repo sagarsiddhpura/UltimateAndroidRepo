@@ -6,6 +6,8 @@ https://www.pinterest.com/pin/155726099589353989/
 https://github.com/deano2390/MaterialShowcaseView
 https://github.com/amlcurran/ShowcaseView
 https://github.com/sacot41/SCViewPager
+https://github.com/ViksaaSkool/AwesomeSplash
+https://medium.com/@lucasurbas/placeholder-ui-launch-screen-d85c35552119
 
 https://github.com/jonfinerty/Once
 

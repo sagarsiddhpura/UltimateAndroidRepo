@@ -6,6 +6,7 @@ https://www.reddit.com/r/androiddev/comments/3g3eaq/finding_xml_layout_of_anothe
 https://www.reddit.com/r/androiddev/comments/3hss6v/heads_up_for_those_using_proguard_play_services/
 https://koz.io/inside-safetynet/
 https://www.cossacklabs.com/building-secure-chat
+http://blog.octo.com/en/develop-secured-android-application/
 
 Encryption
 Spongy Castle on Android: https://rtyley.github.io/spongycastle/

@@ -32,6 +32,7 @@ https://github.com/googlesamples/android-testing
 https://medium.com/@vashisthg/android-testing-notes-and-resources-58484bc280a6
 https://github.com/googlesamples/android-testing-templates/tree/master/AndroidTestingBlueprint
 https://github.com/stephanenicolas/Quality-Tools-for-Android
+https://plus.google.com/+AndroidDevelopers/posts/SXVtgnoKcAY
 
 libs
 http://mockito.org/
@@ -40,6 +41,7 @@ https://github.com/hotchemi/awesome-android-testing
 https://github.com/ribot/assertj-rx
 https://github.com/square/burst
 https://github.com/ryanw-se/SimpleRouter
+https://github.com/vanniktech/gradle-android-junit-jacoco-plugin
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/

@@ -8,7 +8,7 @@ https://github.com/commonsguy/cw-omnibus
 
 https://github.com/android/platform_frameworks_support
 https://search-codelabs.appspot.com/
+https://github.com/MakinGiants/awesome-mobile-dev
 
 AOSP code
 https://android.googlesource.com/?format=HTML
- 

@@ -26,6 +26,10 @@ https://nullpointer.wtf/android/image-loading-with-picasso/
 http://stackoverflow.com/questions/32926508/android-best-way-to-get-pagination-scroll-for-lazy-loading-with-fast-scroll?noredirect=1#comment53679492_32926508
 https://github.com/florent37/BeautifulParallax
 https://www.bignerdranch.com/blog/recyclerview-part-1-fundamentals-for-listview-experts/
+http://arjunu.com/2015/10/android-recyclerview-with-different-cardviews/
+
+Animations
+http://antonioleiva.com/layout-animations-on-recyclerview/
 
 With database
 https://www.reddit.com/r/androiddev/comments/3hje1u/best_way_to_populate_a_recyclerview_with_a_sqlite/

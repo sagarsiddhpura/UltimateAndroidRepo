@@ -14,6 +14,8 @@ https://github.com/wasabeef/fresco-processors
 https://github.com/koush/ion
 https://github.com/davemorrissey/subsampling-scale-image-view
 https://github.com/avianey/android-smart-image-view
+https://github.com/MikeOrtiz/TouchImageView
+https://github.com/sephiroth74/ImageViewZoom
 ImageGallery
 https://github.com/lawloretienne/ImageGallery
 Picasso:
@@ -69,6 +71,9 @@ https://www.reddit.com/r/androiddev/comments/3gu77t/whats_a_decent_svg_library/
 https://github.com/trello/victor
 https://github.com/avianey/androidsvgdrawable-plugin
 https://github.com/Pixplicity/sharp
+
+Banner
+http://www.norio.be/android-feature-graphic-generator/
 
 Icons
 https://romannurik.github.io/AndroidAssetStudio/index.htmlx

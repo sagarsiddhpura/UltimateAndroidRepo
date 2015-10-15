@@ -1,0 +1,2 @@
+https://github.com/jcmore2/ShakePhoneLib
+https://github.com/square/seismic

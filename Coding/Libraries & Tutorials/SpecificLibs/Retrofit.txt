@@ -14,3 +14,6 @@ http://mattlogan.me/notes-on-updating-to-retrofit-2.html
 https://speakerdeck.com/jakewharton/simple-http-with-retrofit-2-droidcon-nyc-2015
 https://github.com/ryee1/NoSleepReader
 https://futurestud.io/blog/retrofit-2-upgrade-guide-from-1-9/
+
+Testing
+http://riggaroo.co.za/mocking-api-responses-using-a-retrofit-client-in-android/

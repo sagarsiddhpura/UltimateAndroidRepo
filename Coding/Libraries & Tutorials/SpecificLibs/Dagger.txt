@@ -9,6 +9,7 @@ https://www.reddit.com/r/androiddev/comments/3eqz11/in_dagger2_when_should_we_ad
 https://gist.github.com/konmik/6ac725fa7134402539c4
 http://antonioleiva.com/dependency-injection-android-dagger-part-1/
 https://github.com/patrykpoborca/CleanArchitecture/
+https://medium.com/@theMikhail/flavoring-your-dagger-14ab8bcef9f8
 
 https://github.com/guiwro/StarWrobs
 https://github.com/JayNewstrom/AutoModule

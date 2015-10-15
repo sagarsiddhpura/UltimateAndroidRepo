@@ -8,3 +8,4 @@ http://prashamtrivedi.github.io/adventures-databinding-4/
 http://www.mutualmobile.com/posts/using-data-binding-api-in-recyclerview
 https://speakerdeck.com/jacobtabak/data-binding-techniques-at-droidcon-nyc-2015
 https://medium.com/@ivanc/loading-images-with-data-binding-and-picasso-555dad683fdc
+https://blog.stylingandroid.com/data-binding-part-1/
