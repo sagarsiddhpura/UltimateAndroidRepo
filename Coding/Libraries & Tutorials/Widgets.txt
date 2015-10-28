@@ -31,6 +31,7 @@ https://gist.github.com/chrisbanes/11247418
 http://www.dmytrodanylyk.com/pages/blog/error-label.html
 https://blog.stylingandroid.com/textinputlayout/
 https://github.com/chathudan/KitKatEmoji
+https://github.com/DreaminginCodeZH/MaterialEditText
 
 https://github.com/RomainPiel/Shimmer-android
 https://github.com/chiuki/advanced-textview
@@ -41,6 +42,7 @@ https://github.com/googlesamples/android-TextSwitcher
 http://antonioleiva.com/textview_power_drawables/
 
 http://matthewwear.ghost.io/for-posterity-how-to-render-html-in-a-text-view-and-handle-link-clicks/
+http://blog.danlew.net/2015/10/12/beware-edittext-on-api-21/
 
 TextView
 http://adarshspatel.in/android-autocompletetextview-example/
@@ -109,3 +111,4 @@ http://stackoverflow.com/questions/32066277/how-do-i-set-a-different-theme-for-a
 
 Webview
 https://github.com/hitherejoe/Tabby
+http://artemzin.com/blog/use-okhttp-to-load-resources-for-webview/

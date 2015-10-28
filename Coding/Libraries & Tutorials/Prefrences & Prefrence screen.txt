@@ -5,3 +5,4 @@ https://plus.google.com/+AndroidDevelopers/posts/9kZ3SsXdT2T
 Shared Prefrences
 https://github.com/konmik/proxypref
 https://github.com/fdoyle/EasyDatastore
+getAllSystemTemplateVersions

@@ -1,1 +1,2 @@
 http://joerichard.net/android/android-material-design-searchview-example/
+https://coderwall.com/p/zpwrsg/add-search-function-to-list-view-in-android

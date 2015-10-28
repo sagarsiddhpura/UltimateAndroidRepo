@@ -15,3 +15,5 @@ https://developers.oovoo.com/
 Audio
 http://superpowered.com/#axzz3gVU4wJsj
 https://github.com/NathanielWaggoner/AndroidAudioExamples
+https://github.com/lubecjac/Q
+https://github.com/birdcage/soundcloud-web-api-android

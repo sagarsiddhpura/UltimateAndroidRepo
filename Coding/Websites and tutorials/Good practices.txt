@@ -15,6 +15,9 @@ https://www.reddit.com/r/androiddev/comments/3l6gor/what_are_the_differences_bet
 http://ivankocijan.xyz/android-batman_like_layout/
 https://speakerdeck.com/rallat/android-development-like-a-pro
 
+Git
+http://riggaroo.co.za/using-git-flow-for-android-development/
+
 Gaming
 http://gameprogrammingpatterns.com/contents.html
 

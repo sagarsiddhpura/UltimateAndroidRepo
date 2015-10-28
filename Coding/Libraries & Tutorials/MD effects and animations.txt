@@ -32,6 +32,7 @@ https://github.com/tumblr/Backboard
 https://www.reddit.com/r/androiddev/comments/3nxvo9/how_to_recreate_the_shared_elements_transition_of/
 https://github.com/lgvalle/Material-Animations/
 https://github.com/saulmm/Android-Material-Examples
+http://blog.neteril.org/blog/2013/10/10/framelayout-your-best-ui-friend/
 
 Recyclerview
 http://antonioleiva.com/layout-animations-on-recyclerview/

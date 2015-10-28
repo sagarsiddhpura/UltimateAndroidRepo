@@ -52,6 +52,7 @@ https://github.com/quintoandar/cookiecutter-android
 https://github.com/pakoito/SongkickInterview
 https://github.com/5hirish/Android_repeating_alarms
 https://github.com/GavinThePacMan/daysuntil - Kotlin, RxJava and RxAndroid, Realm with help from Realm with RxJava, EasyAdapter, Kotter Knife, Material DateTime Picker, Universal Image Loader, Android-Crop
+https://github.com/garuma/Moyeu
 
 Game
 https://github.com/JTronLabs/Space-Shooter-Android

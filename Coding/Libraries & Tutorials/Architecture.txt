@@ -10,3 +10,5 @@ https://medium.com/android-news/android-architecture-2f12e1c7d4db
 https://medium.com/ribot-labs/approaching-android-with-mvvm-8ceec02d5442
 https://www.reddit.com/r/androiddev/comments/3lx99j/mvp_where_to_put_activity_intent/
 https://github.com/doridori/Pilot
+https://github.com/k0shk0sh/Android-MVP-for-dummies
+https://github.com/nhaarman/triad
