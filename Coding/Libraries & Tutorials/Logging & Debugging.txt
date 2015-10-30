@@ -12,6 +12,7 @@ https://github.com/orhanobut/logger - nice output format
 https://github.com/JakeWharton/hugo - annotation based logging
 https://github.com/JakeWharton/pidcat/
 https://github.com/JakeWharton/timber
+https://caster.io/episodes/episode-14-logging-with-timber/
 
 Network
 https://github.com/cookpad/puree-android
@@ -22,7 +23,7 @@ https://github.com/jgilfelt/NotificationLog
 https://github.com/Smyshliaiev/scrog
 https://github.com/inaka/galgo
 https://github.com/orhanobut/bee
-
+http://hannesdorfmann.com/android/debug-overlay/
 
 Exagerrated logging
 https://github.com/blundell/ArrowLogger

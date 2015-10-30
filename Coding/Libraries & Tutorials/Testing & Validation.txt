@@ -25,6 +25,7 @@ https://io2015codelabs.appspot.com/codelabs/android-studio-testing#1
 https://packetzoom.com/blog/continuous-integration-with-the-aws-device-farm.html
 http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/
 https://speakerdeck.com/asfalcone/android-developer-options
+https://medium.com/@patrykpoborca/junit-testing-and-android-dependencies-e65e66afce61
 
 Sample projects
 https://github.com/chiuki/android-test-demo

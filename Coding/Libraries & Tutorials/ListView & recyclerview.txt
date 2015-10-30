@@ -8,6 +8,10 @@ https://github.com/rahulrj/Swipe_RecyclerView
 https://github.com/lucasr/twoway-view
 https://github.com/bignerdranch/expandable-recycler-view
 https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/
+
+Pagination
+https://medium.com/@etiennelawlor/pagination-with-recyclerview-1cb7e66a502b
+
 Tutorials:
 http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465.
 http://vishnurajeevan.com/2015/07/12/using-recyclerview-with-multiple-items.html

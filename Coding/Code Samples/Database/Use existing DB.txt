@@ -1,0 +1,1 @@
+SQLiteDatabase.openDatabase (String path, SQLiteDatabase.CursorFactory factory, int flags)

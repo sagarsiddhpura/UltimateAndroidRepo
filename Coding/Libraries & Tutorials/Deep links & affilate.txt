@@ -1,3 +1,5 @@
+https://github.com/airbnb/DeepLinkDispatch
+https://davidguerrerodiaz.wordpress.com/2015/06/29/share-your-android-and-ios-application-with-google-app-invites-api/
 https://branch.io/
 http://www.yozio.com/
 https://developers.google.com/app-invites/

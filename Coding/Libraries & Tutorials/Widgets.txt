@@ -74,6 +74,7 @@ https://github.com/vitovalov/TabbedCoordinatorLayout
 Calendar Widget
 https://github.com/romannurik/Android-MonthCalendarWidget
 https://github.com/prolificinteractive/material-calendarview
+https://halfthought.wordpress.com/2015/10/16/datepicker-data-binding/
 
 Tree View
 https://github.com/fahimk/AndroidTreeView
