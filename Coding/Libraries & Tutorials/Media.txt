@@ -17,3 +17,4 @@ http://superpowered.com/#axzz3gVU4wJsj
 https://github.com/NathanielWaggoner/AndroidAudioExamples
 https://github.com/lubecjac/Q
 https://github.com/birdcage/soundcloud-web-api-android
+https://www.reddit.com/r/androiddev/comments/3pg9yb/need_help_with_media_player/

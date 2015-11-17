@@ -1,2 +1,3 @@
 https://github.com/EsotericSoftware/kryo
 https://github.com/frogermcs/FlatBuffs
+http://passy.svbtle.com/simpler-android-apis-with-autoparcel

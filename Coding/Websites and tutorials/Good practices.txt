@@ -14,6 +14,8 @@ https://lnikki.la/articles/android-extended-touch-view/
 https://www.reddit.com/r/androiddev/comments/3l6gor/what_are_the_differences_between_the_way_a/
 http://ivankocijan.xyz/android-batman_like_layout/
 https://speakerdeck.com/rallat/android-development-like-a-pro
+http://willowtreeapps.com/blog/android-development-tidbits-no-1/?utm_source=team&utm_medium=team&utm_campaign=android-development-tidbits_CF
+https://www.reddit.com/r/androiddev/comments/3pn3mk/10_commandments_for_better_android_development/
 
 Git
 http://riggaroo.co.za/using-git-flow-for-android-development/

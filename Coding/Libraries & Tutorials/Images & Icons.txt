@@ -23,6 +23,7 @@ http://square.github.io/picasso/
 https://futurestud.io/blog/picasso-getting-started-simple-loading/
 https://github.com/wasabeef/picasso-transformations
 https://nullpointer.wtf/android/image-loading-with-picasso/
+https://github.com/drose379/picturePerfect
 
 Effects
 https://github.com/PomepuyN/BlurEffectForAndroidDesign

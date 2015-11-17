@@ -28,6 +28,8 @@ http://blog.wittchen.biz.pl/introducing-reactivesensors/
 http://angusmorton.com/observable-share/
 http://blog.human-readable.net/2015/03/android-rxjava-ui1.html
 http://andriydruk.github.io/post/rxdnssd/
+http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
+http://akarnokd.blogspot.com/2015/10/connectableobservables-part-1.html
 
 Good
 https://medium.com/@cesarmcferreira/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c

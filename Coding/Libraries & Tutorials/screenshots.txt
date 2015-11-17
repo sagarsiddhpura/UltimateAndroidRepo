@@ -4,3 +4,4 @@ https://www.reddit.com/r/androiddev/comments/3cgexb/is_there_any_place_i_can_get
 http://appscreenshotmaker.com/
 https://medium.com/@emmaguy/death-to-ugly-android-screenshots-48ea071d912e
 http://developer.android.com/distribute/tools/promote/device-art.html
+https://www.reddit.com/r/androiddev/comments/3n3ram/i_made_a_web_based_tool_for_use_on_the_desktop/

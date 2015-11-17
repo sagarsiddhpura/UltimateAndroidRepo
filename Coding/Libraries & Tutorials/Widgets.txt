@@ -113,3 +113,8 @@ http://stackoverflow.com/questions/32066277/how-do-i-set-a-different-theme-for-a
 Webview
 https://github.com/hitherejoe/Tabby
 http://artemzin.com/blog/use-okhttp-to-load-resources-for-webview/
+
+Chips
+https://github.com/splitwise/TokenAutoComplete
+https://github.com/AndroidDeveloperLB/ChipsLibrary
+https://github.com/creativepsyco/android-chips
