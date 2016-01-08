@@ -1,8 +1,9 @@
 https://github.com/square/sqlbrite
 http://hannesdorfmann.com/android/sqlbrite-dao/
 https://github.com/pushtorefresh/storio
-https://realm.io/pricing/
+
 https://bitbucket.org/qbusict/cupboard
+https://github.com/pilgr/Paper
 
 http://gradlewhy.ghost.io/realm-results-with-recyclerview/
 
@@ -18,3 +19,9 @@ https://www.reddit.com/r/androiddev/comments/3hje1u/best_way_to_populate_a_recyc
 
 View DB
 http://inloop.github.io/sqlite-viewer/
+
+Realm
+https://realm.io/pricing/
+https://caster.io/episodes/realm-for-android-developers/
+
+https://github.com/cesarferreira/RxPaper

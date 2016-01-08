@@ -84,7 +84,15 @@ https://github.com/google/material-design-icons
 https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAAahUKEwit94GMw_vHAhUJcY4KHYUSCgs&url=http%3A%2F%2Fwww.iconspedia.com%2F&usg=AFQjCNGxu8w6vxh-v3sjQt1V5ctq02k6Jw&sig2=zS_vj5gSxBQSMFjpxDes0Q
 https://www.reddit.com/r/androiddev/comments/3lz11h/need_some_help_with_your_apps_icon_im_a_graphics/
 https://medium.com/materialup-exploring-material-design/tips-thoughts-on-creating-quality-material-design-icons-4b02b8d0bdd5
+http://materialdesignblog.com/top-10-sets-of-free-material-design-icons-for-web-designers-and-developers/
+https://materialdesignicons.com/
+https://thenounproject.com/search/?q=book
+http://flaticon.com/
+https://play.google.com/store/apps/details?id=xeus.iconic
+https://github.com/redwarp/9-Patch-Resizer
+https://plugins.jetbrains.com/plugin/7647?pr=
 
+http://joanzapata.com/android-iconify/
 https://icons8.com/
 http://cookicons.co/#
 http://www.materialup.com/posts/material-product-icon-template

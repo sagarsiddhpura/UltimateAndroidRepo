@@ -8,3 +8,4 @@ https://github.com/chrisbanes/gradle-mvn-push
 https://gist.github.com/PrashamTrivedi/61fe9156f3c7800b734d
 https://gist.github.com/doridori/031d87e15bc7ce6f5371
 https://github.com/oguzbabaoglu/butterfork
+https://medium.com/@Commit451/hosting-a-private-gradle-dependency-for-free-b77572ffbeab

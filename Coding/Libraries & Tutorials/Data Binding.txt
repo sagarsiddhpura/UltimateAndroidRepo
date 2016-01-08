@@ -10,3 +10,4 @@ https://speakerdeck.com/jacobtabak/data-binding-techniques-at-droidcon-nyc-2015
 https://medium.com/@ivanc/loading-images-with-data-binding-and-picasso-555dad683fdc
 https://blog.stylingandroid.com/data-binding-part-1/
 https://halfthought.wordpress.com/2015/10/16/datepicker-data-binding/
+https://blog.stylingandroid.com/data-binding-part-5/

@@ -1,4 +1,4 @@
-
+http://www.captechconsulting.com/blogs/runtime-permissions-best-practices-and-how-to-gracefully-handle-permission-removal
 http://inthecheesefactory.com/blog/things-you-need-to-know-about-android-m-permission-developer-edition/en
 https://medium.com/@rotxed/drawing-over-other-apps-marshmallow-edition-987eff9f99a9
 https://commonsware.com/blog/2015/08/17/random-musings-android-6p0-sdk.html
@@ -13,3 +13,7 @@ http://blog.danlew.net/2015/10/07/sharing-files-on-android-in-a-world-with-runti
 https://commonsware.com/blog/2015/10/07/runtime-permissions-files-action-send.html
 http://android-developers.blogspot.com/2015/09/new-android-marshmallow-sample-apps.html
 https://gist.github.com/ccpmark/430d4ddf3a46a02672c1
+http://android-developers.blogspot.com/2015/10/how-google-cloud-messaging-handles-doze.html?linkId=17513523
+https://medium.com/google-developer-experts/intent-resolving-in-android-m-c17d39d27048
+https://gist.github.com/odedhb/9085d58d50b4c0aa15e3
+https://commonsware.com/blog/2015/11/24/securityexceptions-runtime-permissions-reset-app-preferences.html

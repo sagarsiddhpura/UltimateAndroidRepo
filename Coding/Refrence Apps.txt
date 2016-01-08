@@ -58,10 +58,28 @@ https://github.com/nickbutcher/plaid
 https://github.com/WhisperSystems/TextSecure
 https://github.com/Nexxado/WifiPasswords
 https://github.com/mvarnagiris/financius-public
+https://github.com/florent37/OCiney
+https://github.com/tunjos/searchbubble
+https://github.com/rrtigga/GetDisciplined
+https://github.com/hitherejoe/Pickr
+https://android.googlesource.com/platform/packages/apps/Launcher2/+/master
+https://github.com/rohitsthaa/retrofit-openweather
+https://github.com/jlelse/Passwy
+https://github.com/nowsecure/android-vts/releases
+https://github.com/anthonycr/Lightning-Browser
+https://github.com/materialdoc/materialdoc
+https://github.com/JakeWharton/Telecine - Screen recording
+https://github.com/cfinke/Reenact
+http://quickblox.com/developers/Sample-webrtc-android - video calling
+
+Design
+https://github.com/materialdoc/materialdoc
 
 Animations & MD:
 https://github.com/nickbutcher/plaid
 https://github.com/chrisbanes/cheesesquare/
+https://github.com/tarek360/Material-Animation-Samples
+https://github.com/spongebobrf/MaterialIntroTutorial
 
 Game
 https://github.com/JTronLabs/Space-Shooter-Android
@@ -70,6 +88,7 @@ https://github.com/DoubleElite/EzCaloriez
 Chat
 https://github.com/GleasonK/pubnub-android-lolli-chat
 https://github.com/WhisperSystems/TextSecure
+https://blog.pusher.com/build-an-android-chat-app-with-pusher/?utm_source=reddit&utm_medium=organic_post&utm_campaign=android_chat_app_tutorial_release
 
 Reddit client: comments, upvote downvote
 https://github.com/TheKeeperOfPie/Reader
@@ -81,17 +100,13 @@ From Google
 https://github.com/googlesamples/android-XYZTouristAttractions/
 https://github.com/googlesamples/android-topeka
 https://github.com/googlesamples/android-UniversalMusicPlayer
-
-https://github.com/florent37/OCiney
-
-https://github.com/tarek360/Material-Animation-Samples
-
-https://github.com/rrtigga/GetDisciplined
+https://android.googlesource.com/platform/frameworks/rs/+/master/java/tests/HealingBrush/
 
 Architecture & Best Practices
 https://github.com/patrykpoborca/CleanArchitecture/tree/feature/furtherwork
 https://github.com/futurice/android-best-practices
 https://github.com/ivacf/archi
+https://github.com/rallat/EffectiveAndroid
 
 Libs RxJava
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/
@@ -107,7 +122,6 @@ https://github.com/chrisbanes/philm
 https://github.com/maxpower47/pindroid
 https://github.com/UweTrottmann/SeriesGuide
 http://www.aptoide.org/browser/aptoide-client?order=name
-
 
 https://github.com/UweTrottmann/SeriesGuide/
 https://github.com/KeenSoftwareHouse/SpaceEngineers

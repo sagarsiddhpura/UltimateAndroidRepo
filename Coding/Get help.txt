@@ -1,3 +1,4 @@
 https://www.reddit.com/r/androiddev/comments/3h8rwr/other_than_here_and_so_are_theyre_any_other/
 #android-dev (IRC via irc.freenode.net)
 https://androidchat.slack.com/messages/@slackbot/
+https://www.reddit.com/r/androiddev/comments/3tcxkz/randroiddev_group_chat/

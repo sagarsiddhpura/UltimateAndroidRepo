@@ -11,3 +11,5 @@ https://medium.com/@BashaChris/overhauling-the-twitter-experience-on-android-80f
 
 http://pttrns.com/?did=6&page=2
 https://plus.google.com/+LiamSpradlin/posts/jVzRHAq3Vno
+
+http://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/

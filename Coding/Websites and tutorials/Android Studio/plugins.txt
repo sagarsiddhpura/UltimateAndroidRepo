@@ -27,3 +27,7 @@ https://github.com/avast/android-butterknife-zelezny
 https://plugins.jetbrains.com/plugin/4455?pr=clion
 https://github.com/pbreault/adb-idea
 https://plugins.jetbrains.com/plugin/7086?pr=
+
+https://github.com/ciscorucinski/ChroMATERIAL
+
+https://plugins.jetbrains.com/plugin/7856?pr=idea

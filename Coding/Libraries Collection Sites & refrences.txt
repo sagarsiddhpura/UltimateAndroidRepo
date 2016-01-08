@@ -10,6 +10,7 @@ https://github.com/Trinea/android-open-project/tree/master/English%20Version
 https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
 http://androidbookmarks.net/
 https://github.com/MakinGiants/awesome-mobile-dev
+http://www.android-templates.com/
 
 Java
 https://github.com/cxxr/better-java

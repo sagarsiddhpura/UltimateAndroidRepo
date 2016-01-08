@@ -33,6 +33,14 @@ https://www.reddit.com/r/androiddev/comments/3nxvo9/how_to_recreate_the_shared_e
 https://github.com/lgvalle/Material-Animations/
 https://github.com/saulmm/Android-Material-Examples
 http://blog.neteril.org/blog/2013/10/10/framelayout-your-best-ui-friend/
+https://github.com/tyrantgit/ExplosionField
+https://github.com/elevenetc/TextSurface
+http://shapath.com.np/2015/10/01/getting-started-with-animations-in-android/
+https://github.com/hitherejoe/animate
+https://medium.com/ribot-labs/exploring-meaningful-motion-on-android-1cd95a4bc61d
+https://medium.com/@nullthemall/rolling-floatingactionbutton-behavior-d86fb797a1e
+
+https://github.com/SamThompson/BubbleActions
 
 Recyclerview
 http://antonioleiva.com/layout-animations-on-recyclerview/
@@ -48,6 +56,7 @@ https://github.com/googlesamples/android-RevealEffectBasic
 https://github.com/fahimk/CircularReveal
 https://github.com/balysv/material-ripple
 https://github.com/ozodrukh/CircularReveal - https://github.com/gowong/material-sheet-fab
+http://www.tutorialsbuzz.com/2015/11/android-circular-reveal-effect-whatsapp.html
 
 Summary of principles
 https://github.com/DominikAngerer/fire-bear

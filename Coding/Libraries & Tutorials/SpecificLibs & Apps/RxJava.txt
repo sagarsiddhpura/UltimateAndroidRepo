@@ -23,13 +23,23 @@ http://www.donnfelker.com/rxjava-with-aidl-services/
 http://www.andreamaglie.com/rxjava-listener-to-observable/
 http://blog.kaush.co/2015/07/11/a-note-about-the-warmth-share-operator/
 https://www.ykode.com/2015/02/20/android-frp-rxjava-retrolambda.html
-https://github.com/tbruyelle/RxPermissions
 http://blog.wittchen.biz.pl/introducing-reactivesensors/
 http://angusmorton.com/observable-share/
 http://blog.human-readable.net/2015/03/android-rxjava-ui1.html
 http://andriydruk.github.io/post/rxdnssd/
 http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
 http://akarnokd.blogspot.com/2015/10/connectableobservables-part-1.html
+http://jdam.cd/async-android/
+http://www.grokkingandroid.com/why-use-observable-create-and-not-just-inherit-from-observable/
+https://www.reddit.com/r/androiddev/comments/3thsv9/rxjava_question_how_can_you_look_back_at_the/
+https://www.reddit.com/r/androiddev/comments/3tgv2t/rxjava_question_requests_execution_time_has_to_be/
+https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.qmdn4ql0a
+https://www.reddit.com/r/androiddev/comments/3u5w0c/if_you_are_writing_observablecreate_theres_a_big/
+
+Libs
+https://github.com/tbruyelle/RxPermissions
+https://github.com/hzsweers/RxPalette
+https://github.com/cesarferreira/RxPeople
 
 Good
 https://medium.com/@cesarmcferreira/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c
@@ -40,11 +50,13 @@ https://github.com/artem-zinnatullin/RxJavaProGuardRules
 
 Visualize
 http://rxmarbles.com/#concat
+http://tomstechnicalblog.blogspot.com/2015/10/understanding-observable-emissions.html
 
 Testing
 https://github.com/ribot/assertj-rx
 http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/
 https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329
+https://github.com/rosshambrick/RxEspresso
 
 Monitor Network
 https://github.com/pwittchen/ReactiveNetwork
@@ -65,3 +77,11 @@ http://kboyarshinov.com/android/wrapping-realm-around-rxjava/
 
 Videos
 https://www.youtube.com/watch?v=l63V5bZaS70
+https://caster.io/episodes/rxjava-for-android-developers/
+
+Advanced
+http://akarnokd.blogspot.com/2015/10/connectableobservables-part-3.html
+http://akarnokd.blogspot.com/2015/10/connectableobservables-part-2.html
+
+Countdown timer
+https://www.reddit.com/r/androiddev/comments/3u0g2g/is_there_any_countdowntimer_replacement_library/

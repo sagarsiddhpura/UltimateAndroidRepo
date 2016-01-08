@@ -1,0 +1,1 @@
+https://android.googlesource.com/platform/packages/apps/Dialer/+/lollipop-release/src/com/android/dialer/widget/OverlappingPaneLayout.java

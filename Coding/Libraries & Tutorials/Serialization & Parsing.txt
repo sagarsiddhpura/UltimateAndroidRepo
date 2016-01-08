@@ -1,3 +1,6 @@
 https://github.com/EsotericSoftware/kryo
 https://github.com/frogermcs/FlatBuffs
 http://passy.svbtle.com/simpler-android-apis-with-autoparcel
+http://hannesdorfmann.com/android/ParcelablePlease/
+http://frogermcs.github.io/flatbuffers-performance-in-android-allocation-tracking/
+https://github.com/frogermcs/FlatBuffs

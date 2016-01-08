@@ -1,0 +1,5 @@
+https://www.reddit.com/r/androiddev/comments/3qfkya/share_your_kotlin_extension_functions/
+https://www.reddit.com/r/androiddev/comments/3tfrn8/is_kotlin_something_worth_investing_on/
+
+apps
+https://github.com/hotpodata/redchain

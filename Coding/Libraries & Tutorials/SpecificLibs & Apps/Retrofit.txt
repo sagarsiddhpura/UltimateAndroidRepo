@@ -17,3 +17,4 @@ https://futurestud.io/blog/retrofit-2-upgrade-guide-from-1-9/
 
 Testing
 http://riggaroo.co.za/mocking-api-responses-using-a-retrofit-client-in-android/
+http://riggaroo.co.za/retrofit-2-mocking-http-responses/

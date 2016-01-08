@@ -6,3 +6,5 @@ http://stablekernel.com/blog/level-up-with-android-studio-shortcuts-and-live-tem
 http://blog.codeleak.pl/2014/06/how-to-surround-text-with-quote-in.html
 
 https://www.reddit.com/r/androiddev/comments/3n9nis/issues_with_live_templates_in_android_studio_try/
+
+https://github.com/kanytu/Android-studio-material-template

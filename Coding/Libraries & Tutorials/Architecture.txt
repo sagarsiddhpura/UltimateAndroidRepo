@@ -14,3 +14,5 @@ https://github.com/k0shk0sh/Android-MVP-for-dummies
 https://github.com/nhaarman/triad
 
 http://pguardiola.com/blog/clean-architecture-part-1/
+
+https://realm.io/news/gotocph-mattias-kappler-reactive-architecture-android/

@@ -1,2 +1,0 @@
-https://rockyroadtocoding.wordpress.com/2015/06/20/speed-up-gradle-builds-in-android-studio/
-https://www.reddit.com/r/androiddev/comments/3lavj4/is_there_a_way_to_improve_the_gradle_tests/

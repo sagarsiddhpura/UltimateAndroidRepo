@@ -10,6 +10,7 @@ https://github.com/cmc00022/CityMapperTabs - Coloured tabs
 http://panavtec.me/playing-with-the-new-support-tablayout/
 tutorial
 http://inthecheesefactory.com/blog/android-design-support-library-codelab/en
+https://www.code-labs.io/codelabs/material-design-style/index.html#7
 
 Color palette
 https://github.com/Musenkishi/Atelier

@@ -26,6 +26,11 @@ https://packetzoom.com/blog/continuous-integration-with-the-aws-device-farm.html
 http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/
 https://speakerdeck.com/asfalcone/android-developer-options
 https://medium.com/@patrykpoborca/junit-testing-and-android-dependencies-e65e66afce61
+https://www.reddit.com/r/androiddev/comments/3qe6eb/easiest_way_to_test_small_segments_of_java_code/
+https://www.reddit.com/r/androiddev/comments/3tlvv0/testing_unit_testing_ui_automation_qa_hands_on/
+
+Json
+https://httpbin.org/
 
 Sample projects
 https://github.com/chiuki/android-test-demo
@@ -43,6 +48,9 @@ https://github.com/ribot/assertj-rx
 https://github.com/square/burst
 https://github.com/ryanw-se/SimpleRouter
 https://github.com/vanniktech/gradle-android-junit-jacoco-plugin
+http://facebook.github.io/screenshot-tests-for-android/
+https://github.com/xfumihiro/ViewInspector
+https://github.com/rosshambrick/RxEspresso
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/
@@ -58,6 +66,7 @@ http://makingiants.com/blog/how-to-include-espresso-contrib-with-proguard-and-do
 https://github.com/googlesamples/android-testing/blob/master/downloads/Espresso%20Cheat%20Sheet%20Master.pdf
 http://andersonleite.com.br/2015/08/14/android-espresso.html
 http://michaelevans.org/blog/2015/09/15/testing-intents-with-espresso-intents/
+http://blog.sqisland.com/2015/10/espresso-save-and-restore-state.html
 
 Online testing
 http://developer.samsung.com/remotetestlab/rtlDeviceList.action
@@ -65,3 +74,10 @@ http://developer.samsung.com/remotetestlab/rtlDeviceList.action
 
 Validation
 https://github.com/ragunathjawahar/android-saripaar
+
+Performance testing
+https://www.code-labs.io/codelabs/android-perf-testing/index.html#0
+
+http://blog.danlew.net/2015/11/02/sharing-code-between-unit-tests-and-instrumentation-tests-on-android/
+
+http://square.github.io/spoon/

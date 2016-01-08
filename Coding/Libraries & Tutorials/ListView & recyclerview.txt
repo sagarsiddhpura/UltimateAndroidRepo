@@ -8,6 +8,10 @@ https://github.com/rahulrj/Swipe_RecyclerView
 https://github.com/lucasr/twoway-view
 https://github.com/bignerdranch/expandable-recycler-view
 https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/
+https://github.com/jianghejie/XRecyclerView
+
+Fast Scroller for RV
+https://github.com/plusCubed/recycler-fast-scroll
 
 Expandabele RV
 http://anandbose.github.io/android_recyclerview_expandablelistview.html
@@ -36,6 +40,7 @@ http://stackoverflow.com/questions/32926508/android-best-way-to-get-pagination-s
 https://github.com/florent37/BeautifulParallax
 https://www.bignerdranch.com/blog/recyclerview-part-1-fundamentals-for-listview-experts/
 http://arjunu.com/2015/10/android-recyclerview-with-different-cardviews/
+http://www.tutorialsbuzz.com/2015/11/android-recyclerview-filter-animation.html
 
 Animations
 http://antonioleiva.com/layout-animations-on-recyclerview/

@@ -15,6 +15,10 @@ https://www.reddit.com/r/androiddev/comments/3iqk09/gradle_build_times_have_me_l
 https://www.reddit.com/r/androiddev/comments/3n313g/psa_upgrade_your_gradle_version_to_28rc1_for_a/
 https://futurestud.io/blog/android-quick-tips-3-gradle/
 
+https://github.com/KeepSafe/dexcount-gradle-plugin
+
+http://blog.tunebrains.com/2015/10/02/gradle-multi-flavors-signing.html
+
 http://fuzzydroid.blogspot.hu/2015/09/some-gradle-tricks-for-android.html
 
 https://github.com/evant/gradle-retrolambda
@@ -25,3 +29,9 @@ https://brock.io/blog/post/repeatable_android_builds/
 
 https://nullpointer.wtf/tools/keeping-your-dependencies-up-to-date/
 https://github.com/jakeouellette/inspector
+
+Speed Up Gradle
+https://rockyroadtocoding.wordpress.com/2015/06/20/speed-up-gradle-builds-in-android-studio/
+https://www.reddit.com/r/androiddev/comments/3lavj4/is_there_a_way_to_improve_the_gradle_tests/
+
+https://www.reddit.com/r/androiddev/comments/3tnyj9/fast_dev_builds_for_multidex_proguard_projects/
