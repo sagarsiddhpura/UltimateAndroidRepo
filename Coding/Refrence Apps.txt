@@ -1,4 +1,8 @@
 https://www.reddit.com/r/androiddev/comments/3prdyt/what_are_some_open_source_apps_that_every/
+https://github.com/jemboy/open-source-android-apps
+https://github.com/hotpodata?tab=repositories
+https://www.reddit.com/r/androiddev/comments/3igd4x/list_quality_open_source_projects_that_everyone/
+
 https://github.com/geecko86/QuickLyric
 https://github.com/C-Aniruddh/ACEMusicPlayer
 https://github.com/psaravan/JamsMusicPlayer
@@ -71,19 +75,54 @@ https://github.com/materialdoc/materialdoc
 https://github.com/JakeWharton/Telecine - Screen recording
 https://github.com/cfinke/Reenact
 http://quickblox.com/developers/Sample-webrtc-android - video calling
+https://github.com/Redgram/redgram-for-reddit/tree/dev
+https://github.com/spongebobrf/BookdashAndroidApp
+https://github.com/Betcheg/MLGPhotoMontage
+https://github.com/Microsoft/ProjectOxford-Apps-MimickerAlarm - Alarm
+https://github.com/brave/browser-android - Browser
+https://github.com/Betcheg/Android-Emoji-Camera-Photo
+https://github.com/AndlyticsProject/andlytics
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+https://github.com/ribot/ribot-app-android - Support library, RecyclerViews and CardViews, RxJava and RxAndroid, Retrofit and OkHttp, Dagger 2, Estimote Android SDK, SqlBrite, EasyAdapter, Butterknife, Timber, Picasso, Otto event bus, Espresso, Robolectric, Mockito, Checkstyle, PMD and Findbugs for code analysis
+https://gitlab.com/NightSkyDev/GCMTester
+https://github.com/ricasares/TopGameDeals
+https://github.com/markviola/android-grade-tracker
+https://github.com/lopspower/SaveInsta
+https://github.com/christarazi/random-restaurant-generator - tinder like for restaurant
+https://github.com/mvarnagiris/financius-public
+https://github.com/rectangle-dbmi/Realtime-Port-Authority
+https://github.com/hidroh/materialistic
+https://github.com/Ne1c/GitterClient
+https://github.com/farmasek/Audio_Manager
+https://github.com/esoxjem/MovieGuide
+
+
+
+Image editing
+https://github.com/Betcheg/MLGPhotoMontage
+https://github.com/Betcheg/Android-Emoji-Camera-Photo
+
 
 Design
 https://github.com/materialdoc/materialdoc
+
 
 Animations & MD:
 https://github.com/nickbutcher/plaid
 https://github.com/chrisbanes/cheesesquare/
 https://github.com/tarek360/Material-Animation-Samples
 https://github.com/spongebobrf/MaterialIntroTutorial
+https://github.com/spongebobrf/BookdashAndroidApp
+https://github.com/TheKeeperOfPie/Reader
+
 
 Game
 https://github.com/JTronLabs/Space-Shooter-Android
 https://github.com/DoubleElite/EzCaloriez
+https://github.com/neery1218/Kamisado
+https://github.com/hotpodata/Blockelganger
+https://github.com/silva96/guessthehashtag
+
 
 Chat
 https://github.com/GleasonK/pubnub-android-lolli-chat
@@ -95,6 +134,8 @@ https://github.com/TheKeeperOfPie/Reader
 
 Camera
 https://github.com/MonkeyViewController/SnapThat
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+
 
 From Google
 https://github.com/googlesamples/android-XYZTouristAttractions/
@@ -102,11 +143,14 @@ https://github.com/googlesamples/android-topeka
 https://github.com/googlesamples/android-UniversalMusicPlayer
 https://android.googlesource.com/platform/frameworks/rs/+/master/java/tests/HealingBrush/
 
+
 Architecture & Best Practices
 https://github.com/patrykpoborca/CleanArchitecture/tree/feature/furtherwork
 https://github.com/futurice/android-best-practices
 https://github.com/ivacf/archi
 https://github.com/rallat/EffectiveAndroid
+https://github.com/yigit/dev-summit-architecture-demo
+
 
 Libs RxJava
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/
@@ -130,6 +174,7 @@ https://github.com/WhisperSystems/TextSecure-Server
 https://github.com/WhisperSystems/TextSecure-Browser
 https://github.com/dinosaurwithakatana/hacker-news-android
 https://github.com/aegamesi/SteamTrade/
+https://github.com/esoxjem/MovieGuide
 
 
 Xposed

@@ -14,6 +14,9 @@ https://github.com/hansenji/pocketknife
 https://github.com/MichaelEvans/Aftermath
 https://github.com/uPhyca/GAlette - Google analytics
 https://code.facebook.com/posts/1480969635539475
+https://github.com/vanniktech/OnActivityResult
+https://github.com/workarounds/bundler
+https://github.com/SimonVT/schematic
 
 https://github.com/workday/postman
 https://github.com/johncarl81/parceler

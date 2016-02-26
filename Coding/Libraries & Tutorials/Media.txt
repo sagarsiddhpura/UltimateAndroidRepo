@@ -18,3 +18,8 @@ https://github.com/NathanielWaggoner/AndroidAudioExamples
 https://github.com/lubecjac/Q
 https://github.com/birdcage/soundcloud-web-api-android
 https://www.reddit.com/r/androiddev/comments/3pg9yb/need_help_with_media_player/
+http://www.newventuresoftware.com/blog/record-play-and-visualize-raw-audio-data-in-android/
+http://superpowered.com/android-marshmallow-latency
+https://googlesamples.github.io/android-audio-high-performance/
+
+http://enoent.fr/blog/2014/06/20/compile-ffmpeg-for-android/

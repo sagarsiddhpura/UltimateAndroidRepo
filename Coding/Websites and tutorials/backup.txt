@@ -1,1 +1,2 @@
 http://android-developers.blogspot.com/2015/07/auto-backup-for-apps-made-simple.html?linkId=15932577
+http://www.howtogeek.com/125375/how-to-create-a-full-android-phone-or-tablet-backup-without-rooting-or-unlocking-your-device/

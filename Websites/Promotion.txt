@@ -32,6 +32,15 @@ http://www.androidpolice.com/2015/10/30/game-developers-heres-how-to-make-your-g
 https://www.supersonicads.com/
 https://www.reddit.com/r/androiddev/comments/3pt8ur/get_10k_app_installs_using_app_reviews_v20/
 https://www.reddit.com/r/androiddev/comments/3q2jrr/6_million_downloadswhat_i_learned_about_the/
+https://www.reddit.com/r/androiddev/comments/3zep2u/app_name_optimization_part_2_of_my_aso_series/
+http://appstretch.com/
+https://www.reddit.com/r/DiscoverApps/
+https://www.reddit.com/r/androiddev/comments/42lpnq/how_to_promote_your_app/
+
+
+One url for app
+http://rdrct.it/
+https://branch.io/
 
 https://www.reddit.com/r/androiddev/comments/3kfexy/our_favorite_free_app_marketing_tools_resources/
 Storefront's App Store Planner
@@ -51,3 +60,4 @@ if it is a game, /r/AndroidGaming/
 also, watch out for Saturday appreciation thread on /r/Android/
 outside of reddit, try every social media you are into and http://forum.xda-developers.com/android/apps-games
 this might also help: https://www.reddit.com/r/gamedev/comments/3ibdxl/marketing_101_for_indie_mobile_game_developers/
+https://www.reddit.com/r/androiddev/comments/3zal2f/introduction_to_aso_first_part_of_my_little/

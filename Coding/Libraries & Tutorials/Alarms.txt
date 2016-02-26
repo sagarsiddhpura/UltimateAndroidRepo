@@ -1,1 +1,2 @@
 https://plus.google.com/+AndroidDevelopers/posts/GdNrQciPwqo
+http://www.concretepage.com/android/android-alarm-clock-tutorial-to-schedule-and-cancel-alarmmanager-pendingintent-and-wakefulbroadcastreceiver-example

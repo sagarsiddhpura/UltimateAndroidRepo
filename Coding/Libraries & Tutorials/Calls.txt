@@ -1,0 +1,7 @@
+https://www.reddit.com/r/androiddev/comments/3ynbf7/how_to_retrieve_call_fo
+rwarding_configuration/
+
+Intent intentCallForward = new Intent(Intent.ACTION_CALL);                               
+Uri uri = Uri.fromParts("tel", "*#61#", "#"); 
+intentCallForward.setData(uri);                                
+startActivity(intentCallForward);

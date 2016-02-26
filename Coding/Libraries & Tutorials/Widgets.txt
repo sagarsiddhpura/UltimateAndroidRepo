@@ -65,12 +65,22 @@ https://github.com/jpardogo/PagerSlidingTabStrip
 https://github.com/cmc00022/CityMapperTabs - Color changing tabs
 http://panavtec.me/playing-with-the-new-support-tablayout/
 https://github.com/vitovalov/TabbedCoordinatorLayout
+Tablayout with badge
+https://gist.github.com/eneim/55df01e092520a6d33a4
+https://github.com/DavidPacioianu/InkPageIndicator
 
 
 Wizard pager
 https://github.com/romannurik/android-wizardpager
 https://github.com/MarkOSullivan94/Android-Material-Wizard
 https://github.com/Pixplicity/MultiViewPager
+https://github.com/DavidPacioianu/InkPageIndicator
+https://github.com/chenupt/SpringIndicator
+https://github.com/PaoloRotolo/AppIntro
+
+
+Card
+https://github.com/mthli/Slice
 
 
 actionbar, toolbar
@@ -112,6 +122,7 @@ https://github.com/mikepenz/MaterialDrawer
 Dialog
 https://github.com/pedant/sweet-alert-dialog
 https://github.com/afollestad/material-dialogs
+https://www.reddit.com/r/androiddev/comments/40fibd/best_way_to_make_a_dialogfragment_transparent/
 
 
 Viewpager
@@ -121,6 +132,7 @@ https://www.bignerdranch.com/blog/viewpager-without-fragments/
 https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f
 http://blog.grafixartist.com/parallax-scrolling-tabs-design-support-library/
 https://github.com/sacot41/SCViewPager
+https://github.com/DavidPacioianu/InkPageIndicator
 
 
 Percentage Layout

@@ -3,3 +3,8 @@ https://answers.io/pricing
 https://bugsnag.com/features
 https://github.com/mattprecious/telescope
 https://count.ly/
+
+Custom Crash Screen
+https://www.reddit.com/r/androiddev/comments/3yg7tu/is_it_possible_to_handle_any_exception_that_would/
+http://stackoverflow.com/questions/19897628/need-to-handle-uncaught-exception-and-send-log-file
+https://github.com/Ereza/CustomActivityOnCrash

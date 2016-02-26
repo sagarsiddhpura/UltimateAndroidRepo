@@ -18,9 +18,12 @@ http://willowtreeapps.com/blog/android-development-tidbits-no-1/?utm_source=team
 http://willowtreeapps.com/blog/android-development-tidbits-no-2/?utm_source=team&utm_medium=team&utm_campaign=android-development-tidbits-no2_CF
 https://www.reddit.com/r/androiddev/comments/3pn3mk/10_commandments_for_better_android_development/
 https://speakerdeck.com/rallat/android-development-like-a-pro
+https://github.com/futurice/android-best-practices
+
 
 Network
 https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.qmdn4ql0a
+https://www.reddit.com/r/androiddev/comments/407jwq/user_sessions_and_authentication/
 
 Githttp://willowtreeapps.com/blog/android-development-tidbits-no-3/
 
@@ -52,6 +55,8 @@ https://www.reddit.com/r/androiddev/comments/3fnfdc/best_way_to_share_code_betwe
 
 Reducing APK size
 http://cyrilmottier.com/2014/08/26/putting-your-apks-on-diet/
+https://www.reddit.com/r/androiddev/comments/40giix/any_scheme_on_reducing_the_apk_size/
+http://pnggauntlet.com/
 
 Performance
 https://www.youtube.com/watch?v=ORgucLTtTDI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE

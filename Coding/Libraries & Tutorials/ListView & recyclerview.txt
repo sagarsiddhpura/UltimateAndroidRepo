@@ -12,6 +12,8 @@ https://github.com/jianghejie/XRecyclerView
 
 Fast Scroller for RV
 https://github.com/plusCubed/recycler-fast-scroll
+https://github.com/timusus/RecyclerView-FastScroll
+
 
 Expandabele RV
 http://anandbose.github.io/android_recyclerview_expandablelistview.html
@@ -41,9 +43,12 @@ https://github.com/florent37/BeautifulParallax
 https://www.bignerdranch.com/blog/recyclerview-part-1-fundamentals-for-listview-experts/
 http://arjunu.com/2015/10/android-recyclerview-with-different-cardviews/
 http://www.tutorialsbuzz.com/2015/11/android-recyclerview-filter-animation.html
+https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
 
 Animations
 http://antonioleiva.com/layout-animations-on-recyclerview/
+http://frogermcs.github.io/recyclerview-animations-androiddevsummit-write-up/
+https://github.com/nhaarman/ListViewAnimations
 
 With database
 https://www.reddit.com/r/androiddev/comments/3hje1u/best_way_to_populate_a_recyclerview_with_a_sqlite/

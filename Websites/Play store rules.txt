@@ -1,8 +1,0 @@
-https://www.reddit.com/r/androiddev/comments/3cjms2/linking_to_an_alternative_app_store/
-
-http://www.reddit.com/r/androiddev/comments/2i8521/my_app_diablo_2_runewords_rip_14122011today_has/
- You should have called it Runewords for Diablo 2® and then in the description included "Diablo 2 is a registered trademark of Blizzard Entertainment... blah blah blah"
- Use a distinct name—Don't give your app a name that is confusingly similar to another company's trademark.
-Use a distinct app icon and logo—Don't use a modified version of another company’s trademarked logo.
-A disclaimer stating that your app is not affiliated with the trademark owner or that your app is not the "official" app may not be sufficient to avoid infringement.
-http://www.reddit.com/r/androiddev/comments/3a5obf/yes_everyone_hates_these_my_app_got_suspended/

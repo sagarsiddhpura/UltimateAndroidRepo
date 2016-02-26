@@ -3,3 +3,4 @@ https://github.com/jrejaud/WearSocket
 http://marcouberti.net/2015/10/11/how-to-create-a-stunning-android-wear-watch-face-like-american-sunsets-watch-face/
 https://www.binpress.com/tutorial/a-guide-to-the-android-wear-message-api/152
 http://android-developers.blogspot.com/2015/10/new-courses-developing-watch-apps-for.html
+https://nullpointer.wtf/android-wear/watch-face-with-preview-phone-app/

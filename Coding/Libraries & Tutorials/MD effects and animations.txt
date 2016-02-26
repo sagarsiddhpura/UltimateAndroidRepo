@@ -2,6 +2,7 @@ Lib
 https://github.com/rey5137/material
 https://github.com/ZieIony/Carbon
 
+
 Animations
 https://github.com/naman14/MaterialPowerMenu
 https://github.com/Yalantis/Euclid
@@ -39,16 +40,23 @@ http://shapath.com.np/2015/10/01/getting-started-with-animations-in-android/
 https://github.com/hitherejoe/animate
 https://medium.com/ribot-labs/exploring-meaningful-motion-on-android-1cd95a4bc61d
 https://medium.com/@nullthemall/rolling-floatingactionbutton-behavior-d86fb797a1e
+https://www.reddit.com/r/androiddev/comments/4124an/how_to_animate_canvasdrawn_text/
 
 https://github.com/SamThompson/BubbleActions
+https://github.com/chenupt/BezierDemo
+
 
 Recyclerview
 http://antonioleiva.com/layout-animations-on-recyclerview/
+http://frogermcs.github.io/recyclerview-animations-androiddevsummit-write-up/
+
 
 Loading
 http://jorgecastillo.xyz/2015/08/16/android-fillable-loaders/
 https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
 https://github.com/smasoumi/FAB-Loading
+https://github.com/dodola/MetaballLoading
+
 
 Circular reveal & ripple
 https://github.com/thomsonreuters/RippleDecoratorView
@@ -58,8 +66,10 @@ https://github.com/balysv/material-ripple
 https://github.com/ozodrukh/CircularReveal - https://github.com/gowong/material-sheet-fab
 http://www.tutorialsbuzz.com/2015/11/android-circular-reveal-effect-whatsapp.html
 
+
 Summary of principles
 https://github.com/DominikAngerer/fire-bear
+
 
 Change color by palette
 https://github.com/Adirockzz95/Quick-Palette
@@ -67,12 +77,15 @@ https://github.com/Adirockzz95/Quick-Palette
 https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4
 http://fiskur.eu/?p=752
 
+
 View collapse and expand
 http://stackoverflow.com/questions/4946295/android-expand-collapse-animation
+
 
 More
 https://github.com/halysongoncalves/Material-Design-Example
 https://github.com/tekinarslan/AndroidMaterialDesignToolbar
+
 
 Custom layout animations
 https://blog.stylingandroid.com/manual-layout-transitions-part-4/

@@ -25,3 +25,9 @@ https://realm.io/pricing/
 https://caster.io/episodes/realm-for-android-developers/
 
 https://github.com/cesarferreira/RxPaper
+
+Upgrading DB
+http://riggaroo.co.za/android-sqlite-database-use-onupgrade-correctly/
+
+Content provider generators
+https://github.com/SimonVT/schematic

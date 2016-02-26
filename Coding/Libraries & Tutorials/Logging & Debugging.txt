@@ -6,6 +6,10 @@ https://psdev.de/slf4j-android-logger/
 https://github.com/mrmike/Ok2Curl
 https://github.com/plusCubed/matlog
 
+Debugging colors
+https://gist.github.com/dlew/a2e2f247c78495eca4e6
+
+
 good
 https://github.com/omegasoft7/FSLogger
 https://github.com/orhanobut/logger - nice output format
@@ -17,6 +21,8 @@ https://caster.io/episodes/episode-14-logging-with-timber/
 Network
 https://github.com/cookpad/puree-android
 https://github.com/sschendel/RemoteLogger
+https://publicobject.com/2016/01/17/sneaking-data-into-an-okhttp-interceptor/
+
 
 Live Logging
 https://github.com/jgilfelt/NotificationLog
@@ -24,6 +30,7 @@ https://github.com/Smyshliaiev/scrog
 https://github.com/inaka/galgo
 https://github.com/orhanobut/bee
 http://hannesdorfmann.com/android/debug-overlay/
+https://github.com/pedrovgs/Lynx
 
 Exagerrated logging
 https://github.com/blundell/ArrowLogger

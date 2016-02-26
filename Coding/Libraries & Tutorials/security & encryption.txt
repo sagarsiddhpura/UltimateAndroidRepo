@@ -25,3 +25,4 @@ https://github.com/linkedin/qark
 https://facebook.github.io/conceal/
 https://github.com/tozny/java-aes-crypto
 https://github.com/afollestad/digitus
+https://github.com/SandroMachado/AndroidTampering

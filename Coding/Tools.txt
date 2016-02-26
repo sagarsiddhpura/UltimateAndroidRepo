@@ -7,7 +7,17 @@ http://www.norio.be/android-feature-graphic-generator/
 https://play.google.com/store/apps/details?id=com.owentech.DevDrawer
 https://gist.github.com/venkateshshukla/9736261 - android in linux
 http://andriydruk.github.io/post/rtools/
+http://www.onyxbits.de/raccoon
+http://www.methodscount.com/
 
 https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhnkjbjoldkfhoin?hl=en
 
 https://www.gitignore.io/
+
+https://github.com/cesarferreira/lasertag
+
+https://play.google.com/store/apps/details?id=com.faizmalkani.keylines
+
+http://comparegithosting.com/#Free
+
+https://github.com/outware/caveman

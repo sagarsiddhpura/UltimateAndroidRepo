@@ -35,11 +35,20 @@ https://www.reddit.com/r/androiddev/comments/3thsv9/rxjava_question_how_can_you_
 https://www.reddit.com/r/androiddev/comments/3tgv2t/rxjava_question_requests_execution_time_has_to_be/
 https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.qmdn4ql0a
 https://www.reddit.com/r/androiddev/comments/3u5w0c/if_you_are_writing_observablecreate_theres_a_big/
+http://tomstechnicalblog.blogspot.com/2015/11/rxjava-operators-flatmap.html
+http://blog.danlew.net/2015/06/22/loading-data-from-multiple-sources-with-rxjava/
+https://github.com/eleventigers/rxeither/
+http://blog.freeside.co/2015/01/29/simple-background-polling-with-rxjava/
+http://johnpetitto.com/rxjava-android-devs/
+http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/
+
 
 Libs
 https://github.com/tbruyelle/RxPermissions
 https://github.com/hzsweers/RxPalette
 https://github.com/cesarferreira/RxPeople
+https://github.com/Mauin/RxFingerprint
+
 
 Good
 https://medium.com/@cesarmcferreira/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c
@@ -60,12 +69,16 @@ https://github.com/rosshambrick/RxEspresso
 
 Monitor Network
 https://github.com/pwittchen/ReactiveNetwork
+https://github.com/sdoward/RxGoogleMaps
+https://github.com/mcharmas/Android-ReactiveLocation
 
 Apps
 https://github.com/leavjenn/Hews
 https://github.com/Redgram/redgram-for-reddit
 https://github.com/guiwro/StarWrobs
 https://github.com/domsu/compass
+https://github.com/LucasFoulonMongai/RxDemo
+https://github.com/esoxjem/MovieGuide
 
 Samples
 https://github.com/colintheshots/AnDevCon-RxPatterns
@@ -85,3 +98,7 @@ http://akarnokd.blogspot.com/2015/10/connectableobservables-part-2.html
 
 Countdown timer
 https://www.reddit.com/r/androiddev/comments/3u0g2g/is_there_any_countdowntimer_replacement_library/
+
+
+Tutorials
+https://www.reddit.com/r/androiddev/comments/40l5qa/how_did_you_learn_rxjava/

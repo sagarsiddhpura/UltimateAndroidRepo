@@ -28,6 +28,20 @@ https://speakerdeck.com/asfalcone/android-developer-options
 https://medium.com/@patrykpoborca/junit-testing-and-android-dependencies-e65e66afce61
 https://www.reddit.com/r/androiddev/comments/3qe6eb/easiest_way_to_test_small_segments_of_java_code/
 https://www.reddit.com/r/androiddev/comments/3tlvv0/testing_unit_testing_ui_automation_qa_hands_on/
+http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-2/
+https://testpoke.com/
+https://medium.com/@hitherejoe/handling-android-runtime-permissions-in-ui-tests-981f9dc11a4e#.bft1hzh3v/GCMTester
+https://github.com/esoxjem/Pulse
+http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-3/
+
+
+https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
+
+
+Tutorials
+https://codelabs.developers.google.com/codelabs/android-testing/index.html#0
+https://medium.com/p/the-evolution-journey-of-android-gui-testing-f65005f7ced8
+
 
 Json
 https://httpbin.org/
@@ -39,6 +53,7 @@ https://medium.com/@vashisthg/android-testing-notes-and-resources-58484bc280a6
 https://github.com/googlesamples/android-testing-templates/tree/master/AndroidTestingBlueprint
 https://github.com/stephanenicolas/Quality-Tools-for-Android
 https://plus.google.com/+AndroidDevelopers/posts/SXVtgnoKcAY
+
 
 libs
 http://mockito.org/

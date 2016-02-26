@@ -1,0 +1,5 @@
+https://medium.com/@dmytrodanylyk/configuring-android-studio-4aa4f54f1153
+https://gist.github.com/Epsiloni/da24871b7fa506a2360e
+http://michaelevans.org/blog/2016/01/06/android-studio-tips-and-tricks/http://technology.jana.com/2016/01/08/productivity-tips-after-a-year-of-working-in-android-studio/
+https://youtu.be/Y2GC6P5hPeA
+http://ianfield.com/2016/01/20/android-dev-quality-of-life-tips.html

@@ -25,6 +25,7 @@ https://github.com/wasabeef/picasso-transformations
 https://nullpointer.wtf/android/image-loading-with-picasso/
 https://github.com/drose379/picturePerfect
 
+
 Effects
 https://github.com/PomepuyN/BlurEffectForAndroidDesign
 http://facebook.github.io/rebound/
@@ -34,15 +35,19 @@ https://github.com/cooltechworks/BitmapMerger
 https://github.com/florent37/KenBurnsView
 https://github.com/wasabeef/Blurry
 
+
 Have state drawable
 http://www.donnfelker.com/quick-and-easy-statelistdrawables-in-android-with-one-png/
 http://antonioleiva.com/unveiling-bandhook-foreground-any-layout/
 
 http://andraskindler.com/blog/2015/tinting_drawables/
+https://github.com/lopspower/SaveInsta
+
 
 Make imageview ripple on touch
 https://plus.google.com/+AndroidDevelopers/posts/aHPVDtr6mcp
 http://antoine-merle.com/blog/2013/07/17/adding-a-foreground-selector-to-a-view/
+
 
 Image loading using volley
 https://github.com/asifmujteba/EasyVolley
@@ -60,6 +65,16 @@ http://www.captechconsulting.com/blogs/google-io-2013-volley-image-cache-tutoria
 https://github.com/rdrobinson3/VolleyImageCacheExample
 refrence apps for volley:
 https://github.com/TheKeeperOfPie/Reader
+
+
+Image Crop & Editing
+https://github.com/lyft/scissors
+https://github.com/jdamcd/android-crop
+https://github.com/jkwiecien/EasyImage
+https://github.com/jdamcd/android-crop
+https://github.com/ryanhoo/PhotoCropper
+https://developers.aviary.com/pricing
+https://github.com/Yalantis/uCrop
 
 
 
@@ -91,6 +106,7 @@ http://flaticon.com/
 https://play.google.com/store/apps/details?id=xeus.iconic
 https://github.com/redwarp/9-Patch-Resizer
 https://plugins.jetbrains.com/plugin/7647?pr=
+https://www.iconfinder.com/
 
 http://joanzapata.com/android-iconify/
 https://icons8.com/
