@@ -33,6 +33,7 @@ https://testpoke.com/
 https://medium.com/@hitherejoe/handling-android-runtime-permissions-in-ui-tests-981f9dc11a4e#.bft1hzh3v/GCMTester
 https://github.com/esoxjem/Pulse
 http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-3/
+https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56
 
 
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html

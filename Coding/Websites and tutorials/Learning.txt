@@ -6,3 +6,5 @@ https://www.reddit.com/r/androiddev/comments/3jnbi9/first_round_of_droidcon_nyc_
 https://www.reddit.com/r/androiddev/comments/3jo4b5/droidcon_nyc_2015_simple_http_with_retrofit_2/
 https://www.reddit.com/r/androiddev/comments/3js6r3/droidcon_nyc_2015_how_the_main_thread_works/
 https://github.com/AndroidStudyGroup/conferences/wiki/DroidconNYC2015
+
+Big Nerd Ranch's Android Programming book (the 2nd Edition one)

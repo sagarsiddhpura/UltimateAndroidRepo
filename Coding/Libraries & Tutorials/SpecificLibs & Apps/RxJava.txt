@@ -41,7 +41,7 @@ https://github.com/eleventigers/rxeither/
 http://blog.freeside.co/2015/01/29/simple-background-polling-with-rxjava/
 http://johnpetitto.com/rxjava-android-devs/
 http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/
-
+https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a#.3a0wfsonz
 
 Libs
 https://github.com/tbruyelle/RxPermissions

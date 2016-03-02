@@ -67,6 +67,7 @@ refrence apps for volley:
 https://github.com/TheKeeperOfPie/Reader
 
 
+
 Image Crop & Editing
 https://github.com/lyft/scissors
 https://github.com/jdamcd/android-crop
@@ -77,10 +78,15 @@ https://developers.aviary.com/pricing
 https://github.com/Yalantis/uCrop
 
 
+Image Picker
+https://github.com/jkwiecien/EasyImage
+
+
 
 Glide
 http://engineeringblog.yelp.com/2015/07/glide-how-yelps-android-app-loads-images.html
 https://github.com/wasabeef/glide-transformations
+
 
 SVG
 https://www.reddit.com/r/androiddev/comments/3gu77t/whats_a_decent_svg_library/
@@ -88,8 +94,10 @@ https://github.com/trello/victor
 https://github.com/avianey/androidsvgdrawable-plugin
 https://github.com/Pixplicity/sharp
 
+
 Banner
 http://www.norio.be/android-feature-graphic-generator/
+
 
 Icons
 https://romannurik.github.io/AndroidAssetStudio/index.htmlx

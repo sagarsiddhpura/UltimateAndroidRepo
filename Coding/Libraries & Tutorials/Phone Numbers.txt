@@ -1,0 +1,2 @@
+https://github.com/googlei18n/libphonenumber
+https://www.reddit.com/r/androiddev/comments/4300v7/phone_number_formating_in_android/

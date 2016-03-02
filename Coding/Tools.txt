@@ -9,6 +9,7 @@ https://gist.github.com/venkateshshukla/9736261 - android in linux
 http://andriydruk.github.io/post/rtools/
 http://www.onyxbits.de/raccoon
 http://www.methodscount.com/
+http://blog.onyxbits.de/a-local-pushbullet-replacement-160/
 
 https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhnkjbjoldkfhoin?hl=en
 

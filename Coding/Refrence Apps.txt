@@ -95,12 +95,19 @@ https://github.com/hidroh/materialistic
 https://github.com/Ne1c/GitterClient
 https://github.com/farmasek/Audio_Manager
 https://github.com/esoxjem/MovieGuide
+https://github.com/tevjef/Rutgers-Course-Tracker
+https://github.com/tevjef/Vapor
+https://github.com/pavlospt/FoodSearch
 
 
 
 Image editing
 https://github.com/Betcheg/MLGPhotoMontage
 https://github.com/Betcheg/Android-Emoji-Camera-Photo
+
+
+Updates
+https://github.com/javiersantos/AppUpdater
 
 
 Design

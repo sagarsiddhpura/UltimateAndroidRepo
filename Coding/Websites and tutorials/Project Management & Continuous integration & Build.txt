@@ -7,3 +7,4 @@ https://hubl.in/
 https://www.assembla.com
 https://infinum.co/the-capsized-eight/articles/continuous-integration-on-android-why-we-ditched-jenkins-for-circle-ci
 http://panavtec.me/continous-integration-on-android-with-travis-ci/
+https://medium.com/@paolorotolo/set-up-a-daily-channel-for-your-android-app-with-travis-and-gh-pages-886f3c4051f2

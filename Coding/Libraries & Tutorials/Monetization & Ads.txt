@@ -8,3 +8,4 @@ https://www.reddit.com/r/androiddev/comments/3iupzx/revenue_optimization_whats_t
 https://github.com/tslamic/premiumer
 https://www.reddit.com/r/androiddev/comments/41rsgj/where_to_learn_about_monetizing_your_app/
 https://adgatemedia.com/?utm_source=reddit&utm_medium=sponsored&utm_campaign=androidg1
+http://services.google.com/fh/files/misc/admobmonetizationguide.pdf

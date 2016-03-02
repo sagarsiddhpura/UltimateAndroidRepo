@@ -10,10 +10,15 @@ https://github.com/bignerdranch/expandable-recycler-view
 https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/
 https://github.com/jianghejie/XRecyclerView
 
+https://github.com/jug6ernaut/DataBindingAdapter
+
+
 Fast Scroller for RV
 https://github.com/plusCubed/recycler-fast-scroll
 https://github.com/timusus/RecyclerView-FastScroll
 
+Adapter
+https://github.com/Commit451/AdapterLayout
 
 Expandabele RV
 http://anandbose.github.io/android_recyclerview_expandablelistview.html

@@ -65,6 +65,8 @@ https://github.com/fahimk/CircularReveal
 https://github.com/balysv/material-ripple
 https://github.com/ozodrukh/CircularReveal - https://github.com/gowong/material-sheet-fab
 http://www.tutorialsbuzz.com/2015/11/android-circular-reveal-effect-whatsapp.html
+http://uiandroid.com/reveal-effect-custom-color/
+
 
 
 Summary of principles

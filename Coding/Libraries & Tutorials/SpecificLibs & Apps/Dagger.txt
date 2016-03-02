@@ -26,3 +26,5 @@ https://github.com/konmik/konmik.github.io/wiki/Snorkeling-with-Dagger-2
 https://medium.com/@patrykpoborca/dagger-2-and-base-classes-generics-and-presenter-injection-7d82053080c
 
 http://fedepaol.github.io/blog/2015/09/05/mocking-with-robolectric-and-dagger-2/
+
+http://frogermcs.github.io/dagger2metrics-measure-performance-of-graph-initialization/
