@@ -39,3 +39,5 @@ https://plugins.jetbrains.com/plugin/7369?pr=
 
 Strings.xml to csv
 https://plugins.jetbrains.com/plugin/7782?pr=idea
+
+http://eliasbagley.github.io/android/2015/10/04/essential-android-studio-plugins.html

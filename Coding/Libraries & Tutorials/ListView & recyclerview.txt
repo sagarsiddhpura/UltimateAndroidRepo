@@ -9,24 +9,34 @@ https://github.com/lucasr/twoway-view
 https://github.com/bignerdranch/expandable-recycler-view
 https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/
 https://github.com/jianghejie/XRecyclerView
+https://github.com/bignerdranch/expandable-recycler-view
 
 https://github.com/jug6ernaut/DataBindingAdapter
+
+
+With video
+https://github.com/eneim/Toro
+
 
 
 Fast Scroller for RV
 https://github.com/plusCubed/recycler-fast-scroll
 https://github.com/timusus/RecyclerView-FastScroll
 
+
 Adapter
 https://github.com/Commit451/AdapterLayout
+
 
 Expandabele RV
 http://anandbose.github.io/android_recyclerview_expandablelistview.html
 https://github.com/anandbose/ExpandableListViewDemo
 https://github.com/bignerdranch/expandable-recycler-view
 
+
 Pagination
 https://medium.com/@etiennelawlor/pagination-with-recyclerview-1cb7e66a502b
+
 
 Tutorials:
 http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465.
@@ -50,13 +60,16 @@ http://arjunu.com/2015/10/android-recyclerview-with-different-cardviews/
 http://www.tutorialsbuzz.com/2015/11/android-recyclerview-filter-animation.html
 https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
 
+
 Animations
 http://antonioleiva.com/layout-animations-on-recyclerview/
 http://frogermcs.github.io/recyclerview-animations-androiddevsummit-write-up/
 https://github.com/nhaarman/ListViewAnimations
 
+
 With database
 https://www.reddit.com/r/androiddev/comments/3hje1u/best_way_to_populate_a_recyclerview_with_a_sqlite/
+
 
 How to write adapters
 http://hannesdorfmann.com/android/adapter-delegates/
@@ -65,8 +78,10 @@ https://github.com/c0nnector/Least
 http://hannesdorfmann.com/android/dont-interrupt-user-flow/
 https://matalamaki.fi/2015/09/24/implementing-sticky-recyclerview-grid-headers-on-android/
 
+
 Headers
 https://github.com/timehop/sticky-headers-recyclerview
+
 
 Click listeners
 https://www.reddit.com/r/androiddev/comments/3ezvyu/which_is_the_best_approach_for_implementing/
@@ -74,8 +89,10 @@ https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf
 https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-6a6f0c422efd
 http://www.littlerobots.nl/blog/Handle-Android-RecyclerView-Clicks/
 
+
 Code Sample
 https://github.com/commonsguy/cw-omnibus/tree/master/RecyclerView
+
 
 Dynamic layout recycler view
 http://blog.sqisland.com/2014/12/recyclerview-grid-with-header.html

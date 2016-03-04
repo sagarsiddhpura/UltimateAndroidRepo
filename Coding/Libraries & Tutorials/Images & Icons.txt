@@ -1,7 +1,10 @@
-Assets
+Assets & Asset Generator
 http://izvornikod.com/Blog/tabid/82/EntryId/5/GIMP-script-for-creating-Android-icons-at-once.aspx
 https://romannurik.github.io/AndroidAssetStudio/index.html
 https://unsplash.com/
+http://assets.codly.io/
+https://codecrafted.net/svgtoandroid#usage
+
 
 https://github.com/Pkmmte/CircularImageView
 
@@ -16,6 +19,9 @@ https://github.com/davemorrissey/subsampling-scale-image-view
 https://github.com/avianey/android-smart-image-view
 https://github.com/MikeOrtiz/TouchImageView
 https://github.com/sephiroth74/ImageViewZoom
+https://codecrafted.net/svgtoandroid#usage
+
+
 ImageGallery
 https://github.com/lawloretienne/ImageGallery
 Picasso:
@@ -34,6 +40,7 @@ http://facebook.github.io/shimmer-android/
 https://github.com/cooltechworks/BitmapMerger
 https://github.com/florent37/KenBurnsView
 https://github.com/wasabeef/Blurry
+https://gist.github.com/davidwhitman/92d043f2f75fd392a1f3
 
 
 Have state drawable

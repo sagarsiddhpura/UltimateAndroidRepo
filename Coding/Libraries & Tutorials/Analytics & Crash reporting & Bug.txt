@@ -13,3 +13,5 @@ Custom Crash Screen
 https://www.reddit.com/r/androiddev/comments/3yg7tu/is_it_possible_to_handle_any_exception_that_would/
 http://stackoverflow.com/questions/19897628/need-to-handle-uncaught-exception-and-send-log-file
 https://github.com/Ereza/CustomActivityOnCrash
+
+https://medium.com/@fredgrott/do-not-force-android-users-away-handle-your-exceptions-af01304e58ce#.4pjz7lu01

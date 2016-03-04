@@ -12,3 +12,7 @@ http://www.ssaurel.com/blog/monitor-and-analyze-battery-usage-data-on-android/
 
 https://github.com/saulmm/Material-Movies
 https://github.com/Ghuizing/Clippr
+
+
+https://github.com/AdityaAnand1/Competitor-Analysis-For-Android
+https://github.com/javiersantos/AppUpdater

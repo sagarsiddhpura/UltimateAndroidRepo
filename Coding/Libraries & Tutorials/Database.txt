@@ -31,3 +31,7 @@ http://riggaroo.co.za/android-sqlite-database-use-onupgrade-correctly/
 
 Content provider generators
 https://github.com/SimonVT/schematic
+
+
+Koltin
+https://www.reddit.com/r/androiddev/comments/4414k2/painless_database_libraries_with_kotlin_rx_support/

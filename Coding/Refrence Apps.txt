@@ -129,6 +129,7 @@ https://github.com/DoubleElite/EzCaloriez
 https://github.com/neery1218/Kamisado
 https://github.com/hotpodata/Blockelganger
 https://github.com/silva96/guessthehashtag
+https://github.com/WT26/anagramfinder2.0
 
 
 Chat
@@ -187,11 +188,23 @@ https://github.com/esoxjem/MovieGuide
 Xposed
 https://github.com/DHM47/Native-Clip-Board
 
+
 Vision API
 https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
+
 
 Android TV
 https://github.com/sregg/spotify-tv
 
+
 Tutorials
 http://www.pubnub.com/blog/tutorial-realtime-android-heart-rate-monitor-and-dashboard/
+
+
+Web Apps
+https://github.com/AdityaAnand1/Competitor-Analysis-For-Android
+https://github.com/gilvegliach/GilVegliach.it
+
+
+C/C++
+https://github.com/WT26/anagramfinder2.0

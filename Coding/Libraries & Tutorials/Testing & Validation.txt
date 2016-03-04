@@ -97,3 +97,7 @@ https://www.code-labs.io/codelabs/android-perf-testing/index.html#0
 http://blog.danlew.net/2015/11/02/sharing-code-between-unit-tests-and-instrumentation-tests-on-android/
 
 http://square.github.io/spoon/
+
+
+C/C++
+https://github.com/samsung/adbi

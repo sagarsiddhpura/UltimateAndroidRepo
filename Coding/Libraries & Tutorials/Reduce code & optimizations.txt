@@ -26,6 +26,8 @@ http://www.androidbootstrap.com/
 http://0xc0008000.com/droidgenerator/
 http://yeoman.io/generators/
 https://github.com/cristhianescobar/generator-android-starter
+https://github.com/cavarzan/generator-android-hipster
+
 
 integrate libs faster
 https://github.com/percolate/foam

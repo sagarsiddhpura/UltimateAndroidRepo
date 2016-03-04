@@ -15,6 +15,7 @@ https://github.com/nhaarman/triad
 https://github.com/doridori/Pilot
 https://github.com/konmik/Phlux
 https://github.com/lgvalle/android-flux-todo-app
+https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.ucymv1rr1
 
 http://pguardiola.com/blog/clean-architecture-part-1/
 

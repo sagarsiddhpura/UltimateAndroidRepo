@@ -28,6 +28,11 @@ https://github.com/Adirockzz95/FABtransitions
 http://androiduiux.com/2015/07/22/make-the-right-fab/
 https://github.com/gowong/material-sheet-fab
 https://medium.com/@nullthemall/floatingactionmenu-floatingactionbutton-behavior-dd33cc0d9ba7
+https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/
+
+
+coordinatorlayout
+https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/
 
 
 EditText 
@@ -102,6 +107,7 @@ https://halfthought.wordpress.com/2015/10/16/datepicker-data-binding/
 
 Tree View
 https://github.com/fahimk/AndroidTreeView
+https://github.com/Polidea/tree-view-list-androioid
 
 
 Buttons
@@ -171,3 +177,9 @@ https://github.com/hitherejoe/LeanbackCards
 
 Others
 https://github.com/pavlospt/CircleView
+https://github.com/riclage/boardview
+
+
+
+Widgets
+https://afterecho.uk/blog/android-widgets-a-couple-of-gotchyas.html

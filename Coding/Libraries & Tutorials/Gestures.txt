@@ -3,3 +3,7 @@ https://github.com/square/seismic
 https://github.com/r0adkll/Slidr
 https://github.com/shalskar/PeekAndPop
 https://github.com/Commit451/ElasticDragDismissLayout
+
+
+Swipe refresh listener
+https://github.com/aloj22/ListenerSwipeRefreshLayout

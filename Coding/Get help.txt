@@ -6,3 +6,6 @@ https://www.reddit.com/r/BuildAnApp
 http://androidchat.co/
 https://androidchat.slack.com/
 https://www.reddit.com/r/gamedev
+
+Podcasts
+https://github.com/artem-zinnatullin/TheContext-Podcast

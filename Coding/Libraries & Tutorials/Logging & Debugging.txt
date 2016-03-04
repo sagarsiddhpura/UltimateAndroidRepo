@@ -50,3 +50,7 @@ https://github.com/hexene/LocalVPN
 Debugging
 http://code.tutsplus.com/tutorials/debugging-android-apps-with-facebooks-stetho--cms-24205
 https://github.com/romainguy/ViewServer
+
+
+Log viewer
+http://glogg.bonnefon.org/index.html
