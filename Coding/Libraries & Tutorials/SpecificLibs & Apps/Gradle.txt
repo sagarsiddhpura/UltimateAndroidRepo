@@ -16,6 +16,12 @@ https://www.reddit.com/r/androiddev/comments/3n313g/psa_upgrade_your_gradle_vers
 https://futurestud.io/blog/android-quick-tips-3-gradle/
 http://www.adavis.info/2016/01/talk-gradle-plugin-goodness.html
 http://zeroturnaround.com/rebellabs/making-gradle-builds-faster/
+https://gist.github.com/neworld/6af9154591b24404c01d
+
+
+Premissions M
+https://github.com/galex/android-permissions-gradle-plugin
+
 
 https://github.com/KeepSafe/dexcount-gradle-plugin
 

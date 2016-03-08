@@ -42,6 +42,8 @@ http://blog.freeside.co/2015/01/29/simple-background-polling-with-rxjava/
 http://johnpetitto.com/rxjava-android-devs/
 http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/
 https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a#.3a0wfsonz
+https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
 
 Libs
 https://github.com/tbruyelle/RxPermissions
@@ -80,21 +82,26 @@ https://github.com/domsu/compass
 https://github.com/LucasFoulonMongai/RxDemo
 https://github.com/esoxjem/MovieGuide
 
+
 Samples
 https://github.com/colintheshots/AnDevCon-RxPatterns
 https://github.com/kaushikgopal/RxJava-Android-Samples
+
 
 DB
 https://realm.io/news/using-realm-with-rxjava/
 http://kboyarshinov.com/android/wrapping-realm-around-rxjava/
 
+
 Videos
 https://www.youtube.com/watch?v=l63V5bZaS70
 https://caster.io/episodes/rxjava-for-android-developers/
 
+
 Advanced
 http://akarnokd.blogspot.com/2015/10/connectableobservables-part-3.html
 http://akarnokd.blogspot.com/2015/10/connectableobservables-part-2.html
+
 
 Countdown timer
 https://www.reddit.com/r/androiddev/comments/3u0g2g/is_there_any_countdowntimer_replacement_library/
@@ -102,3 +109,5 @@ https://www.reddit.com/r/androiddev/comments/3u0g2g/is_there_any_countdowntimer_
 
 Tutorials
 https://www.reddit.com/r/androiddev/comments/40l5qa/how_did_you_learn_rxjava/
+https://medium.com/mobiwise-blog/use-rxjava-instead-of-event-bus-libraries-aa78b5023097#.34p98rwgq
+https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850

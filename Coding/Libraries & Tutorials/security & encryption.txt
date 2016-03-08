@@ -7,6 +7,8 @@ https://www.reddit.com/r/androiddev/comments/3hss6v/heads_up_for_those_using_pro
 https://koz.io/inside-safetynet/
 https://www.cossacklabs.com/building-secure-chat
 http://blog.octo.com/en/develop-secured-android-application/
+https://medium.com/@fredgrott/android-secure-those-3rd-party-api-keys-f33cf1a1f465#.kmwd9e6gu
+https://medium.com/@fredgrott/chase-those-android-app-pirate-vampires-away-with-garlic-b016ed61b5ff#.hvohadacr
 
 Encryption
 Spongy Castle on Android: https://rtyley.github.io/spongycastle/
@@ -26,3 +28,4 @@ https://facebook.github.io/conceal/
 https://github.com/tozny/java-aes-crypto
 https://github.com/afollestad/digitus
 https://github.com/SandroMachado/AndroidTampering
+https://github.com/mikeyxkcd/android-secure-preferences

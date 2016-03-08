@@ -1,2 +1,6 @@
 Quotes
 http://forismatic.com/en/tray-client/
+
+Price and products
+https://www.priceapi.com/
+https://www.semantics3.com/

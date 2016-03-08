@@ -34,6 +34,7 @@ https://medium.com/@hitherejoe/handling-android-runtime-permissions-in-ui-tests-
 https://github.com/esoxjem/Pulse
 http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part-3/
 https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56
+http://smithdroid.blogspot.com/2015/11/whats-minimum-you-can-do-to-detect.html
 
 
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
@@ -42,6 +43,11 @@ https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured
 Tutorials
 https://codelabs.developers.google.com/codelabs/android-testing/index.html#0
 https://medium.com/p/the-evolution-journey-of-android-gui-testing-f65005f7ced8
+http://chiuki.github.io/advanced-android-espresso/
+
+
+network
+https://packetzoom.com/blog/how-to-test-your-app-in-different-network-conditions.html
 
 
 Json

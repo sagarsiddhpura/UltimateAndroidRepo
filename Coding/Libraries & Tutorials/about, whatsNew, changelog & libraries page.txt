@@ -1,0 +1,3 @@
+https://github.com/mikepenz/AboutLibraries
+https://github.com/mikeyxkcd/Inscription
+https://github.com/mikeyxkcd/ckChangeLog

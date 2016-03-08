@@ -8,3 +8,4 @@ https://github.com/fdoyle/EasyDatastore
 getAllSystemTemplateVersions
 https://github.com/grandcentrix/tray
 https://github.com/beplaya/Wagon
+https://github.com/mikeyxkcd/android-secure-preferences

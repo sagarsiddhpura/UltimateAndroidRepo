@@ -43,7 +43,7 @@ http://www.dmytrodanylyk.com/pages/blog/error-label.html
 https://blog.stylingandroid.com/textinputlayout/
 https://github.com/chathudan/KitKatEmoji
 https://github.com/DreaminginCodeZH/MaterialEditText
-
+https://github.com/BlacKCaT27/CurrencyEditText
 https://github.com/RomainPiel/Shimmer-android
 https://github.com/chiuki/advanced-textview
 https://github.com/RomainPiel/Titanic
@@ -124,6 +124,7 @@ https://github.com/frogermcs/DrawerLayoutInstaller
 https://github.com/jfeinstein10/SlidingMenu
 https://www.reddit.com/r/androiddev/comments/3kdkct/quick_tip_preview_your_drawerlayout_drawer_in_the/
 https://github.com/mikepenz/MaterialDrawer
+https://github.com/mikeyxkcd/GuillotineMenu
 
 
 Dialog
@@ -178,7 +179,7 @@ https://github.com/hitherejoe/LeanbackCards
 Others
 https://github.com/pavlospt/CircleView
 https://github.com/riclage/boardview
-
+https://github.com/mikeyxkcd/MaterialContentOverflow
 
 
 Widgets

@@ -2,6 +2,7 @@ https://www.reddit.com/r/androiddev/comments/3prdyt/what_are_some_open_source_ap
 https://github.com/jemboy/open-source-android-apps
 https://github.com/hotpodata?tab=repositories
 https://www.reddit.com/r/androiddev/comments/3igd4x/list_quality_open_source_projects_that_everyone/
+https://github.com/mikeyxkcd?tab=repositories
 
 https://github.com/geecko86/QuickLyric
 https://github.com/C-Aniruddh/ACEMusicPlayer
@@ -98,6 +99,14 @@ https://github.com/esoxjem/MovieGuide
 https://github.com/tevjef/Rutgers-Course-Tracker
 https://github.com/tevjef/Vapor
 https://github.com/pavlospt/FoodSearch
+https://android.googlesource.com/platform/packages/apps/Contacts/+/master
+https://github.com/android/platform_packages_apps_contacts
+https://android.googlesource.com/platform/packages/apps/Dialer/+/master
+https://github.com/CyanogenMod/android_packages_apps_Dialer/tree/cm-13.0
+https://github.com/CyanogenMod/android_packages_apps_Contacts/tree/cm-13.0
+https://github.com/mikeyxkcd/StockTicker
+https://github.com/mikeyxkcd/Clip-Stack - Clipboard history
+https://github.com/mikeyxkcd/ad-away
 
 
 
@@ -130,6 +139,8 @@ https://github.com/neery1218/Kamisado
 https://github.com/hotpodata/Blockelganger
 https://github.com/silva96/guessthehashtag
 https://github.com/WT26/anagramfinder2.0
+https://github.com/mikeyxkcd/2048-android
+https://github.com/mikeyxkcd/ZombieBird
 
 
 Chat
@@ -137,8 +148,10 @@ https://github.com/GleasonK/pubnub-android-lolli-chat
 https://github.com/WhisperSystems/TextSecure
 https://blog.pusher.com/build-an-android-chat-app-with-pusher/?utm_source=reddit&utm_medium=organic_post&utm_campaign=android_chat_app_tutorial_release
 
+
 Reddit client: comments, upvote downvote
 https://github.com/TheKeeperOfPie/Reader
+
 
 Camera
 https://github.com/MonkeyViewController/SnapThat

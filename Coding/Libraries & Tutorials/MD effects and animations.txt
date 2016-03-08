@@ -41,7 +41,7 @@ https://github.com/hitherejoe/animate
 https://medium.com/ribot-labs/exploring-meaningful-motion-on-android-1cd95a4bc61d
 https://medium.com/@nullthemall/rolling-floatingactionbutton-behavior-d86fb797a1e
 https://www.reddit.com/r/androiddev/comments/4124an/how_to_animate_canvasdrawn_text/
-
+https://github.com/mikeyxkcd/android-FlipView
 https://github.com/SamThompson/BubbleActions
 https://github.com/chenupt/BezierDemo
 
@@ -87,6 +87,7 @@ http://stackoverflow.com/questions/4946295/android-expand-collapse-animation
 More
 https://github.com/halysongoncalves/Material-Design-Example
 https://github.com/tekinarslan/AndroidMaterialDesignToolbar
+https://github.com/mikeyxkcd/ExplosionField
 
 
 Custom layout animations
@@ -94,9 +95,11 @@ https://blog.stylingandroid.com/manual-layout-transitions-part-4/
 
 https://github.com/jayrambhia/contactsdemo
 
+
 Rebound effect
 http://facebook.github.io/rebound/
 https://gist.github.com/willbailey/8811581
+
 
 Pull to refresh
 https://github.com/Yalantis/Taurus
@@ -105,32 +108,42 @@ http://yalantis.com/blog/how-we-built-customizable-pull-to-refresh-pull-to-cook-
 https://github.com/Yalantis/PullToMakeFlight
 https://github.com/allan1st/JellyRefreshLayout
 
+
 Nav menu
 https://github.com/Yalantis/GuillotineMenu-Android
 https://github.com/Yalantis/Side-Menu.Android
 
+
 Context menu
 https://github.com/Yalantis/Context-Menu.Android
+
 
 Label
 https://github.com/Yalantis/Preloader.Ophiuchus
 
+
 List
 https://github.com/Yalantis/Euclid
 
+
 Titlebar
 https://github.com/pjambo/ToolbarTitleAnimation
+
 
 Transistions
 https://github.com/googlesamples/android-CustomTransition
 https://github.com/flavienlaurent/poppyview
 https://www.reddit.com/r/androiddev/comments/3odsdq/shared_element_transition_picasso_after_oncreate/
 
+
 Animations L+
 https://medium.com/@fredrikaldgard/easy-android-shared-element-transition-ac36952a4a4
 
+
 Parallax
 https://github.com/florent37/BeautifulParallax
+
+
 
 Examples
 http://frogermcs.github.io/instamaterial-meets-design-support-library/

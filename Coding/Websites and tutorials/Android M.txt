@@ -18,3 +18,4 @@ https://medium.com/google-developer-experts/intent-resolving-in-android-m-c17d39
 https://gist.github.com/odedhb/9085d58d50b4c0aa15e3
 https://commonsware.com/blog/2015/11/24/securityexceptions-runtime-permissions-reset-app-preferences.html
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
+https://github.com/galex/android-permissions-gradle-plugin
