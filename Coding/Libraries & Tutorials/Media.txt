@@ -11,6 +11,7 @@ Video
 https://github.com/yqritc/Android-ScalableVideoView
 Video Chat
 https://developers.oovoo.com/
+https://www.reddit.com/r/androiddev/comments/46hbuz/how_to_filter_a_video_frame_by_frame/
 
 Audio
 http://superpowered.com/#axzz3gVU4wJsj

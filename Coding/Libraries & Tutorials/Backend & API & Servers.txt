@@ -17,3 +17,5 @@ https://github.com/ruby-grape/grape
 http://www.slant.co/topics/5219/~parse-alternatives-for-android-app-development
 
 http://flask.pocoo.org/
+
+https://www.reddit.com/r/androiddev/comments/46qgh9/what_language_do_you_use_for_your_backend_server/

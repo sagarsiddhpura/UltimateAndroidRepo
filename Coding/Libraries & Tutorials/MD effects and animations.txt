@@ -1,3 +1,7 @@
+Material Widgets
+http://www.materialdoc.com/components/
+
+
 Lib
 https://github.com/rey5137/material
 https://github.com/ZieIony/Carbon
@@ -44,6 +48,8 @@ https://www.reddit.com/r/androiddev/comments/4124an/how_to_animate_canvasdrawn_t
 https://github.com/mikeyxkcd/android-FlipView
 https://github.com/SamThompson/BubbleActions
 https://github.com/chenupt/BezierDemo
+https://github.com/florent37/ViewAnimator
+http://blog.rowburst.com/229/change-edittext-line-color-with-animation/
 
 
 Recyclerview

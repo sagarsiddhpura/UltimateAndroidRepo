@@ -13,3 +13,6 @@ https://github.com/oguzbabaoglu/butterfork
 https://medium.com/@Commit451/hosting-a-private-gradle-dependency-for-free-b77572ffbeab
 http://jimmy0251.github.io/gradle-bintray-mvn-push/
 http://zserge.com/blog/jitpack.html
+https://afterecho.uk/blog/create-a-standalone-gradle-plugin-for-android-a-step-by-step-guide.html
+https://caster.io/episodes/creating-a-gradle-plugin/
+http://inthecheesefactory.com/blog/how-to-setup-private-maven-repository/en

@@ -10,6 +10,7 @@ https://github.com/bignerdranch/expandable-recycler-view
 https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/
 https://github.com/jianghejie/XRecyclerView
 https://github.com/bignerdranch/expandable-recycler-view
+https://github.com/lopspower/HFRecyclerView
 
 https://github.com/jug6ernaut/DataBindingAdapter
 

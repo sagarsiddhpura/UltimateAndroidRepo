@@ -43,13 +43,15 @@ http://johnpetitto.com/rxjava-android-devs/
 http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/
 https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a#.3a0wfsonz
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
-
+http://tomstechnicalblog.blogspot.com/2016/02/rxjava-maximizing-parallelization.html
 
 Libs
 https://github.com/tbruyelle/RxPermissions
 https://github.com/hzsweers/RxPalette
 https://github.com/cesarferreira/RxPeople
 https://github.com/Mauin/RxFingerprint
+https://github.com/pakoito/RxPartialApplication
+https://github.com/pakoito/RxCurrying
 
 
 Good
@@ -59,9 +61,11 @@ https://www.reddit.com/r/androiddev/comments/3iir8o/party_tricks_with_rxjava_rxa
 https://github.com/JakeWharton/RxBinding/
 https://github.com/artem-zinnatullin/RxJavaProGuardRules
 
+
 Visualize
 http://rxmarbles.com/#concat
 http://tomstechnicalblog.blogspot.com/2015/10/understanding-observable-emissions.html
+
 
 Testing
 https://github.com/ribot/assertj-rx
@@ -69,10 +73,12 @@ http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptio
 https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329
 https://github.com/rosshambrick/RxEspresso
 
+
 Monitor Network
 https://github.com/pwittchen/ReactiveNetwork
 https://github.com/sdoward/RxGoogleMaps
 https://github.com/mcharmas/Android-ReactiveLocation
+
 
 Apps
 https://github.com/leavjenn/Hews
@@ -111,3 +117,4 @@ Tutorials
 https://www.reddit.com/r/androiddev/comments/40l5qa/how_did_you_learn_rxjava/
 https://medium.com/mobiwise-blog/use-rxjava-instead-of-event-bus-libraries-aa78b5023097#.34p98rwgq
 https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850
+http://tomstechnicalblog.blogspot.com/2016/02/rxjava-understanding-observeon-and.html

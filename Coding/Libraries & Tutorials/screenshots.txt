@@ -6,6 +6,7 @@ https://medium.com/@emmaguy/death-to-ugly-android-screenshots-48ea071d912e
 http://developer.android.com/distribute/tools/promote/device-art.html
 https://www.reddit.com/r/androiddev/comments/3n3ram/i_made_a_web_based_tool_for_use_on_the_desktop/
 https://github.com/sdoward/Awesome-Screenshots
+https://github.com/chemouna/frame-gradle-plugin
 
 https://gist.github.com/Nilzor/78e9e4a4cd14268a7fe2
 https://gist.github.com/fiskurgit/32c6a729174fffe5abfc

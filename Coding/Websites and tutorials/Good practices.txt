@@ -21,6 +21,10 @@ https://speakerdeck.com/rallat/android-development-like-a-pro
 https://github.com/futurice/android-best-practices
 
 
+
+Good
+https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.4b04xlr7w
+
 Network
 https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.qmdn4ql0a
 https://www.reddit.com/r/androiddev/comments/407jwq/user_sessions_and_authentication/
@@ -60,3 +64,5 @@ http://pnggauntlet.com/
 
 Performance
 https://www.youtube.com/watch?v=ORgucLTtTDI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
+
+https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26

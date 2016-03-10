@@ -1,3 +1,7 @@
+Material Widgets
+http://www.materialdoc.com/components/
+
+
 Material lib
 https://github.com/rey5137/material
 https://github.com/Bearded-Hen/Android-Bootstrap
@@ -54,6 +58,7 @@ http://antonioleiva.com/textview_power_drawables/
 
 http://matthewwear.ghost.io/for-posterity-how-to-render-html-in-a-text-view-and-handle-link-clicks/
 http://blog.danlew.net/2015/10/12/beware-edittext-on-api-21/
+http://blog.rowburst.com/229/change-edittext-line-color-with-animation/
 
 
 TextView
@@ -62,6 +67,8 @@ https://github.com/android-awesome/Awesome-Material
 https://github.com/QVDev/DistilledViewPrefs - readablity
 https://github.com/chathudan/KitKatEmoji
 https://github.com/gilvegliach/TransparentTextTextView
+https://github.com/grantland/android-autofittextview
+
 
 
 Sliding tabs
@@ -166,7 +173,7 @@ https://github.com/mskurt/FlexiTags
 Co-ordinator layout
 https://lab.getbase.com/nested-scrolling-with-coordinatorlayout-on-android/
 http://saulmm.github.io/mastering-coordinator/
-
+https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26
 
 Snackbar
 https://github.com/SandroMachado/restaurant
@@ -180,7 +187,20 @@ Others
 https://github.com/pavlospt/CircleView
 https://github.com/riclage/boardview
 https://github.com/mikeyxkcd/MaterialContentOverflow
+https://github.com/vinaygaba/CreditCardView
+https://github.com/mattlogan/SelectableMapFragment
 
 
 Widgets
 https://afterecho.uk/blog/android-widgets-a-couple-of-gotchyas.html
+
+
+Custom View
+https://www.novoda.com/blog/alternative-interfaces/
+http://www.dmytrodanylyk.com/pages/blog/error-label.html
+https://www.novoda.com/blog/alternative-interfaces/
+
+
+
+Chat heads
+https://github.com/workarounds/portal

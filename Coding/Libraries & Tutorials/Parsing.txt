@@ -1,0 +1,3 @@
+Language
+https://opennlp.apache.org/
+http://nlp.stanford.edu/software/tagger.html

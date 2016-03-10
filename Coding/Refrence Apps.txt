@@ -3,6 +3,7 @@ https://github.com/jemboy/open-source-android-apps
 https://github.com/hotpodata?tab=repositories
 https://www.reddit.com/r/androiddev/comments/3igd4x/list_quality_open_source_projects_that_everyone/
 https://github.com/mikeyxkcd?tab=repositories
+https://www.openhub.net/p?ref=explore_project&query=android
 
 https://github.com/geecko86/QuickLyric
 https://github.com/C-Aniruddh/ACEMusicPlayer
@@ -107,7 +108,13 @@ https://github.com/CyanogenMod/android_packages_apps_Contacts/tree/cm-13.0
 https://github.com/mikeyxkcd/StockTicker
 https://github.com/mikeyxkcd/Clip-Stack - Clipboard history
 https://github.com/mikeyxkcd/ad-away
-
+https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android
+https://github.com/ekchang/SwipeRight
+https://github.com/workarounds/define
+https://github.com/nkanaev/bubble - Comic Book reader
+https://github.com/MoneyFox/MoneyFox.Windows
+https://github.com/jeffisaak/diceware-pass-gen
+https://github.com/saulmm/Avengers
 
 
 Image editing
@@ -141,6 +148,7 @@ https://github.com/silva96/guessthehashtag
 https://github.com/WT26/anagramfinder2.0
 https://github.com/mikeyxkcd/2048-android
 https://github.com/mikeyxkcd/ZombieBird
+https://github.com/WT26/blockfly
 
 
 Chat
@@ -163,6 +171,7 @@ https://github.com/googlesamples/android-XYZTouristAttractions/
 https://github.com/googlesamples/android-topeka
 https://github.com/googlesamples/android-UniversalMusicPlayer
 https://android.googlesource.com/platform/frameworks/rs/+/master/java/tests/HealingBrush/
+https://android.googlesource.com/platform/packages/apps/Calendar/
 
 
 Architecture & Best Practices

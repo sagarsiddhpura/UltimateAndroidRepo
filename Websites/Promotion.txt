@@ -41,12 +41,14 @@ https://www.reddit.com/r/androiddev/comments/442sft/mod_approved_android_promos_
 https://medium.com/@fredgrott/build-your-app-audience-932a72d8df92#.eztl9u8xj
 
 
-Tablified app for tablets
-
 
 One url for app
 http://rdrct.it/
 https://branch.io/
+
+
+http://appfollow.io/
+
 
 https://www.reddit.com/r/androiddev/comments/3kfexy/our_favorite_free_app_marketing_tools_resources/
 Storefront's App Store Planner
@@ -57,8 +59,11 @@ Apptamin's List of Developer Tools
 MobyAffiliate's List of iOS and Android Review Sites
 Google Trends (for keyword research)
 
+
 Alternate stores
 https://www.wandoujia.com/
+hiapk.com
+Tablified app for tablets
 
 
 /r/androidapps
