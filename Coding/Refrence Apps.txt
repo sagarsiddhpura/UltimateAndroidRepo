@@ -115,6 +115,10 @@ https://github.com/nkanaev/bubble - Comic Book reader
 https://github.com/MoneyFox/MoneyFox.Windows
 https://github.com/jeffisaak/diceware-pass-gen
 https://github.com/saulmm/Avengers
+https://github.com/mdilaveroglu/Quoter-Android
+https://github.com/ctodobom/OpenNoteScanner
+https://github.com/dvsd/Completum - Tasks app
+
 
 
 Image editing
@@ -180,6 +184,8 @@ https://github.com/futurice/android-best-practices
 https://github.com/ivacf/archi
 https://github.com/rallat/EffectiveAndroid
 https://github.com/yigit/dev-summit-architecture-demo
+https://github.com/antoniolg/androidmvp
+
 
 
 Libs RxJava
@@ -228,5 +234,14 @@ https://github.com/AdityaAnand1/Competitor-Analysis-For-Android
 https://github.com/gilvegliach/GilVegliach.it
 
 
+Philips hue app
+https://github.com/christophesmet/ledsgetIton
+
+
 C/C++
 https://github.com/WT26/anagramfinder2.0
+
+
+
+Watch
+https://github.com/ckulkar/mocha17-dev

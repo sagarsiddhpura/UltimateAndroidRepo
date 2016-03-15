@@ -15,3 +15,5 @@ https://android.googlesource.com/?format=HTML
 
 
 http://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/
+
+http://www.androidcodesnippets.com/

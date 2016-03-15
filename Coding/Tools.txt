@@ -35,3 +35,5 @@ https://codelabs.developers.google.com/
 https://github.com/mthli/Cracker
 
 http://kelukelu.me/argb/
+
+http://www.androidcodesnippets.com/
