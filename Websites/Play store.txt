@@ -8,3 +8,8 @@ A disclaimer stating that your app is not affiliated with the trademark owner or
 http://www.reddit.com/r/androiddev/comments/3a5obf/yes_everyone_hates_these_my_app_got_suspended/
 
 https://www.reddit.com/r/androiddev/comments/40ud0b/users_getting_error_505_when_downloading_our_app/
+
+Provide evidence for copyrighted material
+https://support.google.com/googleplay/android-developer/answer/6320428
+
+https://www.reddit.com/r/androiddev/comments/47tb6g/how_to_transfer_your_google_dev_apps_or_account/

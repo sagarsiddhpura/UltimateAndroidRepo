@@ -42,11 +42,15 @@ Speed Up Gradle
 https://rockyroadtocoding.wordpress.com/2015/06/20/speed-up-gradle-builds-in-android-studio/
 https://www.reddit.com/r/androiddev/comments/3lavj4/is_there_a_way_to_improve_the_gradle_tests/
 https://medium.com/@shelajev/6-tips-to-speed-up-your-gradle-build-3d98791d3df9#.jacb8rjb9
-
+https://www.reddit.com/r/androiddev/comments/484ek7/heap_size_for_faster_builds_whats_the_downside/
 https://www.reddit.com/r/androiddev/comments/3tnyj9/fast_dev_builds_for_multidex_proguard_projects/
+http://makingiants.com/blog/fasterboost-gradle-builds_2/
 
 https://github.com/Triple-T/gradle-play-publisher
 
 http://blog.octo.com/en/reduce-android-build-duration/
 
 https://github.com/hannesstruss/godot
+
+Writing Plugin
+https://afterecho.uk/blog/create-a-standalone-gradle-plugin-for-android-part-2.html

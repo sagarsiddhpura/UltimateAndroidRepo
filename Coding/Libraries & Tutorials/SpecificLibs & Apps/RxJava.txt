@@ -44,6 +44,8 @@ http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/
 https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-retrofit-and-rxjava-8bcc7e641a5a#.3a0wfsonz
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 http://tomstechnicalblog.blogspot.com/2016/02/rxjava-maximizing-parallelization.html
+https://medium.com/@murki/chaining-multiple-sources-with-rxjava-20eb6850e5d9
+
 
 Libs
 https://github.com/tbruyelle/RxPermissions
@@ -52,6 +54,7 @@ https://github.com/cesarferreira/RxPeople
 https://github.com/Mauin/RxFingerprint
 https://github.com/pakoito/RxPartialApplication
 https://github.com/pakoito/RxCurrying
+https://github.com/Microsoft/thrifty
 
 
 Good
@@ -60,6 +63,7 @@ https://blog.growth.supply/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed
 https://www.reddit.com/r/androiddev/comments/3iir8o/party_tricks_with_rxjava_rxandroid_retrolambda/
 https://github.com/JakeWharton/RxBinding/
 https://github.com/artem-zinnatullin/RxJavaProGuardRules
+http://makingiants.com/blog/how-to-upload-a-file-with-retrofit-without-using-multipart/
 
 
 Visualize

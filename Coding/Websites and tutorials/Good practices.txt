@@ -24,6 +24,8 @@ https://github.com/futurice/android-best-practices
 
 Good
 https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.4b04xlr7w
+http://engineering.remind.com/android-code-that-scales/
+
 
 Network
 https://medium.com/@diolor/improving-ux-with-rxjava-4440a13b157f#.qmdn4ql0a

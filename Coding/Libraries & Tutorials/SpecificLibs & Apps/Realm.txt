@@ -1,3 +1,7 @@
 https://www.reddit.com/r/androiddev/comments/44c9ec/fragmented_podcast_27_realm_realm_realm_your_boat/
 http://www.thedroidsonroids.com/blog/android/example-realm-mvp-dagger/
 http://www.thedroidsonroids.com/blog/android/realm-database-example/
+
+
+App
+https://github.com/Kistamushken/PopularMovies

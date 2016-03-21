@@ -118,6 +118,12 @@ https://github.com/saulmm/Avengers
 https://github.com/mdilaveroglu/Quoter-Android
 https://github.com/ctodobom/OpenNoteScanner
 https://github.com/dvsd/Completum - Tasks app
+https://github.com/turtl
+https://github.com/Ne1c/GitterClient
+https://github.com/Kistamushken/PopularMovies
+https://github.com/byoutline/kickmaterial/
+https://github.com/koying/SPMC
+https://github.com/EEdge/FoodCraft
 
 
 
@@ -141,6 +147,7 @@ https://github.com/tarek360/Material-Animation-Samples
 https://github.com/spongebobrf/MaterialIntroTutorial
 https://github.com/spongebobrf/BookdashAndroidApp
 https://github.com/TheKeeperOfPie/Reader
+https://github.com/byoutline/kickmaterial/
 
 
 Game
@@ -168,6 +175,7 @@ https://github.com/TheKeeperOfPie/Reader
 Camera
 https://github.com/MonkeyViewController/SnapThat
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
+https://github.com/firebase/FirebaseUI-Android/tree/master/codelabs/chat
 
 
 From Google

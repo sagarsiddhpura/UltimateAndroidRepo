@@ -39,7 +39,8 @@ https://www.reddit.com/r/androiddev/comments/42lpnq/how_to_promote_your_app/
 d-apps.net
 https://www.reddit.com/r/androiddev/comments/442sft/mod_approved_android_promos_launching_tomorrow/
 https://medium.com/@fredgrott/build-your-app-audience-932a72d8df92#.eztl9u8xj
-
+http://androidpromocode.com/
+https://github.com/alexmfink/promo-card-maker
 
 
 One url for app
@@ -64,6 +65,11 @@ Alternate stores
 https://www.wandoujia.com/
 hiapk.com
 Tablified app for tablets
+https://labs.xda-developers.com/manage/app/add
+http://rmstore.store.aptoide.com/app
+http://androidpromocode.com/
+appsapk, smoothreviews, androlib
+https://docs.google.com/spreadsheets/d/1EWEQwdkd-4ZF0DyDW6LsVAuYX-nPQn5ktbzsfEJoteI/edit?usp=sharing
 
 
 /r/androidapps

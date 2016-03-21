@@ -76,6 +76,7 @@ http://facebook.github.io/screenshot-tests-for-android/
 https://github.com/xfumihiro/ViewInspector
 https://github.com/rosshambrick/RxEspresso
 https://github.com/yrizk/Espresso-CustomFailureHandler
+https://boopjs.com/
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/

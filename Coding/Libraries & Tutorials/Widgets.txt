@@ -68,6 +68,7 @@ https://github.com/QVDev/DistilledViewPrefs - readablity
 https://github.com/chathudan/KitKatEmoji
 https://github.com/gilvegliach/TransparentTextTextView
 https://github.com/grantland/android-autofittextview
+https://github.com/athkalia/EmphasisTextView
 
 
 
@@ -175,6 +176,7 @@ https://lab.getbase.com/nested-scrolling-with-coordinatorlayout-on-android/
 http://saulmm.github.io/mastering-coordinator/
 https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26
 
+
 Snackbar
 https://github.com/SandroMachado/restaurant
 
@@ -189,6 +191,11 @@ https://github.com/riclage/boardview
 https://github.com/mikeyxkcd/MaterialContentOverflow
 https://github.com/vinaygaba/CreditCardView
 https://github.com/mattlogan/SelectableMapFragment
+https://github.com/roughike/SwipeSelector
+
+
+Bottom Sheet
+https://github.com/rubensousa/BottomSheetBuilder
 
 
 Widgets
@@ -201,6 +208,18 @@ http://www.dmytrodanylyk.com/pages/blog/error-label.html
 https://www.novoda.com/blog/alternative-interfaces/
 
 
+Switch
+https://github.com/BelkaLab/Android-Toggle-Switch
+https://github.com/roughike/SwipeSelector
+
+
+Gallery
+https://github.com/500px/greedo-layout-for-android
+
 
 Chat heads
 https://github.com/workarounds/portal
+
+
+Expandable Layout
+https://github.com/AAkira/ExpandableLayout

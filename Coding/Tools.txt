@@ -37,3 +37,5 @@ https://github.com/mthli/Cracker
 http://kelukelu.me/argb/
 
 http://www.androidcodesnippets.com/
+
+https://github.com/alexfu/androidautoversion

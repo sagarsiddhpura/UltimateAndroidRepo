@@ -10,3 +10,7 @@ https://medium.com/@paolorotolo/integrate-translations-into-development-process-
 https://plugins.jetbrains.com/plugin/112f#.wgn4v54sj
 
 https://github.com/aurelhubert/android-ios-drive-export
+
+http://www.icanlocalize.com/site/
+https://www.onehourtranslation.com/#oht:lang=en-us
+http://ontranslate.com/en/

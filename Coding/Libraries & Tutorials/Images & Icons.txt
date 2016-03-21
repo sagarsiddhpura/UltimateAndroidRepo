@@ -108,7 +108,12 @@ Banner
 http://www.norio.be/android-feature-graphic-generator/
 
 
+Image processsing
+https://www.reddit.com/r/androiddev/comments/47urm6/question_free_api_to_recognize_faces_in_photos/
+
+
 Icons
+http://bitdroid.de/Android-Material-Icon-Generator/
 https://romannurik.github.io/AndroidAssetStudio/index.htmlx
 https://github.com/code-mc/material-icon-lib
 http://codepen.io/grapestheme/pen/vOVybG
