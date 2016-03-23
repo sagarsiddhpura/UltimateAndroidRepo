@@ -6,3 +6,4 @@ http://android-developers.blogspot.com/2015/10/new-courses-developing-watch-apps
 https://nullpointer.wtf/android-wear/watch-face-with-preview-phone-app/
 
 https://github.com/ckulkar/mocha17-dev
+https://github.com/borax12/SWNotifier

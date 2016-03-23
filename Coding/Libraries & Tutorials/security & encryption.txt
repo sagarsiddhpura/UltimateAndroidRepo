@@ -11,6 +11,7 @@ https://medium.com/@fredgrott/android-secure-those-3rd-party-api-keys-f33cf1a1f4
 https://medium.com/@fredgrott/chase-those-android-app-pirate-vampires-away-with-garlic-b016ed61b5ff#.hvohadacr
 https://www.reddit.com/r/androiddev/comments/46y53a/okhttp3_prevent_maninthemiddle_attacks/
 https://www.reddit.com/r/androiddev/comments/46w95z/transmitting_credentials_over_https_safe/
+http://developer.android.com/intl/ru/training/articles/security-ssl.html#UnknownCa
 
 
 Encryption

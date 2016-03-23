@@ -124,7 +124,8 @@ https://github.com/Kistamushken/PopularMovies
 https://github.com/byoutline/kickmaterial/
 https://github.com/koying/SPMC
 https://github.com/EEdge/FoodCraft
-
+https://github.com/yongelee/24-Hour-Alarm-Clock
+https://github.com/MrBIMC/Int20h - Ecommerce app
 
 
 Image editing
@@ -223,6 +224,7 @@ https://github.com/esoxjem/MovieGuide
 
 Xposed
 https://github.com/DHM47/Native-Clip-Board
+https://github.com/tmfulton/Android-UML-Generator/
 
 
 Vision API
@@ -253,3 +255,4 @@ https://github.com/WT26/anagramfinder2.0
 
 Watch
 https://github.com/ckulkar/mocha17-dev
+https://github.com/fodawim/AndroidWearWatchface

@@ -9,3 +9,5 @@ https://github.com/hitherejoe/LeanbackCards
 https://github.com/hitherejoe/AndroidTvBoilerplate
 
 https://photos.google.com/share/AF1QipPpuNyuATl-Ae09WzlXkxyHXxoOxZ_-uXLKB4uALR3bG3vnpcYLl2UIAKoNYGzd-g?key=X0o2U3EyLVdRWkxfQm9hUG5uZGUtN0wwc2UwTnpB
+
+http://peirr.com/working-with-guidedstepfragments-on-android-tv/

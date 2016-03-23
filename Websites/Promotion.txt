@@ -36,12 +36,12 @@ https://www.reddit.com/r/androiddev/comments/3zep2u/app_name_optimization_part_2
 http://appstretch.com/
 https://www.reddit.com/r/DiscoverApps/
 https://www.reddit.com/r/androiddev/comments/42lpnq/how_to_promote_your_app/
-d-apps.net
+
 https://www.reddit.com/r/androiddev/comments/442sft/mod_approved_android_promos_launching_tomorrow/
 https://medium.com/@fredgrott/build-your-app-audience-932a72d8df92#.eztl9u8xj
 http://androidpromocode.com/
 https://github.com/alexmfink/promo-card-maker
-
+http://mindbowser.com/blog/7-techniques-to-successfully-growth-hack-your-apps/
 
 One url for app
 http://rdrct.it/
@@ -70,6 +70,8 @@ http://rmstore.store.aptoide.com/app
 http://androidpromocode.com/
 appsapk, smoothreviews, androlib
 https://docs.google.com/spreadsheets/d/1EWEQwdkd-4ZF0DyDW6LsVAuYX-nPQn5ktbzsfEJoteI/edit?usp=sharing
+d-apps.net
+f-droid
 
 
 /r/androidapps

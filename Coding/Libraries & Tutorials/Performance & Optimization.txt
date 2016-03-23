@@ -3,6 +3,13 @@ https://medium.com/google-developers/draw-what-you-see-and-clip-the-e11-out-of-t
 https://www.reddit.com/r/androiddev/comments/45ahsu/how_we_reduced_startup_time_for_our_android_app/
 http://open.blogs.nytimes.com/2016/02/11/improving-startup-time-in-the-nytimes-android-app/?_r=0
 http://blog.nimbledroid.com/2016/02/17/cold-start-times-of-top-apps.html?top?=25&category=MUSIC_STREAMING
+https://medium.com/smartphone-enerlytics/apple-music-the-latest-music-app-also-has-energy-glitches-how-we-reduced-its-battery-drain-by-18-3a82b62b1178#.bwqgiwpif
+http://www.tomshardware.com/news/basemark-pat-power-assessment-tool,31315.html
 
 Community
 https://plus.google.com/communities/116342551728637785407
+
+http://mobileenerlytics.com/eprof.php
+
+Libs
+http://frogermcs.github.io/AndroidDevMetrics-dagger2metrics-evolved-into-metrics-for-android-development/

@@ -16,8 +16,9 @@ https://github.com/Ghuizing/Clippr
 
 https://github.com/AdityaAnand1/Competitor-Analysis-For-Android
 https://github.com/javiersantos/AppUpdater
-
+https://play.google.com/store/apps/details?id=com.thunderclouddev.changelogs
 
 https://www.npmjs.com/package/gmail-safe
 https://github.com/eblume/gmail_safe
 https://www.npmjs.com/package/node-gmail-api
+
