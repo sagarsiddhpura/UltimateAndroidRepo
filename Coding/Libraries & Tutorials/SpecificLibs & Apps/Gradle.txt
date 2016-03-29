@@ -45,6 +45,7 @@ https://medium.com/@shelajev/6-tips-to-speed-up-your-gradle-build-3d98791d3df9#.
 https://www.reddit.com/r/androiddev/comments/484ek7/heap_size_for_faster_builds_whats_the_downside/
 https://www.reddit.com/r/androiddev/comments/3tnyj9/fast_dev_builds_for_multidex_proguard_projects/
 http://makingiants.com/blog/fasterboost-gradle-builds_2/
+https://www.reddit.com/r/androiddev/comments/48wucs/between_compiling_and_gradle_and_indexing/
 
 https://github.com/Triple-T/gradle-play-publisher
 

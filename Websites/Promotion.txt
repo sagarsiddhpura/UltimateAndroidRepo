@@ -72,6 +72,7 @@ appsapk, smoothreviews, androlib
 https://docs.google.com/spreadsheets/d/1EWEQwdkd-4ZF0DyDW6LsVAuYX-nPQn5ktbzsfEJoteI/edit?usp=sharing
 d-apps.net
 f-droid
+http://sj.qq.com/myapp/
 
 
 /r/androidapps

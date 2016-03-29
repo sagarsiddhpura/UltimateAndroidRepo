@@ -62,6 +62,7 @@ https://medium.com/@vashisthg/android-testing-notes-and-resources-58484bc280a6
 https://github.com/googlesamples/android-testing-templates/tree/master/AndroidTestingBlueprint
 https://github.com/stephanenicolas/Quality-Tools-for-Android
 https://plus.google.com/+AndroidDevelopers/posts/SXVtgnoKcAY
+viniciussoares
 
 
 libs
@@ -111,3 +112,7 @@ http://square.github.io/spoon/
 
 C/C++
 https://github.com/samsung/adbi
+
+
+Testing websites
+https://userbob.com/createTest

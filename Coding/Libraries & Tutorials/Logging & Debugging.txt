@@ -17,6 +17,10 @@ https://github.com/JakeWharton/hugo - annotation based logging
 https://github.com/JakeWharton/pidcat/
 https://github.com/JakeWharton/timber
 https://caster.io/episodes/episode-14-logging-with-timber/
+https://github.com/JakeWharton/u2020/blob/master/src/main/java/com/jakewharton/u2020/data/LumberYard.java
+https://github.com/JakeWharton/u2020/blob/05a57bf43b9b61f16d32cbe8717af77cd608b0fb/src/internal/java/com/jakewharton/u2020/ui/bugreport/BugReportLens.java#L50-L66
+https://github.com/mattprecious/telescope
+
 
 Network
 https://github.com/cookpad/puree-android
@@ -32,20 +36,26 @@ https://github.com/orhanobut/bee
 http://hannesdorfmann.com/android/debug-overlay/
 https://github.com/pedrovgs/Lynx
 
+
 Exagerrated logging
 https://github.com/blundell/ArrowLogger
 
+
 http://buckbuild.com/
+
 
 Log filters
 https://github.com/JakeWharton/pidcat
 
+
 App for logging
 https://github.com/plusCubed/matlog
 
+
 Sniff packets
 https://www.reddit.com/r/androiddev/comments/3m298v/is_there_any_way_to_monitor_incoming_and_outgoing/
-https://github.com/hexene/LocalVPN
+https://github.com/hexene/Loca_cm/
+
 
 Debugging
 http://code.tutsplus.com/tutorials/debugging-android-apps-with-facebooks-stetho--cms-24205
@@ -54,3 +64,11 @@ https://github.com/romainguy/ViewServer
 
 Log viewer
 http://glogg.bonnefon.org/index.html
+
+
+Database
+https://github.com/thedathoudarya/AndroidDBvieweR
+
+
+Articles
+https://www.reddit.com/r/androiddev/comments/48p2s5/logging_library/

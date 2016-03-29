@@ -7,6 +7,10 @@ https://github.com/rey5137/material
 https://github.com/Bearded-Hen/Android-Bootstrap
 
 
+Sticky Header Grid View
+https://github.com/OneCodeLabs/StickyGridHeaders
+
+
 StickyBar
 http://mindbowser.com/blog/implementing-stickybar-in-android/
 

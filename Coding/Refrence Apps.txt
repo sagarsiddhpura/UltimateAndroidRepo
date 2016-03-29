@@ -126,6 +126,9 @@ https://github.com/koying/SPMC
 https://github.com/EEdge/FoodCraft
 https://github.com/yongelee/24-Hour-Alarm-Clock
 https://github.com/MrBIMC/Int20h - Ecommerce app
+https://github.com/syncthing
+https://github.com/iSoron/uhabits/blob/dev/README.md#screenshots
+https://github.com/eneim/Google_io_2016_timer
 
 
 Image editing
@@ -149,6 +152,7 @@ https://github.com/spongebobrf/MaterialIntroTutorial
 https://github.com/spongebobrf/BookdashAndroidApp
 https://github.com/TheKeeperOfPie/Reader
 https://github.com/byoutline/kickmaterial/
+https://github.com/eneim/Google_io_2016_timer
 
 
 Game
@@ -225,6 +229,7 @@ https://github.com/esoxjem/MovieGuide
 Xposed
 https://github.com/DHM47/Native-Clip-Board
 https://github.com/tmfulton/Android-UML-Generator/
+https://github.com/wasdennnoch/AndroidN-ify
 
 
 Vision API

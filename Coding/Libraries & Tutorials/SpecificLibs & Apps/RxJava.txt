@@ -55,6 +55,8 @@ https://github.com/Mauin/RxFingerprint
 https://github.com/pakoito/RxPartialApplication
 https://github.com/pakoito/RxCurrying
 https://github.com/Microsoft/thrifty
+https://github.com/pakoito/RxFunctions
+https://github.com/patloew/RxFit
 
 
 Good
