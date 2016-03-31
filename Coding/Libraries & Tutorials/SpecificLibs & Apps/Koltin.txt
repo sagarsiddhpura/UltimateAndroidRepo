@@ -7,6 +7,7 @@ apps
 https://github.com/hotpodata/redchain
 https://github.com/grandstaish/four-letters-redux
 https://github.com/chemouna/Nearby
+https://github.com/premnirmal/StockTicker
 
 https://www.reddit.com/r/androiddev/comments/4414k2/painless_database_libraries_with_kotlin_rx_support/
 

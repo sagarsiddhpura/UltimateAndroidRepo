@@ -129,6 +129,7 @@ https://github.com/MrBIMC/Int20h - Ecommerce app
 https://github.com/syncthing
 https://github.com/iSoron/uhabits/blob/dev/README.md#screenshots
 https://github.com/eneim/Google_io_2016_timer
+https://github.com/jogold9/Simple_Music_Free
 
 
 Image editing
@@ -165,6 +166,7 @@ https://github.com/WT26/anagramfinder2.0
 https://github.com/mikeyxkcd/2048-android
 https://github.com/mikeyxkcd/ZombieBird
 https://github.com/WT26/blockfly
+https://github.com/bkach/AndroidGameOfLifeMVP
 
 
 Chat

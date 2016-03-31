@@ -4,6 +4,7 @@ https://romannurik.github.io/AndroidAssetStudio/index.html
 https://unsplash.com/
 http://assets.codly.io/
 https://codecrafted.net/svgtoandroid#usage
+https://github.com/patrickfav/density-converter
 
 
 https://github.com/Pkmmte/CircularImageView
