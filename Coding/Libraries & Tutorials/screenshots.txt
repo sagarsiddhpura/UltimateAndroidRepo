@@ -12,3 +12,5 @@ https://gist.github.com/Nilzor/78e9e4a4cd14268a7fe2
 https://gist.github.com/fiskurgit/32c6a729174fffe5abfc
 
 http://www.donnfelker.com/simplifying-internationalization-on-android/
+
+https://play.google.com/store/apps/details?id=de.toastcode.screener

@@ -54,6 +54,7 @@ https://packetzoom.com/blog/how-to-test-your-app-in-different-network-conditions
 
 Json
 https://httpbin.org/
+https://github.com/elixsr/FwdPortForwardingApp/
 
 Sample projects
 https://github.com/chiuki/android-test-demo
@@ -78,14 +79,18 @@ https://github.com/xfumihiro/ViewInspector
 https://github.com/rosshambrick/RxEspresso
 https://github.com/yrizk/Espresso-CustomFailureHandler
 https://boopjs.com/
+https://github.com/elixsr/FwdPortForwardingApp/
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/
 https://github.com/seatgeek/sixpack-java
+https://github.com/s0h4m/toggle
+
 
 Deploying to multple devices
 http://try.crashlytics.com/beta/
 http://hockeyapp.net/features/
+
 
 Expresso
 http://www.michaelevans.org/blog/2015/08/03/using-espresso-for-easy-ui-testing/
@@ -94,6 +99,7 @@ https://github.com/googlesamples/android-testing/blob/master/downloads/Espresso%
 http://andersonleite.com.br/2015/08/14/android-espresso.html
 http://michaelevans.org/blog/2015/09/15/testing-intents-with-espresso-intents/
 http://blog.sqisland.com/2015/10/espresso-save-and-restore-state.html
+
 
 Online testing
 http://developer.samsung.com/remotetestlab/rtlDeviceList.action

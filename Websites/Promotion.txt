@@ -36,6 +36,8 @@ https://www.reddit.com/r/androiddev/comments/3zep2u/app_name_optimization_part_2
 http://appstretch.com/
 https://www.reddit.com/r/DiscoverApps/
 https://www.reddit.com/r/androiddev/comments/42lpnq/how_to_promote_your_app/
+http://appadvice.com/
+
 
 https://www.reddit.com/r/androiddev/comments/442sft/mod_approved_android_promos_launching_tomorrow/
 https://medium.com/@fredgrott/build-your-app-audience-932a72d8df92#.eztl9u8xj
@@ -76,6 +78,7 @@ http://sj.qq.com/myapp/
 
 
 /r/androidapps
+https://www.reddit.com/r/TheseAreOurApps/?
 if it is a game, /r/AndroidGaming/
 also, watch out for Saturday appreciation thread on /r/Android/
 outside of reddit, try every social media you are into and http://forum.xda-developers.com/android/apps-games

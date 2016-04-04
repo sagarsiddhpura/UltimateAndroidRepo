@@ -11,6 +11,8 @@ https://bugsnag.com/features
 https://github.com/mattprecious/telescope
 https://count.ly/
 
+https://stanfy.com/blog/tools-and-platforms-for-mobile-app-analytics-part-i-performance-and-errors/
+
 Custom Crash Screen
 https://www.reddit.com/r/androiddev/comments/3yg7tu/is_it_possible_to_handle_any_exception_that_would/
 http://stackoverflow.com/questions/19897628/need-to-handle-uncaught-exception-and-send-log-file

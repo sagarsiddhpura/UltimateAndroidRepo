@@ -1,0 +1,5 @@
+https://www.reddit.com/r/androiddev/comments/49cceh/face_tracking_libraries/
+http://www.ssaurel.com/blog/learn-to-make-faces-recognition-programmatically-in-android/
+
+
+https://github.com/square/whorlwind

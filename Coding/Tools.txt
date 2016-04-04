@@ -22,6 +22,7 @@ https://play.google.com/store/apps/details?id=com.faizmalkani.keylines
 http://comparegithosting.com/#Free
 
 https://github.com/outware/caveman
+https://medium.com/@hellotimmutton/managing-android-build-configurations-with-caveman-240ebe1f5559#.phzver9b8
 
 http://apps.adityaanand.in/competitor-analysis/
 
@@ -41,3 +42,7 @@ http://www.androidcodesnippets.com/
 https://github.com/alexfu/androidautoversion
 
 Developer Toolbelt - Fill RAM
+
+https://www.reddit.com/r/androiddev/comments/49vxrb/ask_androiddev_if_you_had_complete_control_of_the/
+
+https://github.com/elixsr/FwdPortForwardingApp/

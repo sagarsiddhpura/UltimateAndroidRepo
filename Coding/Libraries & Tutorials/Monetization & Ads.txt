@@ -10,5 +10,6 @@ https://www.reddit.com/r/androiddev/comments/41rsgj/where_to_learn_about_monetiz
 https://adgatemedia.com/?utm_source=reddit&utm_medium=sponsored&utm_campaign=androidg1
 http://services.google.com/fh/files/misc/admobmonetizationguide.pdf
 https://www.heyzap.com/
+https://www.reddit.com/r/androiddev/comments/49pfmu/anyone_notice_a_drop_off_in_admob_revenue/
 
 Chartboost 

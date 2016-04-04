@@ -68,3 +68,6 @@ Performance
 https://www.youtube.com/watch?v=ORgucLTtTDI&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
 
 https://medium.com/google-developers/intercepting-everything-with-coordinatorlayout-behaviors-8c6adc140c26
+
+Libs
+https://www.reddit.com/r/androiddev/comments/4a7e0p/es_file_explorer_and_other_apps_do_not_list_open/

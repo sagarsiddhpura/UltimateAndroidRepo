@@ -212,6 +212,10 @@ http://www.dmytrodanylyk.com/pages/blog/error-label.html
 https://www.novoda.com/blog/alternative-interfaces/
 
 
+Bottom bar
+https://github.com/roughike/BottomBar
+
+
 Switch
 https://github.com/BelkaLab/Android-Toggle-Switch
 https://github.com/roughike/SwipeSelector
@@ -219,6 +223,10 @@ https://github.com/roughike/SwipeSelector
 
 Gallery
 https://github.com/500px/greedo-layout-for-android
+
+
+Seekbar
+https://github.com/neild001/SeekArc
 
 
 Chat heads

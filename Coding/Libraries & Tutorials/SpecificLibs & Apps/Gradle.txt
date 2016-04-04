@@ -51,7 +51,9 @@ https://github.com/Triple-T/gradle-play-publisher
 
 http://blog.octo.com/en/reduce-android-build-duration/
 
+libs
 https://github.com/hannesstruss/godot
+https://github.com/KeepSafe/dexcount-gradle-plugin
 
 Writing Plugin
 https://afterecho.uk/blog/create-a-standalone-gradle-plugin-for-android-part-2.html

@@ -130,6 +130,15 @@ https://github.com/syncthing
 https://github.com/iSoron/uhabits/blob/dev/README.md#screenshots
 https://github.com/eneim/Google_io_2016_timer
 https://github.com/jogold9/Simple_Music_Free
+https://github.com/bottiger/SoundWaves
+https://github.com/ckurtm/Todo
+https://github.com/chemouna/HarryPotterBooks
+https://github.com/szafir1100/drawable-notepad
+https://github.com/mformetal/Canvas
+https://github.com/vackosar/search-based-launcher
+https://github.com/firekesti/Jay-Soundboard
+https://github.com/jamtartley/Noted
+https://github.com/elixsr/FwdPortForwardingApp/
 
 
 Image editing
@@ -154,6 +163,8 @@ https://github.com/spongebobrf/BookdashAndroidApp
 https://github.com/TheKeeperOfPie/Reader
 https://github.com/byoutline/kickmaterial/
 https://github.com/eneim/Google_io_2016_timer
+https://github.com/chemouna/HarryPotterBooks
+
 
 
 Game
@@ -167,6 +178,7 @@ https://github.com/mikeyxkcd/2048-android
 https://github.com/mikeyxkcd/ZombieBird
 https://github.com/WT26/blockfly
 https://github.com/bkach/AndroidGameOfLifeMVP
+https://github.com/miguelespinoza/react-goku
 
 
 Chat

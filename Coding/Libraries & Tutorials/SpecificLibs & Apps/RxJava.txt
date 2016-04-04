@@ -57,6 +57,7 @@ https://github.com/pakoito/RxCurrying
 https://github.com/Microsoft/thrifty
 https://github.com/pakoito/RxFunctions
 https://github.com/patloew/RxFit
+https://github.com/pakoito/RxSealedUnions
 
 
 Good
@@ -98,6 +99,8 @@ https://github.com/esoxjem/MovieGuide
 Samples
 https://github.com/colintheshots/AnDevCon-RxPatterns
 https://github.com/kaushikgopal/RxJava-Android-Samples
+https://github.com/mgp/effective-rxjava
+https://github.com/chemouna/Rx-Resources
 
 
 DB
@@ -124,3 +127,4 @@ https://www.reddit.com/r/androiddev/comments/40l5qa/how_did_you_learn_rxjava/
 https://medium.com/mobiwise-blog/use-rxjava-instead-of-event-bus-libraries-aa78b5023097#.34p98rwgq
 https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850
 http://tomstechnicalblog.blogspot.com/2016/02/rxjava-understanding-observeon-and.html
+https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.qj8r7mbsn
