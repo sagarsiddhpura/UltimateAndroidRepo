@@ -48,6 +48,7 @@ http://mindbowser.com/blog/7-techniques-to-successfully-growth-hack-your-apps/
 One url for app
 http://rdrct.it/
 https://branch.io/
+http://lotcat.com/
 
 
 http://appfollow.io/
@@ -75,6 +76,7 @@ https://docs.google.com/spreadsheets/d/1EWEQwdkd-4ZF0DyDW6LsVAuYX-nPQn5ktbzsfEJo
 d-apps.net
 f-droid
 http://sj.qq.com/myapp/
+miui store
 
 
 /r/androidapps

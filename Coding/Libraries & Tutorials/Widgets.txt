@@ -196,6 +196,7 @@ https://github.com/mikeyxkcd/MaterialContentOverflow
 https://github.com/vinaygaba/CreditCardView
 https://github.com/mattlogan/SelectableMapFragment
 https://github.com/roughike/SwipeSelector
+https://github.com/JoeBudic/Multi-point-Circular-Seekbar
 
 
 Bottom Sheet
@@ -214,6 +215,7 @@ https://www.novoda.com/blog/alternative-interfaces/
 
 Bottom bar
 https://github.com/roughike/BottomBar
+https://github.com/aurelhubert/ahbottomnavigation
 
 
 Switch

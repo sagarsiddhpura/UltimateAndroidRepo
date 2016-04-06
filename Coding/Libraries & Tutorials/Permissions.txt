@@ -8,3 +8,6 @@ https://github.com/googlesamples/easypermissions
 https://github.com/galex/android-permissions-gradle-plugin
 
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
+
+Remove permissions from lib
+https://medium.com/glucosio-project/how-libraries-can-silently-add-permissions-to-your-android-app-620911d7de6c#.gd9xxmfum

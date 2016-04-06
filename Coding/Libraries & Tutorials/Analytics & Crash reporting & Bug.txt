@@ -10,6 +10,7 @@ https://answers.io/pricing
 https://bugsnag.com/features
 https://github.com/mattprecious/telescope
 https://count.ly/
+https://instabug.com/how-it-works
 
 https://stanfy.com/blog/tools-and-platforms-for-mobile-app-analytics-part-i-performance-and-errors/
 

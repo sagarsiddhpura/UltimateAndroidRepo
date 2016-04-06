@@ -33,3 +33,4 @@ https://github.com/tozny/java-aes-crypto
 https://github.com/afollestad/digitus
 https://github.com/SandroMachado/AndroidTampering
 https://github.com/mikeyxkcd/android-secure-preferences
+https://github.com/Zookey/JavaAES

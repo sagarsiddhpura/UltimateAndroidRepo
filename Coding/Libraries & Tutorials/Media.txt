@@ -15,6 +15,7 @@ https://www.reddit.com/r/androiddev/comments/46hbuz/how_to_filter_a_video_frame_
 
 Streaming
 https://www.oddnetworks.com/
+https://github.com/allanpichardo/Simplay
 
 
 Audio
