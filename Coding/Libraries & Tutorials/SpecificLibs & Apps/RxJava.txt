@@ -58,6 +58,7 @@ https://github.com/Microsoft/thrifty
 https://github.com/pakoito/RxFunctions
 https://github.com/patloew/RxFit
 https://github.com/pakoito/RxSealedUnions
+https://github.com/VladimirLichonos/RxActions
 
 
 Good

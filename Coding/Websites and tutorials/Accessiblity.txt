@@ -1,2 +1,3 @@
 https://www.novoda.com/blog/designing-android-apps-with-vision-impaired-users-in-mind/
 https://medium.com/a-package-a-day/day-2-android-accessibilityservice-b2473ad28390
+https://www.novoda.com/blog/losing-focus/

@@ -41,3 +41,7 @@ Strings.xml to csv
 https://plugins.jetbrains.com/plugin/7782?pr=idea
 
 http://eliasbagley.github.io/android/2015/10/04/essential-android-studio-plugins.html
+
+Methodcount
+https://plugins.jetbrains.com/plugin/8076
+https://github.com/KeepSafe/dexcount-gradle-plugin

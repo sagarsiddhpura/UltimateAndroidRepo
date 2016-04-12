@@ -18,6 +18,7 @@ https://www.heroku.com/pricing
 openshift
 https://www.back4app.com/
 http://www.catapush.com/
+https://xamoom.com/en/2016/03/develop-awesome-stuff-on-top-of-the-xamoom-platform/
 
 
 http://www.slant.co/topics/5219/~parse-alternatives-for-android-app-development
@@ -25,3 +26,13 @@ http://www.slant.co/topics/5219/~parse-alternatives-for-android-app-development
 http://flask.pocoo.org/
 
 https://www.reddit.com/r/androiddev/comments/46qgh9/what_language_do_you_use_for_your_backend_server/
+
+https://www.nitrous.io/
+http://nfshost.com/
+http://c9.io/
+https://www.gearhost.com/pricing
+https://appharbor.com/addons/mysql
+https://appharbor.com/addons/sqlserver
+
+Make API from php
+http://edgarmarcopolo.blogspot.in/2014/01/how-to-make-public-json-api-using-php.html

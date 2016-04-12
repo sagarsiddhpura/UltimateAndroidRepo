@@ -13,3 +13,5 @@ Provide evidence for copyrighted material
 https://support.google.com/googleplay/android-developer/answer/6320428
 
 https://www.reddit.com/r/androiddev/comments/47tb6g/how_to_transfer_your_google_dev_apps_or_account/
+
+https://www.simform.com/blog/google-play-app-store-optimization

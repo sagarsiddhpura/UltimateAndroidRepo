@@ -54,6 +54,10 @@ http://www.thedroidsonroids.com/blog/android/meaningful-motion-with-shared-eleme
 http://www.thedroidsonroids.com/blog/android/android-flipa-card-animation-exlpained/
 
 
+Edittext
+https://github.com/evant/animated-spans
+https://blog.prototypr.io/your-app-login-is-boring-bring-it-to-life-with-motion-7ac2547d9c5f#.59m23u88t
+https://github.com/alphamu/AnimatedEditText
 
 Recyclerview
 http://antonioleiva.com/layout-animations-on-recyclerview/

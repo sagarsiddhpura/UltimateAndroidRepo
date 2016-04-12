@@ -1,0 +1,2 @@
+http://www.dmytrodanylyk.com/pages/blog/login-screen-checklist.html
+https://stormpath.com/blog/build-user-authentication-for-android-app/

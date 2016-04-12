@@ -1,2 +1,3 @@
 https://github.com/81813780/AVLoadingIndicatorView
 https://github.com/tasomaniac/DelayedProgress
+https://github.com/tajchert/WaitingDots

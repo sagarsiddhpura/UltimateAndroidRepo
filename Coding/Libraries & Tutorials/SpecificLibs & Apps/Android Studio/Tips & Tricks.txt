@@ -5,3 +5,4 @@ https://youtu.be/Y2GC6P5hPeA
 http://ianfield.com/2016/01/20/android-dev-quality-of-life-tips.html
 http://blog.jetbrains.com/idea/2014/03/postfix-completion/
 https://medium.com/sebs-top-tips/analyse-data-flows-without-the-debugger-android-studio-protips-3-ef2885aaffd9#.5xs595ywr
+http://panavtec.me/keyboard-driven-development

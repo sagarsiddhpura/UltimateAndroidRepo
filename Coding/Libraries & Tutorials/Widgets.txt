@@ -26,6 +26,7 @@ https://github.com/cdeange/RopeProgressBar
 https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
 https://blog.stylingandroid.com/material-progressbar
 https://github.com/tasomaniac/DelayedProgress
+https://github.com/shivasurya/materialsteppers
 
 
 FAB
@@ -57,6 +58,9 @@ https://github.com/chiuki/advanced-textview
 https://github.com/RomainPiel/Titanic
 https://github.com/googlesamples/android-TextLinkify
 https://github.com/googlesamples/android-TextSwitcher
+https://github.com/tajchert/WaitingDots
+https://github.com/scottyab/showhidepasswordedittext
+https://github.com/alphamu/AnimatedEditText
 
 http://antonioleiva.com/textview_power_drawables/
 
@@ -128,7 +132,7 @@ http://www.dmytrodanylyk.com/pages/blog/material-flat-button.html
 http://www.dmytrodanylyk.com/pages/blog/flat-button.html
 https://github.com/android-awesome/Awesome-Material
 https://github.com/IvBaranov/MaterialFavoriteButton
-
+https://medium.com/google-developers/choosing-a-button-style-with-purpose-and-intent-35a945e228d3#.4u6mfyt46
 
 Navigation drawer
 https://github.com/neokree/MaterialNavigationDrawer
@@ -233,6 +237,10 @@ https://github.com/neild001/SeekArc
 
 Chat heads
 https://github.com/workarounds/portal
+
+
+Steppers
+https://github.com/shivasurya/materialsteppers
 
 
 Expandable Layout

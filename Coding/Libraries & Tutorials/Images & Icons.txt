@@ -6,7 +6,6 @@ http://assets.codly.io/
 https://codecrafted.net/svgtoandroid#usage
 https://github.com/patrickfav/density-converter
 
-
 https://github.com/Pkmmte/CircularImageView
 
 Image loading
@@ -114,6 +113,9 @@ https://www.reddit.com/r/androiddev/comments/47urm6/question_free_api_to_recogni
 
 
 Icons
+libs
+https://github.com/borax12/IconPackHelper
+
 http://bitdroid.de/Android-Material-Icon-Generator/
 https://romannurik.github.io/AndroidAssetStudio/index.htmlx
 https://github.com/code-mc/material-icon-lib
@@ -154,3 +156,6 @@ http://www.flaticon.com/
 http://android.pakmax.net/2015/07/free-android-icons-libraries.html
 
 https://www.reddit.com/r/androiddev/comments/3f08ge/what_i_love_about_androidiconify/
+
+SVG to android xml
+http://inloop.github.io/svg2android/

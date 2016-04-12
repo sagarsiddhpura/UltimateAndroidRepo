@@ -18,3 +18,6 @@ https://github.com/cxxr/better-java
 http://newandroidbook.com/index.php
 
 http://www.norio.be/android-feature-graphic-generator/
+
+https://github.com/tonilopezmr/android-community
+http://wahibhaq.com/blog/ultimate-resources-android-dev/
