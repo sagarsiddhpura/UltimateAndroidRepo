@@ -3,3 +3,4 @@ http://uiohmy.com/
 http://www.sketchappsources.com/resource/download-733.html
 https://github.com/anirudh24seven/material-guidelines
 https://blog.stylingandroid.com/
+https://www.reddit.com/r/gamedev/comments/3baq5r/gui_to_meet_you_two_a_list_of_free_ui_resources/

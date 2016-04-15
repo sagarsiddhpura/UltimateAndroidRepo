@@ -4,6 +4,8 @@ https://github.com/hotpodata?tab=repositories
 https://www.reddit.com/r/androiddev/comments/3igd4x/list_quality_open_source_projects_that_everyone/
 https://github.com/mikeyxkcd?tab=repositories
 https://www.openhub.net/p?ref=explore_project&query=android
+https://www.androidexperiments.com/?tag=
+https://github.com/Freelander/Android_Data
 
 https://github.com/geecko86/QuickLyric
 https://github.com/C-Aniruddh/ACEMusicPlayer
@@ -141,6 +143,15 @@ https://github.com/jamtartley/Noted
 https://github.com/elixsr/FwdPortForwardingApp/
 https://github.com/intxcc/OwnTrack
 https://github.com/bfergs/Terra
+https://github.com/kellenlask/PairwiseComparison
+https://github.com/Stoyicker/boats-xkcd
+https://github.com/Pkmmte/TechDissected
+https://github.com/NielsMasdorp/Sleeply-Android
+https://github.com/oosthuizenr/Livingstone
+https://github.com/dibakarece/DMPlayer
+https://github.com/fbsamples/f8app
+https://github.com/pockethub/PocketHub
+https://github.com/google/santa-tracker-android
 
 
 Image editing
@@ -214,6 +225,7 @@ https://github.com/ivacf/archi
 https://github.com/rallat/EffectiveAndroid
 https://github.com/yigit/dev-summit-architecture-demo
 https://github.com/antoniolg/androidmvp
+https://github.com/hugokallstrom/MVVMSampleApplication
 
 
 

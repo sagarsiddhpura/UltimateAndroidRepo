@@ -4,6 +4,8 @@ https://github.com/pushtorefresh/storio
 https://github.com/square/sqldelight
 https://bitbucket.org/qbusict/cupboard
 https://github.com/pilgr/Paper
+https://github.com/requery/requery
+https://github.com/koesie10/ormlite-processor
 
 http://gradlewhy.ghost.io/realm-results-with-recyclerview/
 

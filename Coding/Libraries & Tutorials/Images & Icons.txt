@@ -43,6 +43,12 @@ https://github.com/cooltechworks/BitmapMerger
 https://github.com/florent37/KenBurnsView
 https://github.com/wasabeef/Blurry
 https://gist.github.com/davidwhitman/92d043f2f75fd392a1f3
+https://github.com/glomadrian/RoadRunner
+
+
+SVG
+https://github.com/glomadrian/RoadRunner
+http://vectormagic.com/home
 
 
 Have state drawable
@@ -89,6 +95,10 @@ https://github.com/Yalantis/uCrop
 
 Image Picker
 https://github.com/jkwiecien/EasyImage
+
+
+Image Libs
+https://github.com/nuuneoi/AdjustableImageView
 
 
 

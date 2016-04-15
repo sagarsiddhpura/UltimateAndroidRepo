@@ -77,6 +77,7 @@ d-apps.net
 f-droid
 http://sj.qq.com/myapp/
 miui store
+http://android.myapp.com
 
 
 /r/androidapps

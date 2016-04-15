@@ -12,3 +12,6 @@ https://github.com/artem-zinnatullin/TheContext-Podcast
 
 Performance community
 https://plus.google.com/communities/116342551728637785407
+
+Useful links
+https://github.com/Vedenin/useful-java-links

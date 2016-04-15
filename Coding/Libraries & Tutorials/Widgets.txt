@@ -27,6 +27,7 @@ https://github.com/JorgeCastilloPrz/AndroidFillableLoaders
 https://blog.stylingandroid.com/material-progressbar
 https://github.com/tasomaniac/DelayedProgress
 https://github.com/shivasurya/materialsteppers
+https://github.com/GIGAMOLE/ArcProgressStackView
 
 
 FAB
@@ -42,6 +43,7 @@ https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/
 
 coordinatorlayout
 https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/
+http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435
 
 
 EditText 
@@ -90,6 +92,7 @@ https://github.com/vitovalov/TabbedCoordinatorLayout
 Tablayout with badge
 https://gist.github.com/eneim/55df01e092520a6d33a4
 https://github.com/DavidPacioianu/InkPageIndicator
+https://github.com/DevLight-Mobile-Agency/NavigationTabBar
 
 
 Wizard pager
@@ -113,12 +116,14 @@ https://plus.google.com/+AndroidDevelopers/posts/AV2ooBWY1iy
 https://www.reddit.com/r/androiddev/comments/3m92ho/is_there_a_way_to_change_the_title_bar_color_in/    recents view
 https://github.com/vitovalov/TabbedCoordinatorLayout
 https://medium.com/@nullthemall/overscroll-appbarlayout-behavior-e58f1ee2807#.ifc8pke2i
+http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435
 
 
 Calendar Widget
 https://github.com/romannurik/Android-MonthCalendarWidget
 https://github.com/prolificinteractive/material-calendarview
 https://halfthought.wordpress.com/2015/10/16/datepicker-data-binding/
+https://github.com/SundeepK/CompactCalendarView
 
 
 Tree View
@@ -133,6 +138,8 @@ http://www.dmytrodanylyk.com/pages/blog/flat-button.html
 https://github.com/android-awesome/Awesome-Material
 https://github.com/IvBaranov/MaterialFavoriteButton
 https://medium.com/google-developers/choosing-a-button-style-with-purpose-and-intent-35a945e228d3#.4u6mfyt46
+https://github.com/GautamGupta/toolbar-button
+
 
 Navigation drawer
 https://github.com/neokree/MaterialNavigationDrawer
@@ -147,6 +154,10 @@ Dialog
 https://github.com/pedant/sweet-alert-dialog
 https://github.com/afollestad/material-dialogs
 https://www.reddit.com/r/androiddev/comments/40fibd/best_way_to_make_a_dialogfragment_transparent/
+
+
+Statusbar
+https://github.com/laobie/StatusBarUtil
 
 
 Viewpager
@@ -201,6 +212,10 @@ https://github.com/vinaygaba/CreditCardView
 https://github.com/mattlogan/SelectableMapFragment
 https://github.com/roughike/SwipeSelector
 https://github.com/JoeBudic/Multi-point-Circular-Seekbar
+https://bitbucket.org/d3m0li5h3r/expandinglayout
+https://github.com/GIGAMOLE/ArcProgressStackView
+https://github.com/dalong982242260/LoopRotarySwitch
+https://github.com/kaelaela/OpenGraphView
 
 
 Bottom Sheet
@@ -209,6 +224,10 @@ https://github.com/rubensousa/BottomSheetBuilder
 
 Widgets
 https://afterecho.uk/blog/android-widgets-a-couple-of-gotchyas.html
+
+
+Chart
+https://github.com/PhilJay/MPAndroidChart
 
 
 Custom View
@@ -220,6 +239,8 @@ https://www.novoda.com/blog/alternative-interfaces/
 Bottom bar
 https://github.com/roughike/BottomBar
 https://github.com/aurelhubert/ahbottomnavigation
+https://github.com/NikolaDespotoski/BottomNavigationLayout
+https://github.com/Ashok-Varma/BottomNavigation
 
 
 Switch
@@ -243,5 +264,7 @@ Steppers
 https://github.com/shivasurya/materialsteppers
 
 
+Layout
+https://github.com/mmin18/FlexLayout
 Expandable Layout
 https://github.com/AAkira/ExpandableLayout

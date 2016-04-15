@@ -1,3 +1,4 @@
 https://github.com/81813780/AVLoadingIndicatorView
 https://github.com/tasomaniac/DelayedProgress
 https://github.com/tajchert/WaitingDots
+https://github.com/ybq/Android-SpinKit

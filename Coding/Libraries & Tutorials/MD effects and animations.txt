@@ -52,6 +52,9 @@ https://github.com/florent37/ViewAnimator
 http://blog.rowburst.com/229/change-edittext-line-color-with-animation/
 http://www.thedroidsonroids.com/blog/android/meaningful-motion-with-shared-element-transition-and-circular-reveal-animation/?utm_source=Android+Weekly&utm_campaign=7407d72e14-Android_Weekly_193&utm_medium=email&utm_term=0_4eb677ad19-7407d72e14-337993949
 http://www.thedroidsonroids.com/blog/android/android-flipa-card-animation-exlpained/
+http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435
+https://github.com/Ramotion/folding-cell-android
+https://github.com/android-cjj/JJSearchViewAnim
 
 
 Edittext

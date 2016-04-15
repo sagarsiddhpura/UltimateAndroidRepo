@@ -3,6 +3,7 @@ http://www.survivingwithandroid.com/2014/08/android-listview-with-multiple-row.h
 http://amigold.github.io/FunDapter/
 
 RecyclerView
+https://github.com/cymcsg/UltimateRecyclerView
 https://github.com/googlesamples/android-RecyclerView
 https://github.com/rahulrj/Swipe_RecyclerView
 https://github.com/lucasr/twoway-view
@@ -11,6 +12,7 @@ https://www.bignerdranch.com/blog/expand-a-recyclerview-in-four-steps/
 https://github.com/jianghejie/XRecyclerView
 https://github.com/bignerdranch/expandable-recycler-view
 https://github.com/lopspower/HFRecyclerView
+https://github.com/CaMnter/EasyRecyclerViewSidebar
 
 https://github.com/jug6ernaut/DataBindingAdapter
 
@@ -34,6 +36,7 @@ Expandabele RV
 http://anandbose.github.io/android_recyclerview_expandablelistview.html
 https://github.com/anandbose/ExpandableListViewDemo
 https://github.com/bignerdranch/expandable-recycler-view
+https://bitbucket.org/d3m0li5h3r/expandinglayout
 
 
 Pagination

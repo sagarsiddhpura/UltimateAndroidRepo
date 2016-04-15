@@ -1,0 +1,4 @@
+https://github.com/robohorse/gpversionchecker
+https://github.com/eggheadgames/Siren
+https://github.com/javiersantos/AppUpdater
+https://github.com/btkelly/gandalf

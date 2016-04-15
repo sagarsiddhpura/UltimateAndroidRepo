@@ -22,3 +22,11 @@ https://www.npmjs.com/package/gmail-safe
 https://github.com/eblume/gmail_safe
 https://www.npmjs.com/package/node-gmail-api
 
+https://github.com/robohorse/gpversionchecker
+https://github.com/eggheadgames/Siren
+https://github.com/javiersantos/AppUpdater
+https://github.com/btkelly/gandalf
+
+
+Hayday helper
+https://dribbble.com/shots/2636866-Material-Cards

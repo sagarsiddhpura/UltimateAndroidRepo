@@ -29,6 +29,7 @@ http://yeoman.io/generators/
 https://github.com/cristhianescobar/generator-android-starter
 https://github.com/cavarzan/generator-android-hipster
 https://github.com/slymax/webview
+https://github.com/ribot/android-boilerplate
 
 
 integrate libs faster

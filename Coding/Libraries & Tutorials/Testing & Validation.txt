@@ -104,6 +104,8 @@ http://blog.sqisland.com/2015/10/espresso-save-and-restore-state.html
 
 Online testing
 http://developer.samsung.com/remotetestlab/rtlDeviceList.action
+pCloudy
+http://testobject.com/
 
 
 Validation

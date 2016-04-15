@@ -48,3 +48,10 @@ https://www.reddit.com/r/androiddev/comments/49vxrb/ask_androiddev_if_you_had_co
 https://github.com/elixsr/FwdPortForwardingApp/
 
 http://www.methodscount.com/#
+
+https://github.com/JakeWharton/sdk-manager-plugin
+
+https://pixplicity.com/dp-px-converter/
+
+Designing
+https://www.materialpalette.com

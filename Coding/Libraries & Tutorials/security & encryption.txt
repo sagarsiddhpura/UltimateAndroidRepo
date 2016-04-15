@@ -34,3 +34,6 @@ https://github.com/afollestad/digitus
 https://github.com/SandroMachado/AndroidTampering
 https://github.com/mikeyxkcd/android-secure-preferences
 https://github.com/Zookey/JavaAES
+https://github.com/rock3r/smartlock-demo
+https://github.com/scottyab/rootbeer
+https://developer.android.com/training/safetynet/index.html
