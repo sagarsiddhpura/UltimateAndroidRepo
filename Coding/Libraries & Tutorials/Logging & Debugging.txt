@@ -20,6 +20,7 @@ https://caster.io/episodes/episode-14-logging-with-timber/
 https://github.com/JakeWharton/u2020/blob/master/src/main/java/com/jakewharton/u2020/data/LumberYard.java
 https://github.com/JakeWharton/u2020/blob/05a57bf43b9b61f16d32cbe8717af77cd608b0fb/src/internal/java/com/jakewharton/u2020/ui/bugreport/BugReportLens.java#L50-L66
 https://github.com/mattprecious/telescope
+http://robusttechhouse.com/debugging-android-using-facebook-stetho-library/
 
 
 Network
@@ -61,6 +62,7 @@ https://github.com/hexene/Loca_cm/
 Debugging
 http://code.tutsplus.com/tutorials/debugging-android-apps-with-facebooks-stetho--cms-24205
 https://github.com/romainguy/ViewServer
+https://blog.xmartlabs.com/2016/03/28/Debugging-an-Annotator-Processor-in-your-project/
 
 
 Log viewer

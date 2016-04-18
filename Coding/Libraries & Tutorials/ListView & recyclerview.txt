@@ -30,6 +30,7 @@ https://github.com/timusus/RecyclerView-FastScroll
 Adapter
 https://github.com/Commit451/AdapterLayout
 https://github.com/500px/greedo-layout-for-android
+https://github.com/RecycledMedia/tradesy-android-binder
 
 
 Expandabele RV

@@ -152,6 +152,8 @@ https://github.com/dibakarece/DMPlayer
 https://github.com/fbsamples/f8app
 https://github.com/pockethub/PocketHub
 https://github.com/google/santa-tracker-android
+https://github.com/timothymiko/narrate-android
+
 
 
 Image editing
@@ -289,3 +291,7 @@ https://github.com/WT26/anagramfinder2.0
 Watch
 https://github.com/ckulkar/mocha17-dev
 https://github.com/fodawim/AndroidWearWatchface
+
+
+Cromecast
+https://github.com/MacDegger/BABBQastPresentation

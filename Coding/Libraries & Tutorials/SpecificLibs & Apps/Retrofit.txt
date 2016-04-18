@@ -20,3 +20,6 @@ https://medium.com/@sasa_sekulic/quick-and-easy-guide-to-retrofit-2-0-setup-or-m
 Testing
 http://riggaroo.co.za/mocking-api-responses-using-a-retrofit-client-in-android/
 http://riggaroo.co.za/retrofit-2-mocking-http-responses/
+
+With other libs
+https://nullpointer.wtf/android/using-retrofit-realm-parceler/

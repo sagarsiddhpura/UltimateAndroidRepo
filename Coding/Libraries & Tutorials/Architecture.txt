@@ -18,7 +18,7 @@ https://github.com/lgvalle/android-flux-todo-app
 https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029#.ucymv1rr1
 https://github.com/square/flow
 http://macoscope.com/blog/model-view-presenter-architecture-in-android-applications/
-
+http://blog.karumi.com/inside-rosie-the-presentation-layer/
 http://pguardiola.com/blog/clean-architecture-part-1/
 
 https://realm.io/news/gotocph-mattias-kappler-reactive-architecture-android/

@@ -59,6 +59,7 @@ https://github.com/pakoito/RxFunctions
 https://github.com/patloew/RxFit
 https://github.com/pakoito/RxSealedUnions
 https://github.com/VladimirLichonos/RxActions
+http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
 
 
 Good
@@ -107,6 +108,7 @@ https://github.com/chemouna/Rx-Resources
 DB
 https://realm.io/news/using-realm-with-rxjava/
 http://kboyarshinov.com/android/wrapping-realm-around-rxjava/
+https://nullpointer.wtf/android/using-retrofit-realm-parceler/
 
 
 Videos
