@@ -1,0 +1,1 @@
+http://michaelevans.org/blog/2016/03/31/using-build-types-with-the-google-services-gradle-plugin/

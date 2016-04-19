@@ -1,3 +1,4 @@
 https://www.reddit.com/r/androiddev/comments/419dpo/what_do_android_developers_use_for_code_linting/
 https://www.reddit.com/r/androiddev/comments/4brjhn/post_your_lint_findbugs_and_pmd_configsfilters/
 https://github.com/square/java-code-styles
+https://www.bignerdranch.com/blog/continuous-linting/

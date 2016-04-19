@@ -6,6 +6,7 @@ https://github.com/mikeyxkcd?tab=repositories
 https://www.openhub.net/p?ref=explore_project&query=android
 https://www.androidexperiments.com/?tag=
 https://github.com/Freelander/Android_Data
+https://plus.google.com/u/0/communities/100609058582053363304
 
 https://github.com/geecko86/QuickLyric
 https://github.com/C-Aniruddh/ACEMusicPlayer
@@ -218,6 +219,7 @@ https://github.com/googlesamples/android-topeka
 https://github.com/googlesamples/android-UniversalMusicPlayer
 https://android.googlesource.com/platform/frameworks/rs/+/master/java/tests/HealingBrush/
 https://android.googlesource.com/platform/packages/apps/Calendar/
+https://github.com/sky-map-team/stardroid
 
 
 Architecture & Best Practices

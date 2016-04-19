@@ -20,6 +20,9 @@ https://github.com/square/flow
 http://macoscope.com/blog/model-view-presenter-architecture-in-android-applications/
 http://blog.karumi.com/inside-rosie-the-presentation-layer/
 http://pguardiola.com/blog/clean-architecture-part-1/
+https://medium.com/@Sserra90/mvc-on-android-an-approach-for-testable-and-maintainable-applications-part-ii-28617ea66291#.x4z21bopb
+https://medium.com/@Sserra90/mvc-on-android-an-approach-for-testable-and-maintainable-applications-part-iii-2afbd49928e8#.mft6oyhvb
+https://www.reddit.com/r/androiddev/comments/4d3fnf/resources_for_android_app_architecture/
 
 https://realm.io/news/gotocph-mattias-kappler-reactive-architecture-android/
 

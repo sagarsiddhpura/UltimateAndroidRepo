@@ -99,6 +99,8 @@ https://github.com/jkwiecien/EasyImage
 
 Image Libs
 https://github.com/nuuneoi/AdjustableImageView
+https://github.com/trippedout/CloudVisionLib
+https://github.com/Microsoft/ProjectOxford-ClientSDK/tree/master/Vision/Android
 
 
 

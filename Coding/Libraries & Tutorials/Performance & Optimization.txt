@@ -5,6 +5,7 @@ http://open.blogs.nytimes.com/2016/02/11/improving-startup-time-in-the-nytimes-a
 http://blog.nimbledroid.com/2016/02/17/cold-start-times-of-top-apps.html?top?=25&category=MUSIC_STREAMING
 https://medium.com/smartphone-enerlytics/apple-music-the-latest-music-app-also-has-energy-glitches-how-we-reduced-its-battery-drain-by-18-3a82b62b1178#.bwqgiwpif
 http://www.tomshardware.com/news/basemark-pat-power-assessment-tool,31315.html
+http://uiandroid.com/view-layers-for-dummies/
 
 Community
 https://plus.google.com/communities/116342551728637785407

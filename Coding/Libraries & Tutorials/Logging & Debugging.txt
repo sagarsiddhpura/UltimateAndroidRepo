@@ -28,6 +28,7 @@ https://github.com/cookpad/puree-android
 https://github.com/sschendel/RemoteLogger
 https://publicobject.com/2016/01/17/sneaking-data-into-an-okhttp-interceptor/
 https://github.com/elixsr/FwdPortForwardingApp/
+https://bugfender.com/android-remote-logger
 
 
 Live Logging

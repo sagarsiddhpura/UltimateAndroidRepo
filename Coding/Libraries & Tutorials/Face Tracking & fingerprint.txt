@@ -3,3 +3,5 @@ http://www.ssaurel.com/blog/learn-to-make-faces-recognition-programmatically-in-
 
 
 https://github.com/square/whorlwind
+
+https://github.com/trippedout/CloudVisionLib

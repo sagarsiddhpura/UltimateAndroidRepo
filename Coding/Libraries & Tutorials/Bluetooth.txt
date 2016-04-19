@@ -3,3 +3,6 @@ https://www.reddit.com/r/androiddev/comments/3tmde3/bluetooth_low_energy_apis/
 http://www.malmstein.com/blog/2015/11/28/introduction-to-google-eddystone/
 http://blog.beaconstac.com/2016/02/5-tips-on-building-a-successful-beacon-app/
 http://polidea.github.io/RxAndroidBle/
+
+
+https://github.com/Glamdring/epassport-reader

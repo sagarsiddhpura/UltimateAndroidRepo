@@ -6,6 +6,8 @@ https://bitbucket.org/qbusict/cupboard
 https://github.com/pilgr/Paper
 https://github.com/requery/requery
 https://github.com/koesie10/ormlite-processor
+https://github.com/ngs-doo/dsl-json
+https://github.com/requery/sqlite-android
 
 http://gradlewhy.ghost.io/realm-results-with-recyclerview/
 
@@ -39,3 +41,6 @@ https://github.com/thedathoudarya/AndroidDBvieweR
 
 Koltin
 https://www.reddit.com/r/androiddev/comments/4414k2/painless_database_libraries_with_kotlin_rx_support/
+
+Network
+https://www.reddit.com/r/androiddev/comments/4d0gxq/learn_how_to_connect_android_app_to_a_database/

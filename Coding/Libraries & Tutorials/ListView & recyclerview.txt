@@ -31,6 +31,8 @@ Adapter
 https://github.com/Commit451/AdapterLayout
 https://github.com/500px/greedo-layout-for-android
 https://github.com/RecycledMedia/tradesy-android-binder
+https://github.com/mikepenz/FastAdapter
+https://github.com/Shyish/GenericRenderers
 
 
 Expandabele RV
