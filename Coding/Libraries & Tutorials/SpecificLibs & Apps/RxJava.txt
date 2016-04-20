@@ -131,3 +131,4 @@ https://medium.com/mobiwise-blog/use-rxjava-instead-of-event-bus-libraries-aa78b
 https://medium.com/@kurtisnusbaum/rxandroid-basics-part-1-c0d5edcf6850
 http://tomstechnicalblog.blogspot.com/2016/02/rxjava-understanding-observeon-and.html
 https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.qj8r7mbsn
+http://www.thedroidsonroids.com/blog/android/rxjava-production-line/

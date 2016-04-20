@@ -11,3 +11,5 @@ https://speakerdeck.com/dlew/using-styles-and-themes-without-going-crazy-1
 https://github.com/lopspower/SaveInsta
 
 https://medium.com/@chrisbanes/appcompat-v23-2-daynight-d10f90c83e94#.xqhwm93t9
+
+https://gist.github.com/Jawnnypoo/ed9a61042177961db2112f637c18560f

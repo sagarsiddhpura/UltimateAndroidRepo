@@ -48,6 +48,7 @@ http://chiuki.github.io/advanced-android-espresso/
 http://jeremie-martinez.com//2016/02/16/unit-tests/
 https://medium.com/@nielsz/android-quality-with-mvp-espresso-junit-jacoco-and-sonarqube-3430d9ee4a4a#.pg1uzya3n
 https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/
+http://riggaroo.co.za/setting-circle-ci-test-deploy-build-android-app/
 
 
 network

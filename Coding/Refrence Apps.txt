@@ -154,6 +154,8 @@ https://github.com/fbsamples/f8app
 https://github.com/pockethub/PocketHub
 https://github.com/google/santa-tracker-android
 https://github.com/timothymiko/narrate-android
+https://github.com/hetp111/FindX_Math_Quiz_Generator
+https://github.com/Redgram/redgram-for-reddit
 
 
 

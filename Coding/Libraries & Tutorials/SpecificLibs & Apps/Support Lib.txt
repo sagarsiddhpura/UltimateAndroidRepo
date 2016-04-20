@@ -6,3 +6,5 @@ https://medium.com/@chrisbanes/appcompat-v23-2-daynight-d10f90c83e94#.xqhwm93t9
 https://www.reddit.com/r/androiddev/comments/47ni7v/if_you_support_older_versions_of_android_there_is/
 
 http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435
+
+https://gist.github.com/Jawnnypoo/ed9a61042177961db2112f637c18560f
