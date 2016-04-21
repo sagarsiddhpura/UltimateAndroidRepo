@@ -19,7 +19,10 @@ openshift
 https://www.back4app.com/
 http://www.catapush.com/
 https://xamoom.com/en/2016/03/develop-awesome-stuff-on-top-of-the-xamoom-platform/
+http://sparkjava.com/
 
+nice
+https://medium.com/glucosio-project/how-to-add-a-live-chat-to-your-android-app-for-free-in-10-minutes-dfe2253720ce#.5irkwcvsi
 
 http://www.slant.co/topics/5219/~parse-alternatives-for-android-app-development
 

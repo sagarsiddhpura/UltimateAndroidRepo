@@ -60,6 +60,7 @@ Generate code
 https://github.com/facebook/hack-codegen
 https://github.com/tobykurien/xtendroid
 http://www.androidbootstrap.com/
+https://www.buzzingandroid.com/tools/android-layout-finder/
 
 
 Reduce Size

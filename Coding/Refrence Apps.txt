@@ -156,6 +156,7 @@ https://github.com/google/santa-tracker-android
 https://github.com/timothymiko/narrate-android
 https://github.com/hetp111/FindX_Math_Quiz_Generator
 https://github.com/Redgram/redgram-for-reddit
+https://github.com/Redeemer-CSC390/To-Do/tree/master/app/src/main
 
 
 
@@ -213,6 +214,7 @@ Camera
 https://github.com/MonkeyViewController/SnapThat
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
 https://github.com/firebase/FirebaseUI-Android/tree/master/codelabs/chat
+https://github.com/ctodobom/OpenNoteScanner
 
 
 From Google

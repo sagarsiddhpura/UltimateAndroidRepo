@@ -13,6 +13,7 @@ https://www.reddit.com/r/androiddev/comments/4414k2/painless_database_libraries_
 
 Libs
 https://github.com/deadpixelsociety/passport
+https://github.com/maannajjar/lattekit
 
 
 TEsting
