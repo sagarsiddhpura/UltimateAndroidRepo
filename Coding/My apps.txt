@@ -32,3 +32,4 @@ Hayday helper
 https://dribbble.com/shots/2636866-Material-Cards
 
 http://www.xda-developers.com/creo-launches-update-focused-mark-1-in-india/
+https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.90e6kflb3

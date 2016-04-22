@@ -3,6 +3,7 @@ http://www.thedroidsonroids.com/blog/android/example-realm-mvp-dagger/
 http://www.thedroidsonroids.com/blog/android/realm-database-example/
 
 https://nullpointer.wtf/android/using-retrofit-realm-parceler/
+https://medium.com/glucosio-project/example-class-to-export-import-a-realm-database-on-android-c429ade2b4ed#.ftb1x233t
 
 App
 https://github.com/Kistamushken/PopularMovies

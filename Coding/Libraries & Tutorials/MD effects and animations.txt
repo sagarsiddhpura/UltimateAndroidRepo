@@ -55,6 +55,7 @@ http://www.thedroidsonroids.com/blog/android/android-flipa-card-animation-exlpai
 http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435
 https://github.com/Ramotion/folding-cell-android
 https://github.com/android-cjj/JJSearchViewAnim
+https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.3zkw9jjg1
 
 
 Edittext
@@ -150,6 +151,8 @@ Transistions
 https://github.com/googlesamples/android-CustomTransition
 https://github.com/flavienlaurent/poppyview
 https://www.reddit.com/r/androiddev/comments/3odsdq/shared_element_transition_picasso_after_oncreate/
+https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.3zkw9jjg1
+http://www.androiddesignpatterns.com/2014/12/activity-fragment-transitions-in-android-lollipop-part1.html
 
 
 Animations L+

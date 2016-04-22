@@ -20,6 +20,9 @@ https://www.back4app.com/
 http://www.catapush.com/
 https://xamoom.com/en/2016/03/develop-awesome-stuff-on-top-of-the-xamoom-platform/
 http://sparkjava.com/
+https://www.meteor.com/
+http://meteorpedia.com/read/DDP_Clients#Android
+
 
 nice
 https://medium.com/glucosio-project/how-to-add-a-live-chat-to-your-android-app-for-free-in-10-minutes-dfe2253720ce#.5irkwcvsi

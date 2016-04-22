@@ -5,6 +5,7 @@ https://unsplash.com/
 http://assets.codly.io/
 https://codecrafted.net/svgtoandroid#usage
 https://github.com/patrickfav/density-converter
+http://inloop.github.io/shadow4android/
 
 https://github.com/Pkmmte/CircularImageView
 

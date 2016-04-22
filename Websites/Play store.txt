@@ -15,3 +15,9 @@ https://support.google.com/googleplay/android-developer/answer/6320428
 https://www.reddit.com/r/androiddev/comments/47tb6g/how_to_transfer_your_google_dev_apps_or_account/
 
 https://www.simform.com/blog/google-play-app-store-optimization
+
+
+Bans
+https://www.reddit.com/r/androiddev/comments/48vm1y/app_update_rejected_unauthorized_use_of/
+https://www.reddit.com/r/androiddev/comments/4dqnvz/falsely_deleted_google_play_developer_account/
+https://www.reddit.com/r/androiddev/comments/4evww5/what_to_do_when_your_google_play_account_has_been/

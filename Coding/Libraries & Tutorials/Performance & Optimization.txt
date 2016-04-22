@@ -16,3 +16,7 @@ Libs
 http://frogermcs.github.io/AndroidDevMetrics-dagger2metrics-evolved-into-metrics-for-android-development/
 https://github.com/frogermcs/androiddevmetrics
 https://github.com/facebook/redex/
+
+
+Network
+https://www.reddit.com/r/androiddev/comments/4evvhv/how_to_optimize_my_network_bandwidth_usage_for/

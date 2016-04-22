@@ -5,5 +5,7 @@ https://youtu.be/Y2GC6P5hPeA
 http://ianfield.com/2016/01/20/android-dev-quality-of-life-tips.html
 http://blog.jetbrains.com/idea/2014/03/postfix-completion/
 https://medium.com/sebs-top-tips/analyse-data-flows-without-the-debugger-android-studio-protips-3-ef2885aaffd9#.5xs595ywr
-http://panavtec.me/keyboard-driven-develohttps://www.reddit.com/r/androiddev/comments/4d9zpi/reminder_to_clear_up_the_android_studio_clutter/pment
-
+http://panavtec.me/keyboard-driven-development
+https://www.reddit.com/r/androiddev/comments/4d9zpi/reminder_to_clear_up_the_android_studio_clutter/
+https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.866vhjwbe
+https://medium.com/sebs-top-tips/quickly-change-tokens-case-android-studio-protip-7-8c6a841f4ea7#.kwlj2r349

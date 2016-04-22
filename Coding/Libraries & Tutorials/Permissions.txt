@@ -6,6 +6,7 @@ https://github.com/greysonp/permiso
 https://github.com/Karumi/Dexter
 https://github.com/googlesamples/easypermissions
 https://github.com/galex/android-permissions-gradle-plugin
+https://github.com/tbruyelle/RxPermissions
 
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
 

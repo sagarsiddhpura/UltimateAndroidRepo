@@ -12,6 +12,7 @@ https://medium.com/@fredgrott/chase-those-android-app-pirate-vampires-away-with-
 https://www.reddit.com/r/androiddev/comments/46y53a/okhttp3_prevent_maninthemiddle_attacks/
 https://www.reddit.com/r/androiddev/comments/46w95z/transmitting_credentials_over_https_safe/
 http://developer.android.com/intl/ru/training/articles/security-ssl.html#UnknownCa
+http://artemzin.com/blog/certificate-pinning-notes-for-android-java/
 
 
 Encryption

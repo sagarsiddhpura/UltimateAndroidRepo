@@ -88,6 +88,8 @@ A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/
 https://github.com/seatgeek/sixpack-java
 https://github.com/s0h4m/toggle
+Optimizely
+https://github.com/KeepSafe/Switchboard
 
 
 Deploying to multple devices

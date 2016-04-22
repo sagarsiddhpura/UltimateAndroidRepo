@@ -7,3 +7,5 @@ https://github.com/Commit451/ElasticDragDismissLayout
 
 Swipe refresh listener
 https://github.com/aloj22/ListenerSwipeRefreshLayout
+
+https://github.com/daimajia/AndroidSwipeLayout
