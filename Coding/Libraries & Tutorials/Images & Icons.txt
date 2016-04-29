@@ -6,6 +6,7 @@ http://assets.codly.io/
 https://codecrafted.net/svgtoandroid#usage
 https://github.com/patrickfav/density-converter
 http://inloop.github.io/shadow4android/
+https://romannurik.github.io/AndroidAssetStudio/
 
 https://github.com/Pkmmte/CircularImageView
 
@@ -47,9 +48,10 @@ https://gist.github.com/davidwhitman/92d043f2f75fd392a1f3
 https://github.com/glomadrian/RoadRunner
 
 
-SVG
+SVG & Vector
 https://github.com/glomadrian/RoadRunner
 http://vectormagic.com/home
+https://medium.com/@joelschmidt/android-paint-by-colour-419f69bda15c#.npqe43323
 
 
 Have state drawable
@@ -124,6 +126,10 @@ http://www.norio.be/android-feature-graphic-generator/
 
 Image processsing
 https://www.reddit.com/r/androiddev/comments/47urm6/question_free_api_to_recognize_faces_in_photos/
+https://github.com/rmtheis/android-ocr
+https://github.com/rmtheis/tess-two
+https://github.com/tesseract-ocr
+https://medium.com/@qhutch/android-simple-and-fast-image-processing-with-renderscript-2fa8316273e1#.ojr1yf4xe
 
 
 Icons
@@ -173,3 +179,4 @@ https://www.reddit.com/r/androiddev/comments/3f08ge/what_i_love_about_androidico
 
 SVG to android xml
 http://inloop.github.io/svg2android/
+http://a-student.github.io/SvgToVectorDrawableConverter.Web/

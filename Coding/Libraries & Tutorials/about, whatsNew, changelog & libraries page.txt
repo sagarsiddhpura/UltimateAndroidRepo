@@ -2,3 +2,4 @@ https://github.com/mikepenz/AboutLibraries
 https://github.com/mikeyxkcd/Inscription
 https://github.com/mikeyxkcd/ckChangeLog
 https://playfab.com/features/
+https://github.com/PSDev/LicensesDialog

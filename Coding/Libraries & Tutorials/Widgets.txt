@@ -39,6 +39,12 @@ http://androiduiux.com/2015/07/22/make-the-right-fab/
 https://github.com/gowong/material-sheet-fab
 https://medium.com/@nullthemall/floatingactionmenu-floatingactionbutton-behavior-dd33cc0d9ba7
 https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/
+https://github.com/DmitryMalkovich/circular-with-floating-action-button
+https://github.com/rubensousa/FloatingToolbar
+
+
+Grid Layout
+https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2#.8l4lgf8b8
 
 
 coordinatorlayout
@@ -63,6 +69,7 @@ https://github.com/googlesamples/android-TextSwitcher
 https://github.com/tajchert/WaitingDots
 https://github.com/scottyab/showhidepasswordedittext
 https://github.com/alphamu/AnimatedEditText
+https://github.com/maksim88/PasswordEditText
 
 http://antonioleiva.com/textview_power_drawables/
 
@@ -117,6 +124,7 @@ https://www.reddit.com/r/androiddev/comments/3m92ho/is_there_a_way_to_change_the
 https://github.com/vitovalov/TabbedCoordinatorLayout
 https://medium.com/@nullthemall/overscroll-appbarlayout-behavior-e58f1ee2807#.ifc8pke2i
 http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435
+https://github.com/rubensousa/FloatingToolbar
 
 
 Calendar Widget
@@ -154,6 +162,7 @@ Dialog
 https://github.com/pedant/sweet-alert-dialog
 https://github.com/afollestad/material-dialogs
 https://www.reddit.com/r/androiddev/comments/40fibd/best_way_to_make_a_dialogfragment_transparent/
+https://github.com/javiersantos/MaterialStyledDialogs
 
 
 Statusbar
@@ -182,6 +191,7 @@ Webview
 https://github.com/hitherejoe/Tabby
 http://artemzin.com/blog/use-okhttp-to-load-resources-for-webview/
 https://github.com/TheFinestArtist/FinestWebView-Android
+https://github.com/novoda/simple-chrome-custom-tabs
 
 
 Tags & Chips
@@ -217,6 +227,10 @@ https://bitbucket.org/d3m0li5h3r/expandinglayout
 https://github.com/GIGAMOLE/ArcProgressStackView
 https://github.com/dalong982242260/LoopRotarySwitch
 https://github.com/kaelaela/OpenGraphView
+https://github.com/chthai64/SwipeRevealLayout
+https://github.com/pedrovgs/DraggablePanel
+https://github.com/wangjia55/ViewDragHelper
+https://github.com/flschweiger/SwipeStack
 
 
 Bottom Sheet

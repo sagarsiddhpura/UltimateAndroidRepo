@@ -3,6 +3,7 @@ https://answers.io/
 Google play analytics
 http://appfollow.io/
 Flurry
+https://mixpanel.com/
 
 Crash Reporting
 https://get.fabric.io/

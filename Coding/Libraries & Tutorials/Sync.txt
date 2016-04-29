@@ -1,3 +1,7 @@
 https://www.reddit.com/r/androiddev/comments/42zten/how_to_make_data_sync_on_android_slides/
 https://github.com/nolanlawson/PouchDroid/
 http://www.dmytrodanylyk.com/android-data-sync-part-2/
+
+DB
+http://www.liquibase.org/
+https://medium.com/glucosio-project/backup-restore-a-realm-database-on-google-drive-with-drive-api-c238515a5975#.2qapyb2ru

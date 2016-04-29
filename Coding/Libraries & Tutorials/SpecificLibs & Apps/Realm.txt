@@ -4,6 +4,10 @@ http://www.thedroidsonroids.com/blog/android/realm-database-example/
 
 https://nullpointer.wtf/android/using-retrofit-realm-parceler/
 https://medium.com/glucosio-project/example-class-to-export-import-a-realm-database-on-android-c429ade2b4ed#.ftb1x233t
+https://medium.com/glucosio-project/backup-restore-a-realm-database-on-google-drive-with-drive-api-c238515a5975#.2qapyb2ru
 
 App
 https://github.com/Kistamushken/PopularMovies
+
+Addons
+https://realm.io/news/thorben-primke-building-realm-add-ons-for-android/

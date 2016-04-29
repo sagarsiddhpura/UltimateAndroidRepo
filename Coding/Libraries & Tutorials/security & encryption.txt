@@ -13,6 +13,7 @@ https://www.reddit.com/r/androiddev/comments/46y53a/okhttp3_prevent_maninthemidd
 https://www.reddit.com/r/androiddev/comments/46w95z/transmitting_credentials_over_https_safe/
 http://developer.android.com/intl/ru/training/articles/security-ssl.html#UnknownCa
 http://artemzin.com/blog/certificate-pinning-notes-for-android-java/
+http://code.tutsplus.com/articles/how-to-secure-an-android-app--cms-26385
 
 
 Encryption

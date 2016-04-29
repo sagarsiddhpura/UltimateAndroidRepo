@@ -30,7 +30,7 @@ https://github.com/cristhianescobar/generator-android-starter
 https://github.com/cavarzan/generator-android-hipster
 https://github.com/slymax/webview
 https://github.com/ribot/android-boilerplate
-
+https://www.reddit.com/r/androiddev/comments/4gdqg8/a_modern_android_boilerplate_project/
 
 integrate libs faster
 https://github.com/percolate/foam

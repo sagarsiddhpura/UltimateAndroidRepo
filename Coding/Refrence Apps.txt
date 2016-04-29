@@ -158,7 +158,11 @@ https://github.com/hetp111/FindX_Math_Quiz_Generator
 https://github.com/Redgram/redgram-for-reddit
 https://github.com/Redeemer-CSC390/To-Do/tree/master/app/src/main
 https://github.com/AranHase/PassosDoImpeachment-app
-
+https://github.com/DmitryMalkovich/popular-movies-app
+https://github.com/Jawnnypoo/open-meh
+https://github.com/bosnian/curcon-android
+https://github.com/a88smith/Grouply
+https://github.com/abhiii5459/GetDilbertStrips
 
 
 Image editing
@@ -184,6 +188,7 @@ https://github.com/TheKeeperOfPie/Reader
 https://github.com/byoutline/kickmaterial/
 https://github.com/eneim/Google_io_2016_timer
 https://github.com/chemouna/HarryPotterBooks
+https://github.com/tengbinlive/aibao_demo
 
 
 
@@ -200,6 +205,7 @@ https://github.com/WT26/blockfly
 https://github.com/bkach/AndroidGameOfLifeMVP
 https://github.com/miguelespinoza/react-goku
 https://bitbucket.org/SteveSmith16384/stellarforces
+https://github.com/sromku/memory-game
 
 
 Chat
@@ -236,6 +242,8 @@ https://github.com/rallat/EffectiveAndroid
 https://github.com/yigit/dev-summit-architecture-demo
 https://github.com/antoniolg/androidmvp
 https://github.com/hugokallstrom/MVVMSampleApplication
+https://github.com/patloew/countries
+https://github.com/kirisetsz/another-dagger2-android-example
 
 
 
@@ -303,3 +311,11 @@ https://github.com/fodawim/AndroidWearWatchface
 
 Cromecast
 https://github.com/MacDegger/BABBQastPresentation
+
+
+React
+https://github.com/fbsamples/f8app
+
+
+Samsung edge
+http://hypermaximum.de:8080/HYMXDEV/EdgePlayer.git

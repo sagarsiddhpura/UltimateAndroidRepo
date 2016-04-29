@@ -13,3 +13,5 @@ https://github.com/hmkcode/Android/tree/master/android-social-signin
 
 Libs
 https://github.com/ashokslsk/Instagram-Integration
+https://github.com/amaboura/socialbase
+https://www.reddit.com/r/androiddev/comments/4gfcmw/question_any_one_tried_facebook_login_with_custom/

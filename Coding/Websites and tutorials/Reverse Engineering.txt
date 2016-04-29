@@ -4,3 +4,4 @@ https://github.com/Juude/droidReverse/blob/master/README-EN.md
 https://github.com/google/android-classyshark
 http://www.libtastic.com/
 http://www.decompileandroid.com/
+https://www.evilsocket.net/2016/04/18/how-i-defeated-an-obfuscated-and-anti-tamper-apk-with-some-python-and-a-home-made-smali-emulator/

@@ -17,7 +17,7 @@ https://futurestud.io/blog/android-quick-tips-3-gradle/
 http://www.adavis.info/2016/01/talk-gradle-plugin-goodness.html
 http://zeroturnaround.com/rebellabs/making-gradle-builds-faster/
 https://gist.github.com/neworld/6af9154591b24404c01d
-
+https://kousenit.wordpress.com/2016/04/20/excluding-gradle-tasks-with-a-name-pattern/
 
 Premissions M
 https://github.com/galex/android-permissions-gradle-plugin
@@ -57,3 +57,7 @@ https://github.com/KeepSafe/dexcount-gradle-plugin
 
 Writing Plugin
 https://afterecho.uk/blog/create-a-standalone-gradle-plugin-for-android-part-2.html
+
+
+Plugins
+https://plugins.gradle.org/plugin/com.github.ben-manes.versions

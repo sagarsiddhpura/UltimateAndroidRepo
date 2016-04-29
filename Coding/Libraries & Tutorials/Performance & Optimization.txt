@@ -6,6 +6,7 @@ http://blog.nimbledroid.com/2016/02/17/cold-start-times-of-top-apps.html?top?=25
 https://medium.com/smartphone-enerlytics/apple-music-the-latest-music-app-also-has-energy-glitches-how-we-reduced-its-battery-drain-by-18-3a82b62b1178#.bwqgiwpif
 http://www.tomshardware.com/news/basemark-pat-power-assessment-tool,31315.html
 http://uiandroid.com/view-layers-for-dummies/
+https://www.reddit.com/r/androiddev/comments/4gurv8/how_i_got_ride_of_infamous_ichoreographerxxxx/
 
 Community
 https://plus.google.com/communities/116342551728637785407
@@ -16,6 +17,7 @@ Libs
 http://frogermcs.github.io/AndroidDevMetrics-dagger2metrics-evolved-into-metrics-for-android-development/
 https://github.com/frogermcs/androiddevmetrics
 https://github.com/facebook/redex/
+https://github.com/timmutton/redex-plugin
 
 
 Network

@@ -4,6 +4,7 @@ http://marcouberti.net/2015/10/11/how-to-create-a-stunning-android-wear-watch-fa
 https://www.binpress.com/tutorial/a-guide-to-the-android-wear-message-api/152
 http://android-developers.blogspot.com/2015/10/new-courses-developing-watch-apps-for.html
 https://nullpointer.wtf/android-wear/watch-face-with-preview-phone-app/
+http://android-developers.blogspot.in/2016/04/build-beautifully-for-android-wear.html
 
 https://github.com/ckulkar/mocha17-dev
 https://github.com/borax12/SWNotifier

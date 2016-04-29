@@ -1,2 +1,5 @@
 http://www.dmytrodanylyk.com/pages/blog/login-screen-checklist.html
 https://stormpath.com/blog/build-user-authentication-for-android-app/
+http://androidcss.com/android/android-login-form-material-design/
+https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572#.cd2s6f9ug
+https://www.ykode.com/2015/02/20/android-frp-rxjava-retrolambda.html

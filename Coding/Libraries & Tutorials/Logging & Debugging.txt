@@ -5,6 +5,7 @@ http://www.slf4j.org/android/
 https://psdev.de/slf4j-android-logger/
 https://github.com/mrmike/Ok2Curl
 https://github.com/plusCubed/matlog
+https://github.com/jasonwyatt/Android-DebugPort
 
 Debugging colors
 https://gist.github.com/dlew/a2e2f247c78495eca4e6
@@ -21,6 +22,8 @@ https://github.com/JakeWharton/u2020/blob/master/src/main/java/com/jakewharton/u
 https://github.com/JakeWharton/u2020/blob/05a57bf43b9b61f16d32cbe8717af77cd608b0fb/src/internal/java/com/jakewharton/u2020/ui/bugreport/BugReportLens.java#L50-L66
 https://github.com/mattprecious/telescope
 http://robusttechhouse.com/debugging-android-using-facebook-stetho-library/
+https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.2cf074yzh
+https://github.com/zserge/log
 
 
 Network
@@ -29,6 +32,7 @@ https://github.com/sschendel/RemoteLogger
 https://publicobject.com/2016/01/17/sneaking-data-into-an-okhttp-interceptor/
 https://github.com/elixsr/FwdPortForwardingApp/
 https://bugfender.com/android-remote-logger
+https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.2cf074yzh
 
 
 Live Logging

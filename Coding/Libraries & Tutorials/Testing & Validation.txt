@@ -49,6 +49,9 @@ http://jeremie-martinez.com//2016/02/16/unit-tests/
 https://medium.com/@nielsz/android-quality-with-mvp-espresso-junit-jacoco-and-sonarqube-3430d9ee4a4a#.pg1uzya3n
 https://davidguerrerodiaz.wordpress.com/2016/03/04/a-beginners-guide-to-an-effective-android-testing-strategy/
 http://riggaroo.co.za/setting-circle-ci-test-deploy-build-android-app/
+https://www.reddit.com/r/androiddev/comments/4gcbdj/lets_talk_testing/
+http://handstandsam.com/2016/04/23/using-the-android-emulator-for-continuous-integration/
+https://medium.com/@andrzejchm/ittd-instrumentation-ttd-for-android-4894cbb82d37#.plph1bqnl
 
 
 network
@@ -130,3 +133,9 @@ https://github.com/samsung/adbi
 Testing websites
 https://userbob.com/createTest
 https://testfairy.com/
+https://www.ironlab.io/
+
+
+
+Mock api
+https://github.com/andrzejchm/RESTMock

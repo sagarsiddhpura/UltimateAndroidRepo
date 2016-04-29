@@ -19,12 +19,14 @@ http://willowtreeapps.com/blog/android-development-tidbits-no-2/?utm_source=team
 https://www.reddit.com/r/androiddev/comments/3pn3mk/10_commandments_for_better_android_development/
 https://speakerdeck.com/rallat/android-development-like-a-pro
 https://github.com/futurice/android-best-practices
+https://www.portotechcenter.pt/wanna-get-featured-in-the-play-store/
 
 
 
 Good
 https://medium.com/@cesarmcferreira/building-android-apps-30-things-that-experience-made-me-learn-the-hard-way-313680430bf9#.4b04xlr7w
 http://engineering.remind.com/android-code-that-scales/
+https://github.com/futurice/android-best-practices
 
 
 Network

@@ -24,6 +24,7 @@ https://medium.com/@Sserra90/mvc-on-android-an-approach-for-testable-and-maintai
 https://medium.com/@Sserra90/mvc-on-android-an-approach-for-testable-and-maintainable-applications-part-iii-2afbd49928e8#.mft6oyhvb
 https://www.reddit.com/r/androiddev/comments/4d3fnf/resources_for_android_app_architecture/
 https://www.reddit.com/r/androiddev/comments/4e0hmc/recommended_resources_for_learning_mvp_i_know/
+https://www.reddit.com/r/androiddev/comments/4efjqm/all_this_mvp_frenzy_is_just_putting_the_cart/
 
 https://realm.io/news/gotocph-mattias-kappler-reactive-architecture-android/
 

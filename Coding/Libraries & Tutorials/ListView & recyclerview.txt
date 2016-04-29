@@ -67,6 +67,7 @@ https://www.bignerdranch.com/blog/recyclerview-part-1-fundamentals-for-listview-
 http://arjunu.com/2015/10/android-recyclerview-with-different-cardviews/
 http://www.tutorialsbuzz.com/2015/11/android-recyclerview-filter-animation.html
 https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
+https://www.reddit.com/r/androiddev/comments/4flia7/recyclerview_and_picasso_help/
 
 
 Animations

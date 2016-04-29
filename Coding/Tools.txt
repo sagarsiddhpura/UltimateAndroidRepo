@@ -65,3 +65,11 @@ https://www.buzzingandroid.com/tools/android-layout-finder/
 https://github.com/google/android-classyshark
 http://www.libtastic.com/
 http://www.decompileandroid.com/
+
+https://github.com/cesarferreira/alfi
+http://gradleplease.appspot.com/
+
+https://github.com/kyle-ilantzis/slap-reviews
+
+Android Apps
+https://play.google.com/store/apps/details?id=com.desarrollodroide.repos&hl=en

@@ -18,3 +18,4 @@ https://caster.io/episodes/creating-a-gradle-plugin/
 http://inthecheesefactory.com/blog/how-to-setup-private-maven-repository/en
 https://realm.io/news/emanuele-zattin-developing-android-libraries/
 http://blog.bradcampbell.nz/group-example-projects-together-with-gradle-libraries/
+http://medyo.github.io/how-to-set-up-a-private-maven-repository-for-free

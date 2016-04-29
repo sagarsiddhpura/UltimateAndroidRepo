@@ -9,5 +9,10 @@ https://infinum.co/the-capsized-eight/articles/continuous-integration-on-android
 http://panavtec.me/continous-integration-on-android-with-travis-ci/
 https://medium.com/@paolorotolo/set-up-a-daily-channel-for-your-android-app-with-travis-and-gh-pages-886f3c4051f2
 http://riggaroo.co.za/setting-circle-ci-test-deploy-build-android-app/
+http://handstandsam.com/2016/04/23/using-the-android-emulator-for-continuous-integration/
 
 https://www.buddybuild.com/
+http://jeremie-martinez.com//2016/04/19/gocd-android/
+
+
+https://www.reddit.com/r/androiddev/comments/4fv4d8/how_do_you_guys_handle_development_servers_any/
