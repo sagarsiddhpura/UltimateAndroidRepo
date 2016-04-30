@@ -46,6 +46,7 @@ https://www.reddit.com/r/androiddev/comments/484ek7/heap_size_for_faster_builds_
 https://www.reddit.com/r/androiddev/comments/3tnyj9/fast_dev_builds_for_multidex_proguard_projects/
 http://makingiants.com/blog/fasterboost-gradle-builds_2/
 https://www.reddit.com/r/androiddev/comments/48wucs/between_compiling_and_gradle_and_indexing/
+https://www.reddit.com/r/androiddev/comments/4gt97e/psa_apparently_assigning_a_ton_of_memory_to/
 
 https://github.com/Triple-T/gradle-play-publisher
 

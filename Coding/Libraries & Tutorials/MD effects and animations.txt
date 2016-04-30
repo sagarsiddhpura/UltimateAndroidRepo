@@ -56,6 +56,7 @@ http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-
 https://github.com/Ramotion/folding-cell-android
 https://github.com/android-cjj/JJSearchViewAnim
 https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.3zkw9jjg1
+https://github.com/danielzeller/Depth-LIB-Android-
 
 
 Edittext
