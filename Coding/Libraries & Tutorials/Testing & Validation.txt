@@ -52,6 +52,7 @@ http://riggaroo.co.za/setting-circle-ci-test-deploy-build-android-app/
 https://www.reddit.com/r/androiddev/comments/4gcbdj/lets_talk_testing/
 http://handstandsam.com/2016/04/23/using-the-android-emulator-for-continuous-integration/
 https://medium.com/@andrzejchm/ittd-instrumentation-ttd-for-android-4894cbb82d37#.plph1bqnl
+https://www.reddit.com/r/androiddev/comments/4gz25u/avoiding_dry_while_learning_to_use_the_testing/
 
 
 network

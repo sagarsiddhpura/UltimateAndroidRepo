@@ -249,6 +249,7 @@ Custom View
 https://www.novoda.com/blog/alternative-interfaces/
 http://www.dmytrodanylyk.com/pages/blog/error-label.html
 https://www.novoda.com/blog/alternative-interfaces/
+https://www.reddit.com/r/androiddev/comments/4h8c73/what_is_the_best_practice_for_architecting_a/
 
 
 Bottom bar

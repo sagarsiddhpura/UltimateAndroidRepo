@@ -1,0 +1,1 @@
+http://support.crashlytics.com/knowledgebase/articles/388925-beta-distributions-with-gradle

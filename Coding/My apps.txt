@@ -1,7 +1,6 @@
 templato
 http://frogermcs.github.io/instamaterial-meets-design-support-library/
-
-@SerializedName("username") public final String mUserName;
+https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0#.dvdd9mg45
 
 http://www.androidpolice.com/2015/07/30/audiobooks-com-becomes-the-first-audio-book-app-with-android-auto-support/
 http://frogermcs.github.io/instamaterial-meets-design-support-library/
@@ -30,6 +29,9 @@ https://github.com/btkelly/gandalf
 
 Hayday helper
 https://dribbble.com/shots/2636866-Material-Cards
+https://play.google.com/store/apps/details?id=com.cp.assist
+https://play.google.com/store/apps/details?id=com.half.wowsca
+
 
 http://www.xda-developers.com/creo-launches-update-focused-mark-1-in-india/
 https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.90e6kflb3

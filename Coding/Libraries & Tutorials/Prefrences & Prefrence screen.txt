@@ -10,3 +10,11 @@ getAllSystemTemplateVersions
 https://github.com/grandcentrix/tray
 https://github.com/beplaya/Wagon
 https://github.com/mikeyxkcd/android-secure-preferences
+https://github.com/kcochibili/TinyDB--Android-Shared-Preferences-Turbo
+https://github.com/orhanobut/hawk
+https://github.com/cesarferreira/PainlessPrefs
+
+
+Rx
+https://github.com/pwittchen/prefser
+https://github.com/f2prateek/rx-preferences

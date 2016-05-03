@@ -52,6 +52,7 @@ SVG & Vector
 https://github.com/glomadrian/RoadRunner
 http://vectormagic.com/home
 https://medium.com/@joelschmidt/android-paint-by-colour-419f69bda15c#.npqe43323
+https://github.com/bonnyfone/vectalign
 
 
 Have state drawable

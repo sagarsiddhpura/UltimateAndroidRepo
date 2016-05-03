@@ -45,6 +45,8 @@ https://medium.com/@v.danylo/server-polling-and-retrying-failed-operations-with-
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 http://tomstechnicalblog.blogspot.com/2016/02/rxjava-maximizing-parallelization.html
 https://medium.com/@murki/chaining-multiple-sources-with-rxjava-20eb6850e5d9
+https://www.reddit.com/r/androiddev/comments/4h2owh/observable_that_survives_configuration_changes/
+https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0#.dvdd9mg45
 
 
 Libs
@@ -60,6 +62,10 @@ https://github.com/patloew/RxFit
 https://github.com/pakoito/RxSealedUnions
 https://github.com/VladimirLichonos/RxActions
 http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
+https://github.com/pwittchen/prefser
+https://github.com/cesarferreira/RxPaper
+https://github.com/f2prateek/rx-preferences
+https://github.com/francescocervone/RxDrive
 
 
 Good

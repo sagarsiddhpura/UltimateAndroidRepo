@@ -22,3 +22,4 @@ https://github.com/timmutton/redex-plugin
 
 Network
 https://www.reddit.com/r/androiddev/comments/4evvhv/how_to_optimize_my_network_bandwidth_usage_for/
+https://www.reddit.com/r/androiddev/comments/4h13w7/google_data_compression_proxy/
