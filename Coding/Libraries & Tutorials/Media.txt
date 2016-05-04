@@ -6,6 +6,7 @@ Good
 https://github.com/jaydeepw/audio-wife
 https://github.com/audionowdigital/openplayer-android
 http://developer.android.com/guide/topics/media/mediaplayer.html
+https://gist.github.com/adelnizamutdinov/8bc276f2eda05536bf0c
 
 Video
 https://github.com/yqritc/Android-ScalableVideoView

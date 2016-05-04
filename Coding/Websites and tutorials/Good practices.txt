@@ -20,7 +20,7 @@ https://www.reddit.com/r/androiddev/comments/3pn3mk/10_commandments_for_better_a
 https://speakerdeck.com/rallat/android-development-like-a-pro
 https://github.com/futurice/android-best-practices
 https://www.portotechcenter.pt/wanna-get-featured-in-the-play-store/
-
+https://medium.com/mutual-mobile/creating-apps-for-emerging-markets-66b8d4b3b7eb#.pyiyqmvql
 
 
 Good

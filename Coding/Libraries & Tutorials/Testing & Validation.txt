@@ -114,6 +114,7 @@ Online testing
 http://developer.samsung.com/remotetestlab/rtlDeviceList.action
 pCloudy
 http://testobject.com/
+http://building.usebutton.com/testing/cloud/android/ci/2016/04/20/teamcity-google-device-cloud/
 
 
 Validation
