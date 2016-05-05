@@ -7,6 +7,8 @@ https://medium.com/smartphone-enerlytics/apple-music-the-latest-music-app-also-h
 http://www.tomshardware.com/news/basemark-pat-power-assessment-tool,31315.html
 http://uiandroid.com/view-layers-for-dummies/
 https://www.reddit.com/r/androiddev/comments/4gurv8/how_i_got_ride_of_infamous_ichoreographerxxxx/
+https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
+
 
 Community
 https://plus.google.com/communities/116342551728637785407

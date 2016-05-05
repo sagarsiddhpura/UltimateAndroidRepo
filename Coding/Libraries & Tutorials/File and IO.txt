@@ -2,3 +2,5 @@ https://github.com/PrashamTrivedi/AndroidExternalFileWriter
 
 https://github.com/jaydeepw/poly-picker
 https://github.com/coomar2841/image-chooser-library
+
+https://www.reddit.com/r/androiddev/comments/4hpxbn/is_there_a_good_librarysnippet_for_detecting_sd/

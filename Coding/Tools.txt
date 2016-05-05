@@ -71,6 +71,8 @@ http://gradleplease.appspot.com/
 
 https://github.com/kyle-ilantzis/slap-reviews
 
+https://github.com/scala-android/sbt-android-protify
+
 Android Apps
 https://play.google.com/store/apps/details?id=com.desarrollodroide.repos&hl=en
 https://play.google.com/store/apps/details?id=aufait.mindster.screeeenshot

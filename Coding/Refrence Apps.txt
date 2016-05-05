@@ -164,6 +164,7 @@ https://github.com/bosnian/curcon-android
 https://github.com/a88smith/Grouply
 https://github.com/abhiii5459/GetDilbertStrips
 https://github.com/ribot/android-boilerplate - App distribution
+https://github.com/addrum/CanIEatThis
 
 
 

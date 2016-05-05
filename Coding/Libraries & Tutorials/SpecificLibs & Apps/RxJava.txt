@@ -66,6 +66,9 @@ https://github.com/pwittchen/prefser
 https://github.com/cesarferreira/RxPaper
 https://github.com/f2prateek/rx-preferences
 https://github.com/francescocervone/RxDrive
+https://github.com/artem-zinnatullin/RxJavaProGuardRules
+http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
+http://polidea.github.io/RxAndroidBle/
 
 
 Good
