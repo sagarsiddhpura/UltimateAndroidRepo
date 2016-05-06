@@ -1,3 +1,4 @@
 http://blog.fikesfarm.com/posts/2015-07-15-clojurescript-on-android.html
 
 http://www.sitepoint.com/using-c-and-c-code-in-an-android-app-with-the-ndk/
+https://github.com/SidneyXu/AndroidDemoIn4Languages#analysis-report
