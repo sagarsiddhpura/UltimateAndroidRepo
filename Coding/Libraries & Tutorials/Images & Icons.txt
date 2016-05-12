@@ -96,6 +96,7 @@ https://github.com/jdamcd/android-crop
 https://github.com/ryanhoo/PhotoCropper
 https://developers.aviary.com/pricing
 https://github.com/Yalantis/uCrop
+https://github.com/christophesmet/android_maskable_layout
 
 
 Image Picker

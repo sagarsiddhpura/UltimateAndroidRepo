@@ -17,3 +17,5 @@ http://pttrns.com/?did=6&page=2
 https://plus.google.com/+LiamSpradlin/posts/jVzRHAq3Vno
 
 http://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/
+https://uxdesign.cc/the-absolute-minimum-android-developers-need-to-know-about-ux-part-1-of-5-cab50bbcf787#.p1pudwgp7
+http://roroche.github.io/AndroidStarter/

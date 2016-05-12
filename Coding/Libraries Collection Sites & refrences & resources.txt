@@ -11,6 +11,7 @@ https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
 http://androidbookmarks.net/
 https://github.com/MakinGiants/awesome-mobile-dev
 http://www.android-templates.com/
+https://docs.google.com/forms/d/1Og1u6wvSNy9JV54cub7j1pnQ3dBtycIUfGFW3SeHcgo/viewform
 
 Java
 https://github.com/cxxr/better-java

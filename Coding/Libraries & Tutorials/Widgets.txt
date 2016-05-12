@@ -231,6 +231,7 @@ https://github.com/chthai64/SwipeRevealLayout
 https://github.com/pedrovgs/DraggablePanel
 https://github.com/wangjia55/ViewDragHelper
 https://github.com/flschweiger/SwipeStack
+https://github.com/jayrambhia/Tooltip
 
 
 Bottom Sheet
@@ -285,3 +286,7 @@ Layout
 https://github.com/mmin18/FlexLayout
 Expandable Layout
 https://github.com/AAkira/ExpandableLayout
+https://github.com/cachapa/ExpandableLayout
+https://github.com/JulienGenoud/android-percent-support-lib-sample
+https://github.com/google/flexbox-layout
+https://github.com/christophesmet/android_maskable_layout

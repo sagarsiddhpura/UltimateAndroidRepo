@@ -91,6 +91,7 @@ https://matalamaki.fi/2015/09/24/implementing-sticky-recyclerview-grid-headers-o
 
 Headers
 https://github.com/timehop/sticky-headers-recyclerview
+https://github.com/emilsjolander/StickyListHeaders
 
 
 Click listeners

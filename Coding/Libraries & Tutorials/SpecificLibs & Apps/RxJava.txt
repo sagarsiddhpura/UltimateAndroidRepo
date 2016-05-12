@@ -69,6 +69,7 @@ https://github.com/francescocervone/RxDrive
 https://github.com/artem-zinnatullin/RxJavaProGuardRules
 http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
 http://polidea.github.io/RxAndroidBle/
+https://github.com/trello/navi
 
 
 Good

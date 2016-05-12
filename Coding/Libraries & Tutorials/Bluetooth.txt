@@ -6,3 +6,5 @@ http://polidea.github.io/RxAndroidBle/
 
 
 https://github.com/Glamdring/epassport-reader
+
+https://github.com/stanleyguevara/beaconradar

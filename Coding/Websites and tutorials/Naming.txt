@@ -1,1 +1,2 @@
 http://jeroenmols.com/jeroenmols.github.io/blog/2016/03/07/resourcenaming/
+https://www.novoda.com/blog/better-class-naming/

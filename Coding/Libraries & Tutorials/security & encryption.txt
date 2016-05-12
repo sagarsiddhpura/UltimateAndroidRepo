@@ -15,12 +15,15 @@ http://developer.android.com/intl/ru/training/articles/security-ssl.html#Unknown
 http://artemzin.com/blog/certificate-pinning-notes-for-android-java/
 http://code.tutsplus.com/articles/how-to-secure-an-android-app--cms-26385
 https://www.reddit.com/r/androiddev/comments/4h13w7/google_data_compression_proxy/
+https://github.com/doridori/Android-Security-Reference/blob/master/network/tls_cert_pinning.md
+
 
 
 Encryption
 Spongy Castle on Android: https://rtyley.github.io/spongycastle/
 forge.js on the web / extensions: https://github.com/digitalbazaar/forge
 OpenSSL on iOS / Mac (coming soon)
+http://www.ssaurel.com/blog/make-fast-cryptographic-operations-on-android-with-conceal/
 
 
 https://corner.squareup.com/2015/08/a-small-leak.html

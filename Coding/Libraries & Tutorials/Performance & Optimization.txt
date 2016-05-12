@@ -8,6 +8,7 @@ http://www.tomshardware.com/news/basemark-pat-power-assessment-tool,31315.html
 http://uiandroid.com/view-layers-for-dummies/
 https://www.reddit.com/r/androiddev/comments/4gurv8/how_i_got_ride_of_infamous_ichoreographerxxxx/
 https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
+http://jeroenmols.com/blog/2016/05/06/methodcount/
 
 
 Community
