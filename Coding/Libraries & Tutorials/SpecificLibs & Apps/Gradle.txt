@@ -47,6 +47,7 @@ https://www.reddit.com/r/androiddev/comments/3tnyj9/fast_dev_builds_for_multidex
 http://makingiants.com/blog/fasterboost-gradle-builds_2/
 https://www.reddit.com/r/androiddev/comments/48wucs/between_compiling_and_gradle_and_indexing/
 https://www.reddit.com/r/androiddev/comments/4gt97e/psa_apparently_assigning_a_ton_of_memory_to/
+http://stackoverflow.com/questions/36441598/why-is-gradle-2-0-so-slow/36497209#36497209
 
 https://github.com/Triple-T/gradle-play-publisher
 

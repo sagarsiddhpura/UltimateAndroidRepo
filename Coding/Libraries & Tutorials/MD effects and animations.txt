@@ -1,10 +1,12 @@
 Material Widgets
 http://www.materialdoc.com/components/
+https://github.com/alexive/visual-goodies
 
 
 Lib
 https://github.com/rey5137/material
 https://github.com/ZieIony/Carbon
+https://github.com/alexive/visual-goodies
 
 
 Animations

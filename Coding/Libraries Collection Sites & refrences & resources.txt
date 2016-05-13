@@ -26,3 +26,6 @@ https://github.com/Freelander/Android_Data
 https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
 
 https://play.google.com/store/books/details?id=PlTjCwAAQBAJ
+
+Podcasts
+https://www.reddit.com/r/androiddev/comments/4iw7v6/podcasts_for_android_developers/

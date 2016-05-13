@@ -36,6 +36,7 @@ http://blog.karumi.com/world-class-testing-development-pipeline-for-android-part
 https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-custom-junit-rule-c8487ed01b56
 http://smithdroid.blogspot.com/2015/11/whats-minimum-you-can-do-to-detect.html
 https://github.com/artem-zinnatullin/qualitymatters
+https://www.reddit.com/r/androiddev/comments/4ik9tf/has_anyone_successfully_tested_real_network/
 
 
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
@@ -53,6 +54,7 @@ https://www.reddit.com/r/androiddev/comments/4gcbdj/lets_talk_testing/
 http://handstandsam.com/2016/04/23/using-the-android-emulator-for-continuous-integration/
 https://medium.com/@andrzejchm/ittd-instrumentation-ttd-for-android-4894cbb82d37#.plph1bqnl
 https://www.reddit.com/r/androiddev/comments/4gz25u/avoiding_dry_while_learning_to_use_the_testing/
+https://www.reddit.com/r/androiddev/comments/4ij2nu/mvp_testing_tutorials/
 
 
 network

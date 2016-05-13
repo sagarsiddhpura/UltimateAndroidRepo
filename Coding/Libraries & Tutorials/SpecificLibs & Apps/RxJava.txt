@@ -47,6 +47,9 @@ http://tomstechnicalblog.blogspot.com/2016/02/rxjava-maximizing-parallelization.
 https://medium.com/@murki/chaining-multiple-sources-with-rxjava-20eb6850e5d9
 https://www.reddit.com/r/androiddev/comments/4h2owh/observable_that_survives_configuration_changes/
 https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df503343c0#.dvdd9mg45
+https://www.reddit.com/r/androiddev/comments/4ipwek/rxjava_join_operator_for_two_retrofit_requests/
+https://realm.io/news/kau-felipe-lima-adopting-rxjava-airbnb-android/
+http://tomstechnicalblog.blogspot.in/2016/03/rxjava-problem-with-subjects.html
 
 
 Libs
@@ -70,6 +73,7 @@ https://github.com/artem-zinnatullin/RxJavaProGuardRules
 http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
 http://polidea.github.io/RxAndroidBle/
 https://github.com/trello/navi
+https://github.com/gramboid/RxAppFocus
 
 
 Good

@@ -52,6 +52,7 @@ One url for app
 http://rdrct.it/
 https://branch.io/
 http://lotcat.com/
+http://wurfl.sourceforge.net/
 
 
 http://appfollow.io/

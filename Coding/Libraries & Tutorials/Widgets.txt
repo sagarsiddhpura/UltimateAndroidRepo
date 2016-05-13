@@ -1,5 +1,6 @@
 Material Widgets
 http://www.materialdoc.com/components/
+https://github.com/alexive/visual-goodies
 
 
 Material lib

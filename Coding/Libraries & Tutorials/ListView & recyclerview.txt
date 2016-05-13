@@ -34,6 +34,7 @@ https://github.com/RecycledMedia/tradesy-android-binder
 https://github.com/mikepenz/FastAdapter
 https://github.com/Shyish/GenericRenderers
 http://hannesdorfmann.com/android/adapter-delegates
+https://github.com/alexive/visual-goodies
 
 
 Expandabele RV
