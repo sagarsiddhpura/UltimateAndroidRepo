@@ -5,5 +5,6 @@ https://github.com/ybq/Android-SpinKit
 https://github.com/Rogero0o/CatLoadingView
 https://github.com/dinuscxj/LoadingDrawable
 https://github.com/lazysource/uberprogressview
+https://github.com/Yalantis/pull-to-make-soup
 
 http://mp.weixin.qq.com/s?__biz=MjM5MDMxOTE5NA==&mid=402703079&idx=2&sn=2fcc6746a866dcc003c68ead9b68e595&scene=2&srcid=0302A7p723KK8E5gSzLKb2ZL&from=timeline&isappinstalled=0#wechat_redirect

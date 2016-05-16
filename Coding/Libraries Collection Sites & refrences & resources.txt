@@ -12,6 +12,8 @@ http://androidbookmarks.net/
 https://github.com/MakinGiants/awesome-mobile-dev
 http://www.android-templates.com/
 https://docs.google.com/forms/d/1Og1u6wvSNy9JV54cub7j1pnQ3dBtycIUfGFW3SeHcgo/viewform
+http://www.codingwithmitch.com/
+http://androidbookmarks.net/
 
 Java
 https://github.com/cxxr/better-java

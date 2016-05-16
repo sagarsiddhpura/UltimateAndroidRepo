@@ -3,7 +3,7 @@ http://www.reddit.com/r/androiddev/comments/3amyvs/what_does_a_company_actually_
 https://www.reddit.com/r/androiddev/comments/4g543z/i_was_just_interviewed_for_a_mid_dev_position_the/
 https://www.reddit.com/r/androiddev/comments/4gkdec/heres_a_list_of_resources_that_ive_compiled_for/
 https://leetcode.com/
-
+https://medium.com/@neteinstein/not-another-android-interviews-article-5b478671793b#.9lao8ldkl
 
 
 Jobs

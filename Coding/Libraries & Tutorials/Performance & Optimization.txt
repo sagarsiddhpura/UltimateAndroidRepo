@@ -23,6 +23,10 @@ https://github.com/facebook/redex/
 https://github.com/timmutton/redex-plugin
 
 
+Optimize size
+https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html
+
+
 Network
 https://www.reddit.com/r/androiddev/comments/4evvhv/how_to_optimize_my_network_bandwidth_usage_for/
 https://www.reddit.com/r/androiddev/comments/4h13w7/google_data_compression_proxy/

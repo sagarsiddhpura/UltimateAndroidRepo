@@ -59,6 +59,8 @@ https://github.com/Ramotion/folding-cell-android
 https://github.com/android-cjj/JJSearchViewAnim
 https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.3zkw9jjg1
 https://github.com/danielzeller/Depth-LIB-Android-
+https://github.com/JA-VON/Android-View-Controller
+https://github.com/Yalantis/pull-to-make-soup
 
 
 Edittext

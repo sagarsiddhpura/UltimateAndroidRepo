@@ -12,6 +12,7 @@ https://github.com/aloj22/ListenerSwipeRefreshLayout
 
 https://github.com/daimajia/AndroidSwipeLayout
 https://github.com/chthai64/SwipeRevealLayout
+https://github.com/prolificinteractive/swipe-action-layout
 
 
 Tutorials

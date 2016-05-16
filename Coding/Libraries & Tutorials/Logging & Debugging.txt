@@ -26,6 +26,7 @@ http://robusttechhouse.com/debugging-android-using-facebook-stetho-library/
 https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.2cf074yzh
 https://github.com/zserge/log
 http://help.papertrailapp.com/kb/configuration/configuring-centralized-logging-from-android-apps/
+https://caster.io/episodes/android-studio-applying-logcat-filters/
 
 
 Network

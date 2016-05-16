@@ -1,2 +1,3 @@
 https://github.com/Jacksgong/JKeyboardPanelSwitch
 https://github.com/w446108264/XhsEmoticonsKeyboard
+https://github.com/AzimoLabs/AndroidKeyboardWatcher

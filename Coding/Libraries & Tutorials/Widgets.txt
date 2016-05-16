@@ -71,6 +71,7 @@ https://github.com/tajchert/WaitingDots
 https://github.com/scottyab/showhidepasswordedittext
 https://github.com/alphamu/AnimatedEditText
 https://github.com/maksim88/PasswordEditText
+https://github.com/AzimoLabs/MaskFormatter
 
 http://antonioleiva.com/textview_power_drawables/
 
@@ -291,3 +292,4 @@ https://github.com/cachapa/ExpandableLayout
 https://github.com/JulienGenoud/android-percent-support-lib-sample
 https://github.com/google/flexbox-layout
 https://github.com/christophesmet/android_maskable_layout
+https://github.com/prolificinteractive/swipe-action-layout

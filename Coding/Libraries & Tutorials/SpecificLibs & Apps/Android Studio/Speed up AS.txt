@@ -1,3 +1,4 @@
 https://www.reddit.com/r/androiddev/comments/3puedt/tired_of_slow_android_studio_here_are_some_jvm/
 
 https://www.reddit.com/r/androiddev/comments/4d9zpi/reminder_to_clear_up_the_android_studio_clutter/
+https://medium.com/google-developers/faster-android-studio-builds-with-dex-in-process-5988ed8aa37e#.32u6w6rfp

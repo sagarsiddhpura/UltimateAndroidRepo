@@ -55,6 +55,8 @@ http://handstandsam.com/2016/04/23/using-the-android-emulator-for-continuous-int
 https://medium.com/@andrzejchm/ittd-instrumentation-ttd-for-android-4894cbb82d37#.plph1bqnl
 https://www.reddit.com/r/androiddev/comments/4gz25u/avoiding_dry_while_learning_to_use_the_testing/
 https://www.reddit.com/r/androiddev/comments/4ij2nu/mvp_testing_tutorials/
+https://xamoom.com/en/2016/05/setup-a-local-jenkins-for-your-android-project/
+https://medium.com/azimolabs/testing-rx-code-7918d7ee1680#.bg43yanoa
 
 
 network
@@ -89,6 +91,8 @@ https://github.com/rosshambrick/RxEspresso
 https://github.com/yrizk/Espresso-CustomFailureHandler
 https://boopjs.com/
 https://github.com/elixsr/FwdPortForwardingApp/
+https://github.com/AzimoLabs/ConditionWatcher
+https://github.com/florent37/AndroidUnitTest
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/

@@ -1,0 +1,2 @@
+https://www.reddit.com/r/androiddev/comments/4j1rq2/what_pattern_do_you_guys_use_for_versionname_and/
+http://semver.org/

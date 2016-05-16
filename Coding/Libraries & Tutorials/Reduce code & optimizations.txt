@@ -65,5 +65,6 @@ https://www.buzzingandroid.com/tools/android-layout-finder/
 
 Reduce Size
 http://blog.jimbaca.com/2016/04/04/smaller-apks-with-classy-shark/
+https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html
 
 https://medium.com/@MikeScamell/this-app-did-the-vectordrawablecompat-diet-and-shed-2-4mb-and-it-s-so-easy-you-can-do-it-too-209846d99809#.r04ogoltz
