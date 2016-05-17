@@ -23,3 +23,11 @@ http://riggaroo.co.za/retrofit-2-mocking-http-responses/
 
 With other libs
 https://nullpointer.wtf/android/using-retrofit-realm-parceler/
+
+
+Error Handling
+http://bytes.babbel.com/en/articles/2016-03-16-retrofit2-rxjava-error-handling.html
+
+RX
+https://www.captechconsulting.com/blogs/a-mvp-approach-to-lifecycle-safe-requests-with-retrofit-20-and-rxjava
+https://github.com/vyshane/rex-weather

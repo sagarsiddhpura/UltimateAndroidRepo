@@ -194,6 +194,8 @@ https://github.com/hitherejoe/Tabby
 http://artemzin.com/blog/use-okhttp-to-load-resources-for-webview/
 https://github.com/TheFinestArtist/FinestWebView-Android
 https://github.com/novoda/simple-chrome-custom-tabs
+https://github.com/delight-im/Android-AdvancedWebView
+https://crosswalk-project.org/
 
 
 Tags & Chips
@@ -291,5 +293,6 @@ https://github.com/AAkira/ExpandableLayout
 https://github.com/cachapa/ExpandableLayout
 https://github.com/JulienGenoud/android-percent-support-lib-sample
 https://github.com/google/flexbox-layout
+https://blog.stylingandroid.com/flexboxlayout-part-1/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+StylingAndroid+%28Styling+Android%29
 https://github.com/christophesmet/android_maskable_layout
 https://github.com/prolificinteractive/swipe-action-layout

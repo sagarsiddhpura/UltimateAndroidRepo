@@ -168,13 +168,15 @@ https://github.com/addrum/CanIEatThis
 https://github.com/afollestad/cabinet
 https://github.com/hitherejoe/Bourbon
 https://github.com/Commit451/GeoTune
+https://github.com/vyshane/rex-weather
 
 
 
-Image editing
+Image editing & Processing
 https://github.com/Betcheg/MLGPhotoMontage
 https://github.com/Betcheg/Android-Emoji-Camera-Photo
 http://arstechnica.com/gaming/2016/05/push-me-pull-you-and-the-other-modern-4p-couch-games-you-should-be-playing/
+https://github.com/naman14/Arcade
 
 
 Updates
@@ -213,6 +215,10 @@ https://github.com/bkach/AndroidGameOfLifeMVP
 https://github.com/miguelespinoza/react-goku
 https://bitbucket.org/SteveSmith16384/stellarforces
 https://github.com/sromku/memory-game
+
+
+Audio
+https://gist.github.com/mmoczkowski/b6ced92ff4a40aa4647f0c02918c616b
 
 
 Chat

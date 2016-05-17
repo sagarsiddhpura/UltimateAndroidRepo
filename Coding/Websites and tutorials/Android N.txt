@@ -2,3 +2,4 @@ https://medium.com/google-developers/5-tips-for-preparing-for-multi-window-in-an
 https://medium.com/@hitherejoe/android-n-introducing-upgraded-notifications-d4dd98a7ca92#.9i2tbpor4
 https://medium.com/@KieronQuinn/quick-settings-in-android-n-ea8ad8ce2eea#.c7s1qkzia28w
 http://android-developers.blogspot.in/2016/05/designing-for-multi-window.html
+https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3#.6odxfl252

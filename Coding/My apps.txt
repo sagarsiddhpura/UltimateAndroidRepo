@@ -39,3 +39,8 @@ https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-ve
 https://github.com/medyo/android-about-page
 
 https://github.com/kyle-ilantzis/slap-reviews
+
+
+TT Helper
+https://github.com/delight-im/Android-AdvancedWebView
+https://crosswalk-project.org/

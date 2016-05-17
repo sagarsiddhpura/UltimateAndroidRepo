@@ -29,5 +29,6 @@ http://www.newventuresoftware.com/blog/record-play-and-visualize-raw-audio-data-
 http://superpowered.com/android-marshmallow-latency
 https://googlesamples.github.io/android-audio-high-performance/
 https://anadea.info/blog/tools-for-audio-processing-in-android-development
+https://gist.github.com/mmoczkowski/b6ced92ff4a40aa4647f0c02918c616b
 
 http://enoent.fr/blog/2014/06/20/compile-ffmpeg-for-android/
