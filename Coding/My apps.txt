@@ -44,3 +44,4 @@ https://github.com/kyle-ilantzis/slap-reviews
 TT Helper
 https://github.com/delight-im/Android-AdvancedWebView
 https://crosswalk-project.org/
+http://www.materialup.com/posts/material-design-motion-radial-transition

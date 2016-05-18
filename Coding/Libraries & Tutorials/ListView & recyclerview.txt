@@ -36,6 +36,7 @@ https://github.com/Shyish/GenericRenderers
 http://hannesdorfmann.com/android/adapter-delegates
 https://github.com/alexive/visual-goodies
 http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house
+https://github.com/kibotu/RecyclerViewPresenter
 
 
 Expandabele RV

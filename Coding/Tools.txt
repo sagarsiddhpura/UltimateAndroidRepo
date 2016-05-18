@@ -16,7 +16,7 @@ https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhn
 https://www.gitignore.io/
 
 https://github.com/cesarferreira/lasertag
-
+https://www.reddit.com/r/androiddev/comments/4joo9d/one_tool_that_has_helped_the_most/
 https://play.google.com/store/apps/details?id=com.faizmalkani.keylines
 
 http://comparegithosting.com/#Free

@@ -236,6 +236,7 @@ https://github.com/pedrovgs/DraggablePanel
 https://github.com/wangjia55/ViewDragHelper
 https://github.com/flschweiger/SwipeStack
 https://github.com/jayrambhia/Tooltip
+https://github.com/cooltechworks/ScratchView
 
 
 Bottom Sheet
@@ -255,6 +256,7 @@ https://www.novoda.com/blog/alternative-interfaces/
 http://www.dmytrodanylyk.com/pages/blog/error-label.html
 https://www.novoda.com/blog/alternative-interfaces/
 https://www.reddit.com/r/androiddev/comments/4h8c73/what_is_the_best_practice_for_architecting_a/
+http://ivankocijan.xyz/writing-a-maintainable-custom-view-in-android/
 
 
 Bottom bar
