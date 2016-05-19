@@ -22,3 +22,6 @@ https://github.com/AngusMorton/kedux
 
 TEsting
 http://makingiants.com/blog/using-mockito-for-unit-tests-with-kotlin-1x/
+
+Recyclerview
+https://www.reddit.com/r/androiddev/comments/4jwjrj/kotlingist_mergeadapter_for_recyclerview/

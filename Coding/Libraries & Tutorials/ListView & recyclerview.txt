@@ -37,6 +37,7 @@ http://hannesdorfmann.com/android/adapter-delegates
 https://github.com/alexive/visual-goodies
 http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house
 https://github.com/kibotu/RecyclerViewPresenter
+https://github.com/ShamylZakariya/StickyHeaders
 
 
 Expandabele RV

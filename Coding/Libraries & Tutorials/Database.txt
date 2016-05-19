@@ -20,6 +20,7 @@ https://www.reddit.com/r/androiddev/comments/3j80sw/best_practices_for_asynchron
 http://softwaretree.com/2015/products/jdxa/jdxa_introduction.html
 http://yvonne.idescout.com/2016/04/sqlscout-20-manage-databases-in-your.html
 http://blog.alexsimo.com/delightful-persistence-android/
+https://www.reddit.com/r/androiddev/comments/4juhip/its_there_an_orm_with_all_the_flexibility_as_pure/
 
 
 With recycler view

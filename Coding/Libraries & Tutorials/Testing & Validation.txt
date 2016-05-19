@@ -57,6 +57,7 @@ https://www.reddit.com/r/androiddev/comments/4gz25u/avoiding_dry_while_learning_
 https://www.reddit.com/r/androiddev/comments/4ij2nu/mvp_testing_tutorials/
 https://xamoom.com/en/2016/05/setup-a-local-jenkins-for-your-android-project/
 https://medium.com/azimolabs/testing-rx-code-7918d7ee1680#.bg43yanoa
+https://medium.com/azimolabs/wait-for-it-idlingresource-and-conditionwatcher-602055f32356#.xbqqm8dqz
 
 
 network
@@ -93,6 +94,7 @@ https://boopjs.com/
 https://github.com/elixsr/FwdPortForwardingApp/
 https://github.com/AzimoLabs/ConditionWatcher
 https://github.com/florent37/AndroidUnitTest
+https://github.com/uber-common/rave
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/

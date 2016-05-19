@@ -31,3 +31,7 @@ https://play.google.com/store/books/details?id=PlTjCwAAQBAJ
 
 Podcasts
 https://www.reddit.com/r/androiddev/comments/4iw7v6/podcasts_for_android_developers/
+
+
+Apps
+https://play.google.com/store/apps/details?id=com.google.android.apps.secrets
