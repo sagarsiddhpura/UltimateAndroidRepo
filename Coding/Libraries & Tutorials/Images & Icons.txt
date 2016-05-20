@@ -46,6 +46,7 @@ https://github.com/florent37/KenBurnsView
 https://github.com/wasabeef/Blurry
 https://gist.github.com/davidwhitman/92d043f2f75fd392a1f3
 https://github.com/glomadrian/RoadRunner
+https://github.com/ArthurHub/Android-Image-Cropper
 
 
 SVG & Vector
@@ -97,6 +98,7 @@ https://github.com/ryanhoo/PhotoCropper
 https://developers.aviary.com/pricing
 https://github.com/Yalantis/uCrop
 https://github.com/christophesmet/android_maskable_layout
+https://github.com/ArthurHub/Android-Image-Cropper
 
 
 Image Picker

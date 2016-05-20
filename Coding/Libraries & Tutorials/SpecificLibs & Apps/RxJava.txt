@@ -50,6 +50,8 @@ https://medium.com/@froger_mcs/async-injection-in-dagger-2-with-rxjava-e7df50334
 https://www.reddit.com/r/androiddev/comments/4ipwek/rxjava_join_operator_for_two_retrofit_requests/
 https://realm.io/news/kau-felipe-lima-adopting-rxjava-airbnb-android/
 http://tomstechnicalblog.blogspot.in/2016/03/rxjava-problem-with-subjects.html
+https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.bghv7fk2w
+https://speakerdeck.com/dlew/common-rxjava-mistakes
 
 
 Libs
@@ -74,6 +76,11 @@ http://www.littlerobots.nl/blog/RxLint-a-lint-rule-for-RxJava/
 http://polidea.github.io/RxAndroidBle/
 https://github.com/trello/navi
 https://github.com/gramboid/RxAppFocus
+https://github.com/lukaspili/Reactive-Billing
+https://github.com/ubiratansoares/rxassertions
+https://github.com/JakeWharton/RxReplayingShare
+https://github.com/eleventigers/rxeither
+https://github.com/pakoito/RxSealedUnions
 
 
 Good

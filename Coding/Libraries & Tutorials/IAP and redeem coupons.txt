@@ -6,3 +6,7 @@ https://www.reddit.com/r/androiddev/comments/3jes97/testing_inapp_subscriptions_
 https://github.com/onepf/OpenIAB
 https://www.reddit.com/r/androiddev/comments/3nymx7/how_do_you_manage_inapp_purchases_in_your/
 https://www.reddit.com/r/androiddev/comments/4idapv/moral_dilemma_regarding_the_store_listing_for_an/
+
+
+Libs
+https://github.com/lukaspili/Reactive-Billing

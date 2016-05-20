@@ -3,6 +3,9 @@ https://www.reddit.com/r/androiddev/comments/3tfrn8/is_kotlin_something_worth_in
 http://riggaroo.co.za/adding-kotlin-to-android-projects-plus-kotlin-tests/
 https://github.com/chemouna/Kotlin-Resources
 https://medium.com/@juanchosaravia/keddit-part-8-orientation-change-with-kotlin-parcelable-data-classes-f28136e8a6a8#.m166oltl7
+https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.7zskh4ruy
+http://antonioleiva.com/kotlin-ongloballayoutlistener/
+
 
 apps
 https://github.com/hotpodata/redchain
@@ -22,6 +25,8 @@ https://github.com/AngusMorton/kedux
 
 TEsting
 http://makingiants.com/blog/using-mockito-for-unit-tests-with-kotlin-1x/
+https://medium.com/@sergii/using-kotlin-for-tests-in-android-6d4a0c818776#.lknlv97l3
+
 
 Recyclerview
 https://www.reddit.com/r/androiddev/comments/4jwjrj/kotlingist_mergeadapter_for_recyclerview/

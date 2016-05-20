@@ -72,6 +72,7 @@ https://github.com/scottyab/showhidepasswordedittext
 https://github.com/alphamu/AnimatedEditText
 https://github.com/maksim88/PasswordEditText
 https://github.com/AzimoLabs/MaskFormatter
+https://github.com/lisawray/passwordview
 
 http://antonioleiva.com/textview_power_drawables/
 

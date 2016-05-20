@@ -12,6 +12,7 @@ https://medium.com/@BERTWEAZE/making-an-app-part-1-41a28339f674#.kzkmahyv6
 https://blog.prototypr.io/how-we-build-a-solid-base-for-a-material-design-app-a-case-study-3c4925d26d8b#.q2c23j2xs
 https://www.reddit.com/r/androiddev/comments/4fcwbh/how_to_quickly_get_the_wheels_turning_on_an_app_i/
 https://www.reddit.com/r/androiddev/comments/4h5kbo/what_is_best_material_design_tutorialdocs/
+https://uxdesign.cc/the-absolute-minimum-android-developers-need-to-know-about-ux-part-3-of-5-71e2d5ade961#.rgci2jbit
 
 http://pttrns.com/?did=6&page=2
 https://plus.google.com/+LiamSpradlin/posts/jVzRHAq3Vno

@@ -27,6 +27,7 @@ https://medium.com/@simonpercic/effortless-network-response-logging-on-android-c
 https://github.com/zserge/log
 http://help.papertrailapp.com/kb/configuration/configuring-centralized-logging-from-android-apps/
 https://caster.io/episodes/android-studio-applying-logcat-filters/
+https://github.com/charbgr/SeismicInterceptor
 
 
 Network
@@ -36,6 +37,7 @@ https://publicobject.com/2016/01/17/sneaking-data-into-an-okhttp-interceptor/
 https://github.com/elixsr/FwdPortForwardingApp/
 https://bugfender.com/android-remote-logger
 https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.2cf074yzh
+https://github.com/charbgr/SeismicInterceptor
 
 
 Live Logging
