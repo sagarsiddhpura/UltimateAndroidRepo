@@ -49,3 +49,5 @@ https://github.com/KeepSafe/dexcount-gradle-plugin
 https://medium.com/sebs-top-tips/use-custom-viewers-for-your-data-android-studio-protip-4-9010d43772e2#.ig5mc9uft
 
 https://github.com/kgmyshin/eventbus-intellij-plugin
+
+http://tmorcinek.github.io/android-codegenerator-plugin-intellij/

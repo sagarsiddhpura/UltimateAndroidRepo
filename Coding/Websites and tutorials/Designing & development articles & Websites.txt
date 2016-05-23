@@ -13,6 +13,8 @@ https://blog.prototypr.io/how-we-build-a-solid-base-for-a-material-design-app-a-
 https://www.reddit.com/r/androiddev/comments/4fcwbh/how_to_quickly_get_the_wheels_turning_on_an_app_i/
 https://www.reddit.com/r/androiddev/comments/4h5kbo/what_is_best_material_design_tutorialdocs/
 https://uxdesign.cc/the-absolute-minimum-android-developers-need-to-know-about-ux-part-3-of-5-71e2d5ade961#.rgci2jbit
+https://medium.com/android-news/android-development-for-the-rural-world-a-how-to-guide-b2da153e0612#.cv5wiwxii
+http://www.vartmp.com/blog/2016/05/21
 
 http://pttrns.com/?did=6&page=2
 https://plus.google.com/+LiamSpradlin/posts/jVzRHAq3Vno

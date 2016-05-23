@@ -7,6 +7,7 @@ Lib
 https://github.com/rey5137/material
 https://github.com/ZieIony/Carbon
 https://github.com/alexive/visual-goodies
+https://github.com/andkulikov/transitions-everywhere
 
 
 Animations
@@ -61,6 +62,7 @@ https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-ve
 https://github.com/danielzeller/Depth-LIB-Android-
 https://github.com/JA-VON/Android-View-Controller
 https://github.com/Yalantis/pull-to-make-soup
+https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.6w9afrsw3
 
 
 Edittext

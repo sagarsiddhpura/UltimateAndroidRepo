@@ -134,6 +134,8 @@ https://github.com/rmtheis/android-ocr
 https://github.com/rmtheis/tess-two
 https://github.com/tesseract-ocr
 https://medium.com/@qhutch/android-simple-and-fast-image-processing-with-renderscript-2fa8316273e1#.ojr1yf4xe
+https://github.com/AppLozic/Applozic-Android-SDK
+https://github.com/tesseract-ocr/tesseract
 
 
 Icons
