@@ -73,6 +73,7 @@ http://arjunu.com/2015/10/android-recyclerview-with-different-cardviews/
 http://www.tutorialsbuzz.com/2015/11/android-recyclerview-filter-animation.html
 https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
 https://www.reddit.com/r/androiddev/comments/4flia7/recyclerview_and_picasso_help/
+https://www.reddit.com/r/androiddev/comments/4kmqde/how_to_improve_the_performance_on_a_recyclerview/
 
 
 Animations

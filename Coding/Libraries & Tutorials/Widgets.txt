@@ -299,3 +299,4 @@ https://github.com/google/flexbox-layout
 https://blog.stylingandroid.com/flexboxlayout-part-1/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+StylingAndroid+%28Styling+Android%29
 https://github.com/christophesmet/android_maskable_layout
 https://github.com/prolificinteractive/swipe-action-layout
+https://github.com/FabianTerhorst/FastLayout

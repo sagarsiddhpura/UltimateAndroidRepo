@@ -27,6 +27,9 @@ Optimize size
 https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html
 
 
+List & RecyclerView
+https://www.reddit.com/r/androiddev/comments/4kmqde/how_to_improve_the_performance_on_a_recyclerview/
+
 Network
 https://www.reddit.com/r/androiddev/comments/4evvhv/how_to_optimize_my_network_bandwidth_usage_for/
 https://www.reddit.com/r/androiddev/comments/4h13w7/google_data_compression_proxy/

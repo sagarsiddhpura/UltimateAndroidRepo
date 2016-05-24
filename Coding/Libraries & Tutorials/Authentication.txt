@@ -2,3 +2,5 @@ http://blog.mostafazh.me/2015/07/20/verify-twitter-digits-session-with-php-larav
 http://blog.udinic.com/2013/04/24/write-your-own-android-authenticator/
 https://github.com/Unic8/retroauth
 https://github.com/Mauin/RxFingerprint
+https://www.reddit.com/r/androiddev/comments/4kjhrr/looking_for_the_best_phone_number_verification/
+Facebook Account Kit
