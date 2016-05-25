@@ -25,6 +25,7 @@ Spongy Castle on Android: https://rtyley.github.io/spongycastle/
 forge.js on the web / extensions: https://github.com/digitalbazaar/forge
 OpenSSL on iOS / Mac (coming soon)
 http://www.ssaurel.com/blog/make-fast-cryptographic-operations-on-android-with-conceal/
+https://www.cossacklabs.com/choose-android-crypto.html
 
 
 https://corner.squareup.com/2015/08/a-small-leak.html

@@ -2,3 +2,6 @@ https://chrome.google.com/webstore/detail/vulcan-by-firebase/oippbnlmebalopjbkem
 https://github.com/amaboura/socialbase
 
 https://github.com/firebase/FirebaseUI-Android/tree/master/codelabs/chat
+
+Libs:
+https://www.reddit.com/r/androiddev/comments/4kpnkj/ported_my_rxjava_firebase_wrapper_to_the_new/

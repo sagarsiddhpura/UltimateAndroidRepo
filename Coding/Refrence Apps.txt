@@ -172,6 +172,9 @@ https://github.com/vyshane/rex-weather
 https://github.com/blocoio/cardcase
 https://github.com/MakinGiants/caty
 https://github.com/Kamshak/BrainPhaser
+https://github.com/ahammer/AirHockey
+https://github.com/ahammer/StockSimulator
+https://github.com/erdemorman/mdx
 
 
 
