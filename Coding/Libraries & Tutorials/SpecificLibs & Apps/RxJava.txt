@@ -82,6 +82,7 @@ https://github.com/JakeWharton/RxReplayingShare
 https://github.com/eleventigers/rxeither
 https://github.com/pakoito/RxSealedUnions
 https://gist.github.com/vinaybn92/584cf331bba2241bdf895f18a5f2b251 - Firebase
+https://github.com/FuckBoilerplate/RxSocialConnect-Android
 
 Good
 https://medium.com/@cesarmcferreira/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c

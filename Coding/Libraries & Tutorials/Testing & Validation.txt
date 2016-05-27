@@ -95,6 +95,7 @@ https://github.com/elixsr/FwdPortForwardingApp/
 https://github.com/AzimoLabs/ConditionWatcher
 https://github.com/florent37/AndroidUnitTest
 https://github.com/uber-common/rave
+https://github.com/metova/Cappuccino
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/

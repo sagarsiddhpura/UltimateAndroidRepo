@@ -17,3 +17,4 @@ https://github.com/amaboura/socialbase
 https://www.reddit.com/r/androiddev/comments/4gfcmw/question_any_one_tried_facebook_login_with_custom/
 https://github.com/francescocervone/RxDrive
 https://github.com/CloudRail/cloudrail-si-android-sdk/
+https://github.com/FuckBoilerplate/RxSocialConnect-Android

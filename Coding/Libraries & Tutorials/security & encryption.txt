@@ -17,6 +17,7 @@ http://code.tutsplus.com/articles/how-to-secure-an-android-app--cms-26385
 https://www.reddit.com/r/androiddev/comments/4h13w7/google_data_compression_proxy/
 https://github.com/doridori/Android-Security-Reference/blob/master/network/tls_cert_pinning.md
 https://www.airpair.com/android/posts/adding-tampering-detection-to-your-android-app
+http://android-developers.blogspot.in/2016/05/improving-security-and-user-experience.html
 
 
 
