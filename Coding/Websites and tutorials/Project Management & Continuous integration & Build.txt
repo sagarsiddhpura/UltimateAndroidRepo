@@ -11,6 +11,7 @@ https://medium.com/@paolorotolo/set-up-a-daily-channel-for-your-android-app-with
 http://riggaroo.co.za/setting-circle-ci-test-deploy-build-android-app/
 http://handstandsam.com/2016/04/23/using-the-android-emulator-for-continuous-integration/
 https://www.reddit.com/r/androiddev/comments/4iuvxk/any_good_project_management_tool/
+http://macoscope.com/blog/using-sonarqube-with-jenkins-continuous-integration-and-github-to-improve-code-review/#more
 
 https://www.buddybuild.com/
 http://jeremie-martinez.com//2016/04/19/gocd-android/

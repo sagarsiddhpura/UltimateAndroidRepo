@@ -176,6 +176,9 @@ https://github.com/ahammer/AirHockey
 https://github.com/ahammer/StockSimulator
 https://github.com/erdemorman/mdx
 https://github.com/Redgram/redgram-for-reddit
+https://github.com/tadejkan/score-counter-android
+https://github.com/xiprox/WaniKani-for-Android
+http://free-software-for-android.github.io/AdAway/
 
 
 
@@ -205,6 +208,7 @@ https://github.com/byoutline/kickmaterial/
 https://github.com/eneim/Google_io_2016_timer
 https://github.com/chemouna/HarryPotterBooks
 https://github.com/tengbinlive/aibao_demo
+https://github.com/inorichi/tachiyomi
 
 
 

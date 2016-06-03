@@ -15,3 +15,6 @@ http://wiki.apache.org/tika/
 
 Testing
 https://github.com/Commit451/ParcelCheck
+
+XML
+https://github.com/Tickaroo/tikxml

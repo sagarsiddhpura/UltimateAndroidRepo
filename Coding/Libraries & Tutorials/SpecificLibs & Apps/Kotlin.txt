@@ -5,6 +5,7 @@ https://github.com/chemouna/Kotlin-Resources
 https://medium.com/@juanchosaravia/keddit-part-8-orientation-change-with-kotlin-parcelable-data-classes-f28136e8a6a8#.m166oltl7
 https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.7zskh4ruy
 http://antonioleiva.com/kotlin-ongloballayoutlistener/
+https://m.signalvnoise.com/some-of-my-favorite-kotlin-features-that-we-use-a-lot-in-basecamp-5ac9d6cea95#.ptdytxltk
 
 
 apps
@@ -21,6 +22,7 @@ Libs
 https://github.com/deadpixelsociety/passport
 https://github.com/maannajjar/lattekit
 https://github.com/AngusMorton/kedux
+http://kovenant.komponents.nl/
 
 
 TEsting

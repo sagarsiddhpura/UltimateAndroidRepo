@@ -83,6 +83,8 @@ https://github.com/eleventigers/rxeither
 https://github.com/pakoito/RxSealedUnions
 https://gist.github.com/vinaybn92/584cf331bba2241bdf895f18a5f2b251 - Firebase
 https://github.com/FuckBoilerplate/RxSocialConnect-Android
+https://github.com/pakoito/RxMemoization
+
 
 Good
 https://medium.com/@cesarmcferreira/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c
@@ -103,6 +105,7 @@ https://github.com/ribot/assertj-rx
 http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/
 https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329
 https://github.com/rosshambrick/RxEspresso
+http://macoscope.com/blog/unit-testing-rxjava/
 
 
 Monitor Network
@@ -156,6 +159,7 @@ https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf49
 http://www.thedroidsonroids.com/blog/android/rxjava-production-line/
 https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572#.cd2s6f9ug
 https://www.ykode.com/2015/02/20/android-frp-rxjava-retrolambda.html
+http://www.jayrambhia.com/blog/rx-form-validations
 
 
 Testing

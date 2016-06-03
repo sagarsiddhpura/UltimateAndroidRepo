@@ -4,3 +4,4 @@ https://branch.io/
 http://www.yozio.com/
 https://developers.google.com/app-invites/
 http://jawnnypoo.github.io/deeperlinker/
+https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-and-android-mobile-deep-linking-f4348b265b49#.lfxo5xj5b

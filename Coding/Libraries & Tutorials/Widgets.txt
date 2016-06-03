@@ -118,6 +118,10 @@ Card
 https://github.com/mthli/Slice
 
 
+Badges
+https://github.com/nekocode/Badge
+
+
 actionbar, toolbar
 https://github.com/mikepenz/Android-ActionItemBadge
 https://medium.com/@ZakTaccardi/goodbye-actionbar-apis-hello-toolbar-af6ae7b31e5d

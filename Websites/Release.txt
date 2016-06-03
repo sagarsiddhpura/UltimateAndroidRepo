@@ -1,3 +1,4 @@
 http://alexfu.github.io/2015/07/16/Steamlining-releases/
 https://medium.com/developing-intent/android-developer-important-manifest-checks-8c86064013aa#.mz6v1siac
 https://www.reddit.com/r/androiddev/comments/4h4b94/what_are_the_things_you_automate_on_an_android/
+http://droid-blog.net/2016/05/27/1000-challenge-competitor-analysis-and-feature-list/

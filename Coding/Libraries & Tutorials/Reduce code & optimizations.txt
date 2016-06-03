@@ -18,6 +18,7 @@ https://github.com/vanniktech/OnActivityResult
 https://github.com/workarounds/bundler
 https://github.com/SimonVT/schematic
 https://github.com/workarounds/bundler
+https://github.com/stephanenicolas/toothpick
 
 https://github.com/workday/postman
 https://github.com/johncarl81/parceler
@@ -30,6 +31,7 @@ https://github.com/cristhianescobar/generator-android-starter
 https://github.com/cavarzan/generator-android-hipster
 https://github.com/slymax/webview
 https://github.com/ribot/android-boilerplate
+https://github.com/NeoDigi/android-boilerplate
 https://www.reddit.com/r/androiddev/comments/4gdqg8/a_modern_android_boilerplate_project/
 
 integrate libs faster
@@ -66,5 +68,5 @@ https://www.buzzingandroid.com/tools/android-layout-finder/
 Reduce Size
 http://blog.jimbaca.com/2016/04/04/smaller-apks-with-classy-shark/
 https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html
-
+https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
 https://medium.com/@MikeScamell/this-app-did-the-vectordrawablecompat-diet-and-shed-2-4mb-and-it-s-so-easy-you-can-do-it-too-209846d99809#.r04ogoltz

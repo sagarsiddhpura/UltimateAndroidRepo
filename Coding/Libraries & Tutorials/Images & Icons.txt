@@ -186,3 +186,7 @@ https://www.reddit.com/r/androiddev/comments/3f08ge/what_i_love_about_androidico
 SVG to android xml
 http://inloop.github.io/svg2android/
 http://a-student.github.io/SvgToVectorDrawableConverter.Web/
+
+
+Resources
+https://www.reddit.com/user/naalty

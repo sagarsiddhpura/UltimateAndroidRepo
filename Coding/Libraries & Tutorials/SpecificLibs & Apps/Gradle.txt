@@ -64,3 +64,4 @@ https://afterecho.uk/blog/create-a-standalone-gradle-plugin-for-android-part-2.h
 
 Plugins
 https://plugins.gradle.org/plugin/com.github.ben-manes.versions
+https://github.com/vigilancer/android-app-run-gradle-plugin
