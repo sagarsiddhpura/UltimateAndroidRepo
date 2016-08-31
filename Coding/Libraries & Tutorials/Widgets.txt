@@ -154,6 +154,7 @@ https://github.com/android-awesome/Awesome-Material
 https://github.com/IvBaranov/MaterialFavoriteButton
 https://medium.com/google-developers/choosing-a-button-style-with-purpose-and-intent-35a945e228d3#.4u6mfyt46
 https://github.com/GautamGupta/toolbar-button
+https://github.com/varunest/SparkButton
 
 
 Navigation drawer
@@ -242,6 +243,11 @@ https://github.com/wangjia55/ViewDragHelper
 https://github.com/flschweiger/SwipeStack
 https://github.com/jayrambhia/Tooltip
 https://github.com/cooltechworks/ScratchView
+https://github.com/elevenetc/DraggableView
+
+
+Shapes
+https://github.com/siyamed/android-shape-imageview
 
 
 Bottom Sheet

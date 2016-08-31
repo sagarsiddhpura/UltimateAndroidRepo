@@ -17,6 +17,11 @@ https://github.com/CaMnter/EasyRecyclerViewSidebar
 https://github.com/jug6ernaut/DataBindingAdapter
 
 
+Behaviour
+https://github.com/chthai64/overscroll-bouncy-android
+https://medium.com/@ozodrukh/scroll-while-scrolling-d2a39e6468d#.fy6i9ys9h
+
+
 With video
 https://github.com/eneim/Toro
 

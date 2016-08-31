@@ -1,0 +1,26 @@
+https://developer.vuforia.com/downloads/sdk
+https://blitzbombcensusmaps.wordpress.com/2012/09/24/choosing-an-augmented-reality-library-for-android/
+Wikitudo
+https://github.com/trippedout/CloudVisionLib
+Vuforia SDK.
+Metaio
+https://www.kudan.eu/
+http://www.wikitude.com/developer/documentation/android
+
+
+https://www.reddit.com/r/androiddev/comments/4sssxy/is_there_any_augmented_reality_sdk_for_android/
+ARToolkit
+Marker tracking / Image tracking
+Open source
+Free
+Android / iOS / Unity / Windows / OSX etc
+Notes: Works great, a bit work to get it to work sometimes, tracking a marker is a bit iffy at the moment, they announced a new version release in Autumn.
+Kudan
+Marker/Image tracking, SLAM (3D environment tracking)
+Android / iOS / Unity3D
+1000£ per year, per app. Free evaluation version.
+Notes: Tracking is really stable, and works great far away. Great samples.
+Vuforia
+Marker/Image tracking
+Android / iOS / Unity3D / (Windows phone, coming soonish)
+$500 per app / project, Free version with Watermark

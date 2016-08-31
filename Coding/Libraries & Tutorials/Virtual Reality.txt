@@ -1,4 +1,0 @@
-https://developer.vuforia.com/downloads/sdk
-https://blitzbombcensusmaps.wordpress.com/2012/09/24/choosing-an-augmented-reality-library-for-android/
-Wikitudo
-https://github.com/trippedout/CloudVisionLib

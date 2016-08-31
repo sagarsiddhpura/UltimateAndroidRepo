@@ -1,1 +1,2 @@
 http://frescolib.org/
+https://github.com/chrisdoyle/gradle-fury

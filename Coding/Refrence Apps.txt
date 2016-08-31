@@ -179,7 +179,8 @@ https://github.com/Redgram/redgram-for-reddit
 https://github.com/tadejkan/score-counter-android
 https://github.com/xiprox/WaniKani-for-Android
 http://free-software-for-android.github.io/AdAway/
-
+https://github.com/Automattic/simplenote-android
+https://github.com/asksven/BetterBatteryStats/tree/master/BetterBatteryStats
 
 
 Image editing & Processing
@@ -269,7 +270,7 @@ https://github.com/antoniolg/androidmvp
 https://github.com/hugokallstrom/MVVMSampleApplication
 https://github.com/patloew/countries
 https://github.com/kirisetsz/another-dagger2-android-example
-
+https://github.com/marcellogalhardo/Android-Code-Challenge
 
 
 Libs RxJava

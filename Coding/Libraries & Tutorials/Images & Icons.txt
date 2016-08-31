@@ -34,6 +34,7 @@ https://futurestud.io/blog/picasso-getting-started-simple-loading/
 https://github.com/wasabeef/picasso-transformations
 https://nullpointer.wtf/android/image-loading-with-picasso/
 https://github.com/drose379/picturePerfect
+https://github.com/daimajia/AndroidImageSlider
 
 
 Effects
@@ -138,6 +139,10 @@ https://github.com/AppLozic/Applozic-Android-SDK
 https://github.com/tesseract-ocr/tesseract
 
 
+Image Slider
+https://github.com/daimajia/AndroidImageSlider
+
+
 Icons
 libs
 https://github.com/borax12/IconPackHelper
@@ -158,6 +163,7 @@ https://play.google.com/store/apps/details?id=xeus.iconic
 https://github.com/redwarp/9-Patch-Resizer
 https://plugins.jetbrains.com/plugin/7647?pr=
 https://www.iconfinder.com/
+https://materialdesignicons.com/
 
 http://joanzapata.com/android-iconify/
 https://icons8.com/
@@ -190,3 +196,7 @@ http://a-student.github.io/SvgToVectorDrawableConverter.Web/
 
 Resources
 https://www.reddit.com/user/naalty
+
+
+Icon designers
+https://www.reddit.com/r/androiddev/comments/4rv2jq/creating_icons_for_your_apps_for_fee/

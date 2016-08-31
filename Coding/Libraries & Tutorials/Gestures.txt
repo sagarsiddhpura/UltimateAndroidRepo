@@ -7,6 +7,7 @@ https://github.com/flschweiger/SwipeStack
 https://github.com/rubensousa/FloatingToolbar
 https://github.com/ovenbits/QuickActionView
 https://github.com/cooltechworks/ScratchView
+https://github.com/kritts/HandWave
 
 Swipe refresh listener
 https://github.com/aloj22/ListenerSwipeRefreshLayout

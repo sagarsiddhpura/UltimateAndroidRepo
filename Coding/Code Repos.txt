@@ -10,6 +10,7 @@ https://github.com/googlesamples/android-architecture
 https://github.com/android/platform_frameworks_support
 https://search-codelabs.appspot.com/
 https://github.com/MakinGiants/awesome-mobile-dev
+https://github.com/automattic
 
 AOSP code
 https://android.googlesource.com/?format=HTML
