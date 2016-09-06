@@ -105,9 +105,11 @@ Optimizely
 https://github.com/KeepSafe/Switchboard
 
 
-Deploying to multple devices
+Deploying to multple devices & device farms
 http://try.crashlytics.com/beta/
 http://hockeyapp.net/features/
+http://openstf.io/
+http://opendevicelab.com/
 
 
 Expresso

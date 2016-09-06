@@ -25,3 +25,8 @@ https://www.reddit.com/r/androiddev/comments/4evww5/what_to_do_when_your_google_
 
 Transfer playstore account
 https://support.google.com/googleplay/android-developer/answer/6230247?hl=en
+
+
+
+Tips & tricks
+https://www.reddit.com/r/androiddev/comments/4sovkx/psa_use_rich_text_format_in_your_play_store/

@@ -181,6 +181,9 @@ https://github.com/xiprox/WaniKani-for-Android
 http://free-software-for-android.github.io/AdAway/
 https://github.com/Automattic/simplenote-android
 https://github.com/asksven/BetterBatteryStats/tree/master/BetterBatteryStats
+https://github.com/intrications/intent-intercept
+https://github.com/gazlaws-dev/codeboard
+
 
 
 Image editing & Processing
@@ -228,6 +231,7 @@ https://github.com/miguelespinoza/react-goku
 https://bitbucket.org/SteveSmith16384/stellarforces
 https://github.com/sromku/memory-game
 https://github.com/grapecity/DebugRank
+https://github.com/drojokef/StressBall
 
 
 Audio

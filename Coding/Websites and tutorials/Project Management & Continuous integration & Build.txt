@@ -13,6 +13,7 @@ http://handstandsam.com/2016/04/23/using-the-android-emulator-for-continuous-int
 https://www.reddit.com/r/androiddev/comments/4iuvxk/any_good_project_management_tool/
 http://macoscope.com/blog/using-sonarqube-with-jenkins-continuous-integration-and-github-to-improve-code-review/#more
 
+https://wiki.jenkins-ci.org/display/JENKINS/Fabric+Beta+Publisher+Plugin
 https://www.buddybuild.com/
 http://jeremie-martinez.com//2016/04/19/gocd-android/
 

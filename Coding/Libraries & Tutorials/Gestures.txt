@@ -8,6 +8,7 @@ https://github.com/rubensousa/FloatingToolbar
 https://github.com/ovenbits/QuickActionView
 https://github.com/cooltechworks/ScratchView
 https://github.com/kritts/HandWave
+https://github.com/nisrulz/sensey
 
 Swipe refresh listener
 https://github.com/aloj22/ListenerSwipeRefreshLayout

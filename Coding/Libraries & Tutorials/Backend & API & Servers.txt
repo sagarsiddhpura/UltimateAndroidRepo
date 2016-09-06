@@ -22,6 +22,9 @@ https://xamoom.com/en/2016/03/develop-awesome-stuff-on-top-of-the-xamoom-platfor
 http://sparkjava.com/
 https://www.meteor.com/
 http://meteorpedia.com/read/DDP_Clients#Android
+https://www.scaleway.com/
+https://www.digitalocean.com/
+Vultr
 
 
 nice

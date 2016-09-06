@@ -51,3 +51,6 @@ https://medium.com/sebs-top-tips/use-custom-viewers-for-your-data-android-studio
 https://github.com/kgmyshin/eventbus-intellij-plugin
 
 http://tmorcinek.github.io/android-codegenerator-plugin-intellij/
+
+
+https://github.com/andyb129/AndroidStudioPluginsNPlay

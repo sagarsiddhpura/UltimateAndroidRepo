@@ -43,6 +43,8 @@ https://github.com/alexive/visual-goodies
 http://hannesdorfmann.com/android/from-prefabricated-house-to-lego-house
 https://github.com/kibotu/RecyclerViewPresenter
 https://github.com/ShamylZakariya/StickyHeaders
+https://github.com/NextFaze/power-adapters
+https://github.com/vkondrav/SwiftAdapter
 
 
 Expandabele RV
@@ -50,6 +52,7 @@ http://anandbose.github.io/android_recyclerview_expandablelistview.html
 https://github.com/anandbose/ExpandableListViewDemo
 https://github.com/bignerdranch/expandable-recycler-view
 https://bitbucket.org/d3m0li5h3r/expandinglayout
+https://github.com/vkondrav/SwiftAdapter
 
 
 Pagination

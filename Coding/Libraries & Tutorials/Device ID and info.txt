@@ -1,1 +1,2 @@
 https://github.com/danialgoodwin/identify-dev-device
+https://github.com/nisrulz/easydeviceinfo
