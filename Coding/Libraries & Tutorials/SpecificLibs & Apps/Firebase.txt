@@ -1,5 +1,6 @@
 https://chrome.google.com/webstore/detail/vulcan-by-firebase/oippbnlmebalopjbkemajgfbglcjhnbl?hl=en?utm_campaign=firebase_series_downloadvulcan_021616&utm_source=gdev&utm_medium=yt-desc
 https://github.com/amaboura/socialbase
+https://www.reddit.com/r/androiddev/comments/4upj1o/beware_of_the_new_firebase/
 
 https://github.com/firebase/FirebaseUI-Android/tree/master/codelabs/chat
 

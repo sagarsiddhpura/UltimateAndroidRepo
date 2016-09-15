@@ -6,5 +6,6 @@ https://github.com/onepf
 https://github.com/facebook/react-native
 http://romain.goyet.com/articles/running_swift_code_on_android/
 https://github.com/codenameone/CodenameOne
+https://software.intel.com/en-us/multi-os-engine
 
 https://www.reddit.com/r/androiddev/comments/4d7wel/good_tutorials_for_making_xamarin_cross_platform/

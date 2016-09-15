@@ -3,3 +3,4 @@ https://medium.com/a-package-a-day/day-2-android-accessibilityservice-b2473ad283
 https://www.novoda.com/blog/losing-focus/
 https://medium.com/roger-talk/android-app-accessibility-part-i-9c2f92384d74#.qel2hgxyc
 https://robots.thoughtbot.com/accessibility-testing-on-android
+http://www.deque.com/blog/android-analyzer-paving-app-accessibility/

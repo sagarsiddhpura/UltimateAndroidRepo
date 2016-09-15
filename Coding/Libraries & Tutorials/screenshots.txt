@@ -17,3 +17,6 @@ http://www.donnfelker.com/simplifying-internationalization-on-android/
 https://play.google.com/store/apps/details?id=de.toastcode.screener
 
 http://medyo.github.io/generate-awesome-playstore-screenshots-using-sketch
+
+
+https://www.reddit.com/user/avipars

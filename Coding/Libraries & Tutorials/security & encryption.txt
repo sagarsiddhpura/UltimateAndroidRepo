@@ -20,6 +20,7 @@ https://www.airpair.com/android/posts/adding-tampering-detection-to-your-android
 http://android-developers.blogspot.in/2016/05/improving-security-and-user-experience.html
 https://github.com/doridori/Android-Security-Reference/blob/master/providers/platform_security_providers.md
 http://devdeeds.com/create-sha1-key-using-android-studio/
+https://www.reddit.com/r/androiddev/comments/4ukhz4/android_piracy_sort_of/
 
 
 Encryption

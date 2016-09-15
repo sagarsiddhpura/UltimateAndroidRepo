@@ -183,7 +183,9 @@ https://github.com/Automattic/simplenote-android
 https://github.com/asksven/BetterBatteryStats/tree/master/BetterBatteryStats
 https://github.com/intrications/intent-intercept
 https://github.com/gazlaws-dev/codeboard
-
+https://github.com/hoihei/Silectric
+https://github.com/ObjectiveTruth/UoitDCLibraryBooking
+https://github.com/raatmarien/red-moon
 
 
 Image editing & Processing

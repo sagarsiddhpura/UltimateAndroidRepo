@@ -4,3 +4,4 @@ https://www.reddit.com/r/androiddev/comments/4d9zpi/reminder_to_clear_up_the_and
 https://medium.com/google-developers/faster-android-studio-builds-with-dex-in-process-5988ed8aa37e#.32u6w6rfp
 https://www.reddit.com/r/androiddev/comments/4l86rt/significant_build_time_issues_with_android_studio/
 https://www.reddit.com/r/androiddev/comments/4sph1s/upgraded_from_8gb_to_16gb_ram_on_my_work_laptop/
+https://www.reddit.com/r/androiddev/comments/4v21cp/enable_the_gradle_daemon_you_wont_regret_it/

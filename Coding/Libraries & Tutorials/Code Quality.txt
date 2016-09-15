@@ -4,3 +4,5 @@ https://github.com/square/java-code-styles
 https://www.bignerdranch.com/blog/continuous-linting/
 https://github.com/google/error-prone
 https://www.reddit.com/r/androiddev/comments/4ssaao/anybody_know_a_good_coding_style_document_for/
+https://github.com/vanniktech/gradle-code-quality-tools-plugin
+https://github.com/ChaitanyaPramod/findbugs-android

@@ -43,6 +43,9 @@ https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/
 https://github.com/DmitryMalkovich/circular-with-floating-action-button
 https://github.com/rubensousa/FloatingToolbar
 
+Articles
+http://blog.makingiants.com/fab-compat-margins/
+
 
 Grid Layout
 https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2#.8l4lgf8b8

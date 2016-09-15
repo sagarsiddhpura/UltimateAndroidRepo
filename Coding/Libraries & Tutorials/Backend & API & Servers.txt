@@ -25,7 +25,8 @@ http://meteorpedia.com/read/DDP_Clients#Android
 https://www.scaleway.com/
 https://www.digitalocean.com/
 Vultr
-
+https://www.netlify.com/
+https://hyperdev.com
 
 nice
 https://medium.com/glucosio-project/how-to-add-a-live-chat-to-your-android-app-for-free-in-10-minutes-dfe2253720ce#.5irkwcvsi

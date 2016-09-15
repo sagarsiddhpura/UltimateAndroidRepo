@@ -1,2 +1,6 @@
 https://github.com/square/duktape-android
 https://corner.squareup.com/2016/01/shared-app-functionality-via-javascript.html
+https://github.com/ImangazalievM/Scripto
+https://github.com/Wikia/ponto
+https://github.com/tcoulter/jockeyjs
+https://github.com/pengwei1024/JsBridge
