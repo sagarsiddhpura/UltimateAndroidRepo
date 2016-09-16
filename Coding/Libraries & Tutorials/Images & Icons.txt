@@ -24,6 +24,7 @@ https://github.com/avianey/android-smart-image-view
 https://github.com/MikeOrtiz/TouchImageView
 https://github.com/sephiroth74/ImageViewZoom
 https://codecrafted.net/svgtoandroid#usage
+http://sarafarnsworth.tumblr.com/page/8
 
 
 ImageGallery
@@ -35,6 +36,7 @@ https://github.com/wasabeef/picasso-transformations
 https://nullpointer.wtf/android/image-loading-with-picasso/
 https://github.com/drose379/picturePerfect
 https://github.com/daimajia/AndroidImageSlider
+https://github.com/huazhiyuan2008/RecyclerViewCardGallery
 
 
 Effects

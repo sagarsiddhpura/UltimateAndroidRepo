@@ -47,6 +47,10 @@ Articles
 http://blog.makingiants.com/fab-compat-margins/
 
 
+Like & Flag
+https://github.com/venshine/GoodView
+
+
 Grid Layout
 https://medium.com/google-developer-experts/android-grid-layout-1faf0df8d6f2#.8l4lgf8b8
 
@@ -249,6 +253,7 @@ https://github.com/jayrambhia/Tooltip
 https://github.com/cooltechworks/ScratchView
 https://github.com/elevenetc/DraggableView
 https://github.com/robinhood/ticker
+https://github.com/lufficc/StateLayout
 
 
 Date & Time

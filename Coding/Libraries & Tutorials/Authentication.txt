@@ -4,3 +4,4 @@ https://github.com/Unic8/retroauth
 https://github.com/Mauin/RxFingerprint
 https://www.reddit.com/r/androiddev/comments/4kjhrr/looking_for_the_best_phone_number_verification/
 Facebook Account Kit
+https://www.reddit.com/r/androiddev/comments/4vjyc6/has_anyone_used_oauthio/

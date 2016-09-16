@@ -13,6 +13,7 @@ https://github.com/jianghejie/XRecyclerView
 https://github.com/bignerdranch/expandable-recycler-view
 https://github.com/lopspower/HFRecyclerView
 https://github.com/CaMnter/EasyRecyclerViewSidebar
+https://github.com/iielse/RetailMeNotList
 
 https://github.com/jug6ernaut/DataBindingAdapter
 

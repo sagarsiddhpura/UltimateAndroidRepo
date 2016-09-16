@@ -66,6 +66,13 @@ https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914
 https://www.reddit.com/r/androiddev/comments/4rq8i7/how_can_i_become_a_free_lance_android_developer/
 https://github.com/booncol/Pulsator4Droid
 https://github.com/XunMengWinter/CircularAnim/blob/master/README-EN.md
+https://github.com/venshine/GoodView
+
+
+Rotate
+http://stackoverflow.com/questions/33625497/how-to-animate-a-view-around-a-circle
+http://stackoverflow.com/questions/14039265/how-to-rotate-a-drawable-by-objectanimator/29465710#29465710
+https://blog.stylingandroid.com/animatedvectordrawable-bundles/
 
 
 Edittext

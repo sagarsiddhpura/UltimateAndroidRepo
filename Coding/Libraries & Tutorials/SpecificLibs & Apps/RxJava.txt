@@ -52,6 +52,7 @@ https://realm.io/news/kau-felipe-lima-adopting-rxjava-airbnb-android/
 http://tomstechnicalblog.blogspot.in/2016/03/rxjava-problem-with-subjects.html
 https://medium.com/@p.tournaris/rxjava-one-observable-multiple-subscribers-7bf497646675#.bghv7fk2w
 https://speakerdeck.com/dlew/common-rxjava-mistakes
+https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.mmsbfojmu
 
 
 Libs
@@ -84,6 +85,7 @@ https://github.com/pakoito/RxSealedUnions
 https://gist.github.com/vinaybn92/584cf331bba2241bdf895f18a5f2b251 - Firebase
 https://github.com/FuckBoilerplate/RxSocialConnect-Android
 https://github.com/pakoito/RxMemoization
+https://github.com/VictorAlbertos/ReactiveCache
 
 
 Good

@@ -10,6 +10,7 @@ https://gist.github.com/konmik/6ac725fa7134402539c4
 http://antonioleiva.com/dependency-injection-android-dagger-part-1/
 https://github.com/patrykpoborca/CleanArchitecture/
 https://medium.com/@theMikhail/flavoring-your-dagger-14ab8bcef9f8
+https://medium.com/@isoron/a-friendly-introduction-to-dagger-2-part-1-dbdf2f3fb17b#.kzqzt3n00
 
 https://github.com/guiwro/StarWrobs
 https://github.com/JayNewstrom/AutoModule
