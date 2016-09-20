@@ -13,6 +13,7 @@ http://handstandsam.com/2016/04/23/using-the-android-emulator-for-continuous-int
 https://www.reddit.com/r/androiddev/comments/4iuvxk/any_good_project_management_tool/
 http://macoscope.com/blog/using-sonarqube-with-jenkins-continuous-integration-and-github-to-improve-code-review/#more
 https://medium.com/flow-ci/how-to-set-up-android-emulator-in-flow-ci-7c560315abe4#.uiy9ah75m
+https://www.novoda.com/blog/new-jenkins-pipelines/
 
 https://wiki.jenkins-ci.org/display/JENKINS/Fabric+Beta+Publisher+Plugin
 https://www.buddybuild.com/

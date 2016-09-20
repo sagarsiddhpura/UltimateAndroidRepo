@@ -15,6 +15,8 @@ https://docs.google.com/forms/d/1Og1u6wvSNy9JV54cub7j1pnQ3dBtycIUfGFW3SeHcgo/vie
 http://www.codingwithmitch.com/
 http://androidbookmarks.net/
 https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw
+https://www.reddit.com/r/androiddev/comments/4vx3rx/what_are_some_good_blogssites_etc_about_android/
+
 
 Java
 https://github.com/cxxr/better-java
@@ -36,3 +38,6 @@ https://www.reddit.com/r/androiddev/comments/4iw7v6/podcasts_for_android_develop
 
 Apps
 https://play.google.com/store/apps/details?id=com.google.android.apps.secrets
+
+Videos
+https://www.reddit.com/r/androiddev/comments/4wdtjk/best_android_talks/

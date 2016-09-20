@@ -24,6 +24,10 @@ https://github.com/facebook/redex/
 https://github.com/timmutton/redex-plugin
 
 
+SDK
+https://www.safedk.com/in_app_protection?utm_source=reddit&utm_medium=Link%20ad&utm_campaign=reddit_september_16_link_ads
+
+
 Optimize size
 https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html
 

@@ -8,6 +8,10 @@ https://www.reddit.com/r/androiddev/comments/3n3ram/i_made_a_web_based_tool_for_
 https://github.com/sdoward/Awesome-Screenshots
 https://github.com/chemouna/frame-gradle-plugin
 https://lambdasoup.com/post/automate_screenshots_1/
+https://www.reddit.com/r/androiddev/comments/4wffxm/device_scene_generator_generate_images_with_your/
+https://github.com/9and3r/device_scene_generator
+http://9and3r.github.io/device_scene_generator/device_scene_generator/device_scene_editor.html
+
 
 https://gist.github.com/Nilzor/78e9e4a4cd14268a7fe2
 https://gist.github.com/fiskurgit/32c6a729174fffe5abfc

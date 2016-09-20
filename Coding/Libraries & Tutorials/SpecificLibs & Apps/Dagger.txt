@@ -27,6 +27,7 @@ https://github.com/konmik/konmik.github.io/wiki/Snorkeling-with-Dagger-2
 https://medium.com/@patrykpoborca/dagger-2-and-base-classes-generics-and-presenter-injection-7d82053080c
 http://frogermcs.github.io/async-injection-in-dagger-2-with-rxjava/
 http://fedepaol.github.io/blog/2015/09/05/mocking-with-robolectric-and-dagger-2/
+https://code.tutsplus.com/tutorials/dependency-injection-with-dagger-2-on-android--cms-23345
 
 http://frogermcs.github.io/dagger2metrics-measure-performance-of-graph-initialization/
 

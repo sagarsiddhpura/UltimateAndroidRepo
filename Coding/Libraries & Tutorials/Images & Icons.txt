@@ -27,7 +27,7 @@ https://codecrafted.net/svgtoandroid#usage
 http://sarafarnsworth.tumblr.com/page/8
 
 
-ImageGallery
+Image Gallery
 https://github.com/lawloretienne/ImageGallery
 Picasso:
 http://square.github.io/picasso/
@@ -37,6 +37,10 @@ https://nullpointer.wtf/android/image-loading-with-picasso/
 https://github.com/drose379/picturePerfect
 https://github.com/daimajia/AndroidImageSlider
 https://github.com/huazhiyuan2008/RecyclerViewCardGallery
+
+
+Compress images
+https://gist.github.com/SandroMachado/9ee516bbd36768ca3844876c50cf4618
 
 
 Effects
@@ -146,6 +150,7 @@ https://github.com/daimajia/AndroidImageSlider
 
 
 Icons
+https://github.com/jahirfiquitiva/IconShowcase-Dashboard/
 libs
 https://github.com/borax12/IconPackHelper
 

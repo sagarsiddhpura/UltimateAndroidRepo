@@ -2,6 +2,8 @@ https://chrome.google.com/webstore/detail/vulcan-by-firebase/oippbnlmebalopjbkem
 https://github.com/amaboura/socialbase
 https://www.reddit.com/r/androiddev/comments/4upj1o/beware_of_the_new_firebase/
 
+https://engineering.fundingcircle.com/blog/2016/08/05/firebase-and-google-analytics/
+
 https://github.com/firebase/FirebaseUI-Android/tree/master/codelabs/chat
 
 Libs:

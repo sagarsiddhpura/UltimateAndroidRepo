@@ -69,6 +69,10 @@ https://github.com/XunMengWinter/CircularAnim/blob/master/README-EN.md
 https://github.com/venshine/GoodView
 
 
+Motion
+https://github.com/AurelienRibon/universal-tween-engine
+
+
 Rotate
 http://stackoverflow.com/questions/33625497/how-to-animate-a-view-around-a-circle
 http://stackoverflow.com/questions/14039265/how-to-rotate-a-drawable-by-objectanimator/29465710#29465710

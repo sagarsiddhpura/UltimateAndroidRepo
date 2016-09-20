@@ -5,3 +5,7 @@ http://www.yozio.com/
 https://developers.google.com/app-invites/
 http://jawnnypoo.github.io/deeperlinker/
 https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-and-android-mobile-deep-linking-f4348b265b49#.lfxo5xj5b
+
+Libs
+https://branch.io/
+https://www.reddit.com/r/androiddev/comments/4tst3r/app_sharing_library/

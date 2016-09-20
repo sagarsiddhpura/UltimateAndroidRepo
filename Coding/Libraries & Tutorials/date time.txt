@@ -1,3 +1,6 @@
 https://github.com/ocpsoft/prettytime/
 https://github.com/borax12/MaterialDateRangePicker
 https://github.com/konmik/dint
+https://github.com/armcha/DateHelper
+https://github.com/wdullaer/MaterialDateTimePicker
+https://github.com/code-troopers/android-betterpickers

@@ -187,6 +187,18 @@ https://github.com/hoihei/Silectric
 https://github.com/ObjectiveTruth/UoitDCLibraryBooking
 https://github.com/raatmarien/red-moon
 https://github.com/CRITRS/critrs-android
+https://github.com/jahirfiquitiva/IconShowcase-Dashboard/
+https://github.com/ccrama/Slide
+https://github.com/Kennyc1012/Opengur/
+https://github.com/malmstein/yahnac
+https://github.com/manmal/hn-android
+https://github.com/QuantumBadger/RedReader
+https://github.com/pardom/CleanNews
+https://github.com/hidroh/materialistic/tree/58
+https://github.com/PaulWoitaschek/MaterialAudiobookPlayer
+https://github.com/mvarnagiris/expensius
+https://github.com/tasks/tasks
+https://github.com/dconz13/Capstone-Project
 
 
 Image editing & Processing
@@ -235,6 +247,8 @@ https://bitbucket.org/SteveSmith16384/stellarforces
 https://github.com/sromku/memory-game
 https://github.com/grapecity/DebugRank
 https://github.com/drojokef/StressBall
+https://github.com/ItsSelina/tribbble
+https://github.com/jparkie/Aizoban
 
 
 Audio
@@ -278,7 +292,7 @@ https://github.com/hugokallstrom/MVVMSampleApplication
 https://github.com/patloew/countries
 https://github.com/kirisetsz/another-dagger2-android-example
 https://github.com/marcellogalhardo/Android-Code-Challenge
-
+https://github.com/googlesamples/android-architecture
 
 Libs RxJava
 https://bitbucket.org/prash2488/sharechannels-for-pushbullet/

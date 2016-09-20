@@ -164,6 +164,7 @@ https://www.ykode.com/2015/02/20/android-frp-rxjava-retrolambda.html
 http://www.jayrambhia.com/blog/rx-form-validations
 https://www.reddit.com/r/androiddev/comments/4tbd04/rx_defer_subscribe_until_another_observable_has/
 https://www.reddit.com/r/androiddev/comments/4tw23l/can_anyone_explain_rxjava_like_im_5/
+http://www.andevcon.com/news/crash-course-on-rxjava-with-thomas-nield-part-1
 
 
 Testing

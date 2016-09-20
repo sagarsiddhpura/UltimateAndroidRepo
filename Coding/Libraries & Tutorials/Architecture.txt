@@ -35,3 +35,4 @@ https://github.com/Karumi/Rosie
 
 Apps
 https://github.com/dmytrodanylyk/presenter-example
+https://www.reddit.com/r/androiddev/comments/4vzxi9/feedback_appreciated_sample_android_app_using_mvp/
