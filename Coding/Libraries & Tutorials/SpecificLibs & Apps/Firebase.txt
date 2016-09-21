@@ -8,3 +8,6 @@ https://github.com/firebase/FirebaseUI-Android/tree/master/codelabs/chat
 
 Libs:
 https://www.reddit.com/r/androiddev/comments/4kpnkj/ported_my_rxjava_firebase_wrapper_to_the_new/
+
+Remote Config
+https://medium.com/@sembozdemir/force-your-users-to-update-your-app-with-using-firebase-33f1e0bcec5a#.qt6tyjag0

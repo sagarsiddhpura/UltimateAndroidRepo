@@ -4,6 +4,7 @@ Google play analytics
 http://appfollow.io/
 Flurry
 https://mixpanel.com/
+http://blog.oursky.com/2016/03/29/guide-to-google-analytics-for-websites/
 
 Crash Reporting
 https://get.fabric.io/

@@ -53,7 +53,7 @@ https://github.com/florent37/KenBurnsView
 https://github.com/wasabeef/Blurry
 https://gist.github.com/davidwhitman/92d043f2f75fd392a1f3
 https://github.com/glomadrian/RoadRunner
-https://github.com/ArthurHub/Android-Image-Cropper
+https://github.com/ArthurHub/Android-Image-Cropperhttps://github.com/patrickfav/Dali
 
 
 SVG & Vector

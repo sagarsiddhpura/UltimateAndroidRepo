@@ -1,1 +1,2 @@
 http://riggaroo.co.za/using-git-flow-for-android-development/
+https://www.reddit.com/r/androiddev/comments/4wgiu8/eli5_how_to_use_git_in_android_studio/

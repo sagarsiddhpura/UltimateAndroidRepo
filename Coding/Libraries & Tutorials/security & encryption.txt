@@ -50,3 +50,4 @@ https://github.com/scottyab/rootbeer
 https://developer.android.com/training/safetynet/index.html
 https://github.com/doridori/Android-Security-Reference/blob/master/api/keystore.md
 https://github.com/javiersantos/PiracyChecker
+https://github.com/linkedin/qark

@@ -74,6 +74,8 @@ http://code.tutsplus.com/tutorials/debugging-android-apps-with-facebooks-stetho-
 https://github.com/romainguy/ViewServer
 https://blog.xmartlabs.com/2016/03/28/Debugging-an-Annotator-Processor-in-your-project/
 https://github.com/drakeet/CrashWoodpecker
+https://medium.com/@fornwall/android-debugging-over-wifi-a8200cb28369#.c6a6vaz8o
+https://f-droid.org/repository/browse/?fdid=com.matoski.adbm
 
 
 Log viewer

@@ -31,6 +31,8 @@ https://plugins.jetbrains.com/plugin/7086?pr=
 https://github.com/ciscorucinski/ChroMATERIAL
 
 https://plugins.jetbrains.com/plugin/7380?pr=idea
+
+ADB WIFI
 https://plugins.jetbrains.com/plugin/7856?pr=idea
 
 https://github.com/osamarao/AndroidPermissionsManager

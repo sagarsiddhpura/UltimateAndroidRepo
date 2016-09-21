@@ -2,3 +2,7 @@ https://github.com/robohorse/gpversionchecker
 https://github.com/eggheadgames/Siren
 https://github.com/javiersantos/AppUpdater
 https://github.com/btkelly/gandalf
+https://github.com/alexfu/Phoenix
+
+
+https://medium.com/@sembozdemir/force-your-users-to-update-your-app-with-using-firebase-33f1e0bcec5a#.qt6tyjag0

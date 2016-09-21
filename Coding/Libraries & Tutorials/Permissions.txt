@@ -10,6 +10,7 @@ https://github.com/tbruyelle/RxPermissions
 
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
 https://www.reddit.com/r/androiddev/comments/4hexf5/can_i_avoid_the_new_permission_model_in_android/
+https://www.reddit.com/r/androiddev/comments/4whcji/how_do_some_apps_get_the_draw_over_other_apps/
 
 Remove permissions from lib
 https://medium.com/glucosio-project/how-libraries-can-silently-add-permissions-to-your-android-app-620911d7de6c#.gd9xxmfum

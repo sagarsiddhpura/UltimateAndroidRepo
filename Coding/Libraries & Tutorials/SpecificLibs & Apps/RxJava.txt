@@ -86,6 +86,7 @@ https://gist.github.com/vinaybn92/584cf331bba2241bdf895f18a5f2b251 - Firebase
 https://github.com/FuckBoilerplate/RxSocialConnect-Android
 https://github.com/pakoito/RxMemoization
 https://github.com/VictorAlbertos/ReactiveCache
+https://github.com/apptik/rxHub
 
 
 Good

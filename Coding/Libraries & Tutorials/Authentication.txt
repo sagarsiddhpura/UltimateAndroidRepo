@@ -5,3 +5,8 @@ https://github.com/Mauin/RxFingerprint
 https://www.reddit.com/r/androiddev/comments/4kjhrr/looking_for_the_best_phone_number_verification/
 Facebook Account Kit
 https://www.reddit.com/r/androiddev/comments/4vjyc6/has_anyone_used_oauthio/
+
+OAuth
+https://codelabs.developers.google.com/codelabs/appauth-android-codelab/#0
+https://developers.google.com/api-client-library/java/google-oauth-java-client/
+
