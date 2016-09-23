@@ -78,6 +78,8 @@ outside of reddit, try every social media you are into and http://forum.xda-deve
 this might also help: https://www.reddit.com/r/gamedev/comments/3ibdxl/marketing_101_for_indie_mobile_game_developers/
 https://www.reddit.com/r/androiddev/comments/3zal2f/introduction_to_aso_first_part_of_my_little/
 https://docs.google.com/forms/d/1yL1NAB-IOTk3Xy_4Q_IpONn4K9IcQ3OpaHV3Ale-1Fk/viewform?c=0&w=1
+http://qgraph.io/blog/why-do-users-uninstall-apps/
+
 
 Reddit
 https://www.reddit.com/r/androiddev/comments/4eh5ut/what_is_my_experience_level_and_my_chances_of/

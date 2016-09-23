@@ -2,3 +2,4 @@ Barcode scannerhttps://github.com/dm77/barcodescanner - Refrence app:https://gi
 https://github.com/afollestad/material-camera
 https://github.com/saantiaguilera/android-api-camera
 https://github.com/JeroenMols/LandscapeVideoCamera
+https://github.com/nekocode/CameraFilter

@@ -1,10 +1,6 @@
 https://www.reddit.com/r/androiddev/comments/3h8rwr/other_than_here_and_so_are_theyre_any_other/
-#android-dev (IRC via irc.freenode.net)
-https://androidchat.slack.com/messages/@slackbot/
 https://www.reddit.com/r/androiddev/comments/3tcxkz/randroiddev_group_chat/
 https://www.reddit.com/r/BuildAnApp
-http://androidchat.co/
-https://androidchat.slack.com/
 https://www.reddit.com/r/gamedev
 https://discordapp.com/channels/85338836384628736/91848944711127040
 https://www.breakerapp.com/r/androiddev
@@ -18,3 +14,11 @@ https://plus.google.com/communities/116342551728637785407
 
 Useful links
 https://github.com/Vedenin/useful-java-links
+
+Chat
+http://androidchat.co/
+https://androidchat.slack.com/
+https://androidchat.slack.com/messages/@slackbot/
+http://android-united.community/
+#android-dev (IRC via irc.freenode.net)
+http://dottap.com/

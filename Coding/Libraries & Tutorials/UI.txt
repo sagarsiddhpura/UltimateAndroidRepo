@@ -14,7 +14,15 @@ https://sketchrepo.com/
 http://uimovement.com/
 https://medium.com/@usemuzli
 https://www.reddit.com/r/androiddev/comments/4so1pv/what_do_you_consider_the_top_3_most_beautiful_apps/
+https://medium.muz.li/ui-interactions-of-the-week-35-3981072bfcfb#.4ptli15nc
 
 Game
 http://gamesinspiration.com/
 http://gamesui.com/
+
+
+Demo apps
+https://play.google.com/store/apps/details?id=com.google.android.apps.primer&hl=en
+https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched&hl=en
+https://play.google.com/store/apps/details?id=com.rey.material.demo
+https://play.google.com/store/apps/details?id=com.sagar.materialdesigndemo

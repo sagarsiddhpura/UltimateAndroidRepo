@@ -98,6 +98,7 @@ https://github.com/uber-common/rave
 https://github.com/metova/Cappuccino
 https://github.com/VictorAlbertos/Mockery
 https://engineering.linkedin.com/blog/2016/08/introducing-and-open-sourcing-test-butler--reliable-android-test
+https://github.com/shazam/fork
 
 A/B testing
 http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/
