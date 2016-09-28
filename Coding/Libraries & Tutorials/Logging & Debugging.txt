@@ -67,6 +67,7 @@ https://github.com/plusCubed/matlog
 Sniff packets
 https://www.reddit.com/r/androiddev/comments/3m298v/is_there_any_way_to_monitor_incoming_and_outgoing/
 https://github.com/hexene/Loca_cm/
+https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture
 
 
 Debugging

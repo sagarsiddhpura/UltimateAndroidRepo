@@ -29,6 +29,7 @@ https://blog.stylingandroid.com/material-progressbar
 https://github.com/tasomaniac/DelayedProgress
 https://github.com/shivasurya/materialsteppers
 https://github.com/GIGAMOLE/ArcProgressStackView
+https://github.com/ishan1604/uberprogressview
 
 
 FAB
@@ -201,6 +202,7 @@ https://plus.google.com/+AndroidDevelopers/posts/C8oaLunpEEj
 Spinner
 http://stackoverflow.com/questions/32066277/how-do-i-set-a-different-theme-for-a-spinners-dropdown/32066279#32066279
 https://github.com/ai212983/android-spinnerwheel
+https://github.com/piotrek1543/CustomSpinner
 
 
 Webview

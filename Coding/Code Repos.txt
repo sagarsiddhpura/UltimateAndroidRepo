@@ -12,6 +12,8 @@ https://search-codelabs.appspot.com/
 https://github.com/MakinGiants/awesome-mobile-dev
 https://github.com/automattic
 
+https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md
+
 AOSP code
 https://android.googlesource.com/?format=HTML
 

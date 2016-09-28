@@ -37,6 +37,8 @@ https://medium.com/@fabioCollini/android-testing-using-dagger-2-mockito-and-a-cu
 http://smithdroid.blogspot.com/2015/11/whats-minimum-you-can-do-to-detect.html
 https://github.com/artem-zinnatullin/qualitymatters
 https://www.reddit.com/r/androiddev/comments/4ik9tf/has_anyone_successfully_tested_real_network/
+https://www.reddit.com/r/androiddev/comments/4xo7lh/what_do_i_unit_test_in_an_android_app/
+http://endran.nl/blog/mockito-vs-jmockit/
 
 
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
@@ -133,6 +135,8 @@ http://building.usebutton.com/testing/cloud/android/ci/2016/04/20/teamcity-googl
 
 Validation
 https://github.com/ragunathjawahar/android-saripaar
+https://github.com/alexfu/form-validator
+
 
 Performance testing
 https://www.code-labs.io/codelabs/android-perf-testing/index.html#0

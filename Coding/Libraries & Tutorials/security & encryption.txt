@@ -21,6 +21,7 @@ http://android-developers.blogspot.in/2016/05/improving-security-and-user-experi
 https://github.com/doridori/Android-Security-Reference/blob/master/providers/platform_security_providers.md
 http://devdeeds.com/create-sha1-key-using-android-studio/
 https://www.reddit.com/r/androiddev/comments/4ukhz4/android_piracy_sort_of/
+https://github.com/doridori/Android-Security-Reference/blob/master/vulns/checklist.md
 
 
 Encryption
@@ -50,4 +51,4 @@ https://github.com/scottyab/rootbeer
 https://developer.android.com/training/safetynet/index.html
 https://github.com/doridori/Android-Security-Reference/blob/master/api/keystore.md
 https://github.com/javiersantos/PiracyChecker
-https://github.com/linkedin/qark
+https://www.hashicorp.com/blog/vault.html

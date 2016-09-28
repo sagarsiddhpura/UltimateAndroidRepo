@@ -11,6 +11,8 @@ https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-networ
 http://jeroenmols.com/blog/2016/05/06/methodcount/
 http://blog.octo.com/en/identify-performance-issues-in-your-android-application/
 
+Inflate Layout async
+https://medium.com/@lupajz/asynchronous-layout-inflation-7cbca2653bf#.onjs1vzge
 
 Community
 https://plus.google.com/communities/116342551728637785407
@@ -38,3 +40,7 @@ https://www.reddit.com/r/androiddev/comments/4kmqde/how_to_improve_the_performan
 Network
 https://www.reddit.com/r/androiddev/comments/4evvhv/how_to_optimize_my_network_bandwidth_usage_for/
 https://www.reddit.com/r/androiddev/comments/4h13w7/google_data_compression_proxy/
+
+
+Gen Layout programatically
+https://github.com/FabianTerhorst/FastLayout

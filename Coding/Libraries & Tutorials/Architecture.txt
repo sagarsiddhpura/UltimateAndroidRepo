@@ -28,6 +28,7 @@ https://www.reddit.com/r/androiddev/comments/4efjqm/all_this_mvp_frenzy_is_just_
 http://blog.propaneapps.com/android/mvp-for-android/
 https://realm.io/news/gotocph-mattias-kappler-reactive-architecture-android/
 https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.amrzl6bfu
+https://mattdevelops.github.io/android/2016/08/13/androidmvp.html
 
 
 Libs

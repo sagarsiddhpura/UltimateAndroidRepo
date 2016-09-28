@@ -15,4 +15,8 @@ http://www.androidxu.com/2016/04/Android-Studio-installing-and-refrence.html
 https://medium.com/sebs-top-tips/use-tasks-to-bring-the-stories-to-you-android-studio-protip-5-7458380439d0#.vh0k21z0z
 https://www.reddit.com/r/androiddev/comments/4i54rj/is_there_a_way_to_improve_font_rendering_with_jdk/
 https://www.reddit.com/r/androiddev/comments/4v5ml2/the_hidden_productivity_guide_of_android_studio/
+https://www.reddit.com/r/androiddev/comments/4vhqck/whats_your_best_little_tip_or_trick/
 
+
+Build + testing
+https://medium.com/@samstone/run-tests-at-build-time-with-android-studio-9661159662ae#.8mkpawqwb

@@ -16,6 +16,8 @@ https://github.com/lopspower/HFRecyclerView
 https://github.com/CaMnter/EasyRecyclerViewSidebar
 https://github.com/iielse/RetailMeNotList
 https://github.com/defacto133/MultiLevelExpandableIndentableListView
+https://github.com/RobbeSneyders/UndoRecycler
+https://codentrick.com/load-more-recyclerview-bottom-progressbar/
 
 https://github.com/jug6ernaut/DataBindingAdapter
 
@@ -52,7 +54,9 @@ https://github.com/kibotu/RecyclerViewPresenter
 https://github.com/ShamylZakariya/StickyHeaders
 https://github.com/NextFaze/power-adapters
 https://github.com/vkondrav/SwiftAdapter
-
+https://github.com/davideas/FlexibleAdapter
+https://github.com/h6ah4i/android-advancedrecyclerview
+https://medium.com/@nullthemall/diffutil-is-a-must-797502bc1149#.r6uuf0gor
 
 Expandabele RV
 http://anandbose.github.io/android_recyclerview_expandablelistview.html
@@ -131,3 +135,7 @@ http://blog.sqisland.com/2014/12/recyclerview-grid-with-header.html
 
 Swipe
 https://github.com/alex-townsend/SwipeOpenItemTouchHelper
+
+
+Listview
+https://github.com/idunnololz/AnimatedExpandableListView

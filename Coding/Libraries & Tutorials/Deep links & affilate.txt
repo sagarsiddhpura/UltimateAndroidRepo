@@ -9,3 +9,4 @@ https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-
 Libs
 https://branch.io/
 https://www.reddit.com/r/androiddev/comments/4tst3r/app_sharing_library/
+https://firebase.google.com/docs/invites/

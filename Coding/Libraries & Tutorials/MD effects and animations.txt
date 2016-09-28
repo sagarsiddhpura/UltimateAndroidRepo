@@ -192,3 +192,7 @@ https://github.com/mwolfson/android-historian
 
 SVG
 https://github.com/bonnyfone/vectalign - Animations
+
+
+Shape animations
+https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/

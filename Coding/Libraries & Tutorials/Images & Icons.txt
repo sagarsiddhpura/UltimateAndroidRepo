@@ -61,6 +61,7 @@ https://github.com/glomadrian/RoadRunner
 http://vectormagic.com/home
 https://medium.com/@joelschmidt/android-paint-by-colour-419f69bda15c#.npqe43323
 https://github.com/bonnyfone/vectalign
+https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
 
 
 Have state drawable
@@ -116,6 +117,7 @@ Image Libs
 https://github.com/nuuneoi/AdjustableImageView
 https://github.com/trippedout/CloudVisionLib
 https://github.com/Microsoft/ProjectOxford-ClientSDK/tree/master/Vision/Android
+https://github.com/code-mc/material-icon-lib
 
 
 

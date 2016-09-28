@@ -1,4 +1,0 @@
-https://github.com/diogobernardino/WilliamChart
-https://github.com/thomsonreuters/TRCharts
-https://github.com/PhilJay/MPAndroidChart
-https://medium.com/robinhood-engineering/introducing-spark-dc17269b83f6#.10drul4e6

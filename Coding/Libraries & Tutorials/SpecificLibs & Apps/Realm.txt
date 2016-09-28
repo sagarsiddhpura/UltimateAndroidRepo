@@ -5,6 +5,8 @@ http://www.thedroidsonroids.com/blog/android/realm-database-example/
 https://nullpointer.wtf/android/using-retrofit-realm-parceler/
 https://medium.com/glucosio-project/example-class-to-export-import-a-realm-database-on-android-c429ade2b4ed#.ftb1x233t
 https://medium.com/glucosio-project/backup-restore-a-realm-database-on-google-drive-with-drive-api-c238515a5975#.2qapyb2ru
+https://medium.com/@Zhuinden/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149#.nrsrd9x8y
+https://www.reddit.com/r/androiddev/comments/4x9yf9/trying_to_use_realm_as_cache_but_running_into/
 
 App
 https://github.com/Kistamushken/PopularMovies

@@ -5,3 +5,4 @@ https://medium.com/google-developers/faster-android-studio-builds-with-dex-in-pr
 https://www.reddit.com/r/androiddev/comments/4l86rt/significant_build_time_issues_with_android_studio/
 https://www.reddit.com/r/androiddev/comments/4sph1s/upgraded_from_8gb_to_16gb_ram_on_my_work_laptop/
 https://www.reddit.com/r/androiddev/comments/4v21cp/enable_the_gradle_daemon_you_wont_regret_it/
+https://medium.com/@skaliakoudas/decreasing-build-times-by-decreasing-gradle-memory-requirements-7fcafc6d98ea#.mirj7ptmq

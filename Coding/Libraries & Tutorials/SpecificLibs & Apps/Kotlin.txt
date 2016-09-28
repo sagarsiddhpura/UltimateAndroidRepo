@@ -6,6 +6,7 @@ https://medium.com/@juanchosaravia/keddit-part-8-orientation-change-with-kotlin-
 https://medium.com/@juanchosaravia/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664#.7zskh4ruy
 http://antonioleiva.com/kotlin-ongloballayoutlistener/
 https://m.signalvnoise.com/some-of-my-favorite-kotlin-features-that-we-use-a-lot-in-basecamp-5ac9d6cea95#.ptdytxltk
+https://medium.com/keepsafe-engineering/lessons-from-converting-an-app-to-100-kotlin-68984a05dcb6#.icxeup3ps
 
 
 apps
@@ -24,6 +25,7 @@ https://github.com/deadpixelsociety/passport
 https://github.com/maannajjar/lattekit
 https://github.com/AngusMorton/kedux
 http://kovenant.komponents.nl/
+https://github.com/FabianTerhorst/Iron
 
 
 TEsting
