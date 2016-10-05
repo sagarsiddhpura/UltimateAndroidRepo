@@ -57,6 +57,7 @@ https://github.com/vkondrav/SwiftAdapter
 https://github.com/davideas/FlexibleAdapter
 https://github.com/h6ah4i/android-advancedrecyclerview
 https://medium.com/@nullthemall/diffutil-is-a-must-797502bc1149#.r6uuf0gor
+https://github.com/MikiLoz92/FancyAdapters
 
 Expandabele RV
 http://anandbose.github.io/android_recyclerview_expandablelistview.html

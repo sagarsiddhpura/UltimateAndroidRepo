@@ -20,3 +20,7 @@ https://www.reddit.com/r/androiddev/comments/4vhqck/whats_your_best_little_tip_o
 
 Build + testing
 https://medium.com/@samstone/run-tests-at-build-time-with-android-studio-9661159662ae#.8mkpawqwb
+
+
+Add custom flags
+https://www.reddit.com/r/androiddev/comments/4y54oa/custom_todolike_flags/

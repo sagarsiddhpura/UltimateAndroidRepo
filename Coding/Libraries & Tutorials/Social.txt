@@ -20,3 +20,4 @@ https://github.com/CloudRail/cloudrail-si-android-sdk/
 https://github.com/FuckBoilerplate/RxSocialConnect-Android
 
 https://github.com/Commit451/DriveAppFolderViewer
+https://github.com/Everseat/LyftAppCompatButton

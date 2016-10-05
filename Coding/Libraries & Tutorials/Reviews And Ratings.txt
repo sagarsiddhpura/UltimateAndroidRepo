@@ -16,3 +16,6 @@ http://appfollow.ru/
 http://userhook.com/
 http://www.apptentive.com/features/
 https://reviewbot.io/
+
+libs
+https://github.com/ligi/SnackEngage

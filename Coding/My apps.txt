@@ -45,6 +45,7 @@ TT Helper
 https://github.com/delight-im/Android-AdvancedWebView
 https://crosswalk-project.org/
 http://www.materialup.com/posts/material-design-motion-radial-transition
+http://www.xda-developers.com/xda-external-link/learn-how-to-create-a-countdown-timer-with-the-countdowntimer-java-class/
 
 
 Update notifier

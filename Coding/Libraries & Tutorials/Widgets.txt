@@ -163,6 +163,7 @@ https://github.com/IvBaranov/MaterialFavoriteButton
 https://medium.com/google-developers/choosing-a-button-style-with-purpose-and-intent-35a945e228d3#.4u6mfyt46
 https://github.com/GautamGupta/toolbar-button
 https://github.com/varunest/SparkButton
+https://github.com/Everseat/LyftAppCompatButton
 
 
 Navigation drawer
@@ -193,6 +194,7 @@ https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-view
 http://blog.grafixartist.com/parallax-scrolling-tabs-design-support-library/
 https://github.com/sacot41/SCViewPager
 https://github.com/DavidPacioianu/InkPageIndicator
+https://github.com/rubensousa/ViewPagerCards/
 
 
 Percentage Layout
@@ -256,11 +258,13 @@ https://github.com/cooltechworks/ScratchView
 https://github.com/elevenetc/DraggableView
 https://github.com/robinhood/ticker
 https://github.com/lufficc/StateLayout
+https://github.com/anastr/SpeedView
 
 
 Date & Time
 https://github.com/ai212983/android-spinnerwheel
 https://github.com/rosenpin/custom-analog-clock-view
+https://github.com/anastr/FlatTimeCollection
 
 
 Shapes
@@ -293,6 +297,8 @@ https://github.com/aurelhubert/ahbottomnavigation
 https://github.com/NikolaDespotoski/BottomNavigationLayout
 https://github.com/Ashok-Varma/BottomNavigation
 https://github.com/armcha/LuseenBottomNavigation
+like spaces app
+https://github.com/armcha/Space-Navigation-View
 
 
 Switch
@@ -337,3 +343,7 @@ https://github.com/hitherejoe/Constraints
 Cartwheel
 https://github.com/danylovolokh/LondonEyeLayoutManager
 https://github.com/anupcowkur/Android-Wheel-Menu
+
+
+Password Passcode
+https://github.com/Arjun-sna/android-passcodeview

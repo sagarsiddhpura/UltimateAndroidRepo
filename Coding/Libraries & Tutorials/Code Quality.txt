@@ -7,3 +7,4 @@ https://www.reddit.com/r/androiddev/comments/4ssaao/anybody_know_a_good_coding_s
 https://github.com/vanniktech/gradle-code-quality-tools-plugin
 https://github.com/ChaitanyaPramod/findbugs-android
 https://github.com/nshmura/strictmode-notifier
+https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md

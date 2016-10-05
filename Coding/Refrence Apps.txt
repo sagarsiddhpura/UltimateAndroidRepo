@@ -200,7 +200,10 @@ https://github.com/mvarnagiris/expensius
 https://github.com/tasks/tasks
 https://github.com/dconz13/Capstone-Project
 https://github.com/activetheory/Paper-Planes-Android-Experiment
-
+https://github.com/Microsoft/Loop-Sample-Trips-Android
+https://github.com/FabianTerhorst/LockScreenApp
+https://github.com/nickbutcher/AnimatorDurationTile
+https://github.com/sravan953/gopro
 
 
 Image editing & Processing

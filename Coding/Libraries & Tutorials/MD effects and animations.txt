@@ -69,6 +69,10 @@ https://github.com/XunMengWinter/CircularAnim/blob/master/README-EN.md
 https://github.com/venshine/GoodView
 
 
+Matrix effect
+http://forum.xda-developers.com/android/software/tutorial-learn-to-create-matrix-effect-t3469031
+
+
 Motion
 https://github.com/AurelienRibon/universal-tween-engine
 
@@ -174,6 +178,7 @@ https://github.com/flavienlaurent/poppyview
 https://www.reddit.com/r/androiddev/comments/3odsdq/shared_element_transition_picasso_after_oncreate/
 https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.3zkw9jjg1
 http://www.androiddesignpatterns.com/2014/12/activity-fragment-transitions-in-android-lollipop-part1.html
+https://www.reddit.com/r/learnandroid/comments/55yd4n/create_an_animated_clock_with_vector_drawables_on/
 
 
 Animations L+

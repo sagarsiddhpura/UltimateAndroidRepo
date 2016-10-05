@@ -15,3 +15,5 @@ https://www.reddit.com/r/androiddev/comments/4whcji/how_do_some_apps_get_the_dra
 
 Remove permissions from lib
 https://medium.com/glucosio-project/how-libraries-can-silently-add-permissions-to-your-android-app-620911d7de6c#.gd9xxmfum
+
+http://stackoverflow.com/questions/24858462/how-to-check-if-android-permission-is-actually-being-used
