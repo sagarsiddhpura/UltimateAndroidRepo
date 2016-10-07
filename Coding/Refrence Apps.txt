@@ -204,6 +204,10 @@ https://github.com/Microsoft/Loop-Sample-Trips-Android
 https://github.com/FabianTerhorst/LockScreenApp
 https://github.com/nickbutcher/AnimatorDurationTile
 https://github.com/sravan953/gopro
+https://github.com/maxwellnewage/stackoverflow-viewer
+https://gitlab.com/Commit451/LabCoat
+https://github.com/LateNightProductions/CardKeeper
+
 
 
 Image editing & Processing

@@ -10,6 +10,7 @@ http://andriydruk.github.io/post/rtools/
 http://www.onyxbits.de/raccoon
 http://www.methodscount.com/
 http://blog.onyxbits.de/a-local-pushbullet-replacement-160/
+http://htmlpreview.github.io/?https://github.com/cesarferreira/android-latest/blob/master/generated/index.html
 
 https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhnkjbjoldkfhoin?hl=en
 

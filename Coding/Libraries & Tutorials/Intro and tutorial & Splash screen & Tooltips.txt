@@ -1,4 +1,5 @@
 https://github.com/PaoloRotolo/AppIntro
+
 https://github.com/worker8/TourGuide
 https://www.reddit.com/r/androiddev/comments/38nu7x/how_can_i_make_this_onboarding_animation/
 https://www.reddit.com/r/androiddev/comments/3mzhes/youtube_android_app_focus_overlay/
@@ -30,3 +31,6 @@ https://www.reddit.com/r/androiddev/comments/3pzy2u/how_do_i_implement_a_splash_
 https://www.useronboard.com/onboarding-teardowns/
 
 https://github.com/medyo/android-about-page
+
+Highlight views
+https://github.com/anastr/SimpleTargetView

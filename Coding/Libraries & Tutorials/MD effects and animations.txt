@@ -67,6 +67,7 @@ https://www.reddit.com/r/androiddev/comments/4rq8i7/how_can_i_become_a_free_lanc
 https://github.com/booncol/Pulsator4Droid
 https://github.com/XunMengWinter/CircularAnim/blob/master/README-EN.md
 https://github.com/venshine/GoodView
+https://github.com/jinatonic/confetti
 
 
 Matrix effect

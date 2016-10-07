@@ -21,5 +21,10 @@ https://github.com/carlospaulino/parrot
 
 https://www.reddit.com/r/androiddev/comments/4fy672/anybody_interested_in_translating_their_app_to/
 
+getlocalization
+crowdin
+webtranslateit lokalise 
+
+
 Test
 https://gist.github.com/davidwhitman/1ec946faeebd73924fe5855217fc8697

@@ -17,6 +17,7 @@ https://github.com/premnirmal/StockTicker
 https://github.com/krugloid/todo-jedux
 https://github.com/fvasco/pinpoi
 https://github.com/ImangazalievM/Notelin
+https://github.com/beyondeye/Reduks
 
 https://www.reddit.com/r/androiddev/comments/4414k2/painless_database_libraries_with_kotlin_rx_support/
 

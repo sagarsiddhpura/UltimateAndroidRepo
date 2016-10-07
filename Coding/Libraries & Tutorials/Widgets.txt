@@ -16,7 +16,7 @@ StickyBar
 http://mindbowser.com/blog/implementing-stickybar-in-android/
 
 
-Progres bar
+Progress bar
 https://github.com/Todd-Davies/ProgressWheel
 https://github.com/rahatarmanahmed/CircularProgressView
 https://github.com/pnikosis/materialish-progress
@@ -30,6 +30,7 @@ https://github.com/tasomaniac/DelayedProgress
 https://github.com/shivasurya/materialsteppers
 https://github.com/GIGAMOLE/ArcProgressStackView
 https://github.com/ishan1604/uberprogressview
+https://github.com/andyb129/ChompProgressView
 
 
 FAB
@@ -111,6 +112,7 @@ Tablayout with badge
 https://gist.github.com/eneim/55df01e092520a6d33a4
 https://github.com/DavidPacioianu/InkPageIndicator
 https://github.com/DevLight-Mobile-Agency/NavigationTabBar
+https://github.com/DevLight-Mobile-Agency/NavigationTabStrip
 
 
 Wizard pager

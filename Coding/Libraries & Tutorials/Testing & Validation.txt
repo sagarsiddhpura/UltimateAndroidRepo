@@ -41,6 +41,10 @@ https://www.reddit.com/r/androiddev/comments/4xo7lh/what_do_i_unit_test_in_an_an
 http://endran.nl/blog/mockito-vs-jmockit/
 
 
+UI
+http://slideslive.com/38897360/a-practical-guide-to-writing-solid-ui-tests-on-android-en
+
+
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
 
 

@@ -34,6 +34,7 @@ https://mattdevelops.github.io/android/2016/08/13/androidmvp.html
 Libs
 https://github.com/Karumi/Rosie
 https://www.reddit.com/r/androiddev/comments/4wyfq5/my_own_lightweight_library_for_easy_mvp/
+https://github.com/kidinov/Ads-Mvp-Templates
 
 Apps
 https://github.com/dmytrodanylyk/presenter-example
