@@ -19,6 +19,7 @@ http://droid-blog.net/2016/05/31/1000-challenge-paper-prototype/
 https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83#.ilmoxi54f
 http://docs.back4app.com/docs/new-parse-app/how-to-build-a-pokemon-go-app/
 https://stories.uplabs.com/this-material-design-app-will-make-you-want-to-study-physics-again-8081008b8236#.z8dby4r7m
+https://alty.software/blog/how-to-develop-an-app-like-uber-tips-from-taxi-app-developers/
 
 http://pttrns.com/?did=6&page=2
 https://plus.google.com/+LiamSpradlin/posts/jVzRHAq3Vno

@@ -1,0 +1,3 @@
+https://github.com/Actinarium/Aligned
+https://github.com/Actinarium/Rhythm
+https://medium.com/@lucasurbas/making-android-toolbar-responsive-2627d4e07129#.uthngjky2

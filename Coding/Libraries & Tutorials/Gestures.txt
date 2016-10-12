@@ -20,3 +20,6 @@ https://github.com/Bhav97/SwipeAction/
 
 Tutorials
 http://flavienlaurent.com/blog/2013/08/28/each-navigation-drawer-hides-a-viewdraghelper/
+
+Scrolling
+https://github.com/noties/ScrollingBackgroundView

@@ -19,3 +19,4 @@ https://reviewbot.io/
 
 libs
 https://github.com/ligi/SnackEngage
+http://hotchemi.github.io/Android-Rate/

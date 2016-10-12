@@ -55,6 +55,7 @@ https://speakerdeck.com/dlew/common-rxjava-mistakes
 https://medium.com/fuzz/howdy-rxjava-8f40fef88181#.mmsbfojmu
 https://medium.com/@ragdroid/rxify-a-simple-spell-for-complex-rxjava-operators-part-1-4c31921583c4#.mqjfrge5d
 https://medium.com/@sebaslogen/rxjava-recipe-convert-any-android-event-into-a-stream-c614ca686db0#.akve5u9eg
+https://medium.com/yammer-engineering/converting-callback-async-calls-to-rxjava-ebc68bde5831#.dxrwg7ogf
 
 
 Libs

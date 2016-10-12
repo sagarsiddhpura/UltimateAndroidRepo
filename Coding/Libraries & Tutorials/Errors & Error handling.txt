@@ -1,3 +1,5 @@
 https://www.reddit.com/r/androiddev/comments/4fp62n/any_else_seen_this_cant_install_app_error_code/
 https://medium.com/@joakimforslund/install-parse-failed-no-certificates-on-an-already-existing-google-play-app-with-keystore-and-e1e66159579b#.tb6o1fgdq
 http://anthony-skr.com/article/how-to-resolve-unsatisfiedlinkerror-exception
+
+https://github.com/Workable/java-error-handler

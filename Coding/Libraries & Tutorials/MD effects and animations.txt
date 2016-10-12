@@ -8,6 +8,7 @@ https://github.com/rey5137/material
 https://github.com/ZieIony/Carbon
 https://github.com/alexive/visual-goodies
 https://github.com/andkulikov/transitions-everywhere
+https://github.com/noties/ScrollingBackgroundView
 
 
 Animations
@@ -68,6 +69,7 @@ https://github.com/booncol/Pulsator4Droid
 https://github.com/XunMengWinter/CircularAnim/blob/master/README-EN.md
 https://github.com/venshine/GoodView
 https://github.com/jinatonic/confetti
+https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e#.cit2nzusi
 
 
 Matrix effect

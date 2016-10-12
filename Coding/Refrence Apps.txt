@@ -7,6 +7,7 @@ https://www.openhub.net/p?ref=explore_project&query=android
 https://www.androidexperiments.com/?tag=
 https://github.com/Freelander/Android_Data
 https://plus.google.com/u/0/communities/100609058582053363304
+https://github.com/pcqpcq/open-source-android-apps
 
 https://github.com/geecko86/QuickLyric
 https://github.com/C-Aniruddh/ACEMusicPlayer
@@ -207,6 +208,7 @@ https://github.com/sravan953/gopro
 https://github.com/maxwellnewage/stackoverflow-viewer
 https://gitlab.com/Commit451/LabCoat
 https://github.com/LateNightProductions/CardKeeper
+https://github.com/applidium/CandyCrushSolver
 
 
 

@@ -98,6 +98,8 @@ https://github.com/chathudan/KitKatEmoji
 https://github.com/gilvegliach/TransparentTextTextView
 https://github.com/grantland/android-autofittextview
 https://github.com/athkalia/EmphasisTextView
+https://github.com/Commit451/BaselineGridTextView
+https://github.com/Actinarium/Aligned
 
 
 
@@ -142,6 +144,7 @@ https://github.com/vitovalov/TabbedCoordinatorLayout
 https://medium.com/@nullthemall/overscroll-appbarlayout-behavior-e58f1ee2807#.ifc8pke2i
 http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435
 https://github.com/rubensousa/FloatingToolbar
+https://medium.com/@lucasurbas/making-android-toolbar-responsive-2627d4e07129#.uthngjky2
 
 
 Calendar Widget
@@ -177,11 +180,12 @@ https://github.com/mikepenz/MaterialDrawer
 https://github.com/mikeyxkcd/GuillotineMenu
 
 
-Dialog
+Dialog, Popups, warnings
 https://github.com/pedant/sweet-alert-dialog
 https://github.com/afollestad/material-dialogs
 https://www.reddit.com/r/androiddev/comments/40fibd/best_way_to_make_a_dialogfragment_transparent/
 https://github.com/javiersantos/MaterialStyledDialogs
+https://github.com/Brudigem/DropDownWarning
 
 
 Statusbar
@@ -261,6 +265,7 @@ https://github.com/elevenetc/DraggableView
 https://github.com/robinhood/ticker
 https://github.com/lufficc/StateLayout
 https://github.com/anastr/SpeedView
+https://github.com/noties/ScrollingBackgroundView
 
 
 Date & Time

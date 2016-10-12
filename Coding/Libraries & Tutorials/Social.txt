@@ -18,6 +18,7 @@ https://www.reddit.com/r/androiddev/comments/4gfcmw/question_any_one_tried_faceb
 https://github.com/francescocervone/RxDrive
 https://github.com/CloudRail/cloudrail-si-android-sdk/
 https://github.com/FuckBoilerplate/RxSocialConnect-Android
+https://github.com/MiteshSharma/AndroidLoginHelper
 
 https://github.com/Commit451/DriveAppFolderViewer
-https://github.com/Everseat/LyftAppCompatButton
+https://github.com/Everseat/LyftAppCompatButper

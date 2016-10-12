@@ -4,3 +4,5 @@ https://www.novoda.com/blog/losing-focus/
 https://medium.com/roger-talk/android-app-accessibility-part-i-9c2f92384d74#.qel2hgxyc
 https://robots.thoughtbot.com/accessibility-testing-on-android
 http://www.deque.com/blog/android-analyzer-paving-app-accessibility/
+https://applidium.com/en/news/candy_crush_solver/
+https://www.reddit.com/r/androiddev/comments/51abve/how_could_i_go_about_creating_a_ui_for_blind/

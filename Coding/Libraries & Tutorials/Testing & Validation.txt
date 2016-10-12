@@ -112,6 +112,7 @@ https://github.com/seatgeek/sixpack-java
 https://github.com/s0h4m/toggle
 Optimizely
 https://github.com/KeepSafe/Switchboard
+https://github.com/imperial-crystalline-recursion/abtestgen
 
 
 Deploying to multple devices & device farms

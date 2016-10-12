@@ -13,3 +13,12 @@ http://sj.qq.com/myapp/
 miui store
 http://android.myapp.com
 https://www.appzeeny.com/
+http://app.baidu.com/
+http://dev.xiaomi.com/en
+http://open.qq.com/eng/
+http://www.getjar.com/
+http://slideme.org/
+http://www.aptoide.com/
+
+
+https://www.smashingmagazine.com/2016/08/five-rules-app-localization-china-money-dating-app-store/

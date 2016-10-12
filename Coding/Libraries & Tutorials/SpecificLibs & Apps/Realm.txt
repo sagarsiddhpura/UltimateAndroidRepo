@@ -7,6 +7,7 @@ https://medium.com/glucosio-project/example-class-to-export-import-a-realm-datab
 https://medium.com/glucosio-project/backup-restore-a-realm-database-on-google-drive-with-drive-api-c238515a5975#.2qapyb2ru
 https://medium.com/@Zhuinden/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149#.nrsrd9x8y
 https://www.reddit.com/r/androiddev/comments/4x9yf9/trying_to_use_realm_as_cache_but_running_into/
+https://medium.com/@Zhuinden/basics-of-realm-a-guide-to-using-realm-1-2-0-634471c0fe8f#.kgem12aq4
 
 App
 https://github.com/Kistamushken/PopularMovies

@@ -4,3 +4,5 @@ https://medium.com/@KieronQuinn/quick-settings-in-android-n-ea8ad8ce2eea#.c7s1qk
 http://android-developers.blogspot.in/2016/05/designing-for-multi-window.html
 https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3#.6odxfl252
 http://www.xda-developers.com/everything-devs-need-to-know-about-multiwindow-in-android-n-code-examples/
+https://commonsware.com/blog/2016/08/31/granting-permissions-uri-intent-extra.html
+https://www.bignerdranch.com/blog/android-activity-lifecycle-onStop/
