@@ -20,3 +20,5 @@ https://reviewbot.io/
 libs
 https://github.com/ligi/SnackEngage
 http://hotchemi.github.io/Android-Rate/
+https://github.com/hotchemi/Android-Rate
+https://github.com/FlyingPumba/SimpleRatingBar

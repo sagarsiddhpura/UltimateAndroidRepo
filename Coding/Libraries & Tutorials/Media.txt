@@ -14,6 +14,8 @@ Video Chat
 https://developers.oovoo.com/
 https://www.reddit.com/r/androiddev/comments/46hbuz/how_to_filter_a_video_frame_by_frame/
 https://github.com/eneim/FloppyVideoView
+https://github.com/danylovolokh/VideoPlayerManager
+https://github.com/afollestad/easy-video-player
 
 Streaming
 https://www.oddnetworks.com/
@@ -26,6 +28,7 @@ https://github.com/NathanielWaggoner/AndroidAudioExamples
 https://github.com/lubecjac/Q
 https://github.com/birdcage/soundcloud-web-api-android
 https://www.reddit.com/r/androiddev/comments/3pg9yb/need_help_with_media_player/
+https://github.com/Piasy/RxAndroidAudio
 http://www.newventuresoftware.com/blog/record-play-and-visualize-raw-audio-data-in-android/
 http://superpowered.com/android-marshmallow-latency
 https://googlesamples.github.io/android-audio-high-performance/

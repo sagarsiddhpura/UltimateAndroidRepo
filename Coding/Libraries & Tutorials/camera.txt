@@ -3,3 +3,4 @@ https://github.com/afollestad/material-camera
 https://github.com/saantiaguilera/android-api-camera
 https://github.com/JeroenMols/LandscapeVideoCamera
 https://github.com/nekocode/CameraFilter
+https://github.com/google/cameraview

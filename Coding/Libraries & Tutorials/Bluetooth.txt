@@ -5,6 +5,7 @@ http://blog.beaconstac.com/2016/02/5-tips-on-building-a-successful-beacon-app/
 http://polidea.github.io/RxAndroidBle/
 
 
+https://github.com/Polidea/RxAndroidBle
 https://github.com/Glamdring/epassport-reader
-
+https://github.com/akexorcist/Android-BluetoothSPPLibrary
 https://github.com/stanleyguevara/beaconradar

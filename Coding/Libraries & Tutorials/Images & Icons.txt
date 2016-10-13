@@ -11,8 +11,16 @@ https://romannurik.github.io/AndroidAssetStudio/
 https://github.com/Pkmmte/CircularImageView
 
 
+GIF
+https://github.com/Cutta/GifView
+https://github.com/koral--/android-gif-drawable
+
+
 Tutorials
 https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide
+
+Imageviews
+https://github.com/andremion/Music-Cover-View
 
 
 Image loading

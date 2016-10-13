@@ -20,6 +20,8 @@ https://github.com/RobbeSneyders/UndoRecycler
 https://codentrick.com/load-more-recyclerview-bottom-progressbar/
 https://github.com/airbnb/epoxy
 
+https://github.com/mrmike/DiffUtil-sample
+
 https://github.com/jug6ernaut/DataBindingAdapter
 
 
@@ -108,6 +110,7 @@ Animations
 http://antonioleiva.com/layout-animations-on-recyclerview/
 http://frogermcs.github.io/recyclerview-animations-androiddevsummit-write-up/
 https://github.com/nhaarman/ListViewAnimations
+https://github.com/wasabeef/recyclerview-animators
 
 
 With database

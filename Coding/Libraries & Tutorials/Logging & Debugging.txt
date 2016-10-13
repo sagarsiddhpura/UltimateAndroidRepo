@@ -7,6 +7,7 @@ https://github.com/mrmike/Ok2Curl
 https://github.com/plusCubed/matlog
 https://github.com/jasonwyatt/Android-DebugPort
 https://github.com/nshmura/strictmode-notifier
+https://github.com/nisrulz/ShoutOut
 
 Debugging colors
 https://gist.github.com/dlew/a2e2f247c78495eca4e6

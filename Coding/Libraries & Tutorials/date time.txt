@@ -4,3 +4,6 @@ https://github.com/konmik/dint
 https://github.com/armcha/DateHelper
 https://github.com/wdullaer/MaterialDateTimePicker
 https://github.com/code-troopers/android-betterpickers
+https://github.com/square/android-times-square
+https://github.com/prolificinteractive/material-calendarview
+https://tech.instacart.com/truetime/

@@ -1,6 +1,7 @@
 Material Widgets
 http://www.materialdoc.com/components/
 https://github.com/alexive/visual-goodies
+https://github.com/navasmdc/MaterialDesignLibrary
 
 
 Material lib
@@ -82,12 +83,15 @@ https://github.com/alphamu/AnimatedEditText
 https://github.com/maksim88/PasswordEditText
 https://github.com/AzimoLabs/MaskFormatter
 https://github.com/lisawray/passwordview
+https://github.com/tasomaniac/EmailAutoCompleteTextView
+https://github.com/DomainGroupOSS/accounts-autocomplete
 
 http://antonioleiva.com/textview_power_drawables/
 
 http://matthewwear.ghost.io/for-posterity-how-to-render-html-in-a-text-view-and-handle-link-clicks/
 http://blog.danlew.net/2015/10/12/beware-edittext-on-api-21/
 http://blog.rowburst.com/229/change-edittext-line-color-with-animation/
+https://engineering.apolloagriculture.com/android-finite-autocomplete.html
 
 
 TextView
@@ -124,6 +128,11 @@ https://github.com/Pixplicity/MultiViewPager
 https://github.com/DavidPacioianu/InkPageIndicator
 https://github.com/chenupt/SpringIndicator
 https://github.com/PaoloRotolo/AppIntro
+
+
+
+Draw
+https://github.com/PaNaVTEC/DrawableView/
 
 
 Card
@@ -169,6 +178,7 @@ https://medium.com/google-developers/choosing-a-button-style-with-purpose-and-in
 https://github.com/GautamGupta/toolbar-button
 https://github.com/varunest/SparkButton
 https://github.com/Everseat/LyftAppCompatButton
+https://github.com/dmytrodanylyk/android-morphing-button
 
 
 Navigation drawer
@@ -178,6 +188,8 @@ https://github.com/jfeinstein10/SlidingMenu
 https://www.reddit.com/r/androiddev/comments/3kdkct/quick_tip_preview_your_drawerlayout_drawer_in_the/
 https://github.com/mikepenz/MaterialDrawer
 https://github.com/mikeyxkcd/GuillotineMenu
+https://github.com/Yalantis/Side-Menu.Android
+https://github.com/mzule/FantasySlide
 
 
 Dialog, Popups, warnings
@@ -201,6 +213,7 @@ http://blog.grafixartist.com/parallax-scrolling-tabs-design-support-library/
 https://github.com/sacot41/SCViewPager
 https://github.com/DavidPacioianu/InkPageIndicator
 https://github.com/rubensousa/ViewPagerCards/
+http://www.jayrambhia.com/blog/android-viewpager-cards-1
 
 
 Percentage Layout
@@ -266,6 +279,7 @@ https://github.com/robinhood/ticker
 https://github.com/lufficc/StateLayout
 https://github.com/anastr/SpeedView
 https://github.com/noties/ScrollingBackgroundView
+https://github.com/andremion/Music-Cover-View
 
 
 Date & Time
@@ -354,3 +368,11 @@ https://github.com/anupcowkur/Android-Wheel-Menu
 
 Password Passcode
 https://github.com/Arjun-sna/android-passcodeview
+
+
+Stepper
+https://github.com/ernestoyaquello/vertical-stepper-form
+
+
+Rating
+https://github.com/FlyingPumba/SimpleRatingBar

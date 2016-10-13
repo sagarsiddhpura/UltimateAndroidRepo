@@ -1,1 +1,2 @@
 https://github.com/hzsweers/ArraySetBackport
+https://www.eclipse.org/collections/

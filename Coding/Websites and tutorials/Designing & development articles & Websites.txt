@@ -20,6 +20,7 @@ https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-1
 http://docs.back4app.com/docs/new-parse-app/how-to-build-a-pokemon-go-app/
 https://stories.uplabs.com/this-material-design-app-will-make-you-want-to-study-physics-again-8081008b8236#.z8dby4r7m
 https://alty.software/blog/how-to-develop-an-app-like-uber-tips-from-taxi-app-developers/
+http://www.androidauthority.com/how-to-create-an-sms-app-721438/
 
 http://pttrns.com/?did=6&page=2
 https://plus.google.com/+LiamSpradlin/posts/jVzRHAq3Vno
