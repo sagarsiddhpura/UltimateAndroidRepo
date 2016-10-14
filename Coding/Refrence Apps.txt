@@ -209,6 +209,7 @@ https://github.com/maxwellnewage/stackoverflow-viewer
 https://gitlab.com/Commit451/LabCoat
 https://github.com/LateNightProductions/CardKeeper
 https://github.com/applidium/CandyCrushSolver
+https://github.com/langsmith/ChildChip
 
 
 

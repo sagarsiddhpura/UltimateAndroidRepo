@@ -1,3 +1,4 @@
 https://www.reddit.com/r/androiddev/comments/40v5w0/does_anyone_have_an_experience_with_pdfium_to/
 http://www.ssaurel.com/blog/learn-to-generate-pdf-documents-for-your-android-application/
 https://pspdfkit.com/blog/2016/how-to-build-a-screenreader/
+https://www.reddit.com/r/androiddev/comments/52pd85/filling_pdf_form_interactively/

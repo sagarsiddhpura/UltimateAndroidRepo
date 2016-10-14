@@ -20,3 +20,4 @@ https://realm.io/news/emanuele-zattin-developing-android-libraries/
 http://blog.bradcampbell.nz/group-example-projects-together-with-gradle-libraries/
 http://medyo.github.io/how-to-set-up-a-private-maven-repository-for-free
 http://www.survivingwithandroid.com/2016/01/6-steps-to-develop-and-publish-android.html
+https://stfalcon.com/en/blog/post/create-and-publish-your-Android-library

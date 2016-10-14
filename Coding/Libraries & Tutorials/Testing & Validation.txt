@@ -39,6 +39,7 @@ https://github.com/artem-zinnatullin/qualitymatters
 https://www.reddit.com/r/androiddev/comments/4ik9tf/has_anyone_successfully_tested_real_network/
 https://www.reddit.com/r/androiddev/comments/4xo7lh/what_do_i_unit_test_in_an_android_app/
 http://endran.nl/blog/mockito-vs-jmockit/
+http://verybadalloc.com/android/adding-unit-tests-to-MVP-project.html
 
 
 UI

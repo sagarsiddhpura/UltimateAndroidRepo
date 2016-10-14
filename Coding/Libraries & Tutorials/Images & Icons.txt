@@ -7,6 +7,7 @@ https://codecrafted.net/svgtoandroid#usage
 https://github.com/patrickfav/density-converter
 http://inloop.github.io/shadow4android/
 https://romannurik.github.io/AndroidAssetStudio/
+https://android-material-icon-generator.bitdroid.de/
 
 https://github.com/Pkmmte/CircularImageView
 

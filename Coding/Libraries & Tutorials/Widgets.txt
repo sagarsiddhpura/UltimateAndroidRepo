@@ -190,6 +190,7 @@ https://github.com/mikepenz/MaterialDrawer
 https://github.com/mikeyxkcd/GuillotineMenu
 https://github.com/Yalantis/Side-Menu.Android
 https://github.com/mzule/FantasySlide
+http://nganthony.github.io/2016/01/24/implementing-android-mini-navigation-drawer.html
 
 
 Dialog, Popups, warnings
@@ -370,8 +371,9 @@ Password Passcode
 https://github.com/Arjun-sna/android-passcodeview
 
 
-Stepper
+Stepper Progress bar
 https://github.com/ernestoyaquello/vertical-stepper-form
+https://github.com/kofigyan/StateProgressBar
 
 
 Rating

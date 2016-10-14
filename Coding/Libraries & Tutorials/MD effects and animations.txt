@@ -71,6 +71,8 @@ https://github.com/XunMengWinter/CircularAnim/blob/master/README-EN.md
 https://github.com/venshine/GoodView
 https://github.com/jinatonic/confetti
 https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e#.cit2nzusi
+http://jeremie-martinez.com//2016/09/15/train-animations/
+https://medium.com/@sebastian212000/my-fab-brings-all-the-boys-in-the-yard-damn-right-7aa0e81b4402#.dp5t75urh
 
 
 Matrix effect
@@ -91,6 +93,7 @@ Edittext
 https://github.com/evant/animated-spans
 https://blog.prototypr.io/your-app-login-is-boring-bring-it-to-life-with-motion-7ac2547d9c5f#.59m23u88t
 https://github.com/alphamu/AnimatedEditText
+https://www.reddit.com/r/androiddev/comments/53bghk/create_a_type_writer_effect_on_android/
 
 Recyclerview
 http://antonioleiva.com/layout-animations-on-recyclerview/
@@ -172,8 +175,9 @@ List
 https://github.com/Yalantis/Euclid
 
 
-Titlebar
+Titlebar Toolbar
 https://github.com/pjambo/ToolbarTitleAnimation
+https://kylewbanks.com/blog/animating-toolbar-tablayout-floatingactionbutton-and-statusbar-background-color-on-android
 
 
 Transistions
@@ -205,3 +209,4 @@ https://github.com/bonnyfone/vectalign - Animations
 
 Shape animations
 https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
+https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.qcziapfb1

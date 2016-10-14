@@ -2,3 +2,7 @@ https://github.com/Jacksgong/JKeyboardPanelSwitch
 https://github.com/w446108264/XhsEmoticonsKeyboard
 https://github.com/AzimoLabs/AndroidKeyboardWatcher
 https://github.com/yshrsmz/KeyboardVisibilityEvent
+
+https://github.com/zeuxisoo/android-emoji-keyboard
+https://github.com/madhur/android-chat-starter
+https://github.com/rockerhieu/emojicon

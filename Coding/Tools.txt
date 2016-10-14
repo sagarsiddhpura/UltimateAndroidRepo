@@ -74,6 +74,7 @@ https://github.com/kyle-ilantzis/slap-reviews
 
 https://github.com/scala-android/sbt-android-protify
 https://github.com/googlesamples/apk-patch-size-estimator
+https://templater.emilburzo.com/
 
 Android Apps
 https://play.google.com/store/apps/details?id=com.desarrollodroide.repos&hl=en
