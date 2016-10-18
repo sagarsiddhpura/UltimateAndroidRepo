@@ -73,6 +73,9 @@ https://github.com/jinatonic/confetti
 https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e#.cit2nzusi
 http://jeremie-martinez.com//2016/09/15/train-animations/
 https://medium.com/@sebastian212000/my-fab-brings-all-the-boys-in-the-yard-damn-right-7aa0e81b4402#.dp5t75urh
+https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view
+
+https://github.com/xmuSistone/android-page-transition
 
 
 Matrix effect
@@ -187,6 +190,7 @@ https://www.reddit.com/r/androiddev/comments/3odsdq/shared_element_transition_pi
 https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.3zkw9jjg1
 http://www.androiddesignpatterns.com/2014/12/activity-fragment-transitions-in-android-lollipop-part1.html
 https://www.reddit.com/r/learnandroid/comments/55yd4n/create_an_animated_clock_with_vector_drawables_on/
+https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view
 
 
 Animations L+

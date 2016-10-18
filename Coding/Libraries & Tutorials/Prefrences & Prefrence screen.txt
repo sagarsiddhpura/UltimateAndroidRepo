@@ -14,6 +14,7 @@ https://github.com/mikeyxkcd/android-secure-preferences
 https://github.com/kcochibili/TinyDB--Android-Shared-Preferences-Turbo
 https://github.com/orhanobut/hawk
 https://github.com/cesarferreira/PainlessPrefs
+https://github.com/Zookey/UniversalPreferences
 
 
 Rx

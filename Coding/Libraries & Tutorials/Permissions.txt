@@ -8,6 +8,7 @@ https://github.com/googlesamples/easypermissions
 https://github.com/galex/android-permissions-gradle-plugin
 https://github.com/tbruyelle/RxPermissions
 https://github.com/googlesamples/easypermissions
+https://github.com/holidaycheck/Permissify
 
 https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured-builds.html
 https://www.reddit.com/r/androiddev/comments/4hexf5/can_i_avoid_the_new_permission_model_in_android/

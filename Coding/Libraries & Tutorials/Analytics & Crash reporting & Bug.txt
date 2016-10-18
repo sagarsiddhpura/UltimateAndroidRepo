@@ -28,3 +28,4 @@ https://medium.com/@fredgrott/do-not-force-android-users-away-handle-your-except
 https://stanfy.com/blog/tools-and-platforms-for-mobile-app-analytics-part-ii-usage-tracking-and-marketing-metrics/
 
 https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.cxhyhrx6k
+https://www.captechconsulting.com/blogs/a-comparison-of-android-crash-reporting-tools

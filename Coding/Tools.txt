@@ -87,3 +87,7 @@ https://f-droid.org/repository/browse/?fdid=com.matoski.adbm
 Libs
 https://github.com/facundoolano/google-play-keywools
 https://play.google.com/store/apps/details?id=com.rectangularsoftware.appmonger
+
+
+Adb
+https://github.com/patrickfav/uber-uninstaller-android

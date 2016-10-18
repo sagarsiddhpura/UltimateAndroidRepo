@@ -210,6 +210,10 @@ https://gitlab.com/Commit451/LabCoat
 https://github.com/LateNightProductions/CardKeeper
 https://github.com/applidium/CandyCrushSolver
 https://github.com/langsmith/ChildChip
+https://github.com/bcooper436/PoliticsLive
+https://github.com/prey/prey-android-client
+https://github.com/novoda/bonfire-firebase-sample
+https://github.com/do-adams/Pkdx
 
 
 

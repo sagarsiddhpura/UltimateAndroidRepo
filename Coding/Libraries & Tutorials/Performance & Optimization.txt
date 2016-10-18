@@ -11,6 +11,16 @@ https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-networ
 http://jeroenmols.com/blog/2016/05/06/methodcount/
 http://blog.octo.com/en/identify-performance-issues-in-your-android-application/
 
+
+Startup time
+https://www.reddit.com/r/androiddev/comments/543xib/what_are_your_tips_for_improving_app_startup_time/
+
+
+Profiling
+https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-application-7e248b5f615e#.ngp6ugw6x
+https://github.com/NikitaKozlov/Pury
+
+
 Inflate Layout async
 https://medium.com/@lupajz/asynchronous-layout-inflation-7cbca2653bf#.onjs1vzge
 

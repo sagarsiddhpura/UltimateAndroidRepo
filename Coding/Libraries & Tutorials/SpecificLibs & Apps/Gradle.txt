@@ -70,3 +70,6 @@ https://github.com/vigilancer/android-app-run-gradle-plugin
 
 Gradle 3
 https://www.reddit.com/r/androiddev/comments/4xu8kw/gradle_30_released/
+
+
+http://sdkman.io/usage.html

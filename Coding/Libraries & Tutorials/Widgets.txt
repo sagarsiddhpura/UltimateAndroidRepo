@@ -32,6 +32,7 @@ https://github.com/shivasurya/materialsteppers
 https://github.com/GIGAMOLE/ArcProgressStackView
 https://github.com/ishan1604/uberprogressview
 https://github.com/andyb129/ChompProgressView
+https://github.com/WassimBenltaief/FlowLayout
 
 
 FAB
@@ -104,16 +105,18 @@ https://github.com/grantland/android-autofittextview
 https://github.com/athkalia/EmphasisTextView
 https://github.com/Commit451/BaselineGridTextView
 https://github.com/Actinarium/Aligned
+https://github.com/armcha/AutoLinkTextView
 
 
 
-Sliding tabs
+Sliding Tabs
 https://github.com/googlesamples/android-SlidingTabsColors
 https://github.com/googlesamples/android-SlidingTabsBasic
 https://github.com/jpardogo/PagerSlidingTabStrip
 https://github.com/cmc00022/CityMapperTabs - Color changing tabs
 http://panavtec.me/playing-with-the-new-support-tablayout/
 https://github.com/vitovalov/TabbedCoordinatorLayout
+https://github.com/nshmura/RecyclerTabLayout
 Tablayout with badge
 https://gist.github.com/eneim/55df01e092520a6d33a4
 https://github.com/DavidPacioianu/InkPageIndicator
@@ -179,6 +182,7 @@ https://github.com/GautamGupta/toolbar-button
 https://github.com/varunest/SparkButton
 https://github.com/Everseat/LyftAppCompatButton
 https://github.com/dmytrodanylyk/android-morphing-button
+https://github.com/ceryle/SegmentedButton
 
 
 Navigation drawer
@@ -266,6 +270,7 @@ https://github.com/mattlogan/SelectableMapFragment
 https://github.com/roughike/SwipeSelector
 https://github.com/JoeBudic/Multi-point-Circular-Seekbar
 https://bitbucket.org/d3m0li5h3r/expandinglayout
+https://github.com/SilenceDut/ExpandableLayout
 https://github.com/GIGAMOLE/ArcProgressStackView
 https://github.com/dalong982242260/LoopRotarySwitch
 https://github.com/kaelaela/OpenGraphView
@@ -356,6 +361,11 @@ https://blog.stylingandroid.com/flexboxlayout-part2/
 https://github.com/christophesmet/android_maskable_layout
 https://github.com/prolificinteractive/swipe-action-layout
 https://github.com/FabianTerhorst/FastLayout
+https://github.com/WassimBenltaief/FlowLayout
+
+
+Status
+https://github.com/WassimBenltaief/FlowLayout
 
 
 Constraint Layout
@@ -374,7 +384,12 @@ https://github.com/Arjun-sna/android-passcodeview
 Stepper Progress bar
 https://github.com/ernestoyaquello/vertical-stepper-form
 https://github.com/kofigyan/StateProgressBar
+https://github.com/VictorAlbertos/BreadcrumbsView
 
 
 Rating
 https://github.com/FlyingPumba/SimpleRatingBar
+
+
+Menu
+https://github.com/desnyki/InfinityMenu

@@ -31,7 +31,7 @@ Hayday helper
 https://dribbble.com/shots/2636866-Material-Cards
 https://play.google.com/store/apps/details?id=com.cp.assist
 https://play.google.com/store/apps/details?id=com.half.wowsca
-
+https://github.com/xmuSistone/android-page-transition
 
 http://www.xda-developers.com/creo-launches-update-focused-mark-1-in-india/
 https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.90e6kflb3
@@ -46,6 +46,12 @@ https://github.com/delight-im/Android-AdvancedWebView
 https://crosswalk-project.org/
 http://www.materialup.com/posts/material-design-motion-radial-transition
 http://www.xda-developers.com/xda-external-link/learn-how-to-create-a-countdown-timer-with-the-countdowntimer-java-class/
+http://jeremie-martinez.com//2016/09/15/train-animations/
+https://www.reddit.com/r/androiddev/comments/53hgwr/gradle_31_released/d7tmorn
+https://github.com/evernote/android-job
+https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83#.lgzg1x4wj
+https://github.com/philliphsu/ClockPlus
+https://realm.io/news/introducing-realm-mobile-platform/
 
 
 Update notifier

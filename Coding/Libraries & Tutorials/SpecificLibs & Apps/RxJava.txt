@@ -93,6 +93,7 @@ https://github.com/VictorAlbertos/ReactiveCache
 https://github.com/apptik/rxHub
 https://github.com/Polidea/RxAndroidBle
 https://github.com/Piasy/RxAndroidAudio
+https://github.com/pakoito/RxComprehensions
 
 
 Good
@@ -117,10 +118,11 @@ https://github.com/rosshambrick/RxEspresso
 http://macoscope.com/blog/unit-testing-rxjava/
 
 
-Monitor Network
+Network & Internet Connection
 https://github.com/pwittchen/ReactiveNetwork
 https://github.com/sdoward/RxGoogleMaps
 https://github.com/mcharmas/Android-ReactiveLocation
+https://www.reddit.com/r/androiddev/comments/53u8r1/best_practice_for_using_rxjava_and_a_websocket/
 
 
 Apps

@@ -10,6 +10,7 @@ https://github.com/ngs-doo/dsl-json
 https://github.com/requery/sqlite-android
 https://github.com/rehacktive/waspdb
 https://github.com/FabianTerhorst/Iron
+https://github.com/FabianTerhorst/Floppy
 
 http://gradlewhy.ghost.io/realm-results-with-recyclerview/
 
@@ -22,6 +23,7 @@ http://softwaretree.com/2015/products/jdxa/jdxa_introduction.html
 http://yvonne.idescout.com/2016/04/sqlscout-20-manage-databases-in-your.html
 http://blog.alexsimo.com/delightful-persistence-android/
 https://www.reddit.com/r/androiddev/comments/4juhip/its_there_an_orm_with_all_the_flexibility_as_pure/
+https://www.reddit.com/r/androiddev/comments/53z2kk/which_orm_solution_should_i_choose_in_2016/
 
 
 With recycler view
