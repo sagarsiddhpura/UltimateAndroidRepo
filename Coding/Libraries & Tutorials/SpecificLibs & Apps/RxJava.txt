@@ -94,6 +94,7 @@ https://github.com/apptik/rxHub
 https://github.com/Polidea/RxAndroidBle
 https://github.com/Piasy/RxAndroidAudio
 https://github.com/pakoito/RxComprehensions
+https://github.com/pakoito/RxObservableDiskCache
 
 
 Good

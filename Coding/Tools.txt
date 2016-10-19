@@ -88,6 +88,9 @@ Libs
 https://github.com/facundoolano/google-play-keywools
 https://play.google.com/store/apps/details?id=com.rectangularsoftware.appmonger
 
+Icon Animator
+https://romannurik.github.io/AndroidIconAnimator/
+
 
 Adb
 https://github.com/patrickfav/uber-uninstaller-android

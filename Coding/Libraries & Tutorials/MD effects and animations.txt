@@ -77,6 +77,13 @@ https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-
 
 https://github.com/xmuSistone/android-page-transition
 
+Tutorials
+http://www.ssaurel.com/blog/create-a-running-man-game-animation-on-android/
+
+
+Tools
+https://romannurik.github.io/AndroidIconAnimator/
+
 
 Matrix effect
 http://forum.xda-developers.com/android/software/tutorial-learn-to-create-matrix-effect-t3469031

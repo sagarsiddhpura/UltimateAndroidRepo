@@ -4,6 +4,12 @@ https://github.com/alexive/visual-goodies
 https://github.com/navasmdc/MaterialDesignLibrary
 
 
+Placeholder
+https://github.com/TangoAgency/avatar-view
+https://github.com/florent37/FiftyShadesOf
+https://github.com/elye/loaderviewlibrary
+
+
 Material lib
 https://github.com/rey5137/material
 https://github.com/Bearded-Hen/Android-Bootstrap
@@ -106,6 +112,7 @@ https://github.com/athkalia/EmphasisTextView
 https://github.com/Commit451/BaselineGridTextView
 https://github.com/Actinarium/Aligned
 https://github.com/armcha/AutoLinkTextView
+http://saket.me/better-url-handler-textview-android/
 
 
 
@@ -286,6 +293,7 @@ https://github.com/lufficc/StateLayout
 https://github.com/anastr/SpeedView
 https://github.com/noties/ScrollingBackgroundView
 https://github.com/andremion/Music-Cover-View
+https://github.com/janishar/PlaceHolderView
 
 
 Date & Time

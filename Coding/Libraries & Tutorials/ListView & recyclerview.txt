@@ -19,6 +19,7 @@ https://github.com/defacto133/MultiLevelExpandableIndentableListView
 https://github.com/RobbeSneyders/UndoRecycler
 https://codentrick.com/load-more-recyclerview-bottom-progressbar/
 https://github.com/airbnb/epoxy
+https://github.com/janishar/PlaceHolderView
 
 https://github.com/mrmike/DiffUtil-sample
 

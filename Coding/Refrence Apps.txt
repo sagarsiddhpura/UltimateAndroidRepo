@@ -373,6 +373,8 @@ Watch
 https://github.com/ckulkar/mocha17-dev
 https://github.com/fodawim/AndroidWearWatchface
 https://github.com/hitherejoe/Bourbon
+https://medium.com/@charly1811/create-a-watch-face-for-android-wear-part-1-setup-a8377a3ef98b#.7yo4r2is1
+https://github.com/charly1811/minimalist-watchface
 
 
 Cromecast
@@ -390,3 +392,7 @@ http://hypermaximum.de:8080/HYMXDEV/EdgePlayer.git
 
 Other
 https://github.com/facebook/fbctf
+
+
+Ubunut
+https://code.launchpad.net/unav

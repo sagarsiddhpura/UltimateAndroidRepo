@@ -10,6 +10,11 @@ https://www.reddit.com/r/androiddev/comments/4gurv8/how_i_got_ride_of_infamous_i
 https://www.bignerdranch.com/blog/optimize-battery-life-with-androids-gcm-network-manager/
 http://jeroenmols.com/blog/2016/05/06/methodcount/
 http://blog.octo.com/en/identify-performance-issues-in-your-android-application/
+https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.tlb6jafzd
+
+
+Libs
+https://github.com/friendlyrobotnyc/TinyDancer
 
 
 Startup time

@@ -12,6 +12,10 @@ https://android-material-icon-generator.bitdroid.de/
 https://github.com/Pkmmte/CircularImageView
 
 
+Aminator
+https://romannurik.github.io/AndroidIconAnimator/
+
+
 GIF
 https://github.com/Cutta/GifView
 https://github.com/koral--/android-gif-drawable
@@ -39,6 +43,7 @@ https://github.com/MikeOrtiz/TouchImageView
 https://github.com/sephiroth74/ImageViewZoom
 https://codecrafted.net/svgtoandroid#usage
 http://sarafarnsworth.tumblr.com/page/8
+https://github.com/TangoAgency/avatar-view
 
 
 Image Gallery
@@ -76,6 +81,7 @@ http://vectormagic.com/home
 https://medium.com/@joelschmidt/android-paint-by-colour-419f69bda15c#.npqe43323
 https://github.com/bonnyfone/vectalign
 https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
+https://romannurik.github.io/AndroidIconAnimator/
 
 
 Have state drawable

@@ -35,6 +35,7 @@ https://github.com/slymax/webview
 https://github.com/ribot/android-boilerplate
 https://github.com/NeoDigi/android-boilerplate
 https://www.reddit.com/r/androiddev/comments/4gdqg8/a_modern_android_boilerplate_project/
+https://github.com/rozag/kakava
 
 integrate libs faster
 https://github.com/percolate/foam
