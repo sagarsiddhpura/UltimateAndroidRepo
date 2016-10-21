@@ -1,6 +1,7 @@
 https://www.reddit.com/r/learnprogramming/comments/3hplyx/where_to_go_after_teamtreehouse_javaandroid/cu9j8z5
 https://www.reddit.com/r/androiddev/comments/55r9yo/the_company_i_work_for_wants_me_to_pick_up/
 
+https://www.reddit.com/r/androiddev/comments/57fj9i/what_differentiates_regular_and_senior_android_dev/
 
 Devcon videos
 https://www.reddit.com/r/androiddev/comments/3jnbi9/first_round_of_droidcon_nyc_2015_talks/
@@ -9,3 +10,7 @@ https://www.reddit.com/r/androiddev/comments/3js6r3/droidcon_nyc_2015_how_the_ma
 https://github.com/AndroidStudyGroup/conferences/wiki/DroidconNYC2015
 
 Big Nerd Ranch's Android Programming book (the 2nd Edition one)
+
+
+Advanced
+https://www.reddit.com/r/androiddev/comments/560rk1/resources_for_learning_advanced_android_concepts/

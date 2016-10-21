@@ -13,3 +13,5 @@ https://github.com/mattlogan/auto-value-firebase
 
 Remote Config
 https://medium.com/@sembozdemir/force-your-users-to-update-your-app-with-using-firebase-33f1e0bcec5a#.qt6tyjag0
+http://www.captechconsulting.com/blogs/dynamic-configuration-with-firebase-remote-config
+https://medium.com/@hitherejoe/exploring-firebase-on-android-ios-remote-config-3e1407b088f6#.5p0dbf6gs

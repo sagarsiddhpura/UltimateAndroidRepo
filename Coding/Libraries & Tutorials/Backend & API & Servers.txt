@@ -55,6 +55,8 @@ List of api
 https://github.com/toddmotto/public-apis
 https://sandbox.amadeus.com/getting-started
 https://github.com/BrianOdisho/omdb
+https://github.com/toddmotto/public-apis
+
 
 Libs
 https://github.com/OneCodeLabs/S3UploadService

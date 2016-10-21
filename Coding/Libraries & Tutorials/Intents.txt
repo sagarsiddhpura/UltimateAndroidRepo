@@ -1,3 +1,7 @@
 https://github.com/zsoltk/paperwork
 https://github.com/tvbarthel/IntentShare
 http://developer.android.com/reference/android/support/v4/app/ShareCompat.html
+https://github.com/Trikke/intentbuilder
+
+Intent open customoiztion
+https://github.com/KingsMentor/IntentManip

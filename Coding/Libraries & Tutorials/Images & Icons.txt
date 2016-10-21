@@ -82,6 +82,7 @@ https://medium.com/@joelschmidt/android-paint-by-colour-419f69bda15c#.npqe43323
 https://github.com/bonnyfone/vectalign
 https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
 https://romannurik.github.io/AndroidIconAnimator/
+https://www.reddit.com/r/androiddev/comments/569zxd/has_anyone_here_completely_moved_to_svgs_how_are/
 
 
 Have state drawable

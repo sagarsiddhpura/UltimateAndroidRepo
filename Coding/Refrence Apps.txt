@@ -214,6 +214,10 @@ https://github.com/bcooper436/PoliticsLive
 https://github.com/prey/prey-android-client
 https://github.com/novoda/bonfire-firebase-sample
 https://github.com/do-adams/Pkdx
+https://github.com/fermatijoe/shows2
+https://github.com/ChrisGaddes/Reaction
+https://github.com/ztc1997/Fingerprint2Sleep
+https://github.com/KingsMentor/MobileVisionBarcodeScanner
 
 
 

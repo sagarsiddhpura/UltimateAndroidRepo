@@ -1,2 +1,6 @@
 https://github.com/FabianTerhorst/FastLayout
 https://github.com/SilenceDut/ExpandableLayout
+Ascii
+https://github.com/vignjatijevic/petsciiview
+
+https://medium.com/@janishar.ali/android-tinder-swipe-view-example-3eca9b0d4794#.et8g86gp4

@@ -50,6 +50,7 @@ https://github.com/jaredsburrows/android-gif-example
 Fast Scroller for RV
 https://github.com/plusCubed/recycler-fast-scroll
 https://github.com/timusus/RecyclerView-FastScroll
+https://github.com/L4Digital/FastScroll
 
 
 Adapter
@@ -70,6 +71,7 @@ https://github.com/h6ah4i/android-advancedrecyclerview
 https://medium.com/@nullthemall/diffutil-is-a-must-797502bc1149#.r6uuf0gor
 https://github.com/MikiLoz92/FancyAdapters
 https://github.com/nekocode/ItemPool
+https://github.com/princeparadoxes/RecyclerBindableAdapter
 
 
 Expandabele RV
@@ -108,6 +110,7 @@ http://www.tutorialsbuzz.com/2015/11/android-recyclerview-filter-animation.html
 https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
 https://www.reddit.com/r/androiddev/comments/4flia7/recyclerview_and_picasso_help/
 https://www.reddit.com/r/androiddev/comments/4kmqde/how_to_improve_the_performance_on_a_recyclerview/
+https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf#.nkll5ldh3
 
 
 Animations

@@ -74,3 +74,7 @@ https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html
 https://www.novoda.com/blog/leaner-apks-with-custom-asset-minification/
 https://medium.com/@MikeScamell/this-app-did-the-vectordrawablecompat-diet-and-shed-2-4mb-and-it-s-so-easy-you-can-do-it-too-209846d99809#.r04ogoltz
 http://sthagios.com/2016/08/29/reduce-apk-size/
+
+
+Image to Vector
+https://www.reddit.com/r/androiddev/comments/569zxd/has_anyone_here_completely_moved_to_svgs_how_are/

@@ -6,3 +6,5 @@ https://github.com/square/whorlwind
 https://github.com/aitorvs/fingerlock
 
 https://github.com/trippedout/CloudVisionLib
+
+https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-1-face-detection-e7e24a3e472f#.7rtn14cp7

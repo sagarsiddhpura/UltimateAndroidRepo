@@ -49,6 +49,7 @@ https://www.reddit.com/r/androiddev/comments/48wucs/between_compiling_and_gradle
 https://www.reddit.com/r/androiddev/comments/4gt97e/psa_apparently_assigning_a_ton_of_memory_to/
 http://stackoverflow.com/questions/36441598/why-is-gradle-2-0-so-slow/36497209#36497209
 https://medium.com/google-developers/faster-android-studio-builds-with-dex-in-process-5988ed8aa37e#.32u6w6rfp
+https://medium.com/@cesarmcferreira/speeding-up-gradle-builds-619c442113cb#.w3oo9q7f3
 
 https://github.com/Triple-T/gradle-play-publisher
 

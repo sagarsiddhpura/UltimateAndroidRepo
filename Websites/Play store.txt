@@ -18,6 +18,7 @@ https://www.simform.com/blog/google-play-app-store-optimization
 
 https://www.reddit.com/r/androiddev/comments/4vxrir/what_to_do_with_google_play_comment_trolls/
 
+http://www.androidpolice.com/2016/10/19/google-updates-play-store-developer-policy-examples-text-images-videos-will-get-app-taken/
 
 Bans
 https://www.reddit.com/r/androiddev/comments/48vm1y/app_update_rejected_unauthorized_use_of/

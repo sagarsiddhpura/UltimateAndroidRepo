@@ -1,2 +1,4 @@
 http://ogp.me/
 http://embed.ly/
+
+https://github.com/Schinizer/RxUnfurl

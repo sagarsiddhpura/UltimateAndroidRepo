@@ -10,6 +10,7 @@ https://github.com/ZieIony/Carbon
 https://github.com/alexive/visual-goodies
 https://github.com/andkulikov/transitions-everywhere
 https://github.com/noties/ScrollingBackgroundView
+https://github.com/LiveTyping/CannyViewAnimator
 
 
 Animations

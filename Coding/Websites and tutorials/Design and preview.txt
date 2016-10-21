@@ -1,6 +1,7 @@
 http://codecrafted.net/randommaterial/
 http://android.pakmax.net/2015/08/android-apps-flat-ui-design-examples.html
 https://alty.software/blog/16-best-mobile-ux-design-pattern-libraries/
+https://sourcemaking.com/design_patterns/abstract_factory
 
 Design websites
 http://pttrns.com/

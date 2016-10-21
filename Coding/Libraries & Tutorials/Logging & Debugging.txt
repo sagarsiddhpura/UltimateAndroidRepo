@@ -48,6 +48,7 @@ https://github.com/inaka/galgo
 https://github.com/orhanobut/bee
 http://hannesdorfmann.com/android/debug-overlay/
 https://github.com/pedrovgs/Lynx
+https://github.com/explodes/android-sql-logging
 
 
 Exagerrated logging

@@ -1,3 +1,0 @@
-https://github.com/martin-stone/hsv-alpha-color-picker-android/blob/master/README.md
-https://github.com/MrBIMC/VintageChroma
-https://github.com/GrenderG/Color-O-Matic

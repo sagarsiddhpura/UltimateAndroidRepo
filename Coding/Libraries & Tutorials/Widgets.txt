@@ -92,6 +92,7 @@ https://github.com/AzimoLabs/MaskFormatter
 https://github.com/lisawray/passwordview
 https://github.com/tasomaniac/EmailAutoCompleteTextView
 https://github.com/DomainGroupOSS/accounts-autocomplete
+https://github.com/masterlittle/SlideButton
 
 http://antonioleiva.com/textview_power_drawables/
 
@@ -308,6 +309,7 @@ https://github.com/siyamed/android-shape-imageview
 
 Bottom Sheet
 https://github.com/rubensousa/BottomSheetBuilder
+https://medium.com/@anitas3791/android-bottomsheetdialog-3871a6e9d538#.4we869rkk
 
 
 Widgets

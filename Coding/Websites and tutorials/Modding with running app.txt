@@ -1,2 +1,3 @@
 http://www.evilsocket.net/2015/05/01/dynamically-inject-a-shared-library-into-a-running-process-on-androidarm/
 https://www.reddit.com/r/androiddev/comments/3j4rqy/creating_an_app_that_reads_memory_from_other_apps/
+https://github.com/alibaba/AndFix

@@ -18,6 +18,7 @@ https://github.com/krugloid/todo-jedux
 https://github.com/fvasco/pinpoi
 https://github.com/ImangazalievM/Notelin
 https://github.com/beyondeye/Reduks
+https://github.com/dbacinski/Design-Patterns-In-Kotlin
 
 https://www.reddit.com/r/androiddev/comments/4414k2/painless_database_libraries_with_kotlin_rx_support/
 
@@ -33,6 +34,7 @@ TEsting
 http://makingiants.com/blog/using-mockito-for-unit-tests-with-kotlin-1x/
 https://medium.com/@sergii/using-kotlin-for-tests-in-android-6d4a0c818776#.lknlv97l3
 http://blog.greenhouseci.com/greenhouse/update/android-testing-with-kotlin/
+http://hadihariri.com/2016/10/04/Mocking-Kotlin-With-Mockito/
 
 
 Recyclerview

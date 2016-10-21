@@ -26,3 +26,4 @@ http://medyo.github.io/generate-awesome-playstore-screenshots-using-sketch
 Programatically generate:
 https://kylewbanks.com/blog/create-a-screenshot-of-your-android-app-game-or-single-view-programmatically
 https://www.reddit.com/user/avipars
+https://github.com/mplacona/selfie
