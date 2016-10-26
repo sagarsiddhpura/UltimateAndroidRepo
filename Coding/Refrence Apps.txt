@@ -218,6 +218,9 @@ https://github.com/fermatijoe/shows2
 https://github.com/ChrisGaddes/Reaction
 https://github.com/ztc1997/Fingerprint2Sleep
 https://github.com/KingsMentor/MobileVisionBarcodeScanner
+https://github.com/googlesamples/android-topeka
+https://github.com/google/iosched
+http://rfc2822.github.io/GfxTablet/
 
 
 
@@ -248,6 +251,8 @@ https://github.com/eneim/Google_io_2016_timer
 https://github.com/chemouna/HarryPotterBooks
 https://github.com/tengbinlive/aibao_demo
 https://github.com/inorichi/tachiyomi
+https://github.com/googlesamples/android-topeka
+https://github.com/naman14/Timber
 
 
 
@@ -300,6 +305,7 @@ https://github.com/googlesamples/android-UniversalMusicPlayer
 https://android.googlesource.com/platform/frameworks/rs/+/master/java/tests/HealingBrush/
 https://android.googlesource.com/platform/packages/apps/Calendar/
 https://github.com/sky-map-team/stardroid
+https://github.com/google/iosched
 
 
 Architecture & Best Practices
@@ -398,5 +404,9 @@ Other
 https://github.com/facebook/fbctf
 
 
-Ubunut
+Nougnat
+https://github.com/klinker24/nougat-7.1-playground
+
+
+Ubuntu
 https://code.launchpad.net/unav

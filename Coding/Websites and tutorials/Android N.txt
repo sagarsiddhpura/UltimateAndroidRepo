@@ -7,3 +7,4 @@ http://www.xda-developers.com/everything-devs-need-to-know-about-multiwindow-in-
 https://commonsware.com/blog/2016/08/31/granting-permissions-uri-intent-extra.html
 https://www.bignerdranch.com/blog/android-activity-lifecycle-onStop/
 https://commonsware.com/blog/2016/09/12/multi-window-multi-instance-like-it-or-not.html
+https://github.com/klinker24/nougat-7.1-playground

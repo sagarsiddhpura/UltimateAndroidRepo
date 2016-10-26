@@ -6,6 +6,7 @@ https://codeforandroid.wordpress.com/2015/02/09/android-sample-code/
 https://github.com/udacity/Advanced_Android_Development
 https://github.com/commonsguy/cw-omnibus
 https://github.com/googlesamples/android-architecture
+https://github.com/lightSky/Awesome-MaterialDesign
 
 https://github.com/android/platform_frameworks_support
 https://search-codelabs.appspot.com/

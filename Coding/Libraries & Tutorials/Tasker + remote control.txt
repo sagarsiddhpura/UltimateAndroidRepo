@@ -5,3 +5,5 @@ http://forum.xda-developers.com/u/tasker-tips-tricks/guide-prompt-to-add-previou
 http://forum.xda-developers.com/u/tasker-tips-tricks
 http://forum.xda-developers.com/u/tasker-tips-tricks/guide-sync-google-account-30-minutes-t3277729
 http://forum.xda-developers.com/u/tasker-tips-tricks/guide-read-random-voted-thread-reddit-t3331108
+
+http://rfc2822.github.io/GfxTablet/
