@@ -13,6 +13,11 @@ Debugging colors
 https://gist.github.com/dlew/a2e2f247c78495eca4e6
 
 
+webview
+https://developers.google.com/web/tools/chrome-devtools/remote-debugging/
+https://developers.google.com/web/tools/chrome-devtools/remote-debugging/webviews
+
+
 good
 https://github.com/omegasoft7/FSLogger
 https://github.com/orhanobut/logger - nice output format
@@ -31,7 +36,7 @@ https://caster.io/episodes/android-studio-applying-logcat-filters/
 https://github.com/charbgr/SeismicInterceptor
 
 
-Network
+Network remote logging
 https://github.com/cookpad/puree-android
 https://github.com/sschendel/RemoteLogger
 https://publicobject.com/2016/01/17/sneaking-data-into-an-okhttp-interceptor/

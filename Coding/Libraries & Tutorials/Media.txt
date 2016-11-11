@@ -16,6 +16,7 @@ https://www.reddit.com/r/androiddev/comments/46hbuz/how_to_filter_a_video_frame_
 https://github.com/eneim/FloppyVideoView
 https://github.com/danylovolokh/VideoPlayerManager
 https://github.com/afollestad/easy-video-player
+https://github.com/eneim/Toro
 
 Streaming
 https://www.oddnetworks.com/
@@ -34,6 +35,15 @@ http://superpowered.com/android-marshmallow-latency
 https://googlesamples.github.io/android-audio-high-performance/
 https://anadea.info/blog/tools-for-audio-processing-in-android-development
 https://gist.github.com/mmoczkowski/b6ced92ff4a40aa4647f0c02918c616b
+Visualizer
+https://github.com/Cleveroad/WaveInApp
+Play Button
+https://github.com/Cleveroad/PlayWidget
+https://github.com/Cleveroad/MusicBobber
+
+Communicate via sound
+https://www.chirp.io/
+https://github.com/quiet/org.quietmodem.Quiet
 
 http://enoent.fr/blog/2014/06/20/compile-ffmpeg-for-android/
 

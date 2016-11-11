@@ -58,3 +58,6 @@ http://tmorcinek.github.io/android-codegenerator-plugin-intellij/
 https://github.com/andyb129/AndroidStudioPluginsNPlay
 
 http://exynap.com/#support-and-contact
+
+https://github.com/KanbanApps/GradleKillerIdeaPlugin
+https://plugins.jetbrains.com/plugin/7794?pr=idea

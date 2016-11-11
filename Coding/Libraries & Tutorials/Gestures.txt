@@ -11,6 +11,7 @@ https://github.com/kritts/HandWave
 https://github.com/nisrulz/sensey
 https://github.com/klinker24/Android-3DTouch-PeekView
 https://github.com/PaNaVTEC/DrawableView/
+https://github.com/clackbib/KnockDetector
 
 Swipe refresh listener
 https://github.com/aloj22/ListenerSwipeRefreshLayout

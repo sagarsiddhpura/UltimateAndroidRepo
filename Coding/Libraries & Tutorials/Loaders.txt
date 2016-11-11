@@ -1,2 +1,3 @@
 https://medium.com/google-developers/making-loading-data-on-android-lifecycle-aware-897e12760832#.pkdo1xwlg
 https://github.com/ye-lin-aung/MiniLoader
+https://github.com/L4Digital/RxLoader

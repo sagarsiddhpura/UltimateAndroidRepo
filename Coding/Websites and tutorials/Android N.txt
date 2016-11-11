@@ -8,3 +8,5 @@ https://commonsware.com/blog/2016/08/31/granting-permissions-uri-intent-extra.ht
 https://www.bignerdranch.com/blog/android-activity-lifecycle-onStop/
 https://commonsware.com/blog/2016/09/12/multi-window-multi-instance-like-it-or-not.html
 https://github.com/klinker24/nougat-7.1-playground
+
+https://github.com/pcevikogullari/AndroidShortcuts

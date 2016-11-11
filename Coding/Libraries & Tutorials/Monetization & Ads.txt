@@ -33,3 +33,7 @@ https://enhance.fgl.com/
 
 Ads for children
 https://www.reddit.com/r/androiddev/comments/56tkbk/how_to_disable_ads_unsuitable_for_kids_in_admob/
+
+
+Rewarded video
+https://www.reddit.com/r/androiddev/comments/593rfo/what_is_your_experience_with_rewarded_video_ads/

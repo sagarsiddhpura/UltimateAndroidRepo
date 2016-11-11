@@ -2,6 +2,7 @@ Material Widgets
 http://www.materialdoc.com/components/
 https://github.com/alexive/visual-goodies
 https://github.com/navasmdc/MaterialDesignLibrary
+https://github.com/nasahapps/Material-Design-Toolbox/
 
 
 Placeholder
@@ -132,14 +133,16 @@ https://github.com/DevLight-Mobile-Agency/NavigationTabBar
 https://github.com/DevLight-Mobile-Agency/NavigationTabStrip
 
 
-Wizard pager
+Wizard pager View pager
 https://github.com/romannurik/android-wizardpager
 https://github.com/MarkOSullivan94/Android-Material-Wizard
 https://github.com/Pixplicity/MultiViewPager
 https://github.com/DavidPacioianu/InkPageIndicator
 https://github.com/chenupt/SpringIndicator
 https://github.com/PaoloRotolo/AppIntro
-
+https://github.com/IntruderShanky/Flare
+https://github.com/Cleveroad/FanLayoutManager
+https://rubensousa.github.io/2016/08/viewpagercards
 
 
 Draw
@@ -227,6 +230,7 @@ https://github.com/sacot41/SCViewPager
 https://github.com/DavidPacioianu/InkPageIndicator
 https://github.com/rubensousa/ViewPagerCards/
 http://www.jayrambhia.com/blog/android-viewpager-cards-1
+https://github.com/Cleveroad/FanLayoutManager
 
 
 Percentage Layout
@@ -295,6 +299,7 @@ https://github.com/anastr/SpeedView
 https://github.com/noties/ScrollingBackgroundView
 https://github.com/andremion/Music-Cover-View
 https://github.com/janishar/PlaceHolderView
+https://github.com/Cleveroad/WaveInApp
 
 
 Date & Time
@@ -336,6 +341,7 @@ https://github.com/Ashok-Varma/BottomNavigation
 https://github.com/armcha/LuseenBottomNavigation
 like spaces app
 https://github.com/armcha/Space-Navigation-View
+https://github.com/Cleveroad/LoopBar
 
 
 Switch

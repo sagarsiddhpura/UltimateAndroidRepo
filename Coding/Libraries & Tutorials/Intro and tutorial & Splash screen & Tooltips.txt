@@ -29,6 +29,7 @@ https://github.com/eoinfogarty/Onboarding
 https://github.com/pushpendra-spartan/introduction-screen-animation
 http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/
 https://github.com/TangoAgency/material-intro-screen
+https://github.com/Cleveroad/SlidingTutorial-Android
 
 https://www.reddit.com/r/androiddev/comments/3pzy2u/how_do_i_implement_a_splash_screen_like_chet_is/
 https://www.useronboard.com/onboarding-teardowns/

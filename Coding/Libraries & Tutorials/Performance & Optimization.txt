@@ -13,6 +13,15 @@ http://blog.octo.com/en/identify-performance-issues-in-your-android-application/
 https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.tlb6jafzd
 
 
+RV
+https://www.reddit.com/r/androiddev/comments/587uh0/what_are_some_of_your_tricks_to_speed_up_your/
+
+
+Benchmark and measuring time
+https://developer.android.com/reference/android/util/TimingLogger.html
+https://github.com/T-Spoon/benchit
+
+
 Libs
 https://github.com/friendlyrobotnyc/TinyDancer
 

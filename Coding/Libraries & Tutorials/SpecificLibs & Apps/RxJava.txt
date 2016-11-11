@@ -57,6 +57,7 @@ https://medium.com/@ragdroid/rxify-a-simple-spell-for-complex-rxjava-operators-p
 https://medium.com/@sebaslogen/rxjava-recipe-convert-any-android-event-into-a-stream-c614ca686db0#.akve5u9eg
 https://medium.com/yammer-engineering/converting-callback-async-calls-to-rxjava-ebc68bde5831#.dxrwg7ogf
 https://medium.com/@ragdroid/rxify-a-simple-spell-for-complex-rxjava-operators-part-4-eb929d3e2240#.m7ivhuwwg
+https://adityaladwa.wordpress.com/2016/10/25/offline-first-reactive-android-apps-repository-pattern-mvp-dagger-2-rxjava-contentprovider/
 
 
 Libs
@@ -97,6 +98,9 @@ https://github.com/pakoito/RxComprehensions
 https://github.com/pakoito/RxObservableDiskCache
 https://github.com/Schinizer/RxUnfurl
 https://github.com/pakoito/FunctionalRx
+https://github.com/masterlittle/RGson
+https://github.com/L4Digital/RxLoader
+https://github.com/MarsVard/NorthWest
 
 
 Good

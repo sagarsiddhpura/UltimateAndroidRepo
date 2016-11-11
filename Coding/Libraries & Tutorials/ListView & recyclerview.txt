@@ -26,6 +26,10 @@ https://github.com/mrmike/DiffUtil-sample
 https://github.com/jug6ernaut/DataBindingAdapter
 
 
+Optmiization
+https://www.reddit.com/r/androiddev/comments/587uh0/what_are_some_of_your_tricks_to_speed_up_your/
+
+
 Cartwheel
 https://github.com/danylovolokh/LondonEyeLayoutManager
 

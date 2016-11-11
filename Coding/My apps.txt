@@ -55,6 +55,9 @@ https://realm.io/news/introducing-realm-mobile-platform/
 https://backendless.com/products/
 https://www.reddit.com/r/androiddev/comments/57l28c/dont_use_objectanimators_or_valueanimators_in/
 https://github.com/Guardiola31337/darealfragmentation
+http://www.androidauthority.com/how-to-create-a-android-widget-726045/
+https://github.com/Cleveroad/Android-Marshmallow-Boot-Animation
+https://github.com/clackbib/KnockDetector
 
 
 Update notifier

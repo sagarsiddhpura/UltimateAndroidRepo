@@ -40,3 +40,7 @@ https://www.reddit.com/r/androiddev/comments/4sovkx/psa_use_rich_text_format_in_
 Statistics
 https://42matters.com/app-market-data
 https://github.com/MarcelloLins/GooglePlayAppsCrawler
+
+
+Indie Corner
+https://docs.google.com/forms/d/e/1FAIpQLScesnBYqLWmnpGYo9ZmRSpFzPwKP5hwSLGcghcuTO2rhKNSzg/viewform?c=0&w=1

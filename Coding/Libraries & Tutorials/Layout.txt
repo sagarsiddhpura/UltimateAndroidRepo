@@ -1,6 +1,8 @@
 https://github.com/FabianTerhorst/FastLayout
 https://github.com/SilenceDut/ExpandableLayout
+https://github.com/Cleveroad/BubbleAnimationLayout
 Ascii
 https://github.com/vignjatijevic/petsciiview
+https://github.com/flipkart-incubator/proteus
 
 https://medium.com/@janishar.ali/android-tinder-swipe-view-example-3eca9b0d4794#.et8g86gp4

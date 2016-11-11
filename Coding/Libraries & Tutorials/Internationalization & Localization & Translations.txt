@@ -17,6 +17,7 @@ https://www.onehourtranslation.com/#oht:lang=en-us
 http://ontranslate.com/en/
 http://gengo.com/
 https://www.onehourtranslation.com/
+https://crowdin.com/
 
 https://github.com/carlospaulino/parrot
 

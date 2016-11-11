@@ -12,6 +12,7 @@ https://github.com/patrykpoborca/CleanArchitecture/
 https://medium.com/@theMikhail/flavoring-your-dagger-14ab8bcef9f8
 https://medium.com/@isoron/a-friendly-introduction-to-dagger-2-part-1-dbdf2f3fb17b#.kzqzt3n00
 https://www.reddit.com/r/androiddev/comments/50bhn5/lets_play_a_game_what_are_your_dagger2_scopes/
+https://adityaladwa.wordpress.com/2016/10/25/offline-first-reactive-android-apps-repository-pattern-mvp-dagger-2-rxjava-contentprovider/
 
 https://github.com/guiwro/StarWrobs
 https://github.com/JayNewstrom/AutoModule
