@@ -1,1 +1,2 @@
 https://www.twilio.com/blog/2016/05/how-to-send-an-sms-from-android.html
+https://github.com/klinker41/android-smsmms

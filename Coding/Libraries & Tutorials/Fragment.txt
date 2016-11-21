@@ -2,3 +2,4 @@ https://github.com/DesarrolloAntonio/FragmentTransactionExtended
 https://github.com/neevek/Paginize
 https://github.com/Pixplicity/MultiViewPager
 https://github.com/jt-gilkeson/fragment-utils
+https://github.com/ImmortalZ/TransitionHelper

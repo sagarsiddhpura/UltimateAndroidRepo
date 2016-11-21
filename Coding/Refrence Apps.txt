@@ -222,6 +222,12 @@ https://github.com/googlesamples/android-topeka
 https://github.com/google/iosched
 http://rfc2822.github.io/GfxTablet/
 https://github.com/akshay2000/MonocleGiraffe
+https://github.com/Leaking/WeGit
+https://github.com/zhihu/mirror
+https://github.com/klinker24/Android-SlidingMessaging
+https://github.com/Mavamaarten/vk_music_android
+https://github.com/chaitanyanettem/searchforreddit
+https://github.com/danielzeller/Depth-LIB-Android-
 
 
 

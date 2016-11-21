@@ -3,6 +3,9 @@ http://blog.udinic.com/2013/04/24/write-your-own-android-authenticator/
 https://github.com/Unic8/retroauth
 https://github.com/Mauin/RxFingerprint
 https://www.reddit.com/r/androiddev/comments/4kjhrr/looking_for_the_best_phone_number_verification/
+https://medium.com/overmorrow/authentication-sucks-bad-security-too-345ed20463d4#.ceuje4k11
+
+
 Facebook Account Kit
 https://www.reddit.com/r/androiddev/comments/4vjyc6/has_anyone_used_oauthio/
 

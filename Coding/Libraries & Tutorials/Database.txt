@@ -11,6 +11,7 @@ https://github.com/requery/sqlite-android
 https://github.com/rehacktive/waspdb
 https://github.com/FabianTerhorst/Iron
 https://github.com/FabianTerhorst/Floppy
+https://github.com/pakoito/RxPaper
 
 http://gradlewhy.ghost.io/realm-results-with-recyclerview/
 

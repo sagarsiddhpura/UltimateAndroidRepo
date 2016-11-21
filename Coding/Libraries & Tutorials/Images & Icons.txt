@@ -83,6 +83,7 @@ https://github.com/bonnyfone/vectalign
 https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
 https://romannurik.github.io/AndroidIconAnimator/
 https://www.reddit.com/r/androiddev/comments/569zxd/has_anyone_here_completely_moved_to_svgs_how_are/
+https://medium.com/@manuelvicnt/your-app-icon-as-animatedvectordrawable-92325ba07c8e#.urj1la43m
 
 
 Have state drawable

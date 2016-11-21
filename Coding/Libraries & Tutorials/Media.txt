@@ -21,6 +21,7 @@ https://github.com/eneim/Toro
 Streaming
 https://www.oddnetworks.com/
 https://github.com/allanpichardo/Simplay
+https://github.com/fyhertz/libstreaming
 
 
 Audio
@@ -40,6 +41,7 @@ https://github.com/Cleveroad/WaveInApp
 Play Button
 https://github.com/Cleveroad/PlayWidget
 https://github.com/Cleveroad/MusicBobber
+https://medium.com/uptech-team/audio-not-playing-in-android-cde9a0fdfafd#.4lj7d764s
 
 Communicate via sound
 https://www.chirp.io/
@@ -49,3 +51,10 @@ http://enoent.fr/blog/2014/06/20/compile-ffmpeg-for-android/
 
 Libs
 https://github.com/danikula/AndroidVideoCache
+
+Widgets
+https://github.com/OHoussein/android-material-play-pause-view
+
+
+Exo Player
+https://medium.com/@emuneee/migrating-from-exoplayer-1-x-to-2-0-58fbda36b46c#.4ntw953xd

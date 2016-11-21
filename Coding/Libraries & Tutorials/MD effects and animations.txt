@@ -86,6 +86,9 @@ https://github.com/Cleveroad/WaveInApp
 https://github.com/Cleveroad/BubbleAnimationLayout
 https://github.com/Cleveroad/Android-Marshmallow-Boot-Animation
 https://rubensousa.github.io/2016/08/viewpagercards
+https://github.com/ImmortalZ/TransitionHelper
+https://blog.prototypr.io/applying-meaningful-motion-on-android-a271a873bd78#.2ui7mf2yc
+https://github.com/danielzeller/Depth-LIB-Android-
 
 https://github.com/xmuSistone/android-page-transition
 
@@ -234,3 +237,7 @@ https://github.com/bonnyfone/vectalign - Animations
 Shape animations
 https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
 https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.qcziapfb1
+
+
+Guidelines
+https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329#.jjgzcfhmc

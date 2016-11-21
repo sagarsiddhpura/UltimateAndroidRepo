@@ -21,6 +21,7 @@ https://github.com/workarounds/bundler
 https://github.com/stephanenicolas/toothpick
 https://github.com/Thangiee/Metadroid
 https://medium.com/google-developers/no-more-findviewbyid-457457644885#.x5mjzk3qp
+https://github.com/honza171/live-droids
 
 https://github.com/workday/postman
 https://github.com/johncarl81/parceler

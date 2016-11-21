@@ -101,6 +101,8 @@ https://github.com/pakoito/FunctionalRx
 https://github.com/masterlittle/RGson
 https://github.com/L4Digital/RxLoader
 https://github.com/MarsVard/NorthWest
+https://github.com/patloew/RxLocation
+https://github.com/pakoito/RxPaper
 
 
 Good

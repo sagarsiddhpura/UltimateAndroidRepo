@@ -300,6 +300,7 @@ https://github.com/noties/ScrollingBackgroundView
 https://github.com/andremion/Music-Cover-View
 https://github.com/janishar/PlaceHolderView
 https://github.com/Cleveroad/WaveInApp
+https://github.com/OHoussein/android-material-play-pause-view
 
 
 Date & Time

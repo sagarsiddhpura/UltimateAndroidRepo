@@ -34,6 +34,7 @@ https://github.com/zserge/log
 http://help.papertrailapp.com/kb/configuration/configuring-centralized-logging-from-android-apps/
 https://caster.io/episodes/android-studio-applying-logcat-filters/
 https://github.com/charbgr/SeismicInterceptor
+http://flowup.io/
 
 
 Network remote logging

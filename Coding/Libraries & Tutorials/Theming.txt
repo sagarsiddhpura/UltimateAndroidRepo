@@ -2,6 +2,7 @@ https://github.com/eluleci/FlatUI
 https://github.com/StylingAndroid/Prism
 https://github.com/negusoft/GreenMatter
 https://github.com/twig/android-low-light-theme-switcher
+https://github.com/Commit451/Easel
 
 https://blog.stylingandroid.com/prism-fundamentals-part-2/
 https://blog.stylingandroid.com/prism-fundamentals-part-3/
