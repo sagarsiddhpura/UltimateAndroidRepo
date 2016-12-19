@@ -1,2 +1,0 @@
-https://github.com/evernote/android-job
-https://github.com/code-mc/servicetask

@@ -1,0 +1,15 @@
+Alarms
+https://plus.google.com/+AndroidDevelopers/posts/GdNrQciPwqo
+http://www.concretepage.com/android/android-alarm-clock-tutorial-to-schedule-and-cancel-alarmmanager-pendingintent-and-wakefulbroadcastreceiver-example
+https://medium.com/@vitovalov/adb-date-changer-app-64f91e2bb5bd#.dn5ly69iv
+http://iteachyouhowtocode.com/2016/11/19/schedule-a-motivated-quote-notification-every-day-part-1/
+
+http://pguardiola.com/blog/darealfragmentation-alarms/
+https://github.com/Guardiola31337/darealfragmentation
+
+
+Job Schedulers
+https://github.com/evernote/android-job
+https://github.com/code-mc/servicetask
+https://solidgeargroup.com/android-priority-job-queue-background-tasks
+https://github.com/hypertrack/smart-scheduler-android

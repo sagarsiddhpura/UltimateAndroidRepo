@@ -12,6 +12,10 @@ https://github.com/rehacktive/waspdb
 https://github.com/FabianTerhorst/Iron
 https://github.com/FabianTerhorst/Floppy
 https://github.com/pakoito/RxPaper
+https://github.com/jasonwyatt/squeaky-android
+
+
+https://www.raywenderlich.com/134752/couchbase-tutorial-android
 
 http://gradlewhy.ghost.io/realm-results-with-recyclerview/
 
@@ -25,6 +29,7 @@ http://yvonne.idescout.com/2016/04/sqlscout-20-manage-databases-in-your.html
 http://blog.alexsimo.com/delightful-persistence-android/
 https://www.reddit.com/r/androiddev/comments/4juhip/its_there_an_orm_with_all_the_flexibility_as_pure/
 https://www.reddit.com/r/androiddev/comments/53z2kk/which_orm_solution_should_i_choose_in_2016/
+https://github.com/RobotPajamas/Stetho-Couchbase
 
 
 With recycler view

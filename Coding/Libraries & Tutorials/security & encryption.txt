@@ -23,6 +23,8 @@ http://devdeeds.com/create-sha1-key-using-android-studio/
 https://www.reddit.com/r/androiddev/comments/4ukhz4/android_piracy_sort_of/
 https://github.com/doridori/Android-Security-Reference/blob/master/vulns/checklist.md
 https://realm.io/news/360andev-ana-baotic-best-practices-app-security-android/
+https://www.reddit.com/r/androiddev/comments/5d8phc/how_do_you_secure_aws_access_keys/
+https://commonsware.com/blog/2016/11/28/certificate-pinning-failing-open.html
 
 
 Encryption
@@ -54,3 +56,4 @@ https://github.com/doridori/Android-Security-Reference/blob/master/api/keystore.
 https://github.com/javiersantos/PiracyChecker
 https://www.hashicorp.com/blog/vault.html
 https://github.com/jedisct1/libsodium
+https://blog.devknox.io/devknox-autocorrect-for-security-issues/

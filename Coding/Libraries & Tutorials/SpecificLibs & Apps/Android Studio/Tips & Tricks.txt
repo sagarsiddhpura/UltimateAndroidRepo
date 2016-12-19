@@ -17,6 +17,7 @@ https://www.reddit.com/r/androiddev/comments/4i54rj/is_there_a_way_to_improve_fo
 https://www.reddit.com/r/androiddev/comments/4v5ml2/the_hidden_productivity_guide_of_android_studio/
 https://www.reddit.com/r/androiddev/comments/4vhqck/whats_your_best_little_tip_or_trick/
 https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.39qmxt15t
+https://www.reddit.com/r/androiddev/comments/5c8b0a/i_know_android_studio_allows_you_to_make_custom/
 
 
 Build + testing

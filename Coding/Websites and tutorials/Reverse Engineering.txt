@@ -9,3 +9,9 @@ https://hackerlists.com/android-reverse-engineering-tools/
 http://www.technicaladvices.com/2016/09/03/reverse-engineering-android-app-binaries-apk-for-legitimate-analysis/
 https://medium.com/@scottmeschke/android-decompile-deepdive-battle-net-authenticator-dc1b1b65964#.txcud66tg
 http://www.apk-deguard.com/
+http://eliasbagley.github.io/reverseengineering/2016/12/02/reverse-engineering-instagram-api.html
+
+
+Tools
+https://sourceforge.net/projects/dex2jar/
+http://jd.benow.ca/

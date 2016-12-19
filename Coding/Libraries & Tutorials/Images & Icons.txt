@@ -129,6 +129,7 @@ https://developers.aviary.com/pricing
 https://github.com/Yalantis/uCrop
 https://github.com/christophesmet/android_maskable_layout
 https://github.com/ArthurHub/Android-Image-Cropper
+https://medium.com/uptech-team/how-to-create-beautiful-text-stickers-for-android-10eeea0cee09#.ucmwmshzx
 
 
 Image Picker
@@ -167,6 +168,8 @@ https://github.com/tesseract-ocr
 https://medium.com/@qhutch/android-simple-and-fast-image-processing-with-renderscript-2fa8316273e1#.ojr1yf4xe
 https://github.com/AppLozic/Applozic-Android-SDK
 https://github.com/tesseract-ocr/tesseract
+https://www.reddit.com/r/androiddev/comments/5ed6p8/canny_edge_filter_in_renderscript_someone_did_it/
+https://github.com/wonderkiln/blurkit-android
 
 
 Image Slider
@@ -174,9 +177,12 @@ https://github.com/daimajia/AndroidImageSlider
 
 
 Icons
+http://www.flaticon.com/
 https://github.com/jahirfiquitiva/IconShowcase-Dashboard/
+
 libs
 https://github.com/borax12/IconPackHelper
+https://github.com/JoanZapata/android-iconify
 
 http://bitdroid.de/Android-Material-Icon-Generator/
 https://romannurik.github.io/AndroidAssetStudio/index.htmlx
@@ -215,7 +221,6 @@ http://www.sketchappsources.com/resource/download-733.html
 http://graphicburger.com/icons-set/
 https://github.com/iconic/open-iconic
 https://materialdesignicons.com/
-http://www.flaticon.com/
 http://android.pakmax.net/2015/07/free-android-icons-libraries.html
 http://mikepenz.github.io/Android-Iconics/
 

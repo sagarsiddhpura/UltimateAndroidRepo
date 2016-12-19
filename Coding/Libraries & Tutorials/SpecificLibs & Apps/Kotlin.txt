@@ -28,6 +28,8 @@ https://github.com/maannajjar/lattekit
 https://github.com/AngusMorton/kedux
 http://kovenant.komponents.nl/
 https://github.com/FabianTerhorst/Iron
+https://github.com/alxrm/Audiogram
+https://github.com/alxrm/Timecon
 
 
 TEsting

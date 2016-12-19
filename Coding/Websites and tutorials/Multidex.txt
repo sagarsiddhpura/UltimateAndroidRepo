@@ -2,3 +2,4 @@ https://medium.com/@Macarse/lazy-loading-dex-files-d41f6f37df0e
 https://developers.soundcloud.com/blog/congratulations-you-have-a-lot-of-code-remedying-androids-method-limit-part-1
 https://developers.soundcloud.com/blog/congratulations-you-have-a-lot-of-code-remedying-androids-method-limit-part-2
 https://github.com/KeepSafe/dexcount-gradle-plugin
+https://www.reddit.com/r/androiddev/comments/5cemva/randomly_decided_to_check_my_method_count/

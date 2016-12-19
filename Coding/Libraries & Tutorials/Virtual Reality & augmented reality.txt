@@ -25,3 +25,7 @@ Vuforia
 Marker/Image tracking
 Android / iOS / Unity3D / (Windows phone, coming soonish)
 $500 per app / project, Free version with Watermark
+
+DayDream
+http://www.tengio.com/blog/crossing-realities-ready-to-daydream/
+https://developers.google.com/vr/android/samples/treasure-hunt

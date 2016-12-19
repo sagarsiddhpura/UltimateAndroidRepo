@@ -70,6 +70,7 @@ https://github.com/KanbanApps/GradleKillerIdeaPlugin
 https://plugins.jetbrains.com/plugin/7794?pr=idea
 https://github.com/myotive/stop-gradle-now
 https://github.com/shchurov/GradleStop
+https://github.com/R4md4c/ResFoldersDetector
 
 
 

@@ -76,6 +76,10 @@ https://medium.com/@nullthemall/diffutil-is-a-must-797502bc1149#.r6uuf0gor
 https://github.com/MikiLoz92/FancyAdapters
 https://github.com/nekocode/ItemPool
 https://github.com/princeparadoxes/RecyclerBindableAdapter
+https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.eve0telw7
+https://github.com/inloop/SimpleRecyclerAdapter
+https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.9wxdd9sif
+https://github.com/airbnb/epoxy
 
 
 Expandabele RV
@@ -85,6 +89,10 @@ https://github.com/bignerdranch/expandable-recycler-view
 https://bitbucket.org/d3m0li5h3r/expandinglayout
 https://github.com/vkondrav/SwiftAdapter
 https://robots.thoughtbot.com/introducing-expandablerecyclerview
+https://github.com/cachapa/ExpandableLayout
+https://github.com/NextFaze/power-adapters
+https://github.com/AAkira/ExpandableLayout
+https://github.com/thoughtbot/expandable-recycler-view
 
 
 Pagination
@@ -139,6 +147,7 @@ https://matalamaki.fi/2015/09/24/implementing-sticky-recyclerview-grid-headers-o
 Headers
 https://github.com/timehop/sticky-headers-recyclerview
 https://github.com/emilsjolander/StickyListHeaders
+https://github.com/bgogetap/StickyHeaders
 
 
 Click listeners
@@ -162,3 +171,4 @@ https://github.com/alex-townsend/SwipeOpenItemTouchHelper
 
 Listview
 https://github.com/idunnololz/AnimatedExpandableListView
+https://github.com/anastr/SpongebobList

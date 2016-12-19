@@ -1,6 +1,0 @@
-https://plus.google.com/+AndroidDevelopers/posts/GdNrQciPwqo
-http://www.concretepage.com/android/android-alarm-clock-tutorial-to-schedule-and-cancel-alarmmanager-pendingintent-and-wakefulbroadcastreceiver-example
-https://medium.com/@vitovalov/adb-date-changer-app-64f91e2bb5bd#.dn5ly69iv
-
-http://pguardiola.com/blog/darealfragmentation-alarms/
-https://github.com/Guardiola31337/darealfragmentation

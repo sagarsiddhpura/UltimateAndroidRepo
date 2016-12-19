@@ -62,7 +62,12 @@ http://rogerdudler.github.io/git-guide/
 https://www.reddit.com/r/androiddev/comments/5b0fda/anyone_try_blocking_entire_countries_to_improve/
 https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.39qmxt15t
 https://github.com/danielzeller/Depth-LIB-Android-
+http://iteachyouhowtocode.com/2016/11/19/schedule-a-motivated-quote-notification-every-day-part-1/
 
 
 Update notifier
 https://github.com/facundoolano/google-play-keywords
+
+
+TT2
+https://www.reddit.com/r/TapTitans2/comments/5i6yua/new_player_guide_to_stages_1800_including/

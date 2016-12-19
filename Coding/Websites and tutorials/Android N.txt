@@ -8,5 +8,10 @@ https://commonsware.com/blog/2016/08/31/granting-permissions-uri-intent-extra.ht
 https://www.bignerdranch.com/blog/android-activity-lifecycle-onStop/
 https://commonsware.com/blog/2016/09/12/multi-window-multi-instance-like-it-or-not.html
 https://github.com/klinker24/nougat-7.1-playground
+http://techbeacon.com/android-nougat-cool-new-features-every-app-should-support
+https://www.novoda.com/blog/exploring-android-nougat-7-1-app-shortcuts/
+https://www.reddit.com/r/androiddev/comments/5egnms/app_shortcuts_with_multiple_packagenames/
+https://blog.aritraroy.in/whats-new-in-android-nougat-from-a-developer-s-point-of-view-ed41b77d6458#.hxez4xn2f
+https://blog.cryptographyengineering.com/2016/11/24/android-n-encryption/
 
 https://github.com/pcevikogullari/AndroidShortcuts

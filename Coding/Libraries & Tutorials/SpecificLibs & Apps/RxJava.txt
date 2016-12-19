@@ -58,6 +58,7 @@ https://medium.com/@sebaslogen/rxjava-recipe-convert-any-android-event-into-a-st
 https://medium.com/yammer-engineering/converting-callback-async-calls-to-rxjava-ebc68bde5831#.dxrwg7ogf
 https://medium.com/@ragdroid/rxify-a-simple-spell-for-complex-rxjava-operators-part-4-eb929d3e2240#.m7ivhuwwg
 https://adityaladwa.wordpress.com/2016/10/25/offline-first-reactive-android-apps-repository-pattern-mvp-dagger-2-rxjava-contentprovider/
+https://www.reddit.com/r/androiddev/comments/5d6z6u/sticky_events_rxbus/
 
 
 Libs
@@ -141,6 +142,7 @@ https://github.com/guiwro/StarWrobs
 https://github.com/domsu/compass
 https://github.com/LucasFoulonMongai/RxDemo
 https://github.com/esoxjem/MovieGuide
+https://github.com/RobertDeveloper/RMaps.0.9.x
 
 
 Samples
@@ -185,7 +187,19 @@ https://www.reddit.com/r/androiddev/comments/4tbd04/rx_defer_subscribe_until_ano
 https://www.reddit.com/r/androiddev/comments/4tw23l/can_anyone_explain_rxjava_like_im_5/
 http://www.andevcon.com/news/crash-course-on-rxjava-with-thomas-nield-part-1
 https://medium.com/@ragdroid/rxify-a-simple-spell-for-complex-rxjava-operators-part-2-b82b379f5c7f#.rhtgqdagj
+https://medium.com/@mplacona/building-a-beautifully-smart-form-in-android-using-rxjava-92c4d27bb060#.t178p0xem
+https://medium.com/@scottalancooper/pausing-and-resuming-a-stream-in-rxjava-988a0977b771#.2ilgy35cj
+http://www.andevcon.com/news/rxify-the-anti-cache-then-network-or-network-then-cache-problem
+
+
+Articles
+https://hackernoon.com/rxrecipes-wrap-your-way-to-rx-fd40eb5254b6#.bq9tgej9u
 
 
 Testing
 https://medium.com/azimolabs/testing-rx-code-7918d7ee1680#.bg43yanoa
+
+
+
+Rx2
+https://medium.com/@peter.tackage/overriding-rxandroid-schedulers-in-rxjava-2-5561b3d14212#.gkzf9eqi1

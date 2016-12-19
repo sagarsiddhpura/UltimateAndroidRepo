@@ -1,1 +1,2 @@
 http://support.crashlytics.com/knowledgebase/articles/388925-beta-distributions-with-gradle
+https://medium.com/@n8ebel/further-simplification-of-android-app-distribution-with-beta-by-crashlytics-96eec971a729#.66p1kqo7v

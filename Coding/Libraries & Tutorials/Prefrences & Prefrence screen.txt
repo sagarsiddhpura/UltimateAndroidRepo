@@ -3,6 +3,7 @@ http://engineering.flipboard.com/2015/09/psync/
 https://plus.google.com/+AndroidDevelopers/posts/9kZ3SsXdT2T
 https://github.com/Flipboard/psync
 https://github.com/codevscolor/MaterialPreference
+https://www.reddit.com/r/androiddev/comments/5dol3v/preference_fragments/
 
 Shared Prefrences
 https://github.com/konmik/proxypref
@@ -16,6 +17,8 @@ https://github.com/orhanobut/hawk
 https://github.com/cesarferreira/PainlessPrefs
 https://github.com/Zookey/UniversalPreferences
 
+Debug
+https://github.com/pavel163/ProbeTools
 
 Rx
 https://github.com/pwittchen/prefser

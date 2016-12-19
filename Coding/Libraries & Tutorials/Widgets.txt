@@ -3,6 +3,7 @@ http://www.materialdoc.com/components/
 https://github.com/alexive/visual-goodies
 https://github.com/navasmdc/MaterialDesignLibrary
 https://github.com/nasahapps/Material-Design-Toolbox/
+https://github.com/material-components/material-components-android
 
 
 Placeholder
@@ -40,6 +41,8 @@ https://github.com/GIGAMOLE/ArcProgressStackView
 https://github.com/ishan1604/uberprogressview
 https://github.com/andyb129/ChompProgressView
 https://github.com/WassimBenltaief/FlowLayout
+https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.841ccsgfv
+https://github.com/enginebai/SwagPoints
 
 
 FAB
@@ -53,6 +56,7 @@ https://medium.com/@nullthemall/floatingactionmenu-floatingactionbutton-behavior
 https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/
 https://github.com/DmitryMalkovich/circular-with-floating-action-button
 https://github.com/rubensousa/FloatingToolbar
+https://github.com/JoaquimLey/FabOptions
 
 Articles
 http://blog.makingiants.com/fab-compat-margins/
@@ -101,6 +105,7 @@ http://matthewwear.ghost.io/for-posterity-how-to-render-html-in-a-text-view-and-
 http://blog.danlew.net/2015/10/12/beware-edittext-on-api-21/
 http://blog.rowburst.com/229/change-edittext-line-color-with-animation/
 https://engineering.apolloagriculture.com/android-finite-autocomplete.html
+https://medium.com/uptech-team/how-to-create-beautiful-text-stickers-for-android-10eeea0cee09#.ucmwmshzx
 
 
 TextView
@@ -115,6 +120,7 @@ https://github.com/Commit451/BaselineGridTextView
 https://github.com/Actinarium/Aligned
 https://github.com/armcha/AutoLinkTextView
 http://saket.me/better-url-handler-textview-android/
+https://github.com/jaychang0917/SimpleText
 
 
 
@@ -143,6 +149,7 @@ https://github.com/PaoloRotolo/AppIntro
 https://github.com/IntruderShanky/Flare
 https://github.com/Cleveroad/FanLayoutManager
 https://rubensousa.github.io/2016/08/viewpagercards
+http://dubedout.eu/2016/11/13/viewpager-indicator-libraries-you-should-know/?utm_source=reddit&utm_medium=forum&utm_campaign=vpi_libs
 
 
 Draw
@@ -280,7 +287,6 @@ https://github.com/mikeyxkcd/MaterialContentOverflow
 https://github.com/vinaygaba/CreditCardView
 https://github.com/mattlogan/SelectableMapFragment
 https://github.com/roughike/SwipeSelector
-https://github.com/JoeBudic/Multi-point-Circular-Seekbar
 https://bitbucket.org/d3m0li5h3r/expandinglayout
 https://github.com/SilenceDut/ExpandableLayout
 https://github.com/GIGAMOLE/ArcProgressStackView
@@ -294,6 +300,7 @@ https://github.com/jayrambhia/Tooltip
 https://github.com/cooltechworks/ScratchView
 https://github.com/elevenetc/DraggableView
 https://github.com/robinhood/ticker
+https://github.com/shilgapira/TickerView
 https://github.com/lufficc/StateLayout
 https://github.com/anastr/SpeedView
 https://github.com/noties/ScrollingBackgroundView
@@ -301,6 +308,14 @@ https://github.com/andremion/Music-Cover-View
 https://github.com/janishar/PlaceHolderView
 https://github.com/Cleveroad/WaveInApp
 https://github.com/OHoussein/android-material-play-pause-view
+https://github.com/kofigyan/Thermometer
+https://github.com/lawloretienne/TinderStack
+
+
+Seekbar
+https://github.com/JoeBudic/Multi-point-Circular-Seekbar
+https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.841ccsgfv
+https://github.com/enginebai/SwagPoints
 
 
 Date & Time
@@ -332,6 +347,7 @@ http://www.dmytrodanylyk.com/pages/blog/error-label.html
 https://www.novoda.com/blog/alternative-interfaces/
 https://www.reddit.com/r/androiddev/comments/4h8c73/what_is_the_best_practice_for_architecting_a/
 http://ivankocijan.xyz/writing-a-maintainable-custom-view-in-android/
+https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.jtyltjyh4
 
 
 Bottom bar
@@ -387,6 +403,7 @@ https://github.com/WassimBenltaief/FlowLayout
 
 Constraint Layout
 https://github.com/hitherejoe/Constraints
+https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013#.c5rgvgpmg
 
 
 Cartwheel

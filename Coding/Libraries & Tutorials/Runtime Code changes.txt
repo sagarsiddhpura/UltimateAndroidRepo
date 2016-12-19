@@ -3,3 +3,4 @@ https://github.com/eleme/Amigo
 https://github.com/Commit451/ResourcesPoet
 https://github.com/flipkart-incubator/proteus
 https://github.com/Commit451/Easel
+https://github.com/alibaba/freeline

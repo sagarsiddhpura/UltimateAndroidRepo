@@ -59,6 +59,7 @@ https://www.safedk.com/in_app_protection?utm_source=reddit&utm_medium=Link%20ad&
 
 Optimize size
 https://engineeringblog.yelp.com/2016/05/yelp-android-app-went-on-a-diet.html
+https://medium.com/picnic-engineering/making-png-optimization-part-of-your-apps-diet-47fb04e8a0c#.fk2li1ly8
 
 
 List & RecyclerView
@@ -71,3 +72,6 @@ https://www.reddit.com/r/androiddev/comments/4h13w7/google_data_compression_prox
 
 Gen Layout programatically
 https://github.com/FabianTerhorst/FastLayout
+
+Framerate
+https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8550413c1c#.d73o6ztsa

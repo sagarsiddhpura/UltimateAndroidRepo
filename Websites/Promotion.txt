@@ -43,12 +43,14 @@ https://www.reddit.com/r/androidbetaapps
 https://docs.google.com/spreadsheets/d/1ckAwPjyzOnIkNJpc2hNxxIWSO5kCx32rqGGbwuA9z2I/edit#gid=0
 http://www.kalzumeus.com/greatest-hits/
 https://medium.com/@cesarmcferreira/building-mobile-apps-bringing-home-the-bacon-f23e35be4a74#.f9z7jauhq
+https://blog.appnext.com/2016/11/breaching-the-japanese-game-market-mission-impossible/2/
 
 https://www.reddit.com/r/androiddev/comments/442sft/mod_approved_android_promos_launching_tomorrow/
 https://medium.com/@fredgrott/build-your-app-audience-932a72d8df92#.eztl9u8xj
 http://androidpromocode.com/
 https://github.com/alexmfink/promo-card-maker
 http://mindbowser.com/blog/7-techniques-to-successfully-growth-hack-your-apps/
+https://www.developereconomics.com/app-user-acquisition
 
 One url for app
 http://rdrct.it/
@@ -97,3 +99,4 @@ http://translatelab.com/android-ios-app-review-sites-list/
 
 ASO
 https://www.reddit.com/r/androiddev/comments/4yhk8p/ive_developed_a_tool_that_takes_care_of_your_aso/
+https://www.reddit.com/r/androiddev/comments/5dzi4z/looking_for_resources_and_feedback_for_aso/

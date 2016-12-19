@@ -1,2 +1,0 @@
-https://github.com/vdurmont/emoji-java
-https://github.com/nekocode/Emojix

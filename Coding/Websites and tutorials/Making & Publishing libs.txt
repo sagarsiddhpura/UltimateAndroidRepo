@@ -23,3 +23,5 @@ http://www.survivingwithandroid.com/2016/01/6-steps-to-develop-and-publish-andro
 https://stfalcon.com/en/blog/post/create-and-publish-your-Android-library
 http://hannesdorfmann.com/android/library-abstract-class
 https://github.com/renaudcerrato/appengine-maven-repository
+https://www.moesif.com/blog/technical/developer-experience/Developer-Experience-4-Usability-Tricks/
+https://inthecheesefactory.com/blog/how-to-setup-private-maven-repository/en

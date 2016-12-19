@@ -1,3 +1,5 @@
 https://github.com/kibotu/KalmanRx
 https://github.com/MarsVard/NorthWest
 https://github.com/dvoiss/SensorAnnotations
+
+https://github.com/kofigyan/Thermometer

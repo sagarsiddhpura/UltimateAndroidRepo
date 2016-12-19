@@ -30,6 +30,9 @@ https://realm.io/news/gotocph-mattias-kappler-reactive-architecture-android/
 https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65#.amrzl6bfu
 https://mattdevelops.github.io/android/2016/08/13/androidmvp.html
 
+MVP
+http://engineering.hackerearth.com/2016/11/17/wtf-is-mvp/
+
 
 Libs
 https://github.com/Karumi/Rosie

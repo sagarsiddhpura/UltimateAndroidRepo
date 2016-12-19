@@ -6,3 +6,7 @@ https://github.com/vignjatijevic/petsciiview
 https://github.com/flipkart-incubator/proteus
 
 https://medium.com/@janishar.ali/android-tinder-swipe-view-example-3eca9b0d4794#.et8g86gp4
+
+
+Generate Programmatically
+https://github.com/tmorcinek/android-codegenerator-library

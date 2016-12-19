@@ -228,6 +228,11 @@ https://github.com/klinker24/Android-SlidingMessaging
 https://github.com/Mavamaarten/vk_music_android
 https://github.com/chaitanyanettem/searchforreddit
 https://github.com/danielzeller/Depth-LIB-Android-
+https://github.com/RobertDeveloper/RMaps.0.9.x
+https://github.com/PSPDFKit-labs/QuickDemo
+https://github.com/zunjae/anyme
+https://github.com/GetStream/Stream-Example-Android
+https://github.com/kickstarter/android-oss
 
 
 

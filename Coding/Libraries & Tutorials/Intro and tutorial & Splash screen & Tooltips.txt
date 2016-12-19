@@ -1,18 +1,19 @@
 https://github.com/PaoloRotolo/AppIntro
 
 https://github.com/worker8/TourGuide
-https://www.reddit.com/r/androiddev/comments/38nu7x/how_can_i_make_this_onboarding_animation/
-https://www.reddit.com/r/androiddev/comments/3mzhes/youtube_android_app_focus_overlay/
-https://www.pinterest.com/pin/155726099589353989/
+
 https://github.com/deano2390/MaterialShowcaseView
+
 https://github.com/amlcurran/ShowcaseView
+
 https://github.com/sacot41/SCViewPager
+
 https://github.com/ViksaaSkool/AwesomeSplash
+
 https://medium.com/@lucasurbas/placeholder-ui-launch-screen-d85c35552119
 
-https://github.com/jonfinerty/Once
 
-https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f
+https://github.com/jonfinerty/Once
 
 
 https://github.com/smasoumi/FAB-Loading
@@ -32,12 +33,27 @@ https://github.com/TangoAgency/material-intro-screen
 https://github.com/Cleveroad/SlidingTutorial-Android
 https://github.com/armcha/Vertical-Intro
 http://mockuphone.com/
-
-https://www.reddit.com/r/androiddev/comments/3pzy2u/how_do_i_implement_a_splash_screen_like_chet_is/
-https://www.useronboard.com/onboarding-teardowns/
-
 https://github.com/medyo/android-about-page
+
 
 Highlight views
 https://github.com/anastr/SimpleTargetView
 https://github.com/KeepSafe/TapTargetView
+
+
+Tutorials & Articles
+https://www.reddit.com/r/androiddev/comments/38nu7x/how_can_i_make_this_onboarding_animation/
+https://www.reddit.com/r/androiddev/comments/3mzhes/youtube_android_app_focus_overlay/
+
+https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f
+
+
+https://www.useronboard.com/onboarding-teardowns/
+
+Splash Screens
+https://www.reddit.com/r/androiddev/comments/5grlac/create_a_splash_screen_on_android_the_right_way/
+
+
+Design
+https://www.pinterest.com/pin/155726099589353989/
+https://www.reddit.com/r/androiddev/comments/3pzy2u/how_do_i_implement_a_splash_screen_like_chet_is/

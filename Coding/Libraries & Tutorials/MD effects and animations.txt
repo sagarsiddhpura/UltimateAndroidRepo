@@ -18,6 +18,7 @@ https://github.com/alexive/visual-goodies
 https://github.com/andkulikov/transitions-everywhere
 https://github.com/noties/ScrollingBackgroundView
 https://github.com/LiveTyping/CannyViewAnimator
+https://github.com/facebookincubator/Keyframes
 
 
 Animations
@@ -89,11 +90,18 @@ https://rubensousa.github.io/2016/08/viewpagercards
 https://github.com/ImmortalZ/TransitionHelper
 https://blog.prototypr.io/applying-meaningful-motion-on-android-a271a873bd78#.2ui7mf2yc
 https://github.com/danielzeller/Depth-LIB-Android-
+https://github.com/hujiaweibujidao/FabDialogMorph
 
 https://github.com/xmuSistone/android-page-transition
 
+
 Tutorials
 http://www.ssaurel.com/blog/create-a-running-man-game-animation-on-android/
+https://www.raywenderlich.com/128105/introduction-android-animations
+https://guides.codepath.com/android/Shared-Element-Activity-Transition
+Nice one:http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html
+https://github.com/alexjlockwood/adp-delightful-details
+https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.voxqxoyw4
 
 
 Tools

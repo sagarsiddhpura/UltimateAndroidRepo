@@ -33,3 +33,9 @@ webtranslateit lokalise
 
 Test
 https://gist.github.com/davidwhitman/1ec946faeebd73924fe5855217fc8697
+
+
+Reddit
+https://www.reddit.com/r/androiddev/comments/5cw3n3/note_to_devs_free_translation_for_play_store_app/
+
+https://www.reddit.com/r/androiddev/comments/5cwj2d/when_translating_your_app_which_languages_give/

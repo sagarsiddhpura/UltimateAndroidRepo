@@ -35,6 +35,7 @@ http://help.papertrailapp.com/kb/configuration/configuring-centralized-logging-f
 https://caster.io/episodes/android-studio-applying-logcat-filters/
 https://github.com/charbgr/SeismicInterceptor
 http://flowup.io/
+https://github.com/elvishew/xLog
 
 
 Network remote logging

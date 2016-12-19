@@ -5,6 +5,7 @@ http://appfollow.io/
 Flurry
 https://mixpanel.com/
 http://blog.oursky.com/2016/03/29/guide-to-google-analytics-for-websites/
+https://github.com/busybusy/AnalyticsKit-Android
 
 Crash Reporting
 https://get.fabric.io/
@@ -29,3 +30,7 @@ https://stanfy.com/blog/tools-and-platforms-for-mobile-app-analytics-part-ii-usa
 
 https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.cxhyhrx6k
 https://www.captechconsulting.com/blogs/a-comparison-of-android-crash-reporting-tools
+
+
+Articles
+https://medium.com/@Actine/organize-your-analytics-code-be9e5ff91543#.quba5985c
