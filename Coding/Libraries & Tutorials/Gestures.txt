@@ -15,6 +15,10 @@ https://github.com/clackbib/KnockDetector
 https://github.com/lawloretienne/TinderStack
 https://github.com/eschao/android-PageFlip
 
+Swipe
+https://github.com/alexandrius/accordion-swipe-layout
+
+
 Swipe refresh listener
 https://github.com/aloj22/ListenerSwipeRefreshLayout
 

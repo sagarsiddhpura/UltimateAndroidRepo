@@ -1,1 +1,2 @@
 https://www.reddit.com/r/androiddev/comments/5eba72/any_open_source_ocr_android_libs_tesseract_for/
+https://solidgeargroup.com/ocr-on-android

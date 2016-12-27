@@ -1,3 +1,4 @@
 https://github.com/jaydeepw/poly-picker
 https://github.com/VEINHORN/ScrollGalleryView
 https://github.com/drose379/picturePerfect
+https://github.com/chrisbanes/PhotoView

@@ -16,3 +16,4 @@ http://www.androiddesignpatterns.com/2016/08/contextcompat-getcolor-getdrawable.
 https://medium.com/@chrisbanes/appcompat-v23-2-daynight-d10f90c83e94#.xqhwm93t9
 
 https://gist.github.com/Jawnnypoo/ed9a61042177961db2112f637c18560f
+http://blog.octo.com/en/android-styles-themes-for-developers/

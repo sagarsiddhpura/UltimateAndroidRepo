@@ -25,3 +25,5 @@ http://hannesdorfmann.com/android/library-abstract-class
 https://github.com/renaudcerrato/appengine-maven-repository
 https://www.moesif.com/blog/technical/developer-experience/Developer-Experience-4-Usability-Tricks/
 https://inthecheesefactory.com/blog/how-to-setup-private-maven-repository/en
+https://5am.technology/2016/12/fix-bugs-third-party-dependency-jitpack/
+https://www.theguardian.com/technology/developer-blog/2016/dec/06/how-to-publish-an-android-library-a-mysterious-conversation

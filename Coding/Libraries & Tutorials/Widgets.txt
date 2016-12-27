@@ -201,6 +201,7 @@ https://github.com/varunest/SparkButton
 https://github.com/Everseat/LyftAppCompatButton
 https://github.com/dmytrodanylyk/android-morphing-button
 https://github.com/ceryle/SegmentedButton
+https://github.com/alxrm/youtube-play-icon
 
 
 Navigation drawer
@@ -274,6 +275,7 @@ https://medium.com/google-developers/intercepting-everything-with-coordinatorlay
 
 Snackbar
 https://github.com/SandroMachado/restaurant
+http://www.materialdoc.com/snackbar/#withcustomview
 
 
 Cards
@@ -310,6 +312,10 @@ https://github.com/Cleveroad/WaveInApp
 https://github.com/OHoussein/android-material-play-pause-view
 https://github.com/kofigyan/Thermometer
 https://github.com/lawloretienne/TinderStack
+https://github.com/alxrm/animated-clock-icon
+https://github.com/alexandrius/accordion-swipe-layout
+https://github.com/PoePoeMyintSwe/ScrollablePanel/
+https://github.com/Kelin-Hong/ScrollablePanel
 
 
 Seekbar
@@ -359,6 +365,8 @@ https://github.com/armcha/LuseenBottomNavigation
 like spaces app
 https://github.com/armcha/Space-Navigation-View
 https://github.com/Cleveroad/LoopBar
+https://github.com/DevLight-Mobile-Agency/NavigationTabBar
+https://github.com/peng8350/JPTabBar
 
 
 Switch

@@ -44,6 +44,7 @@ https://github.com/sephiroth74/ImageViewZoom
 https://codecrafted.net/svgtoandroid#usage
 http://sarafarnsworth.tumblr.com/page/8
 https://github.com/TangoAgency/avatar-view
+https://github.com/chrisbanes/PhotoView
 
 
 Image Gallery

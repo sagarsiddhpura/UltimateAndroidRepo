@@ -4,3 +4,5 @@ https://github.com/ImangazalievM/Scripto
 https://github.com/Wikia/ponto
 https://github.com/tcoulter/jockeyjs
 https://github.com/pengwei1024/JsBridge
+
+https://medium.com/tech-quizlet/comparison-shopping-searching-for-javascript-engines-for-android-bdc656538f2e#.5r1hucncx

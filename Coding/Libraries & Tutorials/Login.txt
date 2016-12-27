@@ -4,3 +4,7 @@ http://androidcss.com/android/android-login-form-material-design/
 https://medium.com/@etiennelawlor/rxjava-on-the-sign-in-screen-9ecb66b88572#.cd2s6f9ug
 https://www.ykode.com/2015/02/20/android-frp-rxjava-retrolambda.html
 https://www.reddit.com/r/androiddev/comments/57t4b9/whats_the_recommended_oauth2_flow_for_an_android/
+https://medium.com/@p.tournaris/android-improving-sign-in-experience-with-google-sign-in-and-smartlock-f0bfd789602a#.iff40hwy0
+
+
+https://github.com/mohak1712/SignUpLogin

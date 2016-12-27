@@ -104,6 +104,7 @@ https://github.com/L4Digital/RxLoader
 https://github.com/MarsVard/NorthWest
 https://github.com/patloew/RxLocation
 https://github.com/pakoito/RxPaper
+https://github.com/jaychang0917/SocialLoginManager
 
 
 Good
@@ -194,6 +195,7 @@ http://www.andevcon.com/news/rxify-the-anti-cache-then-network-or-network-then-c
 
 Articles
 https://hackernoon.com/rxrecipes-wrap-your-way-to-rx-fd40eb5254b6#.bq9tgej9u
+https://medium.com/@ragdroid/rxify-maintaining-order-in-auto-complete-search-d5c46ba26578#.ecw5mzh6x
 
 
 Testing

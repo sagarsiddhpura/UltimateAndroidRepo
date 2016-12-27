@@ -46,3 +46,7 @@ https://www.reddit.com/r/androiddev/comments/4wdtjk/best_android_talks/
 
 
 https://github.com/nisrulz/android-tips-tricks
+
+
+Layouts
+https://elfin-vibraphone.gomix.me/

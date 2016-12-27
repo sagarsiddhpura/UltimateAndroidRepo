@@ -1,5 +1,6 @@
 http://joerichard.net/android/android-material-design-searchview-example/
 https://coderwall.com/p/zpwrsg/add-search-function-to-list-view-in-android
+https://medium.com/@ragdroid/rxify-maintaining-order-in-auto-complete-search-d5c46ba26578#.ecw5mzh6x
 
 https://github.com/elastic/elasticsearch
 https://github.com/wenhuaijun/SearchPictureTool

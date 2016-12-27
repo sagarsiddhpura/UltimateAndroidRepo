@@ -233,7 +233,14 @@ https://github.com/PSPDFKit-labs/QuickDemo
 https://github.com/zunjae/anyme
 https://github.com/GetStream/Stream-Example-Android
 https://github.com/kickstarter/android-oss
+https://github.com/SolidScorpion/Shibagram
+https://github.com/FolioReader/FolioReader-Android
+https://github.com/Miskerest/Hasher
 
+
+
+Ionic
+https://github.com/smartapant/ionic2-reddit-reader
 
 
 Image editing & Processing
@@ -422,3 +429,8 @@ https://github.com/klinker24/nougat-7.1-playground
 
 Ubuntu
 https://code.launchpad.net/unav
+
+
+
+Login
+https://github.com/mohak1712/SignUpLogin

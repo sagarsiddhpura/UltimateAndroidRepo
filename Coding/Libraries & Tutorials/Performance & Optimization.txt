@@ -75,3 +75,7 @@ https://github.com/FabianTerhorst/FastLayout
 
 Framerate
 https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8550413c1c#.d73o6ztsa
+
+
+Offline
+https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.aeflkxu8v
