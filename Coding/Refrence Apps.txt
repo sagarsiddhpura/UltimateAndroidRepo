@@ -236,6 +236,9 @@ https://github.com/kickstarter/android-oss
 https://github.com/SolidScorpion/Shibagram
 https://github.com/FolioReader/FolioReader-Android
 https://github.com/Miskerest/Hasher
+https://github.com/tpb1908/AndroidProjectsClient
+https://github.com/Yuncun/AbusiveGymReminder
+https://github.com/davidwhitman/deep-link-launcher
 
 
 

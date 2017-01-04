@@ -22,6 +22,10 @@ https://stories.uplabs.com/this-material-design-app-will-make-you-want-to-study-
 https://alty.software/blog/how-to-develop-an-app-like-uber-tips-from-taxi-app-developers/
 http://www.androidauthority.com/how-to-create-an-sms-app-721438/
 https://medium.com/uptech-team/how-to-create-beautiful-text-stickers-for-android-10eeea0cee09#.ucmwmshzx
+https://hackernoon.com/make-your-android-app-look-less-shitty-5dd63c4938f1#.9ev4szdy7
+https://www.youtube.com/watch?v=Fy0aCDmgnxg&feature=youtu.be
+https://www.reddit.com/r/androiddev/comments/5jhd0z/engineering_the_architecture_behind_ubers_new/
+
 
 http://pttrns.com/?did=6&page=2
 https://plus.google.com/+LiamSpradlin/posts/jVzRHAq3Vno
@@ -31,3 +35,4 @@ https://uxdesign.cc/the-absolute-minimum-android-developers-need-to-know-about-u
 http://roroche.github.io/AndroidStarter/
 
 http://www.survivingwithandroid.com/2014/11/develop-android-weather-app-with-material-design-2.html
+https://overflow.buffer.com/2016/12/22/rebuild-android-composer

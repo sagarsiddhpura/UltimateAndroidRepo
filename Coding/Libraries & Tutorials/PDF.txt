@@ -2,3 +2,25 @@ https://www.reddit.com/r/androiddev/comments/40v5w0/does_anyone_have_an_experien
 http://www.ssaurel.com/blog/learn-to-generate-pdf-documents-for-your-android-application/
 https://pspdfkit.com/blog/2016/how-to-build-a-screenreader/
 https://www.reddit.com/r/androiddev/comments/52pd85/filling_pdf_form_interactively/
+https://solidgeargroup.com/pdf-reports-android
+
+
+iText 5.0+ Licencia AGPL
+
+iText 4.2 Licencia MPL/LGPL
+
+PDF Box Apache License, Version 2.0
+
+JPedal Licencia LGPL
+
+FOP Licencia Apache, Version 2.0
+
+gnujpdf Licencia LGPL
+
+PJX Licencia GPLv2
+
+jPod Licencia BSD
+
+Android PDF Writer Licencia BSD
+
+PdfDocument (Propia de Android. Requiere un nivel de API 19 o superior)

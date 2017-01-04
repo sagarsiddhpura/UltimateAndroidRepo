@@ -64,3 +64,6 @@ https://plugins.jetbrains.com/plugin/7794?pr=idea
 
 Multiple res folders
 https://github.com/R4md4c/ResFoldersDetector
+
+Icons
+https://github.com/konifar/android-material-design-icon-generator-plugin

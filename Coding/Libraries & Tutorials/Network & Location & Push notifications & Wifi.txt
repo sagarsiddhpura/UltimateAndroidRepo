@@ -200,6 +200,7 @@ https://stfalcon.com/en/blog/post/android-websocket
 https://www.reddit.com/r/androiddev/comments/4wp05d/websocket_libraries_what_are_my_options/
 https://www.reddit.com/r/androiddev/comments/519lgc/how_does_one_properly_manage_a_socket_for_sending/
 https://github.com/pushpendra-spartan/android-websockets
+http://www.yudiz.com/a-quick-guide-to-socket-io-communication/
 
 
 Wifi & Wifi direct

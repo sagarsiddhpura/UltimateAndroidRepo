@@ -105,6 +105,7 @@ https://guides.codepath.com/android/Shared-Element-Activity-Transition
 Nice one:http://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html
 https://github.com/alexjlockwood/adp-delightful-details
 https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.voxqxoyw4
+https://medium.com/@sebastian212000/my-fab-brings-all-the-boys-in-the-yard-damn-right-7aa0e81b4402#.602up5s5m
 
 
 Tools

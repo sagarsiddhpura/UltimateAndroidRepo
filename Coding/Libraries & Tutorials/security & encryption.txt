@@ -26,6 +26,7 @@ https://realm.io/news/360andev-ana-baotic-best-practices-app-security-android/
 https://www.reddit.com/r/androiddev/comments/5d8phc/how_do_you_secure_aws_access_keys/
 https://commonsware.com/blog/2016/11/28/certificate-pinning-failing-open.html
 https://androidsecurity.info/2016/11/24/certificate-pinning-in-android/
+https://androidsecurity.info/2016/12/15/storing-your-secure-information-in-the-ndk/
 
 Passwords
 https://github.com/infinum/android-complexify
@@ -61,3 +62,4 @@ https://github.com/javiersantos/PiracyChecker
 https://www.hashicorp.com/blog/vault.html
 https://github.com/jedisct1/libsodium
 https://blog.devknox.io/devknox-autocorrect-for-security-issues/
+https://github.com/yakivmospan/scytale

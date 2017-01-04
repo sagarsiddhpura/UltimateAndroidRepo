@@ -4,3 +4,4 @@ https://github.com/Commit451/ResourcesPoet
 https://github.com/flipkart-incubator/proteus
 https://github.com/Commit451/Easel
 https://github.com/alibaba/freeline
+http://www.akshaydeo.com/blog/2016/12/21/shipping-your-android-sdk-anytime-on-live-devices/

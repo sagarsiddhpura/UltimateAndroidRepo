@@ -21,6 +21,7 @@ https://afterecho.uk/blog/granting-marshmallow-permissions-for-testing-flavoured
 https://github.com/galex/android-permissions-gradle-plugin
 https://www.reddit.com/r/androiddev/comments/4hexf5/can_i_avoid_the_new_permission_model_in_android/
 https://medium.com/google-developers/quick-settings-tiles-e3c22daf93a8#.qvf39ogzr
+https://medium.com/@andreworobator/implementing-android-app-shortcuts-74feb524959b#.vsqm542h1
 
 Apps
 https://github.com/nickbutcher/AnimatorDurationTile

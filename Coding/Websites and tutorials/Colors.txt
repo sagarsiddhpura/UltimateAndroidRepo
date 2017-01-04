@@ -1,1 +1,11 @@
 http://angrytools.com/gradient/
+https://coolors.co/
+https://pixelbuddha.net/
+http://www.colourlovers.com/
+http://www.pictaculous.com/
+https://material.io/guidelines/style/color.html
+https://www.materialpalette.com/
+https://codecrafted.net/randommaterial
+http://www.sankk.in/material-mixer/
+https://www.materialui.co/colors
+https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=2&name=My%20Color%20Theme&mode=rgb&rgbvalues=1,0.325607046512557,0.07375135554926082,0.91,0.17338149846917392,0.06711373354982735,1,0.12375135554926087,0.1831078097304838,0.91,0.06711373354982735,0.545653377418945,0.9657763172964381,0.07375135554926082,1&swatchOrder=0,1,2,3,4

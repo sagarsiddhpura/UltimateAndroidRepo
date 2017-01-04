@@ -191,6 +191,7 @@ https://medium.com/@ragdroid/rxify-a-simple-spell-for-complex-rxjava-operators-p
 https://medium.com/@mplacona/building-a-beautifully-smart-form-in-android-using-rxjava-92c4d27bb060#.t178p0xem
 https://medium.com/@scottalancooper/pausing-and-resuming-a-stream-in-rxjava-988a0977b771#.2ilgy35cj
 http://www.andevcon.com/news/rxify-the-anti-cache-then-network-or-network-then-cache-problem
+https://www.reddit.com/r/androiddev/comments/5jbmaw/any_recommended_designs_for_continuing_rxjava2/
 
 
 Articles

@@ -39,6 +39,7 @@ https://github.com/Karumi/Rosie
 https://www.reddit.com/r/androiddev/comments/4wyfq5/my_own_lightweight_library_for_easy_mvp/
 https://github.com/kidinov/Ads-Mvp-Templates
 https://github.com/bluelinelabs/Conductor
+https://github.com/grandcentrix/ThirtyInch/
 
 Apps
 https://github.com/dmytrodanylyk/presenter-example

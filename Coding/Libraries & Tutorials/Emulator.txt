@@ -1,0 +1,6 @@
+https://www.reddit.com/r/androiddev/comments/3cgdxt/anyone_using_bluestacks_instead_of_an_emulator_or/
+http://visualgdb.com/tutorials/android/virtualbox/
+https://bia.is/copypaste-to-your-android-device-or-emluator/
+https://medium.com/google-developers/setting-up-the-android-emulator-for-speed-37ccbc3c3e1c#.n780uppbr
+http://codecondo.com/best-android-emulators-pc-mac-linux/
+https://www.visualstudio.com/en-us/features/msft-android-emulator-vs.aspx

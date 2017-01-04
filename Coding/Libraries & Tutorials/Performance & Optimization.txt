@@ -12,6 +12,7 @@ http://jeroenmols.com/blog/2016/05/06/methodcount/
 http://blog.octo.com/en/identify-performance-issues-in-your-android-application/
 https://medium.com/@p.tournaris/recyclerview-how-we-achieved-60-fps-tips-in-workables-android-app-recyclerviews-c646c796473c#.tlb6jafzd
 http://blog.karumi.com/android-performance-case-study-memory-vs-frame-time/
+http://blog.karumi.com/app-performance-case-study-twitter-for-android/
 
 
 RV
@@ -36,6 +37,7 @@ https://medium.com/@nikita.kozlov/pury-new-way-to-profile-your-android-applicati
 https://github.com/NikitaKozlov/Pury
 http://blog.karumi.com/android-devs-we-were-blind/
 http://flowup.io/
+https://github.com/dtrounine/hprof_bitmap_dump
 
 
 Inflate Layout async

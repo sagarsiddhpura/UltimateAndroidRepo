@@ -88,6 +88,7 @@ https://f-droid.org/repository/browse/?fdid=com.matoski.adbm
 Libs
 https://github.com/facundoolano/google-play-keywools
 https://play.google.com/store/apps/details?id=com.rectangularsoftware.appmonger
+https://github.com/adi1133/screen-on
 
 Icon Animator
 https://romannurik.github.io/AndroidIconAnimator/
@@ -95,3 +96,46 @@ https://romannurik.github.io/AndroidIconAnimator/
 
 Adb
 https://github.com/patrickfav/uber-uninstaller-android
+
+Run build on another pc
+https://github.com/gojuno/mainframer
+http://cyborg-build.com/
+
+Resize windows from keyboard
+https://github.com/eczarny/spectacle
+
+Universal Search, File search, content search
+https://www.voidtools.com/
+https://www.fileseek.ca/
+
+
+Clipboard
+https://www.clipboardfusion.com/
+
+
+Terminal replacements
+http://cmder.net/
+
+
+Code Editors
+http://code.visualstudio.com/
+https://www.codementor.io/mattgoldspink/tutorials/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
+
+
+Merge and compare
+http://www.scootersoftware.com/index.php
+
+
+Screenshot and record
+https://getsharex.com/
+https://github.com/outlook/gifcap
+
+
+Preview files
+https://github.com/ccseer/Seer
+
+Multiple Monitors
+https://www.displayfusion.com/
+
+Regex
+https://www.regexbuddy.com/

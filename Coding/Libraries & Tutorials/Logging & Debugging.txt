@@ -8,6 +8,8 @@ https://github.com/plusCubed/matlog
 https://github.com/jasonwyatt/Android-DebugPort
 https://github.com/nshmura/strictmode-notifier
 https://github.com/nisrulz/ShoutOut
+https://github.com/adi1133/screen-on
+https://github.com/baristaventures/debug-artist
 
 Debugging colors
 https://gist.github.com/dlew/a2e2f247c78495eca4e6

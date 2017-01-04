@@ -20,6 +20,7 @@ https://github.com/RobbeSneyders/UndoRecycler
 https://codentrick.com/load-more-recyclerview-bottom-progressbar/
 https://github.com/airbnb/epoxy
 https://github.com/janishar/PlaceHolderView
+https://github.com/GauravChaddha1996/CDSRecyclerView
 
 https://github.com/mrmike/DiffUtil-sample
 
@@ -123,6 +124,7 @@ https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
 https://www.reddit.com/r/androiddev/comments/4flia7/recyclerview_and_picasso_help/
 https://www.reddit.com/r/androiddev/comments/4kmqde/how_to_improve_the_performance_on_a_recyclerview/
 https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf#.nkll5ldh3
+https://medium.com/codeword/an-in-depth-look-at-snaphelper-new-tools-in-recyclerview-part-2-5a461a53bf4e#.70t4mfitx
 
 
 Animations

@@ -10,6 +10,7 @@ https://poeditor.com/
 https://applanga.com/web/
 https://translate.google.com/toolkit/list#translations/active
 https://medium.com/@paolorotolo/integrate-translations-into-development-process-with-travis-and-ci-magic-bdda43c0112f#.wgn4v54sj
+http://www.fanciullimassimiliano.it/2016/12/15/Android-App-Translator/
 
 https://plugins.jetbrains.com/plugin/112f#.wgn4v54sj
 

@@ -60,6 +60,7 @@ https://github.com/JoaquimLey/FabOptions
 
 Articles
 http://blog.makingiants.com/fab-compat-margins/
+https://medium.com/@sebastian212000/my-fab-brings-all-the-boys-in-the-yard-damn-right-7aa0e81b4402#.602up5s5m
 
 
 Like & Flag
@@ -98,6 +99,8 @@ https://github.com/lisawray/passwordview
 https://github.com/tasomaniac/EmailAutoCompleteTextView
 https://github.com/DomainGroupOSS/accounts-autocomplete
 https://github.com/masterlittle/SlideButton
+https://github.com/bufferapp/BufferTextInputLayout
+https://facebookincubator.github.io/TextLayoutBuilder/
 
 http://antonioleiva.com/textview_power_drawables/
 

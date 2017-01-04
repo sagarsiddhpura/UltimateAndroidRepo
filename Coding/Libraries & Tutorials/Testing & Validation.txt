@@ -122,6 +122,7 @@ http://try.crashlytics.com/beta/
 http://hockeyapp.net/features/
 http://openstf.io/
 http://opendevicelab.com/
+https://www.genymotion.com/blog/android-test-sharding-cloud/
 
 
 Expresso
