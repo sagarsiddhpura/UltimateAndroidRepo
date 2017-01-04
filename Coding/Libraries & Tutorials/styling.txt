@@ -2,3 +2,4 @@ http://blog.danlew.net/2014/11/19/styles-on-android/
 https://chris.banes.me/2014/11/12/theme-vs-style/
 http://www.hidroh.com/2015/02/16/support-multiple-themes-android-app/
 https://github.com/futurice/android-best-practices#resources
+https://github.com/hzsweers/barber

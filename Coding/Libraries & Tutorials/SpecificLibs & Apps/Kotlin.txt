@@ -41,3 +41,7 @@ http://hadihariri.com/2016/10/04/Mocking-Kotlin-With-Mockito/
 
 Recyclerview
 https://www.reddit.com/r/androiddev/comments/4jwjrj/kotlingist_mergeadapter_for_recyclerview/
+
+
+Libs
+https://github.com/jasvilladarez/RxFirebase
