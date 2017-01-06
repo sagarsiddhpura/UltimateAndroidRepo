@@ -19,6 +19,7 @@ https://github.com/andkulikov/transitions-everywhere
 https://github.com/noties/ScrollingBackgroundView
 https://github.com/LiveTyping/CannyViewAnimator
 https://github.com/facebookincubator/Keyframes
+https://github.com/0ximDigital/RxAnimations
 
 
 Animations

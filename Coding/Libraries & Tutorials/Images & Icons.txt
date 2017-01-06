@@ -46,7 +46,8 @@ http://sarafarnsworth.tumblr.com/page/8
 https://github.com/TangoAgency/avatar-view
 https://github.com/chrisbanes/PhotoView
 https://github.com/allenxuan/XuanImageView
-
+https://github.com/gjiazhe/PanoramaImageView
+https://github.com/stfalcon-studio/MultiImageView
 
 Image Gallery
 https://github.com/lawloretienne/ImageGallery

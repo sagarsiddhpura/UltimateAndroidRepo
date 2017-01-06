@@ -239,7 +239,10 @@ https://github.com/Miskerest/Hasher
 https://github.com/tpb1908/AndroidProjectsClient
 https://github.com/Yuncun/AbusiveGymReminder
 https://github.com/davidwhitman/deep-link-launcher
-
+https://github.com/lawloretienne/MovieHub
+https://github.com/hearsilent/PixelSlide
+https://github.com/donglua/GithubContributionsWidget
+https://github.com/harjot-oberai/MusicStreamer
 
 
 Ionic
@@ -297,6 +300,7 @@ https://github.com/drojokef/StressBall
 https://github.com/ItsSelina/tribbble
 https://github.com/jparkie/Aizoban
 https://github.com/ArsalaBangash/Cosmic-Maneuver
+https://github.com/avitaker/TrivialTrivia
 
 
 Audio

@@ -65,6 +65,7 @@ https://github.com/danielzeller/Depth-LIB-Android-
 http://iteachyouhowtocode.com/2016/11/19/schedule-a-motivated-quote-notification-every-day-part-1/
 https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=2&name=My%20Color%20Theme&mode=rgb&rgbvalues=0.6550008508554533,0.1850047205081773,1,0.3937837640047669,0.16835429566244134,0.91,0.25889641297035637,0.23500472050817733,1,0.16835429566244134,0.3411744776150765,0.91,0.1850047205081773,0.5893894503394068,1&swatchOrder=0,1,2,3,4
 https://github.com/adi1133/screen-on
+https://github.com/gjiazhe/PanoramaImageView
 
 
 Update notifier

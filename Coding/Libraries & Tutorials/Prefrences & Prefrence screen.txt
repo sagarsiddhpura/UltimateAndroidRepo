@@ -4,6 +4,7 @@ https://plus.google.com/+AndroidDevelopers/posts/9kZ3SsXdT2T
 https://github.com/Flipboard/psync
 https://github.com/codevscolor/MaterialPreference
 https://www.reddit.com/r/androiddev/comments/5dol3v/preference_fragments/
+https://medium.com/@JakobUlbrich/building-a-settings-screen-for-android-part-1-5959aa49337c#.709vpo4g9
 
 Shared Prefrences
 https://github.com/konmik/proxypref

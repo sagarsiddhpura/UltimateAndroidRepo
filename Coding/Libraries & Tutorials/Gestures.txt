@@ -14,6 +14,8 @@ https://github.com/PaNaVTEC/DrawableView/
 https://github.com/clackbib/KnockDetector
 https://github.com/lawloretienne/TinderStack
 https://github.com/eschao/android-PageFlip
+https://github.com/zagum/Android-ExpandIcon
+https://github.com/gjiazhe/PanoramaImageView
 
 Swipe
 https://github.com/alexandrius/accordion-swipe-layout

@@ -55,6 +55,7 @@ https://github.com/danikula/AndroidVideoCache
 Widgets
 https://github.com/OHoussein/android-material-play-pause-view
 https://github.com/alxrm/youtube-play-icon
+https://github.com/Cleveroad/PlayWidget
 
 
 Exo Player

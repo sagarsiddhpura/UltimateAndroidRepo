@@ -34,6 +34,7 @@ https://github.com/Cleveroad/SlidingTutorial-Android
 https://github.com/armcha/Vertical-Intro
 http://mockuphone.com/
 https://github.com/medyo/android-about-page
+https://github.com/apl-devs/AppIntro
 
 
 Highlight views

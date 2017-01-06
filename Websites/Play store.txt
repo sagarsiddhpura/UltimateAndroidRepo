@@ -45,3 +45,7 @@ https://github.com/MarcelloLins/GooglePlayAppsCrawler
 
 Indie Corner
 https://docs.google.com/forms/d/e/1FAIpQLScesnBYqLWmnpGYo9ZmRSpFzPwKP5hwSLGcghcuTO2rhKNSzg/viewform?c=0&w=1
+
+
+Address
+https://www.reddit.com/r/androiddev/comments/5l4o2t/setting_up_google_play_merchant_account_for_inapp/

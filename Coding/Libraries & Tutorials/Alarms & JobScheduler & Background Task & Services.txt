@@ -15,5 +15,9 @@ https://solidgeargroup.com/android-priority-job-queue-background-tasks
 https://github.com/hypertrack/smart-scheduler-android
 
 
+Timers
+https://github.com/jose96043/TimezOut
+
+
 Services
 http://fabcirablog.weebly.com/blog/creating-a-never-ending-background-service-in-android
