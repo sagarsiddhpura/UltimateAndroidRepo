@@ -65,6 +65,7 @@ https://www.reddit.com/r/androiddev/comments/4ij2nu/mvp_testing_tutorials/
 https://xamoom.com/en/2016/05/setup-a-local-jenkins-for-your-android-project/
 https://medium.com/azimolabs/testing-rx-code-7918d7ee1680#.bg43yanoa
 https://medium.com/azimolabs/wait-for-it-idlingresource-and-conditionwatcher-602055f32356#.xbqqm8dqz
+https://www.reddit.com/r/androiddev/comments/5l9egl/hello_i_am_setting_up_testframework_for_my/
 
 
 network

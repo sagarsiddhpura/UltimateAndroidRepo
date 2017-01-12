@@ -1,5 +1,6 @@
 https://github.com/vdurmont/emoji-java
 https://github.com/nekocode/Emojix
+https://github.com/shanraisshan/EmojiCodeSheet
 
 Stickers
 https://medium.com/uptech-team/how-to-create-snapchat-like-stickers-for-android-50512957c351#.cck377wsk

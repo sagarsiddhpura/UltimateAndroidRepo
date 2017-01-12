@@ -59,6 +59,8 @@ https://nullpointer.wtf/android/image-loading-with-picasso/
 https://github.com/drose379/picturePerfect
 https://github.com/daimajia/AndroidImageSlider
 https://github.com/huazhiyuan2008/RecyclerViewCardGallery
+https://github.com/mzelzoghbi/ZGallery
+https://github.com/ChristianLJ/ImageGallery
 
 
 Compress images
@@ -121,7 +123,7 @@ https://github.com/rdrobinson3/VolleyImageCacheExample
 http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en
 refrence apps for volley:
 https://github.com/TheKeeperOfPie/Rearted
-
+https://www.sitepoint.com/volley-a-networking-library-for-android/
 
 Image Crop & Editing
 https://github.com/lyft/scissors
@@ -134,6 +136,7 @@ https://github.com/Yalantis/uCrop
 https://github.com/christophesmet/android_maskable_layout
 https://github.com/ArthurHub/Android-Image-Cropper
 https://medium.com/uptech-team/how-to-create-beautiful-text-stickers-for-android-10eeea0cee09#.ucmwmshzx
+https://github.com/CyberAgent/android-gpuimage
 
 
 Image Picker
@@ -174,6 +177,7 @@ https://github.com/AppLozic/Applozic-Android-SDK
 https://github.com/tesseract-ocr/tesseract
 https://www.reddit.com/r/androiddev/comments/5ed6p8/canny_edge_filter_in_renderscript_someone_did_it/
 https://github.com/wonderkiln/blurkit-android
+https://github.com/CyberAgent/android-gpuimage
 
 
 Image Slider

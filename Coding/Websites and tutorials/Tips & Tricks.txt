@@ -2,3 +2,6 @@ https://medium.com/@cesarmcferreira/mastering-the-terminal-side-of-android-devel
 
 Increase Productivity
 https://techbeacon.com/best-productivity-tools-android-developers
+
+App
+https://www.reddit.com/r/androiddev/comments/5iq8he/make_your_android_app_look_less_shitty/

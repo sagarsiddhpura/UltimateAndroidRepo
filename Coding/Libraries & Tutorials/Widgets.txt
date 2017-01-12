@@ -440,3 +440,8 @@ https://github.com/FlyingPumba/SimpleRatingBar
 
 Menu
 https://github.com/desnyki/InfinityMenu
+
+
+Checkbox
+https://github.com/sevar83/indeterminate-check
+https://github.com/Commit451/Untriggeredbox

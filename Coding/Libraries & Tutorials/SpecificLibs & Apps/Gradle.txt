@@ -51,6 +51,8 @@ http://stackoverflow.com/questions/36441598/why-is-gradle-2-0-so-slow/36497209#3
 https://medium.com/google-developers/faster-android-studio-builds-with-dex-in-process-5988ed8aa37e#.32u6w6rfp
 https://medium.com/@cesarmcferreira/speeding-up-gradle-builds-619c442113cb#.w3oo9q7f3
 https://zeroturnaround.com/rebellabs/using-build-cache-in-android-studio-makes-gradle-build-faster/
+http://blog.tooploox.com/make-gradle-builds-fast-again-2/
+https://www.reddit.com/r/androiddev/comments/5lrmn4/how_to_speed_up_android_gradle_builds/
 
 https://github.com/Triple-T/gradle-play-publisher
 

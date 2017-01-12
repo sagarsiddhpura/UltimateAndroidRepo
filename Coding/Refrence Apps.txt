@@ -8,6 +8,7 @@ https://www.androidexperiments.com/?tag=
 https://github.com/Freelander/Android_Data
 https://plus.google.com/u/0/communities/100609058582053363304
 https://github.com/pcqpcq/open-source-android-apps
+https://github.com/SimpleMobileTools
 
 https://github.com/geecko86/QuickLyric
 https://github.com/C-Aniruddh/ACEMusicPlayer
@@ -243,6 +244,45 @@ https://github.com/lawloretienne/MovieHub
 https://github.com/hearsilent/PixelSlide
 https://github.com/donglua/GithubContributionsWidget
 https://github.com/harjot-oberai/MusicStreamer
+https://github.com/arpitkh96/AmazeFileManager
+https://github.com/bitcoin-wallet/bitcoin-wallet
+https://github.com/billthefarmer/currency
+https://code.briarproject.org/akwizgran/briar/tree/master
+https://github.com/EvanRespaut/Equate
+https://github.com/indywidualny/FaceSlim
+https://github.com/martykan/forecastie
+https://github.com/jonan/ForkHub
+https://github.com/k9mail/k-9
+https://github.com/proninyaroslav/libretorrent
+https://keepass2android.codeplex.com/SourceControl/latest
+https://github.com/TeamNewPipe/NewPipe
+https://github.com/jensstein/oandbackup
+http://www.osmand.net/
+https://github.com/popcorn-official/popcorn-android
+https://f-droid.org/repository/browse/?fdid=im.vector.alpha
+https://github.com/vector-im/riot-android
+https://github.com/syncthing/syncthing-android
+https://github.com/grote/Transportr
+https://github.com/dmfs/opentasks
+https://github.com/SimpleMobileTools/Simple-Gallery
+https://github.com/SimpleMobileTools/Simple-Calendar
+https://github.com/SimpleMobileTools/Simple-Draw
+https://github.com/SimpleMobileTools/Simple-Notes
+https://github.com/SimpleMobileTools/Simple-Music-Player
+https://github.com/SimpleMobileTools/Simple-File-Manager
+https://github.com/SimpleMobileTools/Simple-File-Properties
+https://github.com/SimpleMobileTools/Simple-File-Picker
+https://github.com/SimpleMobileTools/Simple-Flashlight
+https://github.com/SimpleMobileTools/Simple-Calculator
+https://github.com/SimpleMobileTools/Simple-App-Launcher
+https://github.com/WhisperSystems/Signal-Android
+https://github.com/rubenwardy/mtmods4android
+https://github.com/sregg/Put.io
+https://github.com/dasmikko/facepunchdroid
+https://github.com/mapbox/mapbox-gl-native
+https://github.com/mapbox/mapbox-java
+https://github.com/DmitryMalkovich/github-analytics
+
 
 
 Ionic
@@ -301,10 +341,13 @@ https://github.com/ItsSelina/tribbble
 https://github.com/jparkie/Aizoban
 https://github.com/ArsalaBangash/Cosmic-Maneuver
 https://github.com/avitaker/TrivialTrivia
+https://github.com/ankidroid/Anki-Android
+https://github.com/minetest
 
 
 Audio
 https://gist.github.com/mmoczkowski/b6ced92ff4a40aa4647f0c02918c616b
+https://github.com/vanilla-music/vanilla
 
 
 Chat
@@ -322,6 +365,7 @@ https://github.com/MonkeyViewController/SnapThat
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android
 https://github.com/firebase/FirebaseUI-Android/tree/master/codelabs/chat
 https://github.com/ctodobom/OpenNoteScanner
+https://github.com/SimpleMobileTools/Simple-Camera
 
 
 From Google
@@ -441,3 +485,14 @@ https://code.launchpad.net/unav
 
 Login
 https://github.com/mohak1712/SignUpLogin
+
+
+
+Android TV
+https://github.com/ITVlab/TvFilePicker
+https://github.com/ITVlab/Family-Calendar
+https://github.com/ITVlab/Launch-On-Boot
+https://github.com/ITVlab/SubChannel
+https://github.com/ITVlab/YouTube-Tv-Player
+https://github.com/ITVlab/TvAppRepo
+https://github.com/ITVlab/Enterprise-Wi-Fi

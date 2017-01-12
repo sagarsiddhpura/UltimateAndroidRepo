@@ -7,3 +7,11 @@ https://github.com/GrenderG/Color-O-Matic
 
 Number Picker
 https://github.com/BorealisAgency/NumberPicker
+
+
+File Picker
+https://github.com/coomar2841/android-multipicker-library
+
+
+Color picker
+https://github.com/Quatja/Vorolay

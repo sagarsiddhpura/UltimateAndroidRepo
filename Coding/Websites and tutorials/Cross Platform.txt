@@ -14,9 +14,14 @@ https://www.novoda.com/blog/cross-platform-architecture/
 https://www.fusetools.com/
 http://www.tengio.com/blog/flutter-a-new-cross-platform-solution/
 https://www.reddit.com/r/androiddev/comments/57yvu5/freelancing_native_androidios_vs_phonegap/
+https://weex-project.io/
 
 https://www.reddit.com/r/androiddev/comments/4d7wel/good_tutorials_for_making_xamarin_cross_platform/
 
 
 Libs
 https://github.com/skadimoolam/Android-Hybrid-Template
+
+
+Apps
+https://github.com/mapbox/mapbox-gl-native

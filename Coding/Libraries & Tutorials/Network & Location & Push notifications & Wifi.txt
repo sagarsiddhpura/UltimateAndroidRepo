@@ -58,6 +58,7 @@ http://www.malmstein.com/blog/2015/11/28/introduction-to-google-eddystone/
 https://github.com/pocmo/Android-Network-Intents
 http://developer.android.com/intl/ru/training/connect-devices-wirelessly/nsd.html
 http://www.opengarden.com/meshkit.html
+https://github.com/afollestad/udp-discovery
 
 
 Monitor Network changes

@@ -6,6 +6,9 @@ Flurry
 https://mixpanel.com/
 http://blog.oursky.com/2016/03/29/guide-to-google-analytics-for-websites/
 https://github.com/busybusy/AnalyticsKit-Android
+https://www.intercom.com/
+https://amplitude.com/pricing#seeall
+https://www.localytics.com/
 
 Crash Reporting
 https://get.fabric.io/
