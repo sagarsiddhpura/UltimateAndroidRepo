@@ -1,3 +1,5 @@
 http://www.slant.co/topics/1476
 https://www.reddit.com/r/androiddev/comments/46l611/tutorial_opengl_es_20_traditional_outline_effect/
 https://www.slant.co/topics/1476/~2d-game-engines-for-android
+
+https://www.reddit.com/r/androiddev/comments/5ni9k4/where_to_learn_opengl_es/

@@ -43,6 +43,7 @@ https://github.com/andyb129/ChompProgressView
 https://github.com/WassimBenltaief/FlowLayout
 https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.841ccsgfv
 https://github.com/enginebai/SwagPoints
+https://github.com/Muuddz/Android-Progressbar-Simulator
 
 
 FAB
@@ -321,6 +322,7 @@ https://github.com/PoePoeMyintSwe/ScrollablePanel/
 https://github.com/Kelin-Hong/ScrollablePanel
 https://github.com/AhmadNemati/WindView
 https://github.com/zagum/Android-ExpandIcon expand collapse icon
+https://github.com/wajahatkarim3/EasyFlipView
 
 
 Seekbar
@@ -377,6 +379,7 @@ https://github.com/peng8350/JPTabBar
 Switch
 https://github.com/BelkaLab/Android-Toggle-Switch
 https://github.com/roughike/SwipeSelector
+https://github.com/zagum/Android-SwitchIcon
 
 
 Gallery
@@ -445,3 +448,7 @@ https://github.com/desnyki/InfinityMenu
 Checkbox
 https://github.com/sevar83/indeterminate-check
 https://github.com/Commit451/Untriggeredbox
+
+
+Toast
+https://github.com/Muuddz/Android-StyleableToast

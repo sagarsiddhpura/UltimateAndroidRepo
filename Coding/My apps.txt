@@ -67,6 +67,7 @@ https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=2&nam
 https://github.com/adi1133/screen-on
 https://github.com/gjiazhe/PanoramaImageView
 https://github.com/Quatja/Vorolay
+https://github.com/garretyoder/Colorful
 
 
 Update notifier
@@ -79,6 +80,7 @@ http://bittercap.com/tap-titans-2/relics-per-prestige-chart/
 https://www.reddit.com/r/TapTitans2/comments/5i6yua/new_player_guide_to_stages_1800_including/
 https://www.reddit.com/r/TapTitans2/comments/5lutg4/utto_artifact_efficiency_calculator_update_213/
 https://github.com/colblitz/yatto2
+https://github.com/garretyoder/Colorful
 
 
 Folder Gallery

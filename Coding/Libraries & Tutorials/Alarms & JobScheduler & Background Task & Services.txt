@@ -13,6 +13,8 @@ https://github.com/evernote/android-job
 https://github.com/code-mc/servicetask
 https://solidgeargroup.com/android-priority-job-queue-background-tasks
 https://github.com/hypertrack/smart-scheduler-android
+https://github.com/yigit/android-priority-jobqueue
+
 
 
 Timers

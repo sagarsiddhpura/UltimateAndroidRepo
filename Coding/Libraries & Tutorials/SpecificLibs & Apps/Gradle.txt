@@ -53,6 +53,7 @@ https://medium.com/@cesarmcferreira/speeding-up-gradle-builds-619c442113cb#.w3oo
 https://zeroturnaround.com/rebellabs/using-build-cache-in-android-studio-makes-gradle-build-faster/
 http://blog.tooploox.com/make-gradle-builds-fast-again-2/
 https://www.reddit.com/r/androiddev/comments/5lrmn4/how_to_speed_up_android_gradle_builds/
+https://developer.android.com/studio/build/gradle-tips.html
 
 https://github.com/Triple-T/gradle-play-publisher
 

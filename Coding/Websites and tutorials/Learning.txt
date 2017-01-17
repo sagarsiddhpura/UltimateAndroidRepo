@@ -14,3 +14,5 @@ Big Nerd Ranch's Android Programming book (the 2nd Edition one)
 
 Advanced
 https://www.reddit.com/r/androiddev/comments/560rk1/resources_for_learning_advanced_android_concepts/
+
+https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md#how-do-the-nanodegree-programs-work

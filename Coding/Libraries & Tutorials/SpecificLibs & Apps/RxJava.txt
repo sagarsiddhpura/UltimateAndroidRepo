@@ -107,7 +107,8 @@ https://github.com/pakoito/RxPaper
 https://github.com/jaychang0917/SocialLoginManager
 https://github.com/jasvilladarez/RxFirebase
 https://github.com/0ximDigital/RxAnimations
-
+https://github.com/vssh/RxDbManPlus
+https://github.com/JetradarMobile/android-rxlocationsettings
 
 Good
 https://medium.com/@cesarmcferreira/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c
@@ -194,6 +195,7 @@ https://medium.com/@mplacona/building-a-beautifully-smart-form-in-android-using-
 https://medium.com/@scottalancooper/pausing-and-resuming-a-stream-in-rxjava-988a0977b771#.2ilgy35cj
 http://www.andevcon.com/news/rxify-the-anti-cache-then-network-or-network-then-cache-problem
 https://www.reddit.com/r/androiddev/comments/5jbmaw/any_recommended_designs_for_continuing_rxjava2/
+https://www.raywenderlich.com/141980/rxandroid-tutorial
 
 
 Articles

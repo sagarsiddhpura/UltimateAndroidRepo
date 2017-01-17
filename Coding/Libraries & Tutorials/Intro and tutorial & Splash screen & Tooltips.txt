@@ -37,9 +37,10 @@ https://github.com/medyo/android-about-page
 https://github.com/apl-devs/AppIntro
 
 
-Highlight views
+Highlight views Select
 https://github.com/anastr/SimpleTargetView
 https://github.com/KeepSafe/TapTargetView
+https://github.com/Muuddz/Android-ViewSelector
 
 
 Tutorials & Articles

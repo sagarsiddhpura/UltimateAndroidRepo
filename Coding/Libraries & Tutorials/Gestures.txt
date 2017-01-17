@@ -16,6 +16,7 @@ https://github.com/lawloretienne/TinderStack
 https://github.com/eschao/android-PageFlip
 https://github.com/zagum/Android-ExpandIcon
 https://github.com/gjiazhe/PanoramaImageView
+https://github.com/wajahatkarim3/EasyFlipView
 
 Swipe
 https://github.com/alexandrius/accordion-swipe-layout

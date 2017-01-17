@@ -14,6 +14,7 @@ https://github.com/FabianTerhorst/Floppy
 https://github.com/pakoito/RxPaper
 https://github.com/jasonwyatt/squeaky-android
 https://github.com/ConserveORM/main/wiki/Conserve-ORM-on-Android
+https://github.com/vssh/DbManPlus
 
 App
 https://github.com/geralt-encore/Delightful-SQLBrite

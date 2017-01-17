@@ -7,6 +7,7 @@ https://github.com/udacity/Advanced_Android_Development
 https://github.com/commonsguy/cw-omnibus
 https://github.com/googlesamples/android-architecture
 https://github.com/lightSky/Awesome-MaterialDesign
+https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md#how-do-the-nanodegree-programs-work
 
 https://github.com/android/platform_frameworks_support
 https://search-codelabs.appspot.com/

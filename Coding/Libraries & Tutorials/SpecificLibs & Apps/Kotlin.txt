@@ -45,3 +45,4 @@ https://www.reddit.com/r/androiddev/comments/4jwjrj/kotlingist_mergeadapter_for_
 
 Libs
 https://github.com/jasvilladarez/RxFirebase
+https://github.com/thoughtbot/stencil

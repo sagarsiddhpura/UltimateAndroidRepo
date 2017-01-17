@@ -1,3 +1,5 @@
 https://www.reddit.com/r/androiddev/comments/3cs666/best_option_for_data_persistence/
 https://www.reddit.com/r/androiddev/comments/3e6i2q/best_libraries_for_rest_interface_and_data/
 https://twitter.com/jakewharton/status/488737024946364416
+
+https://github.com/NYTimes/Store

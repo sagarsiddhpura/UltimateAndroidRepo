@@ -8,4 +8,5 @@ https://medium.com/@p.tournaris/android-improving-sign-in-experience-with-google
 
 
 https://github.com/mohak1712/SignUpLogin
+https://github.com/pavel163/SocialAuth
 https://blog.kodius.io/2016/12/29/handling-mobile-authentication-with-a-web-based-api/

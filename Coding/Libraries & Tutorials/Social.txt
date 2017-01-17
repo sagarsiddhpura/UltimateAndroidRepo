@@ -24,3 +24,4 @@ https://github.com/jaychang0917/SocialLoginManager
 
 https://github.com/Commit451/DriveAppFolderViewer
 https://github.com/Everseat/LyftAppCompatButper
+https://github.com/pavel163/SocialAuth

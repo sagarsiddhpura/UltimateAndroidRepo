@@ -263,3 +263,9 @@ http://www.pictaculous.com/
 
 AS Plugins
 https://github.com/konifar/android-material-design-icon-generator-plugin
+
+
+
+
+view to image
+https://github.com/Muuddz/ViewToBitmap

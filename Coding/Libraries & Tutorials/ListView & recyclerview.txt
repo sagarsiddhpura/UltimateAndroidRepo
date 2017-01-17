@@ -81,6 +81,7 @@ https://medium.com/@dpreussler/writing-better-adapters-1b09758407d2#.eve0telw7
 https://github.com/inloop/SimpleRecyclerAdapter
 https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.9wxdd9sif
 https://github.com/airbnb/epoxy
+https://github.com/Commit451/ViewHolderArrayAdapter
 
 
 Expandabele RV
