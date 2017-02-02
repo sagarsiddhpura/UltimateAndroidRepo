@@ -38,6 +38,7 @@ https://github.com/danylovolokh/LondonEyeLayoutManager
 Behaviour
 https://github.com/chthai64/overscroll-bouncy-android
 https://medium.com/@ozodrukh/scroll-while-scrolling-d2a39e6468d#.fy6i9ys9h
+https://medium.com/@nullthemall/drag-selection-of-recyclerview-items-7072678e9900#.pzmzd0jp2
 
 
 With video
@@ -82,6 +83,7 @@ https://github.com/inloop/SimpleRecyclerAdapter
 https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android-c3e1af150394#.9wxdd9sif
 https://github.com/airbnb/epoxy
 https://github.com/Commit451/ViewHolderArrayAdapter
+https://github.com/pavel163/UniversalRecyclerAdapter
 
 
 Expandabele RV
@@ -175,3 +177,6 @@ https://github.com/alex-townsend/SwipeOpenItemTouchHelper
 Listview
 https://github.com/idunnololz/AnimatedExpandableListView
 https://github.com/anastr/SpongebobList
+
+
+https://github.com/gjiazhe/LayoutSwitch

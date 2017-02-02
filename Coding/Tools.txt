@@ -146,3 +146,12 @@ https://blog.mustafaali.xyz/introducing-dev-tiles-quick-settings-tiles-for-andro
 
 Format Code
 https://github.com/romannurik/SlidesCodeHighlighter
+
+Mock touch
+https://github.com/appetizerio/appetizer-toolkit
+
+
+Screenshots for play store
+http://www.appwrap.in/GenerateArt
+
+https://github.com/NightlyNexus/DemoMode

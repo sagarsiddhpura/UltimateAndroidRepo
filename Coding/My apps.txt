@@ -68,7 +68,7 @@ https://github.com/adi1133/screen-on
 https://github.com/gjiazhe/PanoramaImageView
 https://github.com/Quatja/Vorolay
 https://github.com/garretyoder/Colorful
-
+https://github.com/JetradarMobile/desertplaceholder
 
 Update notifier
 https://github.com/facundoolano/google-play-keywords
@@ -81,12 +81,20 @@ https://www.reddit.com/r/TapTitans2/comments/5i6yua/new_player_guide_to_stages_1
 https://www.reddit.com/r/TapTitans2/comments/5lutg4/utto_artifact_efficiency_calculator_update_213/
 https://github.com/colblitz/yatto2
 https://github.com/garretyoder/Colorful
+https://github.com/greenrobot/ObjectBox
 
 
 Folder Gallery
 https://github.com/arpitkh96/AmazeFileManager
+https://github.com/HoraApps/LeafPic
+https://github.com/1hakr/AnExplorer
 
 
 https://blog.mustafaali.xyz/introducing-dev-tiles-quick-settings-tiles-for-android-developers-333004f56e34#.q04azfks2
 http://blog.tooploox.com/make-gradle-builds-fast-again-2/
 https://www.reddit.com/r/androiddev/comments/5lrmn4/how_to_speed_up_android_gradle_builds/
+
+
+
+Wedding invite
+https://github.com/Avocarrot/json2view

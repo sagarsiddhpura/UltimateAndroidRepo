@@ -4,3 +4,4 @@ https://github.com/badoo/Chateau
 Chat Heads
 http://www.tooleap.com/
 http://www.piwai.info/chatheads-basics/
+https://github.com/google/hover

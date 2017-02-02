@@ -125,6 +125,8 @@ https://github.com/Actinarium/Aligned
 https://github.com/armcha/AutoLinkTextView
 http://saket.me/better-url-handler-textview-android/
 https://github.com/jaychang0917/SimpleText
+https://github.com/rosenpin/FadingTextView
+https://github.com/kaelaela/OpenGraphView
 
 
 
@@ -166,6 +168,7 @@ https://github.com/mthli/Slice
 
 Badges
 https://github.com/nekocode/Badge
+https://github.com/volders/Badger
 
 
 actionbar, toolbar
@@ -218,6 +221,7 @@ https://github.com/mikeyxkcd/GuillotineMenu
 https://github.com/Yalantis/Side-Menu.Android
 https://github.com/mzule/FantasySlide
 http://nganthony.github.io/2016/01/24/implementing-android-mini-navigation-drawer.html
+https://github.com/rom4ek/ArcNavigationView
 
 
 Dialog, Popups, warnings
@@ -443,6 +447,8 @@ https://github.com/FlyingPumba/SimpleRatingBar
 
 Menu
 https://github.com/desnyki/InfinityMenu
+https://github.com/google/hover
+https://github.com/adonixis/android-animated-menu-items
 
 
 Checkbox
@@ -452,3 +458,4 @@ https://github.com/Commit451/Untriggeredbox
 
 Toast
 https://github.com/Muuddz/Android-StyleableToast
+https://github.com/GrenderG/Toasty

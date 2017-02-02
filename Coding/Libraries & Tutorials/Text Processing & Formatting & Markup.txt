@@ -3,3 +3,4 @@ https://templater.emilburzo.com/
 https://github.com/Saketme/Better-Link-Movement-Method
 https://github.com/jaychang0917/SimpleText
 https://github.com/jasonwyatt/SRML
+https://github.com/kaelaela/OpenGraphView

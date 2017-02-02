@@ -12,6 +12,7 @@ https://github.com/DmitryMalkovich/material-design-dimens
 
 
 Lib
+https://github.com/airbnb/lottie-android
 https://github.com/rey5137/material
 https://github.com/ZieIony/Carbon
 https://github.com/alexive/visual-goodies
@@ -92,6 +93,8 @@ https://github.com/ImmortalZ/TransitionHelper
 https://blog.prototypr.io/applying-meaningful-motion-on-android-a271a873bd78#.2ui7mf2yc
 https://github.com/danielzeller/Depth-LIB-Android-
 https://github.com/hujiaweibujidao/FabDialogMorph
+https://github.com/adonixis/android-animated-menu-items
+
 
 Play Pause
 https://github.com/alxrm/youtube-play-icon
@@ -254,3 +257,10 @@ https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.qcziapfb1
 
 Guidelines
 https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329#.jjgzcfhmc
+
+
+HTML+CSS+JS
+https://stories.uplabs.com/can-you-code-this-ui-volume-6-7bd09fa6dd92#.8tubtlast
+
+Change grid to list
+https://github.com/gjiazhe/LayoutSwitch

@@ -13,6 +13,7 @@ https://github.com/andyb129/ClockScroller
 https://github.com/k0shk0sh/RetainedDateTimePickers
 https://github.com/philliphsu/BottomSheetPickers
 https://github.com/Yuncun/WeekViewSwipeable
+https://github.com/jMavarez/MaterialCalendar
 
 
 Widgets

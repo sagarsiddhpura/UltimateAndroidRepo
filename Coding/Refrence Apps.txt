@@ -285,6 +285,21 @@ https://github.com/DmitryMalkovich/github-analytics
 https://github.com/tanaka3/ricetime
 https://github.com/ajr-zimmer/time-to-die
 https://github.com/faizann24/wifi-bruteforcer-fsecurify
+https://github.com/sketchpunk/android3dblendermouse
+https://github.com/HoraApps/LeafPic
+https://github.com/SimpleMobileTools/Simple-Calendar
+https://github.com/dkim0419/SoundRecorder
+https://github.com/javiersantos/MLManager
+https://github.com/afollestad/photo-affix
+https://github.com/1hakr/AnExplorer
+https://github.com/AntonioRedondo/AnotherMonitor
+https://github.com/Nightonke/CoCoin
+https://github.com/heruoxin/Clip-Stack
+https://github.com/joyoyao/superCleanMaster
+https://github.com/Neamar/KISS
+https://github.com/vmihalachi/turbo-editor
+https://github.com/Musenkishi/wally
+https://github.com/j4velin/Pedometer
 
 
 Ionic

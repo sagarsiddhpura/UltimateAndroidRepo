@@ -1,0 +1,40 @@
+Analytics
+https://answers.io/
+Google play analytics
+http://appfollow.io/
+Flurry
+https://mixpanel.com/
+http://blog.oursky.com/2016/03/29/guide-to-google-analytics-for-websites/
+https://github.com/busybusy/AnalyticsKit-Android
+https://www.intercom.com/
+https://amplitude.com/pricing#seeall
+https://www.localytics.com/
+https://newrelic.com/
+
+Crash Reporting
+https://get.fabric.io/
+https://answers.io/pricing
+https://bugsnag.com/features
+https://github.com/mattprecious/telescope
+https://count.ly/
+https://instabug.com/how-it-works
+https://github.com/ACRA/acra
+https://github.com/getsentry/sentry
+
+https://stanfy.com/blog/tools-and-platforms-for-mobile-app-analytics-part-i-performance-and-errors/
+
+Custom Crash Screen
+https://www.reddit.com/r/androiddev/comments/3yg7tu/is_it_possible_to_handle_any_exception_that_would/
+http://stackoverflow.com/questions/19897628/need-to-handle-uncaught-exception-and-send-log-file
+https://github.com/Ereza/CustomActivityOnCrash
+
+https://medium.com/@fredgrott/do-not-force-android-users-away-handle-your-exceptions-af01304e58ce#.4pjz7lu01
+
+https://stanfy.com/blog/tools-and-platforms-for-mobile-app-analytics-part-ii-usage-tracking-and-marketing-metrics/
+
+https://medium.com/fuzz/getting-the-most-out-of-crashlytics-380afb703876#.cxhyhrx6k
+https://www.captechconsulting.com/blogs/a-comparison-of-android-crash-reporting-tools
+
+
+Articles
+https://medium.com/@Actine/organize-your-analytics-code-be9e5ff91543#.quba5985c

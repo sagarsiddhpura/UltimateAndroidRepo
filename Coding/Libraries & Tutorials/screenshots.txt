@@ -28,3 +28,13 @@ https://kylewbanks.com/blog/create-a-screenshot-of-your-android-app-game-or-sing
 https://www.reddit.com/user/avipars
 https://github.com/mplacona/selfie
 https://github.com/Muuddz/ViewToBitmap
+https://github.com/Muddz/ViewToBitmap
+
+
+
+Screenshots for Play store
+http://www.appwrap.in/GenerateArt
+
+
+Demo mode
+https://github.com/NightlyNexus/DemoMode

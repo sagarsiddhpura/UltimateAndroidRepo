@@ -69,3 +69,9 @@ Icons
 https://github.com/konifar/android-material-design-icon-generator-plugin
 
 https://www.reddit.com/r/androiddev/comments/5n6ppe/how_to_save_time_with_code_templates_for_android/
+
+Memory
+https://hackernoon.com/a-useful-memory-debugger-plugin-for-android-studio-2d9d95bddc24#.9kucd9vl4
+
+
+https://github.com/KeepSafe/dexcount-gradle-plugin

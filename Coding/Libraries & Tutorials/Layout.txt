@@ -10,3 +10,4 @@ https://medium.com/@janishar.ali/android-tinder-swipe-view-example-3eca9b0d4794#
 
 Generate Programmatically
 https://github.com/tmorcinek/android-codegenerator-library
+https://github.com/Avocarrot/json2view
