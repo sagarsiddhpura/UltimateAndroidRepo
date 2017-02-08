@@ -38,6 +38,7 @@ forge.js on the web / extensions: https://github.com/digitalbazaar/forge
 OpenSSL on iOS / Mac (coming soon)
 http://www.ssaurel.com/blog/make-fast-cryptographic-operations-on-android-with-conceal/
 https://www.cossacklabs.com/choose-android-crypto.html
+https://www.reddit.com/r/androiddev/comments/5r0gz3/where_do_you_store_your_encryption_keys/
 
 
 https://corner.squareup.com/2015/08/a-small-leak.html
@@ -67,3 +68,7 @@ https://github.com/yakivmospan/scytale
 
 IAP
 https://www.reddit.com/r/androiddev/comments/5od4s1/how_to_protect_my_inapp_purchases_from_piracy/
+
+
+Unique id
+https://developers.google.com/instance-id/

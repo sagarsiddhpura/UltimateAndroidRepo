@@ -40,3 +40,8 @@ Reddit
 https://www.reddit.com/r/androiddev/comments/5cw3n3/note_to_devs_free_translation_for_play_store_app/
 
 https://www.reddit.com/r/androiddev/comments/5cwj2d/when_translating_your_app_which_languages_give/
+
+
+
+Locale
+https://blog.egorand.me/a-curious-case-of-multiple-locales/

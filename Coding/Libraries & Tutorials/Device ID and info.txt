@@ -1,3 +1,4 @@
 https://github.com/danialgoodwin/identify-dev-device
 https://github.com/nisrulz/easydeviceinfo
 https://android-developers.googleblog.com/2011/03/identifying-app-installations.html?m=1
+https://developers.google.com/instance-id/

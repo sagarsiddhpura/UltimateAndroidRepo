@@ -1,3 +1,4 @@
 https://medium.com/@fredgrott/state-singletons-for-fun-and-profit-ad193578c9f2
 https://github.com/OneCodeLabs/reminder/
 http://code.hootsuite.com/orientation-changes-on-android/
+https://github.com/evernote/android-state

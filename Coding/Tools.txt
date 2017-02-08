@@ -88,7 +88,10 @@ https://f-droid.org/repository/browse/?fdid=com.matoski.adbm
 Libs
 https://github.com/facundoolano/google-play-keywools
 https://play.google.com/store/apps/details?id=com.rectangularsoftware.appmonger
+
+Screen On awake
 https://github.com/adi1133/screen-on
+https://github.com/murtaza0xff/staywoke
 
 Icon Animator
 https://romannurik.github.io/AndroidIconAnimator/
@@ -96,6 +99,7 @@ https://romannurik.github.io/AndroidIconAnimator/
 
 Adb
 https://github.com/patrickfav/uber-uninstaller-android
+https://github.com/ashishb/adb-enhanced
 
 Run build on another pc
 https://github.com/gojuno/mainframer
@@ -155,3 +159,10 @@ Screenshots for play store
 http://www.appwrap.in/GenerateArt
 
 https://github.com/NightlyNexus/DemoMode
+
+https://github.com/googlesamples/apk-patch-size-estimator
+
+
+
+Debug screen
+https://github.com/patrickfav/under-the-hood

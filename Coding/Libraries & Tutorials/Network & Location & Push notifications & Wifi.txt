@@ -70,6 +70,7 @@ Monitor Network changes
 https://github.com/pwittchen/ReactiveNetwork
 https://github.com/pwittchen/NetworkEvents
 https://github.com/WassimBenltaief/FlowLayout
+https://github.com/keiferstone/nonet
 
 
 Speedtest
@@ -212,6 +213,8 @@ http://www.yudiz.com/a-quick-guide-to-socket-io-communication/
 Wifi & Wifi direct
 https://github.com/markrjr/Salut
 https://github.com/mvdan/accesspoint
+https://medium.com/@josiassena/android-manipulating-wifi-using-the-wifimanager-9af77cb04c6a#.v0irqe4ej
+https://tox.chat/
 
 https://github.com/square/okhttp/wiki/Recipes
 Cache:

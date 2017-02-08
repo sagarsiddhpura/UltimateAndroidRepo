@@ -28,3 +28,4 @@ https://inthecheesefactory.com/blog/how-to-setup-private-maven-repository/en
 https://5am.technology/2016/12/fix-bugs-third-party-dependency-jitpack/
 https://www.theguardian.com/technology/developer-blog/2016/dec/06/how-to-publish-an-android-library-a-mysterious-conversation
 http://jeroenmols.com/blog/2015/08/06/artifactory/
+https://solidgeargroup.com/jitpack-public-repositories-android

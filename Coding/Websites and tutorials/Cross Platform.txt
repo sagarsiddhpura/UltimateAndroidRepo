@@ -25,3 +25,8 @@ https://github.com/skadimoolam/Android-Hybrid-Template
 
 Apps
 https://github.com/mapbox/mapbox-gl-native
+
+
+
+React native
+https://www.reddit.com/r/androiddev/comments/5qr9xw/avoiding_react_native/

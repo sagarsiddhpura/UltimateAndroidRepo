@@ -230,6 +230,7 @@ http://www.androiddesignpatterns.com/2014/12/activity-fragment-transitions-in-an
 https://www.reddit.com/r/learnandroid/comments/55yd4n/create_an_animated_clock_with_vector_drawables_on/
 https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view
 https://medium.com/@timrijckaert/play-pause-stop-animated-vector-drawable-88a9df956d20#.rfhu2ggis
+http://mikescamell.com/shared-element-transitions-part-1/
 
 
 Animations L+

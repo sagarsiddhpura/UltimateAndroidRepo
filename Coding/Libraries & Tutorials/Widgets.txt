@@ -44,6 +44,7 @@ https://github.com/WassimBenltaief/FlowLayout
 https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.841ccsgfv
 https://github.com/enginebai/SwagPoints
 https://github.com/Muuddz/Android-Progressbar-Simulator
+https://github.com/vlad1m1r990/Lemniscate
 
 
 FAB
@@ -127,6 +128,7 @@ http://saket.me/better-url-handler-textview-android/
 https://github.com/jaychang0917/SimpleText
 https://github.com/rosenpin/FadingTextView
 https://github.com/kaelaela/OpenGraphView
+https://github.com/aritraroy/KerningViews
 
 
 
@@ -333,6 +335,7 @@ Seekbar
 https://github.com/JoeBudic/Multi-point-Circular-Seekbar
 https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.841ccsgfv
 https://github.com/enginebai/SwagPoints
+https://github.com/rubensousa/PreviewSeekBar/
 
 
 Date & Time
@@ -459,3 +462,4 @@ https://github.com/Commit451/Untriggeredbox
 Toast
 https://github.com/Muuddz/Android-StyleableToast
 https://github.com/GrenderG/Toasty
+https://github.com/Muddz/StyleableToast

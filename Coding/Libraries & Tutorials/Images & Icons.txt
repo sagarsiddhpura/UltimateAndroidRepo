@@ -8,6 +8,7 @@ https://github.com/patrickfav/density-converter
 http://inloop.github.io/shadow4android/
 https://romannurik.github.io/AndroidAssetStudio/
 https://android-material-icon-generator.bitdroid.de/
+http://www.iconnaut.com/android.php
 
 https://github.com/Pkmmte/CircularImageView
 
@@ -178,6 +179,7 @@ https://github.com/tesseract-ocr/tesseract
 https://www.reddit.com/r/androiddev/comments/5ed6p8/canny_edge_filter_in_renderscript_someone_did_it/
 https://github.com/wonderkiln/blurkit-android
 https://github.com/CyberAgent/android-gpuimage
+https://github.com/aryarohit07/PicassoFaceDetectionTransformation?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=daily
 
 
 Image Slider
@@ -192,6 +194,7 @@ https://iconscout.com/
 https://pixelbuddha.net/
 
 libs
+http://www.iconnaut.com/android.php
 https://github.com/borax12/IconPackHelper
 https://github.com/JoanZapata/android-iconify
 

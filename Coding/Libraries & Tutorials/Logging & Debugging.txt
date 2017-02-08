@@ -38,6 +38,7 @@ https://caster.io/episodes/android-studio-applying-logcat-filters/
 https://github.com/charbgr/SeismicInterceptor
 http://flowup.io/
 https://github.com/elvishew/xLog
+https://github.com/patrickfav/under-the-hood
 
 
 Network remote logging

@@ -16,3 +16,4 @@ Tools
 https://sourceforge.net/projects/dex2jar/
 http://jd.benow.ca/
 https://github.com/dana-at-cp/backdoor-apk
+http://www.apk-deguard.com/

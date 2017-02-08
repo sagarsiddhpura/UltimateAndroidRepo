@@ -1,5 +1,6 @@
 https://github.com/Slyce-Inc/SlyceMessaging
 https://github.com/badoo/Chateau
+https://tox.chat/
 
 Chat Heads
 http://www.tooleap.com/

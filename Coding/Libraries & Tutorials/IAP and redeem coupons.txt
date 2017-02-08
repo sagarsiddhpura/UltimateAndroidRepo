@@ -13,3 +13,4 @@ https://github.com/anjlab/android-inapp-billing-v3
 https://github.com/serso/android-checkout
 https://github.com/lukaspili/Reactive-Billing
 https://www.reddit.com/r/androiddev/comments/4wt9xt/looking_for_advice_on_how_to_integrate_google/
+https://github.com/tslamic/premiumer/tree/master

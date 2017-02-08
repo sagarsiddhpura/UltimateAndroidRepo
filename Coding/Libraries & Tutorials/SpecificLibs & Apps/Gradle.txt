@@ -18,6 +18,7 @@ http://www.adavis.info/2016/01/talk-gradle-plugin-goodness.html
 http://zeroturnaround.com/rebellabs/making-gradle-builds-faster/
 https://gist.github.com/neworld/6af9154591b24404c01d
 https://kousenit.wordpress.com/2016/04/20/excluding-gradle-tasks-with-a-name-pattern/
+https://github.com/cvb941/RGB-Gradle-builds-notifications
 
 Premissions M
 https://github.com/galex/android-permissions-gradle-plugin
@@ -75,7 +76,8 @@ https://plugins.jetbrains.com/plugin/7794?pr=idea
 https://github.com/myotive/stop-gradle-now
 https://github.com/shchurov/GradleStop
 https://github.com/R4md4c/ResFoldersDetector
-
+https://github.com/gradle/gradle-profiler
+https://github.com/moallemi/gradle-advanced-build-version
 
 
 Gradle 3

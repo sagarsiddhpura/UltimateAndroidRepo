@@ -57,6 +57,7 @@ Widgets
 https://github.com/OHoussein/android-material-play-pause-view
 https://github.com/alxrm/youtube-play-icon
 https://github.com/Cleveroad/PlayWidget
+https://github.com/rubensousa/PreviewSeekBar/
 
 
 Exo Player
