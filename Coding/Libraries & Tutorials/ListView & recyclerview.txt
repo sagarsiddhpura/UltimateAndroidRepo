@@ -21,6 +21,7 @@ https://codentrick.com/load-more-recyclerview-bottom-progressbar/
 https://github.com/airbnb/epoxy
 https://github.com/janishar/PlaceHolderView
 https://github.com/GauravChaddha1996/CDSRecyclerView
+https://github.com/jaychang0917/SimpleRecyclerView
 
 https://github.com/mrmike/DiffUtil-sample
 
@@ -84,6 +85,7 @@ https://medium.com/airbnb-engineering/epoxy-airbnbs-view-architecture-on-android
 https://github.com/airbnb/epoxy
 https://github.com/Commit451/ViewHolderArrayAdapter
 https://github.com/pavel163/UniversalRecyclerAdapter
+https://github.com/rakshakhegde/LastPagerAdapter
 
 
 Expandabele RV

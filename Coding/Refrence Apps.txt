@@ -300,6 +300,10 @@ https://github.com/Neamar/KISS
 https://github.com/vmihalachi/turbo-editor
 https://github.com/Musenkishi/wally
 https://github.com/j4velin/Pedometer
+https://github.com/sickmartian/QuickReminderWidget
+https://github.com/NeuroTechX/eeg-101/
+https://github.com/mthli/Mount
+https://github.com/prithivraj/WordAttack
 
 
 Ionic
@@ -492,7 +496,7 @@ Other
 https://github.com/facebook/fbctf
 
 
-Nougnat
+Nougat
 https://github.com/klinker24/nougat-7.1-playground
 
 

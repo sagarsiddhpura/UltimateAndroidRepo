@@ -17,6 +17,7 @@ https://github.com/kcochibili/TinyDB--Android-Shared-Preferences-Turbo
 https://github.com/orhanobut/hawk
 https://github.com/cesarferreira/PainlessPrefs
 https://github.com/Zookey/UniversalPreferences
+https://github.com/anasanasanas/Preference-Rhythm
 
 Debug
 https://github.com/pavel163/ProbeTools

@@ -78,7 +78,8 @@ https://github.com/florent37/KenBurnsView
 https://github.com/wasabeef/Blurry
 https://gist.github.com/davidwhitman/92d043f2f75fd392a1f3
 https://github.com/glomadrian/RoadRunner
-https://github.com/ArthurHub/Android-Image-Cropperhttps://github.com/patrickfav/Dali
+https://github.com/ArthurHub/Android-Image-Cropper
+https://github.com/patrickfav/Dali
 
 
 SVG & Vector
@@ -142,6 +143,7 @@ https://github.com/CyberAgent/android-gpuimage
 
 Image Picker
 https://github.com/jkwiecien/EasyImage
+https://github.com/andremion/Louvre
 
 
 Image Libs

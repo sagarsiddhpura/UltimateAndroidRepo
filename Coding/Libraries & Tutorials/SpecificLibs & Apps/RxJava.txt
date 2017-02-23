@@ -110,6 +110,7 @@ https://github.com/0ximDigital/RxAnimations
 https://github.com/vssh/RxDbManPlus
 https://github.com/JetradarMobile/android-rxlocationsettings
 https://github.com/Commit451/Reptar
+https://github.com/anasanasanas/Preference-Rhythm
 
 Good
 https://medium.com/@cesarmcferreira/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c

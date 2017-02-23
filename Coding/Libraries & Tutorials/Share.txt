@@ -1,1 +1,3 @@
 https://github.com/tylerjroach/SlidingShareSelector
+
+https://infinum.co/the-capsized-eight/share-files-using-fileprovider

@@ -48,6 +48,7 @@ https://github.com/path/android-priority-jobqueue
 Downloading
 https://developer.android.com/training/volley/index.html
 https://github.com/hoseinmobasher/Android-Axel
+https://github.com/tonyofrancis/fetch
 
 
 Nearby API
@@ -114,6 +115,7 @@ http://sachinpatil.com/blog/2012/07/03/gson/
 https://xamoom.com/en/2016/03/awesome-jsonapi-library-for-java-and-android/
 https://github.com/kirisetsz/moshi-jsonapi
 https://github.com/Instagram/ig-json-parser
+https://github.com/afollestad/ason
 
 Libs discussion
 https://www.reddit.com/r/androiddev/comments/3hltzu/fast_json_parsing/

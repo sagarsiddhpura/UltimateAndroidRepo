@@ -82,6 +82,7 @@ https://www.reddit.com/r/TapTitans2/comments/5lutg4/utto_artifact_efficiency_cal
 https://github.com/colblitz/yatto2
 https://github.com/garretyoder/Colorful
 https://github.com/greenrobot/ObjectBox
+http://jd.benow.ca/
 
 
 Folder Gallery
