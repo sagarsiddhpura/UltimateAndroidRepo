@@ -8,6 +8,7 @@ https://medium.com/glucosio-project/backup-restore-a-realm-database-on-google-dr
 https://medium.com/@Zhuinden/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149#.nrsrd9x8y
 https://www.reddit.com/r/androiddev/comments/4x9yf9/trying_to_use_realm_as_cache_but_running_into/
 https://medium.com/@Zhuinden/basics-of-realm-a-guide-to-using-realm-1-2-0-634471c0fe8f#.kgem12aq4
+https://android.jlelse.eu/realm-its-all-about-the-choices-we-make-7c2fe380ecd8#.m0fcivl2x
 
 App
 https://github.com/Kistamushken/PopularMovies

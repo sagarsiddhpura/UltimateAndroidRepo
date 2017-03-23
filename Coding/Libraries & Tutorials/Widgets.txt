@@ -45,6 +45,7 @@ https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open
 https://github.com/enginebai/SwagPoints
 https://github.com/Muuddz/Android-Progressbar-Simulator
 https://github.com/vlad1m1r990/Lemniscate
+https://github.com/rakshakhegde/Diffre
 
 
 FAB
@@ -59,6 +60,7 @@ https://www.bignerdranch.com/blog/customizing-coordinatorlayouts-behavior/
 https://github.com/DmitryMalkovich/circular-with-floating-action-button
 https://github.com/rubensousa/FloatingToolbar
 https://github.com/JoaquimLey/FabOptions
+https://github.com/andremion/CounterFab
 
 Articles
 http://blog.makingiants.com/fab-compat-margins/
@@ -129,6 +131,7 @@ https://github.com/jaychang0917/SimpleText
 https://github.com/rosenpin/FadingTextView
 https://github.com/kaelaela/OpenGraphView
 https://github.com/aritraroy/KerningViews
+https://github.com/rosenpin/FadingTextView
 
 
 
@@ -140,6 +143,8 @@ https://github.com/cmc00022/CityMapperTabs - Color changing tabs
 http://panavtec.me/playing-with-the-new-support-tablayout/
 https://github.com/vitovalov/TabbedCoordinatorLayout
 https://github.com/nshmura/RecyclerTabLayout
+https://github.com/Andy671/Dachshund-Tab-Layout
+https://github.com/hugeterry/CoordinatorTabLayout
 Tablayout with badge
 https://gist.github.com/eneim/55df01e092520a6d33a4
 https://github.com/DavidPacioianu/InkPageIndicator
@@ -173,7 +178,7 @@ https://github.com/nekocode/Badge
 https://github.com/volders/Badger
 
 
-actionbar, toolbar
+actionbar, toolbar titlebar
 https://github.com/mikepenz/Android-ActionItemBadge
 https://medium.com/@ZakTaccardi/goodbye-actionbar-apis-hello-toolbar-af6ae7b31e5d
 https://github.com/fahimk/material-menu
@@ -184,6 +189,7 @@ https://medium.com/@nullthemall/overscroll-appbarlayout-behavior-e58f1ee2807#.if
 http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-24435
 https://github.com/rubensousa/FloatingToolbar
 https://medium.com/@lucasurbas/making-android-toolbar-responsive-2627d4e07129#.uthngjky2
+https://github.com/florent37/AwesomeBar
 
 
 Calendar Widget
@@ -191,7 +197,7 @@ https://github.com/romannurik/Android-MonthCalendarWidget
 https://github.com/prolificinteractive/material-calendarview
 https://halfthought.wordpress.com/2015/10/16/datepicker-data-binding/
 https://github.com/SundeepK/CompactCalendarView
-
+https://github.com/Mulham-Raee/Horizontal-Calendar
 
 Tree View
 https://github.com/fahimk/AndroidTreeView
@@ -226,12 +232,13 @@ http://nganthony.github.io/2016/01/24/implementing-android-mini-navigation-drawe
 https://github.com/rom4ek/ArcNavigationView
 
 
-Dialog, Popups, warnings
+Dialog, Popups, warnings alerts
 https://github.com/pedant/sweet-alert-dialog
 https://github.com/afollestad/material-dialogs
 https://www.reddit.com/r/androiddev/comments/40fibd/best_way_to_make_a_dialogfragment_transparent/
 https://github.com/javiersantos/MaterialStyledDialogs
 https://github.com/Brudigem/DropDownWarning
+https://github.com/Tapadoo/Alerter
 
 
 Statusbar
@@ -329,6 +336,7 @@ https://github.com/Kelin-Hong/ScrollablePanel
 https://github.com/AhmadNemati/WindView
 https://github.com/zagum/Android-ExpandIcon expand collapse icon
 https://github.com/wajahatkarim3/EasyFlipView
+https://github.com/zhouchaoyuan/excelPanel Cell 2d calendar
 
 
 Seekbar
@@ -336,6 +344,7 @@ https://github.com/JoeBudic/Multi-point-Circular-Seekbar
 https://medium.com/dualcores-studio/make-an-android-custom-view-publish-and-open-source-99a3d86df228#.841ccsgfv
 https://github.com/enginebai/SwagPoints
 https://github.com/rubensousa/PreviewSeekBar/
+https://github.com/rubensousa/PreviewSeekBar
 
 
 Date & Time
@@ -463,3 +472,7 @@ Toast
 https://github.com/Muuddz/Android-StyleableToast
 https://github.com/GrenderG/Toasty
 https://github.com/Muddz/StyleableToast
+
+
+Line
+https://github.com/Deliganli/crumber dotted line

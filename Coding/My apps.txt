@@ -83,6 +83,7 @@ https://github.com/colblitz/yatto2
 https://github.com/garretyoder/Colorful
 https://github.com/greenrobot/ObjectBox
 http://jd.benow.ca/
+https://www.xda-developers.com/xda-external-link/compiledecompile-apktool-scripts-made-available-for-windows/
 
 
 Folder Gallery

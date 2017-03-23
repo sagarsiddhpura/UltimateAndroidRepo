@@ -1,0 +1,28 @@
+Picasso.with(getActivity())
+.load(imageUrl)
+.networkPolicy(NetworkPolicy.OFFLINE)
+.into(imageView, new Callback() {
+    @Override
+    public void onSuccess() {
+
+    }
+
+    @Override
+    public void onError() {
+        //Try again online if cache failed
+        Picasso.with(getActivity())
+                .load(posts.get(position).getImageUrl())
+                .error(R.drawable.header)
+                .into(imageView, new Callback() {
+            @Override
+            public void onSuccess() {
+
+            }
+
+            @Override
+            public void onError() {
+                Log.v("Picasso","Could not fetch image");
+            }
+        });
+    }
+});

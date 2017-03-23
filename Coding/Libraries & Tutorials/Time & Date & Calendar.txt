@@ -20,3 +20,5 @@ Widgets
 https://github.com/alxrm/animated-clock-icon
 https://github.com/Kelin-Hong/ScrollablePanel
 https://github.com/PoePoeMyintSwe/ScrollablePanel/
+https://github.com/sickmartian/CalendarView
+https://github.com/Mulham-Raee/Horizontal-Calendar

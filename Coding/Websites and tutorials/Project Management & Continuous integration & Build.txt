@@ -24,3 +24,7 @@ http://jeremie-martinez.com//2016/04/19/gocd-android/
 
 https://www.reddit.com/r/androiddev/comments/4fv4d8/how_do_you_guys_handle_development_servers_any/
 https://www.reddit.com/r/androiddev/comments/4iqkyp/anyone_else_struggle_with_continuous_integration/
+
+
+Automate builds
+https://medium.com/@ilyazorin/power-of-gradle-command-line-arguments-b7dbdc4237bd#.2gtrkqbb4

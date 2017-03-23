@@ -100,6 +100,7 @@ https://romannurik.github.io/AndroidIconAnimator/
 Adb
 https://github.com/patrickfav/uber-uninstaller-android
 https://github.com/ashishb/adb-enhanced
+https://android.jlelse.eu/do-you-like-to-adb-fcae3655b9c8#.ws6f2msuc
 
 Run build on another pc
 https://github.com/gojuno/mainframer
@@ -166,3 +167,11 @@ https://github.com/googlesamples/apk-patch-size-estimator
 
 Debug screen
 https://github.com/patrickfav/under-the-hood
+
+
+Add libs
+http://gradleplease.appspot.com/
+
+
+Update gradle
+https://github.com/Commit451/updatewrapper

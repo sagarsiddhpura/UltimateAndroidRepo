@@ -49,6 +49,7 @@ https://github.com/elixsr/FwdPortForwardingApp/
 https://bugfender.com/android-remote-logger
 https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.2cf074yzh
 https://github.com/charbgr/SeismicInterceptor
+https://github.com/jgilfelt/chuck
 
 
 Live Logging
@@ -59,6 +60,7 @@ https://github.com/orhanobut/bee
 http://hannesdorfmann.com/android/debug-overlay/
 https://github.com/pedrovgs/Lynx
 https://github.com/explodes/android-sql-logging
+https://github.com/jgilfelt/chuck
 
 
 Exagerrated logging

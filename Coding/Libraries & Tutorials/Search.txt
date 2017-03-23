@@ -5,3 +5,4 @@ https://medium.com/@ragdroid/rxify-maintaining-order-in-auto-complete-search-d5c
 https://github.com/elastic/elasticsearch
 https://github.com/wenhuaijun/SearchPictureTool
 https://github.com/tengbinlive/mtestproject
+https://github.com/mancj/MaterialSearchBar

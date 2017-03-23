@@ -1,2 +1,5 @@
 https://www.reddit.com/r/androiddev/comments/4j1rq2/what_pattern_do_you_guys_use_for_versionname_and/
 http://semver.org/
+https://www.jacobmansfield.co.uk/p/2017/02/16/android-version-git/
+https://github.com/gladed/gradle-android-git-version
+https://github.com/allegro/axion-release-plugin

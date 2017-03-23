@@ -15,3 +15,7 @@ https://blog.aritraroy.in/whats-new-in-android-nougat-from-a-developer-s-point-o
 https://blog.cryptographyengineering.com/2016/11/24/android-n-encryption/
 
 https://github.com/pcevikogullari/AndroidShortcuts
+https://github.com/MatthiasRobbers/shortbread
+
+App Shortcuts
+https://github.com/michelelacorte/AndroidAppShortcuts

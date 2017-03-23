@@ -11,6 +11,7 @@ https://github.com/borax12/SWNotifier
 https://github.com/patloew/RxWear
 https://github.com/Gaelan-Bolger/WearSettings
 https://blog.klinkerapps.com/wearable-reply/
+https://github.com/klinker24/wearable-reply
 
 Apps
 https://blog.stylingandroid.com/something-oclock-part-4/

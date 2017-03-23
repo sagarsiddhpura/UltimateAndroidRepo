@@ -1,1 +1,2 @@
 https://github.com/orhanobut/dialogplus
+https://github.com/JulienArzul/SimpleDialogFragment

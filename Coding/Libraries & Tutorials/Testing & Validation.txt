@@ -40,6 +40,7 @@ https://www.reddit.com/r/androiddev/comments/4ik9tf/has_anyone_successfully_test
 https://www.reddit.com/r/androiddev/comments/4xo7lh/what_do_i_unit_test_in_an_android_app/
 http://endran.nl/blog/mockito-vs-jmockit/
 http://verybadalloc.com/android/adding-unit-tests-to-MVP-project.html
+https://www.reddit.com/r/androiddev/comments/5u7ltt/how_is_android_app_testing_done_in_your_company/
 
 
 UI
@@ -67,6 +68,8 @@ https://medium.com/azimolabs/testing-rx-code-7918d7ee1680#.bg43yanoa
 https://medium.com/azimolabs/wait-for-it-idlingresource-and-conditionwatcher-602055f32356#.xbqqm8dqz
 https://www.reddit.com/r/androiddev/comments/5l9egl/hello_i_am_setting_up_testframework_for_my/
 
+Service
+https://medium.com/@josiassena/android-how-to-unit-test-a-service-67e5340544a5#.iay8d95ol
 
 network
 https://packetzoom.com/blog/how-to-test-your-app-in-different-network-conditions.html

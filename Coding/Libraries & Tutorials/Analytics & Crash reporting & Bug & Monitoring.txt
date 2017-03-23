@@ -20,6 +20,7 @@ https://count.ly/
 https://instabug.com/how-it-works
 https://github.com/ACRA/acra
 https://github.com/getsentry/sentry
+https://github.com/alhazmy13/Catcho
 
 https://stanfy.com/blog/tools-and-platforms-for-mobile-app-analytics-part-i-performance-and-errors/
 
@@ -27,6 +28,7 @@ Custom Crash Screen
 https://www.reddit.com/r/androiddev/comments/3yg7tu/is_it_possible_to_handle_any_exception_that_would/
 http://stackoverflow.com/questions/19897628/need-to-handle-uncaught-exception-and-send-log-file
 https://github.com/Ereza/CustomActivityOnCrash
+https://github.com/alhazmy13/Catcho
 
 https://medium.com/@fredgrott/do-not-force-android-users-away-handle-your-exceptions-af01304e58ce#.4pjz7lu01
 

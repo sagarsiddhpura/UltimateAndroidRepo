@@ -12,6 +12,7 @@ https://github.com/LateNightProductions/CardKeeper
 https://github.com/KingsMentor/MobileVisionBarcodeScanner
 https://github.com/nisrulz/qreader
 https://github.com/LivotovLabs/CamView
+https://github.com/florent37/CameraFragment
 
 https://github.com/journeyapps/zxing-android-embedded
 

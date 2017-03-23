@@ -35,6 +35,12 @@ https://github.com/armcha/Vertical-Intro
 http://mockuphone.com/
 https://github.com/medyo/android-about-page
 https://github.com/apl-devs/AppIntro
+https://github.com/Cleveroad/SlidingTutorial-Android
+https://github.com/TangoAgency/material-intro-screen
+https://github.com/HeinrichReimer/material-intro
+https://github.com/riggaroo/MaterialIntroTutorial
+https://github.com/rubengees/introduction
+https://github.com/MatthewTamlin/SlidingIntroScreen
 
 
 Highlight views Select

@@ -12,6 +12,11 @@ https://medium.com/@p.tournaris/android-improving-sign-in-experience-with-google
 
 https://github.com/hmkcode/Android/tree/master/android-social-signin
 
+
+Tutorial
+http://keysandstrokes.info/how-to-integrate-facebook-login-with-android-app/
+
+
 Libs
 https://github.com/ashokslsk/Instagram-Integration
 https://github.com/amaboura/socialbase

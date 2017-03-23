@@ -75,3 +75,6 @@ https://hackernoon.com/a-useful-memory-debugger-plugin-for-android-studio-2d9d95
 
 
 https://github.com/KeepSafe/dexcount-gradle-plugin
+
+Lottie
+https://github.com/0legg/bodylookin

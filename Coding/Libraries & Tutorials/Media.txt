@@ -18,6 +18,7 @@ https://github.com/danylovolokh/VideoPlayerManager
 https://github.com/afollestad/easy-video-player
 https://github.com/eneim/Toro
 https://github.com/lawloretienne/Loop
+https://github.com/rubensousa/PreviewSeekBar
 
 Streaming
 https://www.oddnetworks.com/
@@ -62,3 +63,14 @@ https://github.com/rubensousa/PreviewSeekBar/
 
 Exo Player
 https://medium.com/@emuneee/migrating-from-exoplayer-1-x-to-2-0-58fbda36b46c#.4ntw953xd
+ExoPlayer is your best bet https://github.com/google/ExoPlayer
+They have a blog too https://medium.com/google-exoplayer
+And you should read the dev guide too https://google.github.io/ExoPlayer/guide.html
+
+
+Chooser
+https://github.com/Bilibili/boxing
+
+
+Gallery
+https://github.com/alhazmy13/MediaGallery

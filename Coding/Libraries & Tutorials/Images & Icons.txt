@@ -59,13 +59,17 @@ https://github.com/wasabeef/picasso-transformations
 https://nullpointer.wtf/android/image-loading-with-picasso/
 https://github.com/drose379/picturePerfect
 https://github.com/daimajia/AndroidImageSlider
+https://github.com/myinnos/ImageSliderWithSwipes
 https://github.com/huazhiyuan2008/RecyclerViewCardGallery
 https://github.com/mzelzoghbi/ZGallery
 https://github.com/ChristianLJ/ImageGallery
+https://github.com/alhazmy13/MediaGallery
+https://github.com/stfalcon-studio/FrescoImageViewer
 
 
 Compress images
 https://gist.github.com/SandroMachado/9ee516bbd36768ca3844876c50cf4618
+https://github.com/zetbaitsu/Compressor
 
 
 Effects
@@ -92,7 +96,7 @@ https://romannurik.github.io/AndroidIconAnimator/
 https://www.reddit.com/r/androiddev/comments/569zxd/has_anyone_here_completely_moved_to_svgs_how_are/
 https://medium.com/@manuelvicnt/your-app-icon-as-animatedvectordrawable-92325ba07c8e#.urj1la43m
 https://tech.fleka.me/how-to-load-svg-file-from-web-in-android-6cd2f4dc59b#.go1bmflhw
-
+https://github.com/alexjlockwood/ShapeShifter
 
 Have state drawable
 http://www.donnfelker.com/quick-and-easy-statelistdrawables-in-android-with-one-png/

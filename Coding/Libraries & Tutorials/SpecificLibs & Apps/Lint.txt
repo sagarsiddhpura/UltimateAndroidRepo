@@ -1,1 +1,4 @@
 https://android.jlelse.eu/writing-custom-lint-rules-and-integrating-them-with-android-studio-inspections-or-carefulnow-c54d72f00d30#.8c9s709sb
+https://www.reddit.com/r/androiddev/comments/5ty9vl/question_about_writing_custom_lint_rules/
+https://lab.getbase.com/custom-lint-checks-part-1/
+https://lab.getbase.com/custom-lint-checks-part-2/

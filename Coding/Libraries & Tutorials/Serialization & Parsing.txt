@@ -5,6 +5,7 @@ http://hannesdorfmann.com/android/ParcelablePlease/
 http://frogermcs.github.io/flatbuffers-performance-in-android-allocation-tracking/
 https://github.com/frogermcs/FlatBuffs
 https://www.reddit.com/r/androiddev/comments/4xpiqj/serialisation_which_technique_do_you_use_and/
+http://blog.bradcampbell.nz/a-comparison-of-parcelable-boilerplate-libraries/
 
 Parsing
 Language

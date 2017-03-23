@@ -27,6 +27,9 @@ https://www.reddit.com/r/androiddev/comments/5d8phc/how_do_you_secure_aws_access
 https://commonsware.com/blog/2016/11/28/certificate-pinning-failing-open.html
 https://androidsecurity.info/2016/11/24/certificate-pinning-in-android/
 https://androidsecurity.info/2016/12/15/storing-your-secure-information-in-the-ndk/
+https://androidsecurity.info/2016/12/07/tampering-detection-in-android/
+https://medium.com/@josiassena/using-the-android-keystore-system-to-store-sensitive-information-3a56175a454b#.9y1qomyih
+
 
 Passwords
 https://github.com/infinum/android-complexify
@@ -64,6 +67,7 @@ https://www.hashicorp.com/blog/vault.html
 https://github.com/jedisct1/libsodium
 https://blog.devknox.io/devknox-autocorrect-for-security-issues/
 https://github.com/yakivmospan/scytale
+https://github.com/rockaport/alice
 
 
 IAP

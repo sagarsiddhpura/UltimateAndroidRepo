@@ -304,6 +304,7 @@ https://github.com/sickmartian/QuickReminderWidget
 https://github.com/NeuroTechX/eeg-101/
 https://github.com/mthli/Mount
 https://github.com/prithivraj/WordAttack
+https://github.com/GSala/Changelogs
 
 
 Ionic
@@ -365,6 +366,9 @@ https://github.com/ArsalaBangash/Cosmic-Maneuver
 https://github.com/avitaker/TrivialTrivia
 https://github.com/ankidroid/Anki-Android
 https://github.com/minetest
+https://github.com/kloener/visor-android
+https://github.com/jedrzejdrygas/Fck/tree/master
+https://github.com/aritraroy/RxMagneto
 
 
 Audio
@@ -508,6 +512,9 @@ https://code.launchpad.net/unav
 Login
 https://github.com/mohak1712/SignUpLogin
 
+
+Scala
+https://github.com/47deg/nine-cards-v2
 
 
 Android TV

@@ -36,3 +36,4 @@ https://stfalcon.com/en/blog/post/learning-android-gestures
 
 Scrolling
 https://github.com/noties/ScrollingBackgroundView
+https://medium.com/vscoengineering/android-ux-tricks-nested-scrolling-without-nested-scrolling-2d1c629d58c0#.k9susr5s0

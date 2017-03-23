@@ -85,3 +85,7 @@ https://www.reddit.com/r/androiddev/comments/4xu8kw/gradle_30_released/
 
 
 http://sdkman.io/usage.html
+
+
+Gradle wrapper
+https://github.com/Commit451/updatewrapper

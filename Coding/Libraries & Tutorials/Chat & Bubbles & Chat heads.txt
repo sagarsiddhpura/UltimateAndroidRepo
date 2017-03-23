@@ -6,3 +6,9 @@ Chat Heads
 http://www.tooleap.com/
 http://www.piwai.info/chatheads-basics/
 https://github.com/google/hover
+
+
+Libs
+https://github.com/chat-sdk/chat-sdk-android
+https://github.com/stfalcon-studio/ChatKit
+

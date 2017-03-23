@@ -6,3 +6,4 @@ https://codecanyon.net/item/jumper-an-arcade-bouncing-game/6806595?s_rank=8
 https://seirim.com/blog/ux-and-web-design/25-mobile-ui-design-collections
 http://pttrns.com/android-patterns+
 https://github.com/mohak1712/SignUpLogin
+https://github.com/athkalia/Just-Another-Android-App

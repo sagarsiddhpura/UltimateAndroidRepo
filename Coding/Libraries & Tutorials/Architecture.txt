@@ -32,6 +32,7 @@ https://mattdevelops.github.io/android/2016/08/13/androidmvp.html
 
 MVP
 http://engineering.hackerearth.com/2016/11/17/wtf-is-mvp/
+https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40#.fnk1593kq
 
 
 Libs

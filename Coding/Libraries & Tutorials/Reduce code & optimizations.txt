@@ -82,3 +82,7 @@ https://medium.com/google-developers/making-the-most-of-the-apk-analyzer-c066cb8
 
 Image to Vector
 https://www.reddit.com/r/androiddev/comments/569zxd/has_anyone_here_completely_moved_to_svgs_how_are/
+
+
+Via gradle
+https://github.com/noties/BuildTimeGradleCodeGen

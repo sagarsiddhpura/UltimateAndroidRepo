@@ -1,4 +1,6 @@
 dhttp://www.androidcodesnippets.com/2016/03/quick-guide-to-using-event-bus-in-your-project/
 https://medium.com/@jacquesgiraudel/buses-are-not-dead-139dc4b8cd66#.75g1vuzb5
+https://github.com/greenrobot/ObjectBox
+https://github.com/Anadea/RxBus
 
 https://github.com/kgmyshin/eventbus-intellij-plugin

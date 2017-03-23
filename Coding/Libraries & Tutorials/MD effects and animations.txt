@@ -12,7 +12,10 @@ https://github.com/DmitryMalkovich/material-design-dimens
 
 
 Lib
+Lottie
 https://github.com/airbnb/lottie-android
+https://github.com/0legg/bodylookin
+
 https://github.com/rey5137/material
 https://github.com/ZieIony/Carbon
 https://github.com/alexive/visual-goodies
@@ -21,6 +24,7 @@ https://github.com/noties/ScrollingBackgroundView
 https://github.com/LiveTyping/CannyViewAnimator
 https://github.com/facebookincubator/Keyframes
 https://github.com/0ximDigital/RxAnimations
+https://github.com/0ximDigital/Rx2Animations
 
 
 Animations
@@ -112,6 +116,7 @@ https://github.com/alexjlockwood/adp-delightful-details
 https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.voxqxoyw4
 https://medium.com/@sebastian212000/my-fab-brings-all-the-boys-in-the-yard-damn-right-7aa0e81b4402#.602up5s5m
 http://www.uwanttolearn.com/android/constraint-layout-animations-dynamic-constraints-ui-java-hell/
+http://mikescamell.com/shared-element-transitions-part-2/
 
 
 Tools
@@ -233,6 +238,9 @@ https://www.reddit.com/r/learnandroid/comments/55yd4n/create_an_animated_clock_w
 https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-or-view
 https://medium.com/@timrijckaert/play-pause-stop-animated-vector-drawable-88a9df956d20#.rfhu2ggis
 http://mikescamell.com/shared-element-transitions-part-1/
+http://mikescamell.com/shared-element-transitions-part-3/
+https://github.com/albinmathew/PreLollipopTransition
+http://mikescamell.com/shared-element-transitions-part-4-recyclerview/
 
 
 Animations L+
@@ -251,6 +259,7 @@ https://github.com/mwolfson/android-historian
 
 SVG
 https://github.com/bonnyfone/vectalign - Animations
+https://github.com/alexjlockwood/ShapeShifter
 
 
 Shape animations
@@ -258,7 +267,7 @@ https://lewismcgeary.github.io/posts/animated-vector-drawable-pathMorphing/
 https://stories.uplabs.com/animated-icons-on-android-ee635307bd6#.qcziapfb1
 
 
-Guidelines
+	Guidelines
 https://blog.prototypr.io/common-material-design-bad-practices-to-avoid-b7995f251329#.jjgzcfhmc
 
 

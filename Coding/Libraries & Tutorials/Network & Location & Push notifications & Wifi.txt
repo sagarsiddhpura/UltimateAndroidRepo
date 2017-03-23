@@ -1,3 +1,7 @@
+Network
+https://github.com/afollestad/bridge
+
+
 Downloading and caching data
 https://github.com/NYTimes/Store
 
@@ -65,6 +69,7 @@ https://github.com/pocmo/Android-Network-Intents
 http://developer.android.com/intl/ru/training/connect-devices-wirelessly/nsd.html
 http://www.opengarden.com/meshkit.html
 https://github.com/afollestad/udp-discovery
+https://www.reddit.com/r/androiddev/comments/5t9bnu/what_apps_use_nearby_api/
 
 
 Monitor Network changes
@@ -180,6 +185,7 @@ http://blog.makingiants.com/onesignal-for-push/
 http://qgraph.io/blog/carousel-push-notifications-drive-performance-halo-effect/
 https://pusher.com/
 https://smooch.io/
+onesignal
 
 https://www.firebase.com/
 https://gist.github.com/charly1811/7ba60a6f4776ebd3c88a

@@ -58,6 +58,7 @@ Fast Scroller for RV
 https://github.com/plusCubed/recycler-fast-scroll
 https://github.com/timusus/RecyclerView-FastScroll
 https://github.com/L4Digital/FastScroll
+https://github.com/myinnos/AlphabetIndex-Fast-Scroll-RecyclerView
 
 
 Adapter
@@ -86,6 +87,9 @@ https://github.com/airbnb/epoxy
 https://github.com/Commit451/ViewHolderArrayAdapter
 https://github.com/pavel163/UniversalRecyclerAdapter
 https://github.com/rakshakhegde/LastPagerAdapter
+https://github.com/RobbeSneyders/Modular2Recycler
+https://github.com/gantonious/ViewCellAdapter
+https://github.com/10clouds/InifiniteRecyclerView
 
 
 Expandabele RV
@@ -132,11 +136,12 @@ https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf#.nkll
 https://medium.com/codeword/an-in-depth-look-at-snaphelper-new-tools-in-recyclerview-part-2-5a461a53bf4e#.70t4mfitx
 
 
-Animations
+Animations & effects
 http://antonioleiva.com/layout-animations-on-recyclerview/
 http://frogermcs.github.io/recyclerview-animations-androiddevsummit-write-up/
 https://github.com/nhaarman/ListViewAnimations
 https://github.com/wasabeef/recyclerview-animators
+https://github.com/sharish/ShimmerRecyclerView
 
 
 With database
