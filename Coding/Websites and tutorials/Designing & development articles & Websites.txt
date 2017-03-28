@@ -25,6 +25,7 @@ https://medium.com/uptech-team/how-to-create-beautiful-text-stickers-for-android
 https://hackernoon.com/make-your-android-app-look-less-shitty-5dd63c4938f1#.9ev4szdy7
 https://www.youtube.com/watch?v=Fy0aCDmgnxg&feature=youtu.be
 https://www.reddit.com/r/androiddev/comments/5jhd0z/engineering_the_architecture_behind_ubers_new/
+https://hackernoon.com/lego-ize-it-c40806bd6035#.qs1hfw2pj
 
 
 http://pttrns.com/?did=6&page=2

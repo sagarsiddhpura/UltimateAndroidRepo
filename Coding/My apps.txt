@@ -101,3 +101,5 @@ https://www.reddit.com/r/androiddev/comments/5lrmn4/how_to_speed_up_android_grad
 Wedding invite
 https://github.com/Avocarrot/json2view
 https://github.com/Muddz/StyleableToast
+
+https://developer.android.com/studio/build/optimize-your-build.html

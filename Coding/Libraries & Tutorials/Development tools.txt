@@ -1,1 +1,2 @@
 https://github.com/danijoo/resdiff
+http://bazel.io/docs/mobile-install.html

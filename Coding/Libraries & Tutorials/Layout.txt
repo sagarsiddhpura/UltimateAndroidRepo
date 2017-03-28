@@ -5,6 +5,9 @@ Ascii
 https://github.com/vignjatijevic/petsciiview
 https://github.com/flipkart-incubator/proteus
 
+State
+https://github.com/gturedi/StatefulLayout
+
 https://medium.com/@janishar.ali/android-tinder-swipe-view-example-3eca9b0d4794#.et8g86gp4
 
 

@@ -132,6 +132,8 @@ https://github.com/rosenpin/FadingTextView
 https://github.com/kaelaela/OpenGraphView
 https://github.com/aritraroy/KerningViews
 https://github.com/rosenpin/FadingTextView
+https://github.com/xbroak/CharCountTextView
+https://github.com/AndroidDeveloperLB/AutoFitTextView
 
 
 
@@ -150,6 +152,7 @@ https://gist.github.com/eneim/55df01e092520a6d33a4
 https://github.com/DavidPacioianu/InkPageIndicator
 https://github.com/DevLight-Mobile-Agency/NavigationTabBar
 https://github.com/DevLight-Mobile-Agency/NavigationTabStrip
+https://github.com/myinnos/SlidingTabWithColorIcons
 
 
 Wizard pager View pager
@@ -239,6 +242,8 @@ https://www.reddit.com/r/androiddev/comments/40fibd/best_way_to_make_a_dialogfra
 https://github.com/javiersantos/MaterialStyledDialogs
 https://github.com/Brudigem/DropDownWarning
 https://github.com/Tapadoo/Alerter
+https://github.com/RahulJanagouda/CustomDialog
+https://github.com/garena/dev-alert-android
 
 
 Statusbar
@@ -337,6 +342,7 @@ https://github.com/AhmadNemati/WindView
 https://github.com/zagum/Android-ExpandIcon expand collapse icon
 https://github.com/wajahatkarim3/EasyFlipView
 https://github.com/zhouchaoyuan/excelPanel Cell 2d calendar
+https://github.com/GoodieBag/HorizontalPicker
 
 
 Seekbar
@@ -461,11 +467,13 @@ Menu
 https://github.com/desnyki/InfinityMenu
 https://github.com/google/hover
 https://github.com/adonixis/android-animated-menu-items
+https://github.com/ImangazalievM/CircleMenu
 
 
 Checkbox
 https://github.com/sevar83/indeterminate-check
 https://github.com/Commit451/Untriggeredbox
+https://github.com/sevar83/indeterminate-checkbox
 
 
 Toast
@@ -476,3 +484,7 @@ https://github.com/Muddz/StyleableToast
 
 Line
 https://github.com/Deliganli/crumber dotted line
+
+
+Check
+https://github.com/cdflynn/checkview

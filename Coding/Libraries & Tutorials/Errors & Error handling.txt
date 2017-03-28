@@ -3,3 +3,6 @@ https://medium.com/@joakimforslund/install-parse-failed-no-certificates-on-an-al
 http://anthony-skr.com/article/how-to-resolve-unsatisfiedlinkerror-exception
 
 https://github.com/Workable/java-error-handler
+
+Layouts
+https://github.com/gturedi/StatefulLayout

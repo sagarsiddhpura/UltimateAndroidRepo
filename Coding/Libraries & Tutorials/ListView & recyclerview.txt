@@ -90,6 +90,7 @@ https://github.com/rakshakhegde/LastPagerAdapter
 https://github.com/RobbeSneyders/Modular2Recycler
 https://github.com/gantonious/ViewCellAdapter
 https://github.com/10clouds/InifiniteRecyclerView
+https://github.com/filbabic/FlexibleAdapter
 
 
 Expandabele RV
@@ -187,3 +188,5 @@ https://github.com/anastr/SpongebobList
 
 
 https://github.com/gjiazhe/LayoutSwitch
+https://github.com/storix/RxDiffUtil
+

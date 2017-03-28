@@ -22,6 +22,7 @@ https://www.pollfish.com/blog/2016/07/26/mobile-monetization-glossary/
 https://www.reddit.com/r/androiddev/comments/4zsbb9/what_kind_of_ad_do_you_use_to_monetize/
 https://www.reddit.com/r/androiddev/comments/4zscu7/best_ad_networks_as_an_alternative_to_admob_banner/
 https://www.reddit.com/r/androiddev/comments/502dwy/best_native_ad_network_to_integrate/
+http://www.ironsrc.com/news/what-is-ecpm/
 
 https://www.youtube.com/watch?v=irWymeJ9uXo
 

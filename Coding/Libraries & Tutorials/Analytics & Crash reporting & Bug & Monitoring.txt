@@ -21,6 +21,7 @@ https://instabug.com/how-it-works
 https://github.com/ACRA/acra
 https://github.com/getsentry/sentry
 https://github.com/alhazmy13/Catcho
+https://github.com/garena/dev-alert-android
 
 https://stanfy.com/blog/tools-and-platforms-for-mobile-app-analytics-part-i-performance-and-errors/
 

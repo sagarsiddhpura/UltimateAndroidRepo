@@ -9,6 +9,7 @@ https://github.com/Freelander/Android_Data
 https://plus.google.com/u/0/communities/100609058582053363304
 https://github.com/pcqpcq/open-source-android-apps
 https://github.com/SimpleMobileTools
+https://github.com/pcqpcq/open-source-android-apps
 
 https://github.com/geecko86/QuickLyric
 https://github.com/C-Aniruddh/ACEMusicPlayer
@@ -369,6 +370,10 @@ https://github.com/minetest
 https://github.com/kloener/visor-android
 https://github.com/jedrzejdrygas/Fck/tree/master
 https://github.com/aritraroy/RxMagneto
+https://github.com/k0shk0sh/FastHub
+https://github.com/DmitryMalkovich/gito-github-client
+https://github.com/timusus/Shuttle
+https://github.com/panwrona/Workcation
 
 
 Audio

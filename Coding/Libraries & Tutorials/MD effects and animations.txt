@@ -25,6 +25,7 @@ https://github.com/LiveTyping/CannyViewAnimator
 https://github.com/facebookincubator/Keyframes
 https://github.com/0ximDigital/RxAnimations
 https://github.com/0ximDigital/Rx2Animations
+https://github.com/florent37/ExpectAnim
 
 
 Animations
@@ -99,6 +100,8 @@ https://github.com/danielzeller/Depth-LIB-Android-
 https://github.com/hujiaweibujidao/FabDialogMorph
 https://github.com/adonixis/android-animated-menu-items
 http://www.uwanttolearn.com/android/constraint-layout-animations-dynamic-constraints-ui-java-hell/
+https://github.com/cdflynn/checkview
+https://github.com/panwrona/Workcation
 
 
 Play Pause
@@ -239,8 +242,10 @@ https://kylewbanks.com/blog/left-and-right-slide-animations-on-android-activity-
 https://medium.com/@timrijckaert/play-pause-stop-animated-vector-drawable-88a9df956d20#.rfhu2ggis
 http://mikescamell.com/shared-element-transitions-part-1/
 http://mikescamell.com/shared-element-transitions-part-3/
+http://mikescamell.com/shared-element-transitions-part-5/
 https://github.com/albinmathew/PreLollipopTransition
 http://mikescamell.com/shared-element-transitions-part-4-recyclerview/
+https://github.com/florent37/ExpectAnim
 
 
 Animations L+

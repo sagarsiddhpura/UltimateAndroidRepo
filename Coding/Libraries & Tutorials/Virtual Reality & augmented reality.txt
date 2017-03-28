@@ -7,6 +7,7 @@ Metaio
 https://www.kudan.eu/
 http://www.wikitude.com/developer/documentation/android
 http://www.androidauthority.com/start-building-daydream-apps-vr-sdk-718029/?utm_source=feedly&utm_medium=webfeeds
+https://caster.io/lessons/build-your-first-google-vr-app-in-ten-minutes/
 
 
 https://www.reddit.com/r/androiddev/comments/4sssxy/is_there_any_augmented_reality_sdk_for_android/

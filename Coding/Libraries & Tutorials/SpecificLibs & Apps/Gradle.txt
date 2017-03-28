@@ -55,6 +55,7 @@ https://zeroturnaround.com/rebellabs/using-build-cache-in-android-studio-makes-g
 http://blog.tooploox.com/make-gradle-builds-fast-again-2/
 https://www.reddit.com/r/androiddev/comments/5lrmn4/how_to_speed_up_android_gradle_builds/
 https://developer.android.com/studio/build/gradle-tips.html
+https://developer.android.com/studio/build/optimize-your-build.html
 
 https://github.com/Triple-T/gradle-play-publisher
 
@@ -78,6 +79,7 @@ https://github.com/shchurov/GradleStop
 https://github.com/R4md4c/ResFoldersDetector
 https://github.com/gradle/gradle-profiler
 https://github.com/moallemi/gradle-advanced-build-version
+https://github.com/ben-manes/gradle-versions-plugin
 
 
 Gradle 3

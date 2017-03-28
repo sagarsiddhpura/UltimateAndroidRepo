@@ -2,7 +2,7 @@ https://www.reddit.com/r/androiddev/comments/42zten/how_to_make_data_sync_on_and
 https://github.com/nolanlawson/PouchDroid/
 http://www.dmytrodanylyk.com/android-data-sync-part-2/
 https://www.reddit.com/r/androiddev/comments/4i4cyc/syncadapter_is_it_worth_it/
-
+http://josiassena.com/building-a-sync-adapter-and-using-it-on-android/
 
 DB
 http://www.liquibase.org/

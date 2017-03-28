@@ -12,6 +12,7 @@ https://translate.google.com/toolkit/list#translations/active
 https://medium.com/@paolorotolo/integrate-translations-into-development-process-with-travis-and-ci-magic-bdda43c0112f#.wgn4v54sj
 http://www.fanciullimassimiliano.it/2016/12/15/Android-App-Translator/
 https://barmij.ly/Academy/Articles/Read/Android-Globalization-Best-Practices
+https://medium.cobeisfresh.com/how-we-deal-with-localizing-ios-and-android-apps-4d98b4534483#.perd1u4k5
 
 https://plugins.jetbrains.com/plugin/112f#.wgn4v54sj
 

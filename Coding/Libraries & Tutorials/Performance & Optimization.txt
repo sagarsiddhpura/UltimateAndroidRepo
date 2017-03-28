@@ -38,7 +38,7 @@ https://github.com/NikitaKozlov/Pury
 http://blog.karumi.com/android-devs-we-were-blind/
 http://flowup.io/
 https://github.com/dtrounine/hprof_bitmap_dump
-
+https://blog.rhye.org/post/android-profiling-flamegraphs/
 
 Inflate Layout async
 https://medium.com/@lupajz/asynchronous-layout-inflation-7cbca2653bf#.onjs1vzge

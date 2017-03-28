@@ -6,6 +6,7 @@ https://github.com/lisawray/fontbinding
 https://github.com/workarounds/typography
 https://github.com/chrisjenx/Calligraphy
 https://github.com/myinnos/AppFontChanger
+https://github.com/myinnos/AppIconNameChanger
 
 Have font in string.xml generated
 https://hunter-isaiah96.github.io/

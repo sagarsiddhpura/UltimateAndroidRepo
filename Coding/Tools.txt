@@ -175,3 +175,5 @@ http://gradleplease.appspot.com/
 
 Update gradle
 https://github.com/Commit451/updatewrapper
+
+https://developer.android.com/studio/build/optimize-your-build.html

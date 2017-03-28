@@ -42,3 +42,5 @@ https://github.com/saantiaguilera/android-api-camera
 https://github.com/JeroenMols/LandscapeVideoCamera
 https://github.com/nekocode/CameraFilter
 https://github.com/google/cameraview
+Good
+https://github.com/gogopop/CameraKit-Android

@@ -3,3 +3,4 @@ https://github.com/nisrulz/easydeviceinfo
 https://android-developers.googleblog.com/2011/03/identifying-app-installations.html?m=1
 https://developers.google.com/instance-id/
 https://github.com/tslamic/AndroidDeviceNames/tree/master
+https://github.com/jaredrummler/AndroidDeviceNames
