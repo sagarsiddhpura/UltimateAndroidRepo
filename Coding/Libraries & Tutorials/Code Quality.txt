@@ -10,3 +10,7 @@ https://github.com/nshmura/strictmode-notifier
 https://github.com/bufferapp/android-guidelines/blob/master/project_style_guidelines.md
 https://github.com/google/error-prone
 https://www.reddit.com/r/androiddev/comments/5uc5in/how_you_do_code_review/
+https://hackernoon.com/configuring-android-project-static-code-analysis-tools-b6dd83282921
+
+Libs
+https://github.com/anupcowkur/here-be-dragons

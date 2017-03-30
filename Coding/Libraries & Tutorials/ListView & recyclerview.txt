@@ -91,6 +91,7 @@ https://github.com/RobbeSneyders/Modular2Recycler
 https://github.com/gantonious/ViewCellAdapter
 https://github.com/10clouds/InifiniteRecyclerView
 https://github.com/filbabic/FlexibleAdapter
+https://github.com/alibaba/vlayout
 
 
 Expandabele RV
@@ -108,6 +109,7 @@ https://github.com/thoughtbot/expandable-recycler-view
 
 Pagination
 https://medium.com/@etiennelawlor/pagination-with-recyclerview-1cb7e66a502b
+https://blog.uncommon.is/a-guide-to-sortedlist-part-5-5-pagination-dee0862dcee4
 
 
 Tutorials:

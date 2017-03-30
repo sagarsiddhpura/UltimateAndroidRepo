@@ -18,7 +18,7 @@ https://github.com/Vedenin/useful-java-links
 Chat
 http://androidchat.co/
 https://androidchat.slack.com/
-https://androidchat.slack.com/messages/@slackbot/
 http://android-united.community/
 #android-dev (IRC via irc.freenode.net)
 http://dottap.com/
+https://discord.gg/0zmO5t1MjrqeJEUE

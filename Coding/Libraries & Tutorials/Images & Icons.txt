@@ -70,6 +70,7 @@ https://github.com/stfalcon-studio/FrescoImageViewer
 Compress images
 https://gist.github.com/SandroMachado/9ee516bbd36768ca3844876c50cf4618
 https://github.com/zetbaitsu/Compressor
+https://www.paintcodeapp.com/
 
 
 Effects
@@ -79,6 +80,7 @@ https://github.com/RomainPiel/Titanic
 http://facebook.github.io/shimmer-android/
 https://github.com/cooltechworks/BitmapMerger
 https://github.com/florent37/KenBurnsView
+https://github.com/flavioarfaria/KenBurnsView
 https://github.com/wasabeef/Blurry
 https://gist.github.com/davidwhitman/92d043f2f75fd392a1f3
 https://github.com/glomadrian/RoadRunner

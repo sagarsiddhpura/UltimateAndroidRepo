@@ -5,6 +5,7 @@ http://www.yozio.com/
 https://developers.google.com/app-invites/
 http://jawnnypoo.github.io/deeperlinker/
 https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-and-android-mobile-deep-linking-f4348b265b49#.lfxo5xj5b
+https://medium.com/exploring-android/exploring-firebase-on-android-dynamic-links-7364def74808
 
 Libs
 https://branch.io/

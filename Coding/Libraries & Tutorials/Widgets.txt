@@ -46,6 +46,8 @@ https://github.com/enginebai/SwagPoints
 https://github.com/Muuddz/Android-Progressbar-Simulator
 https://github.com/vlad1m1r990/Lemniscate
 https://github.com/rakshakhegde/Diffre
+https://github.com/amanjeetsingh150/CoolProgressViews
+https://github.com/krtkush/LinearTimer circular
 
 
 FAB
@@ -105,6 +107,7 @@ https://github.com/DomainGroupOSS/accounts-autocomplete
 https://github.com/masterlittle/SlideButton
 https://github.com/bufferapp/BufferTextInputLayout
 https://facebookincubator.github.io/TextLayoutBuilder/
+https://github.com/GoodieBag/Pinview
 
 http://antonioleiva.com/textview_power_drawables/
 
@@ -153,6 +156,7 @@ https://github.com/DavidPacioianu/InkPageIndicator
 https://github.com/DevLight-Mobile-Agency/NavigationTabBar
 https://github.com/DevLight-Mobile-Agency/NavigationTabStrip
 https://github.com/myinnos/SlidingTabWithColorIcons
+https://github.com/yarolegovich/DiscreteScrollView
 
 
 Wizard pager View pager
@@ -166,6 +170,8 @@ https://github.com/IntruderShanky/Flare
 https://github.com/Cleveroad/FanLayoutManager
 https://rubensousa.github.io/2016/08/viewpagercards
 http://dubedout.eu/2016/11/13/viewpager-indicator-libraries-you-should-know/?utm_source=reddit&utm_medium=forum&utm_campaign=vpi_libs
+https://github.com/jfeinstein10/JazzyViewPager animations
+https://github.com/yarolegovich/DiscreteScrollView
 
 
 Draw
@@ -343,6 +349,7 @@ https://github.com/zagum/Android-ExpandIcon expand collapse icon
 https://github.com/wajahatkarim3/EasyFlipView
 https://github.com/zhouchaoyuan/excelPanel Cell 2d calendar
 https://github.com/GoodieBag/HorizontalPicker
+https://github.com/GoodieBag/ProtractorView
 
 
 Seekbar
@@ -488,3 +495,7 @@ https://github.com/Deliganli/crumber dotted line
 
 Check
 https://github.com/cdflynn/checkview
+
+
+Scrollbar
+https://github.com/cdflynn/bubble-scroll

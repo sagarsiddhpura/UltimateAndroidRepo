@@ -1,1 +1,2 @@
 http://saulmm.github.io/vcs-android-studio
+https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323

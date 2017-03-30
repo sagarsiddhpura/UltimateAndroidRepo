@@ -91,3 +91,7 @@ http://sdkman.io/usage.html
 
 Gradle wrapper
 https://github.com/Commit451/updatewrapper
+
+
+Auto increment build no
+http://devdeeds.com/auto-increment-build-number-using-gradle-in-android/

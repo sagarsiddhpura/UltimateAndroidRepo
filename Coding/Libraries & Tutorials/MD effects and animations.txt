@@ -15,6 +15,7 @@ Lib
 Lottie
 https://github.com/airbnb/lottie-android
 https://github.com/0legg/bodylookin
+http://www.lottiefiles.com
 
 https://github.com/rey5137/material
 https://github.com/ZieIony/Carbon
@@ -78,6 +79,7 @@ https://github.com/Ramotion/folding-cell-android
 https://github.com/android-cjj/JJSearchViewAnim
 https://medium.com/@Sserra90/android-smooth-shared-transitions-in-all-android-versions-9cd27fd3c80f#.3zkw9jjg1
 https://github.com/danielzeller/Depth-LIB-Android-
+https://github.com/florent37/Depth
 https://github.com/JA-VON/Android-View-Controller
 https://github.com/Yalantis/pull-to-make-soup
 https://medium.com/@andkulikov/animate-all-the-things-transitions-in-android-914af5477d50#.6w9afrsw3
@@ -176,6 +178,8 @@ https://github.com/DominikAngerer/fire-bear
 Change color by palette
 https://github.com/Adirockzz95/Quick-Palette
 
+Viewpager
+https://github.com/jfeinstein10/JazzyViewPager
 https://medium.com/@BashaChris/the-android-viewpager-has-become-a-fairly-popular-component-among-android-apps-its-simple-6bca403b16d4
 http://fiskur.eu/?p=752
 

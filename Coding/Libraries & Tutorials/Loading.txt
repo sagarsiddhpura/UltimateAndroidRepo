@@ -21,6 +21,8 @@ https://github.com/arieridwan8/pageloader
 https://github.com/vlad1m1r990/Lemniscate
 https://github.com/biodunalfet/SlidingSquaresLoader
 https://github.com/nntuyen/mkloader
+https://github.com/ishan1604/tinglingsquares
+https://github.com/DamanSingh4321/ProProgressViews
 
 http://gifloaders.com/
 

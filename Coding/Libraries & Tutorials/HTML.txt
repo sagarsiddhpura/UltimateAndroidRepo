@@ -1,1 +1,2 @@
 https://github.com/jrummyapps/html-builder
+https://github.com/Pixplicity/HtmlCompat

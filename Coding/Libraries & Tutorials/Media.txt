@@ -68,8 +68,9 @@ They have a blog too https://medium.com/google-exoplayer
 And you should read the dev guide too https://google.github.io/ExoPlayer/guide.html
 
 
-Chooser
+Chooser picker
 https://github.com/Bilibili/boxing
+https://github.com/alhazmy13/MediaPicker
 
 
 Gallery

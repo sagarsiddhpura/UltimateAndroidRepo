@@ -10,3 +10,4 @@ https://github.com/Polidea/RxAndroidBle
 https://github.com/Glamdring/epassport-reader
 https://github.com/akexorcist/Android-BluetoothSPPLibrary
 https://github.com/stanleyguevara/beaconradar
+https://github.com/cicdevelopmentnz/Android-BLE

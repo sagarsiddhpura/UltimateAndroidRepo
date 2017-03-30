@@ -1,1 +1,2 @@
 https://github.com/Stuie/papercut
+https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323

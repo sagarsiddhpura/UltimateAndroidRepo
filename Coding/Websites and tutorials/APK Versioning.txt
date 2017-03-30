@@ -3,3 +3,4 @@ http://semver.org/
 https://www.jacobmansfield.co.uk/p/2017/02/16/android-version-git/
 https://github.com/gladed/gradle-android-git-version
 https://github.com/allegro/axion-release-plugin
+https://hackernoon.com/configuring-android-project-version-name-code-b168952f3323
