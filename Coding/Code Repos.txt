@@ -23,3 +23,7 @@ https://android.googlesource.com/?format=HTML
 http://sourcey.com/beautiful-android-login-and-signup-screens-with-material-design/
 
 http://www.androidcodesnippets.com/
+
+
+resources
+https://www.reddit.com/r/androiddev/comments/5zcbi0/the_ultimate_android_development_guide_50/

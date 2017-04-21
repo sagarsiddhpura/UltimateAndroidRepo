@@ -1,4 +1,4 @@
-http://www.codeandux.com/tackling-performance-issues-in-unity-for-mobiles/https://vimeo.com/136071117measure screen ratehttps://github.com/wasabeef/Takthttp://blog.udinic.com/2015/09/15/speed-up-your-app/https://github.com/Juude/awesome-android-performance/blob/master/README.mdhttp://www.curious-creature.com/2012/12/01/android-performance-case-study/https://github.com/romainguy/ViewServerhttps://developers.soundcloud.com/blog/congratulations-you-have-a-lot-of-code-remedying-androids-method-limit-part-2http://graphics-geek.blogspot.com/2015/10/measuring-activity-startup-time.html
+http://www.codeandux.com/tackling-performance-issues-in-unity-for-mobiles/https://vimeo.com/136071117measure screen ratehttps://github.com/wasabeef/Takthttps://flowup.io/http://blog.udinic.com/2015/09/15/speed-up-your-app/https://github.com/Juude/awesome-android-performance/blob/master/README.mdhttp://www.curious-creature.com/2012/12/01/android-performance-case-study/https://github.com/romainguy/ViewServerhttps://developers.soundcloud.com/blog/congratulations-you-have-a-lot-of-code-remedying-androids-method-limit-part-2http://graphics-geek.blogspot.com/2015/10/measuring-activity-startup-time.html
 https://medium.com/google-developers/draw-what-you-see-and-clip-the-e11-out-of-the-rest-6df58c47873e?linkId=20311896#.ylt4r2f28
 https://www.reddit.com/r/androiddev/comments/45ahsu/how_we_reduced_startup_time_for_our_android_app/
 http://open.blogs.nytimes.com/2016/02/11/improving-startup-time-in-the-nytimes-android-app/?_r=0
@@ -38,7 +38,7 @@ https://github.com/NikitaKozlov/Pury
 http://blog.karumi.com/android-devs-we-were-blind/
 http://flowup.io/
 https://github.com/dtrounine/hprof_bitmap_dump
-https://blog.rhye.org/post/android-profiling-flamegraphs/
+https://blog.rhye.org/post/android-profiling-flamegraphs/https://github.com/markzhai/AndroidPerformanceMonitor
 
 Inflate Layout async
 https://medium.com/@lupajz/asynchronous-layout-inflation-7cbca2653bf#.onjs1vzge

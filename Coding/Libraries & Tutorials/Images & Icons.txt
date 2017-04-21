@@ -224,6 +224,7 @@ https://plugins.jetbrains.com/plugin/7647?pr=
 https://www.iconfinder.com/
 https://materialdesignicons.com/
 https://www.reddit.com/r/androiddev/comments/5irfjh/super_simple_guide_to_icon_fonts_eg_fontawesome/
+http://www.iconninja.com/
 
 http://joanzapata.com/android-iconify/
 https://icons8.com/

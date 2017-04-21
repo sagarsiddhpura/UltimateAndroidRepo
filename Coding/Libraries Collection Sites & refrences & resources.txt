@@ -18,6 +18,7 @@ https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw
 https://www.reddit.com/r/androiddev/comments/4vx3rx/what_are_some_good_blogssites_etc_about_android/
 https://github.com/SubhrajyotiSen/AndroidResources
 https://jacqueslenormand.com/mobile.html
+https://github.com/ParaskP7/android-dev-sources
 
 
 Java

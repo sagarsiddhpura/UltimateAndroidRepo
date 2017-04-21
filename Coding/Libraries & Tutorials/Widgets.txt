@@ -226,6 +226,7 @@ https://github.com/Everseat/LyftAppCompatButton
 https://github.com/dmytrodanylyk/android-morphing-button
 https://github.com/ceryle/SegmentedButton
 https://github.com/alxrm/youtube-play-icon
+https://github.com/dewarder/HoldingButton
 
 
 Navigation drawer
@@ -239,6 +240,7 @@ https://github.com/Yalantis/Side-Menu.Android
 https://github.com/mzule/FantasySlide
 http://nganthony.github.io/2016/01/24/implementing-android-mini-navigation-drawer.html
 https://github.com/rom4ek/ArcNavigationView
+https://github.com/yarolegovich/SlidingRootNav
 
 
 Dialog, Popups, warnings alerts
@@ -350,6 +352,7 @@ https://github.com/wajahatkarim3/EasyFlipView
 https://github.com/zhouchaoyuan/excelPanel Cell 2d calendar
 https://github.com/GoodieBag/HorizontalPicker
 https://github.com/GoodieBag/ProtractorView
+https://github.com/pavel163/FilledView
 
 
 Seekbar

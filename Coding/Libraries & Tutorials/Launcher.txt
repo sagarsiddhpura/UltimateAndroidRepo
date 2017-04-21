@@ -1,0 +1,2 @@
+http://blog.danlew.net/2014/01/16/preserve-your-launchers-use-activity-alias/
+https://github.com/michelelacorte/FlickLauncher

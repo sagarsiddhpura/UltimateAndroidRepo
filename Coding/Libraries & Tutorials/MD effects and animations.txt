@@ -27,6 +27,8 @@ https://github.com/facebookincubator/Keyframes
 https://github.com/0ximDigital/RxAnimations
 https://github.com/0ximDigital/Rx2Animations
 https://github.com/florent37/ExpectAnim
+Background landscape
+https://github.com/ZieIony/LandscapeView
 
 
 Animations

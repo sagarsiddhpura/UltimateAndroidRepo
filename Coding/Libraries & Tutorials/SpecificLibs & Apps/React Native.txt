@@ -8,3 +8,5 @@ https://github.com/fbsamples/f8app
 
 
 https://github.com/WassimBenltaief/ReactiveFB
+https://blog.expo.io/sketch-a-playground-for-react-native-16b2401f44a2
+https://sketch.expo.io/

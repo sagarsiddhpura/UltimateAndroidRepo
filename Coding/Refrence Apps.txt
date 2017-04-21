@@ -306,6 +306,9 @@ https://github.com/NeuroTechX/eeg-101/
 https://github.com/mthli/Mount
 https://github.com/prithivraj/WordAttack
 https://github.com/GSala/Changelogs
+https://github.com/michelelacorte/FlickLauncher
+https://github.com/dlew/android-gfycat
+https://github.com/andyb129/FlipsideCamera
 
 
 Ionic
@@ -343,7 +346,8 @@ https://github.com/inorichi/tachiyomi
 https://github.com/googlesamples/android-topeka
 https://github.com/naman14/Timber
 https://github.com/Liza-S/Security-Point-App
-
+https://github.com/CCninja86/UltimateWordFinder
+https://github.com/Liza-S/Score-Keeper-app
 
 
 Game

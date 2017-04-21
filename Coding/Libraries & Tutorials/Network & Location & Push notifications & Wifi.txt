@@ -34,6 +34,7 @@ https://medium.com/exploring-android/introducing-custom-map-styles-for-google-ma
 https://hackernoon.com/using-custom-styles-with-google-maps-android-api-e1e5ec3ac7e9#.n6wl6tyur
 https://github.com/aarsy/GoogleMapsAnimations
 https://www.thedroidsonroids.com/blog/workcation-app-part-2-animating-markers-with-mapoverlaylayout/
+https://www.thedroidsonroids.com/blog/workcation-app-part-3-recyclerview-interaction-with-animated-markers/
 
 
 Virtual Network

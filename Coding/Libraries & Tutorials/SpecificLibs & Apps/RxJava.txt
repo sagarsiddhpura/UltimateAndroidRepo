@@ -114,6 +114,9 @@ https://github.com/anasanasanas/Preference-Rhythm
 https://github.com/Anadea/RxBus
 https://github.com/0ximDigital/Rx2Animations
 https://github.com/storix/RxDiffUtil
+https://github.com/uber/AutoDispose
+https://github.com/nekocode/RxActivityResult
+
 
 Good
 https://medium.com/@cesarmcferreira/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c

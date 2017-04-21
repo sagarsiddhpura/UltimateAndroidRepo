@@ -5,6 +5,7 @@ http://code2care.org/2015/facebook-android-sdk-v4.1.0-integration-android-studio
 http://peirr.com/codelabs/google_signin/#6
 https://developers.google.com/identity/toolkit/#ready-to-get-started
 http://medyo.github.io/customize-facebook-login-button-on-android
+http://www.zoftino.com/google-sign-in-option-in-android-apps
 
 https://gist.github.com/vinaybn92/d0664b985b2db661d669
 https://medium.com/@p.tournaris/android-improving-sign-in-experience-with-google-sign-in-and-smartlock-f0bfd789602a#.iff40hwy0
@@ -26,6 +27,7 @@ https://github.com/CloudRail/cloudrail-si-android-sdk/
 https://github.com/FuckBoilerplate/RxSocialConnect-Android
 https://github.com/MiteshSharma/AndroidLoginHelper
 https://github.com/jaychang0917/SocialLoginManager
+https://github.com/maksim88/EasyLogin
 
 https://github.com/Commit451/DriveAppFolderViewer
 https://github.com/Everseat/LyftAppCompatButper

@@ -16,6 +16,7 @@ https://medium.com/flow-ci/how-to-set-up-android-emulator-in-flow-ci-7c560315abe
 https://www.novoda.com/blog/new-jenkins-pipelines/
 https://www.reddit.com/r/androiddev/comments/4xb61c/which_continuous_integration_system_does_everyone/
 fastlane
+https://www.reddit.com/r/androiddev/comments/603cio/automation_scripts_for_releases_screenshots_play/
 
 https://wiki.jenkins-ci.org/display/JENKINS/Fabric+Beta+Publisher+Plugin
 https://www.buddybuild.com/

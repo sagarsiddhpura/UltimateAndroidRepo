@@ -187,6 +187,7 @@ https://github.com/alex-townsend/SwipeOpenItemTouchHelper
 Listview
 https://github.com/idunnololz/AnimatedExpandableListView
 https://github.com/anastr/SpongebobList
+https://github.com/lurbas/ListItemView
 
 
 https://github.com/gjiazhe/LayoutSwitch

@@ -9,3 +9,4 @@ https://github.com/ajalt/reprint
 https://github.com/trippedout/CloudVisionLib
 
 https://hackernoon.com/machine-learning-for-android-developers-with-the-mobile-vision-api-part-1-face-detection-e7e24a3e472f#.7rtn14cp7
+http://josiassena.com/android-fingerprint-authentication/

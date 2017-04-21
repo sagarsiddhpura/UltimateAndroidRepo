@@ -80,6 +80,7 @@ https://github.com/R4md4c/ResFoldersDetector
 https://github.com/gradle/gradle-profiler
 https://github.com/moallemi/gradle-advanced-build-version
 https://github.com/ben-manes/gradle-versions-plugin
+https://github.com/cookpad/license-tools-plugin
 
 
 Gradle 3

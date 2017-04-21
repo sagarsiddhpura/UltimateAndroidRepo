@@ -104,6 +104,7 @@ https://android.jlelse.eu/do-you-like-to-adb-fcae3655b9c8#.ws6f2msuc
 
 Run build on another pc
 https://github.com/gojuno/mainframer
+https://medium.com/@balachandarkm/speed-up-android-builds-with-mainframer-docker-container-in-a-powerful-remote-machine-ce7b9e122a49
 http://cyborg-build.com/
 
 Resize windows from keyboard
