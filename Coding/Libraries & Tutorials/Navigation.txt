@@ -4,3 +4,5 @@ https://github.com/JayyyR/PancakesOnPlates
 https://github.com/ncapdevi/FragNav/
 
 https://github.com/mzule/ActivityRouter/blob/master/README-en.md
+
+https://github.com/MarcinMoskala/ActivityStarter

@@ -178,3 +178,23 @@ Update gradle
 https://github.com/Commit451/updatewrapper
 
 https://developer.android.com/studio/build/optimize-your-build.html
+
+reverse tethering
+https://github.com/Genymobile/gnirehtet
+
+
+App launch guide
+https://github.com/adamwulf/app-launch-guide
+
+reduce image
+https://pnggauntlet.com/
+
+
+run app in browser
+http://runthatapp.com/
+https://appetize.io/
+
+
+clear app data
+https://github.com/willowtreeapps/scratch
+https://github.com/pbreault/adb-idea

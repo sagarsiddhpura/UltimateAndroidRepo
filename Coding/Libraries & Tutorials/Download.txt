@@ -2,3 +2,4 @@ https://github.com/dudu90/FreshDownloadView
 https://github.com/tonyofrancis/fetch
 https://developer.android.com/training/volley/index.html
 https://github.com/hoseinmobasher/Android-Axel
+https://github.com/volders/RxDownloadManager

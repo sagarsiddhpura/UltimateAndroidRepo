@@ -22,3 +22,4 @@ http://android-united.community/
 #android-dev (IRC via irc.freenode.net)
 http://dottap.com/
 https://discord.gg/0zmO5t1MjrqeJEUE
+https://android-united.slack.com/messages

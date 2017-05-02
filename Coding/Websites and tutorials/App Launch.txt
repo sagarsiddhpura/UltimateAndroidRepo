@@ -1,1 +1,2 @@
 http://saulmm.github.io/avoding-android-cold-starts
+https://github.com/adamwulf/app-launch-guide

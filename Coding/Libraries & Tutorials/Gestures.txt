@@ -17,6 +17,7 @@ https://github.com/eschao/android-PageFlip
 https://github.com/zagum/Android-ExpandIcon
 https://github.com/gjiazhe/PanoramaImageView
 https://github.com/wajahatkarim3/EasyFlipView
+https://github.com/nipun-birla/Swipe3DRotateView
 
 Swipe
 https://github.com/alexandrius/accordion-swipe-layout
@@ -38,3 +39,4 @@ Scrolling
 https://github.com/noties/ScrollingBackgroundView
 https://medium.com/vscoengineering/android-ux-tricks-nested-scrolling-without-nested-scrolling-2d1c629d58c0#.k9susr5s0
 https://github.com/cdflynn/bubble-scroll
+https://github.com/egek92/DiscrollView2

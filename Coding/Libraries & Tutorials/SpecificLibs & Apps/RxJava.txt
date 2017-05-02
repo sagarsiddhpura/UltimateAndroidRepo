@@ -155,6 +155,7 @@ https://github.com/domsu/compass
 https://github.com/LucasFoulonMongai/RxDemo
 https://github.com/esoxjem/MovieGuide
 https://github.com/RobertDeveloper/RMaps.0.9.x
+https://github.com/volders/RxDownloadManager
 
 
 Samples
@@ -218,3 +219,7 @@ https://medium.com/azimolabs/testing-rx-code-7918d7ee1680#.bg43yanoa
 
 Rx2
 https://medium.com/@peter.tackage/overriding-rxandroid-schedulers-in-rxjava-2-5561b3d14212#.gkzf9eqi1
+
+
+Debug
+https://github.com/T-Spoon/Traceur

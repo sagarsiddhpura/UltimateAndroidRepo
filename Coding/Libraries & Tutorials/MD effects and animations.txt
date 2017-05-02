@@ -27,8 +27,10 @@ https://github.com/facebookincubator/Keyframes
 https://github.com/0ximDigital/RxAnimations
 https://github.com/0ximDigital/Rx2Animations
 https://github.com/florent37/ExpectAnim
+https://github.com/willowtreeapps/spruce-android
 Background landscape
 https://github.com/ZieIony/LandscapeView
+https://github.com/Yalantis/JellyToolbar
 
 
 Animations
@@ -106,6 +108,8 @@ https://github.com/adonixis/android-animated-menu-items
 http://www.uwanttolearn.com/android/constraint-layout-animations-dynamic-constraints-ui-java-hell/
 https://github.com/cdflynn/checkview
 https://github.com/panwrona/Workcation
+https://github.com/egek92/DiscrollView2
+http://www.zoftino.com/view-animation-effects-in-android
 
 
 Play Pause
@@ -142,6 +146,7 @@ Rotate
 http://stackoverflow.com/questions/33625497/how-to-animate-a-view-around-a-circle
 http://stackoverflow.com/questions/14039265/how-to-rotate-a-drawable-by-objectanimator/29465710#29465710
 https://blog.stylingandroid.com/animatedvectordrawable-bundles/
+https://github.com/nipun-birla/Swipe3DRotateView
 
 
 Edittext

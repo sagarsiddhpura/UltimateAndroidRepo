@@ -9,6 +9,7 @@ http://www.zoftino.com/google-sign-in-option-in-android-apps
 
 https://gist.github.com/vinaybn92/d0664b985b2db661d669
 https://medium.com/@p.tournaris/android-improving-sign-in-experience-with-google-sign-in-and-smartlock-f0bfd789602a#.iff40hwy0
+https://hackernoon.com/using-social-mechanisms-to-turn-mobile-app-users-into-active-tribe-members-72c8284d2607
 
 
 https://github.com/hmkcode/Android/tree/master/android-social-signin

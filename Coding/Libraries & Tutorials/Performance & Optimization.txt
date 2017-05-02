@@ -38,7 +38,7 @@ https://github.com/NikitaKozlov/Pury
 http://blog.karumi.com/android-devs-we-were-blind/
 http://flowup.io/
 https://github.com/dtrounine/hprof_bitmap_dump
-https://blog.rhye.org/post/android-profiling-flamegraphs/https://github.com/markzhai/AndroidPerformanceMonitor
+https://blog.rhye.org/post/android-profiling-flamegraphs/https://github.com/markzhai/AndroidPerformanceMonitorhttps://github.com/seiginonakama/BlockCanaryEx
 
 Inflate Layout async
 https://medium.com/@lupajz/asynchronous-layout-inflation-7cbca2653bf#.onjs1vzge
@@ -80,4 +80,4 @@ https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8
 
 
 Offline
-https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.aeflkxu8v
+https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.aeflkxu8vimageshttps://pnggauntlet.com/reduce apk sizehttps://medium.com/@margaretmz/reducing-android-apk-size-b0f311ad4d8frecyclerviewhttps://thisbitofcode.com/speeding-up-recyclerviews/

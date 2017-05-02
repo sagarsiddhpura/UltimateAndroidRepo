@@ -27,3 +27,6 @@ https://github.com/GoodieBag/HorizontalPicker
 
 Media
 https://github.com/alhazmy13/MediaPicker
+
+
+https://github.com/igalata/Bubble-Picker

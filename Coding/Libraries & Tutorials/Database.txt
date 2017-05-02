@@ -69,3 +69,6 @@ https://www.reddit.com/r/androiddev/comments/4414k2/painless_database_libraries_
 
 Network
 https://www.reddit.com/r/androiddev/comments/4d0gxq/learn_how_to_connect_android_app_to_a_database/
+
+UI
+https://github.com/Cleveroad/AdaptiveTableLayout

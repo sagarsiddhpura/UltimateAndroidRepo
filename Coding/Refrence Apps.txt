@@ -309,6 +309,26 @@ https://github.com/GSala/Changelogs
 https://github.com/michelelacorte/FlickLauncher
 https://github.com/dlew/android-gfycat
 https://github.com/andyb129/FlipsideCamera
+https://github.com/terryschmidt/xkcdview-Android
+https://github.com/losingmadscrilla/xkcdviewr
+https://github.com/connyduck/pixelwallpaper/
+
+
+Quiz
+https://github.com/googlesamples/android-Quiz
+https://github.com/zelahi/Android-Coding-Quiz-App
+https://github.com/robhinds/android-quiz-parse-example
+https://github.com/CreatorB/quiz-android
+https://github.com/BabyManisha/Android-Quiz-App
+https://github.com/jjmason/android-quiz
+https://github.com/angrykoala/lightquiz
+https://github.com/ghiottolino/android-quiz-template
+https://github.com/Kamshak/BrainPhaser
+https://github.com/throwrocks/android-quiz-app
+https://github.com/sudhirkhanger/QuizApp
+https://github.com/angusyoung84/androidquiz
+https://github.com/fabriciobrag/android-quiz-php
+https://github.com/googlesamples/android-topeka
 
 
 Ionic
@@ -500,6 +520,7 @@ https://github.com/MacDegger/BABBQastPresentation
 React
 https://github.com/fbsamples/f8app
 http://opensourceforu.com/2016/05/learn-best-of-react-native-with-these-open-source-projects/
+https://github.com/vigzmv/what_the_thing
 
 
 Samsung edge

@@ -8,6 +8,7 @@ https://github.com/afollestad/bridge
 
 Downloading and caching data
 https://github.com/NYTimes/Store
+https://github.com/volders/RxDownloadManager
 
 Get location
 https://medium.com/@hitherejoe/exploring-play-services-place-picker-autocomplete-150809f739fe#.v6k2r1whh

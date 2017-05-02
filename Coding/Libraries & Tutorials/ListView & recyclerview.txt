@@ -59,6 +59,7 @@ https://github.com/plusCubed/recycler-fast-scroll
 https://github.com/timusus/RecyclerView-FastScroll
 https://github.com/L4Digital/FastScroll
 https://github.com/myinnos/AlphabetIndex-Fast-Scroll-RecyclerView
+https://github.com/volsahin/volx-recyclerview-fast-scroll?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5553
 
 
 Adapter
@@ -145,6 +146,7 @@ http://frogermcs.github.io/recyclerview-animations-androiddevsummit-write-up/
 https://github.com/nhaarman/ListViewAnimations
 https://github.com/wasabeef/recyclerview-animators
 https://github.com/sharish/ShimmerRecyclerView
+https://github.com/willowtreeapps/spruce-android
 
 
 With database
@@ -193,3 +195,6 @@ https://github.com/lurbas/ListItemView
 https://github.com/gjiazhe/LayoutSwitch
 https://github.com/storix/RxDiffUtil
 
+
+Speed up & performance
+https://thisbitofcode.com/speeding-up-recyclerviews/

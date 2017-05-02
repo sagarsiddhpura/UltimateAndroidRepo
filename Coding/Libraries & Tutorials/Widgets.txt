@@ -48,6 +48,7 @@ https://github.com/vlad1m1r990/Lemniscate
 https://github.com/rakshakhegde/Diffre
 https://github.com/amanjeetsingh150/CoolProgressViews
 https://github.com/krtkush/LinearTimer circular
+https://github.com/ishaan1995/ButtonProgressBar
 
 
 FAB
@@ -227,6 +228,7 @@ https://github.com/dmytrodanylyk/android-morphing-button
 https://github.com/ceryle/SegmentedButton
 https://github.com/alxrm/youtube-play-icon
 https://github.com/dewarder/HoldingButton
+https://github.com/ishaan1995/ButtonProgressBar
 
 
 Navigation drawer
@@ -412,6 +414,8 @@ Switch
 https://github.com/BelkaLab/Android-Toggle-Switch
 https://github.com/roughike/SwipeSelector
 https://github.com/zagum/Android-SwitchIcon
+https://github.com/polyak01/IconSwitch
+https://github.com/GwonHyeok/StickySwitch
 
 
 Gallery
@@ -502,3 +506,7 @@ https://github.com/cdflynn/checkview
 
 Scrollbar
 https://github.com/cdflynn/bubble-scroll
+
+
+Table
+https://github.com/Cleveroad/AdaptiveTableLayout

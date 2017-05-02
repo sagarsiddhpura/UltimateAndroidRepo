@@ -74,3 +74,7 @@ https://3e8.io/2016/questions-when-planning-backend/
 
 Java
 https://www.reddit.com/r/androiddev/comments/5gnvgf/what_are_some_good_java_servlet_hosting_options/
+
+
+Movie
+https://www.reddit.com/r/androiddev/comments/626svq/film_database_application_what_is_the_best/

@@ -2,9 +2,11 @@ https://github.com/miguelespinoza/react-goku
 https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react
 https://stories.jotform.com/create-your-own-jotform-submission-counter-android-app-using-react-native-b85d3c0d784c#.4jnhwur2t
 https://www.reddit.com/r/androiddev/comments/5qr9xw/avoiding_react_native/
+https://www.reddit.com/r/androiddev/comments/631ppf/advice_on_picking_react_native_or_java_for/
 
 Apps
 https://github.com/fbsamples/f8app
+https://github.com/vigzmv/what_the_thing
 
 
 https://github.com/WassimBenltaief/ReactiveFB

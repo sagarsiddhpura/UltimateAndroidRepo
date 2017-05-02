@@ -8,6 +8,7 @@ https://www.reddit.com/r/androiddev/comments/3nymx7/how_do_you_manage_inapp_purc
 https://www.reddit.com/r/androiddev/comments/4idapv/moral_dilemma_regarding_the_store_listing_for_an/
 https://hackernoon.com/implementing-in-app-billing-in-android-4896232c7d6b#.ftdqbz6bl
 https://www.reddit.com/r/androiddev/comments/5pbhra/how_would_i_make_a_paidlite_variant_using_same/dcq7det/
+http://stackoverflow.com/questions/33850864/how-to-verify-purchase-for-android-app-in-server-side-google-play-in-app-billin/34005001#34005001
 
 
 Libs

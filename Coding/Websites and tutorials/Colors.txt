@@ -9,3 +9,6 @@ https://codecrafted.net/randommaterial
 http://www.sankk.in/material-mixer/
 https://www.materialui.co/colors
 https://color.adobe.com/create/color-wheel/?base=2&rule=Analogous&selected=2&name=My%20Color%20Theme&mode=rgb&rgbvalues=1,0.325607046512557,0.07375135554926082,0.91,0.17338149846917392,0.06711373354982735,1,0.12375135554926087,0.1831078097304838,0.91,0.06711373354982735,0.545653377418945,0.9657763172964381,0.07375135554926082,1&swatchOrder=0,1,2,3,4
+https://material.io/color/#!/?view.left=0&view.right=0
+
+http://thetechnocafe.com/make-a-moving-gradient-background-in-android/
