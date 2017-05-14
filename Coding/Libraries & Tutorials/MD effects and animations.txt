@@ -110,6 +110,7 @@ https://github.com/cdflynn/checkview
 https://github.com/panwrona/Workcation
 https://github.com/egek92/DiscrollView2
 http://www.zoftino.com/view-animation-effects-in-android
+https://developer.android.com/guide/topics/graphics/physics-based-animation.html
 
 
 Play Pause

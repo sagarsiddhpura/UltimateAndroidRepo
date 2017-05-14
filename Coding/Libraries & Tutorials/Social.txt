@@ -29,6 +29,7 @@ https://github.com/FuckBoilerplate/RxSocialConnect-Android
 https://github.com/MiteshSharma/AndroidLoginHelper
 https://github.com/jaychang0917/SocialLoginManager
 https://github.com/maksim88/EasyLogin
+https://github.com/robertsimoes/Shareable?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5570
 
 https://github.com/Commit451/DriveAppFolderViewer
 https://github.com/Everseat/LyftAppCompatButper

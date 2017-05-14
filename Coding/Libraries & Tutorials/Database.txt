@@ -72,3 +72,7 @@ https://www.reddit.com/r/androiddev/comments/4d0gxq/learn_how_to_connect_android
 
 UI
 https://github.com/Cleveroad/AdaptiveTableLayout
+
+
+performance
+https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2

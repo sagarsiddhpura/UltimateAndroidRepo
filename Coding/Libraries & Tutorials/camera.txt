@@ -20,6 +20,7 @@ https://github.com/journeyapps/zxing-android-embedded
 
 https://medium.com/@bherbst/android-barcode-scanning-library-landscape-109292b81b65#.wj8upq7ra
 https://medium.com/@nullthemall/camera-availability-tip-45e815edc4e2#.8zw6p2fne
+https://www.reddit.com/r/androiddev/comments/64yycv/i_need_some_camera_advice_rollyourown_solution/
 
 https://github.com/jaydeepw/poly-picker
 https://github.com/commonsguy/cwac-cam2

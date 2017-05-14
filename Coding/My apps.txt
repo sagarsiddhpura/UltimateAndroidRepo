@@ -103,3 +103,7 @@ https://github.com/Avocarrot/json2view
 https://github.com/Muddz/StyleableToast
 
 https://developer.android.com/studio/build/optimize-your-build.html
+
+
+Whatschatt
+https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2

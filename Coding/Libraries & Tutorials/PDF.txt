@@ -4,6 +4,8 @@ https://pspdfkit.com/blog/2016/how-to-build-a-screenreader/
 https://www.reddit.com/r/androiddev/comments/52pd85/filling_pdf_form_interactively/
 https://solidgeargroup.com/pdf-reports-android
 https://commonsware.com/blog/2017/01/04/options-viewing-pdfs.html
+https://github.com/HendrixString/Android-PdfMyXml
+https://github.com/soster/pdfjet
 
 
 iText 5.0+ Licencia AGPL

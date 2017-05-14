@@ -56,6 +56,7 @@ http://blog.tooploox.com/make-gradle-builds-fast-again-2/
 https://www.reddit.com/r/androiddev/comments/5lrmn4/how_to_speed_up_android_gradle_builds/
 https://developer.android.com/studio/build/gradle-tips.html
 https://developer.android.com/studio/build/optimize-your-build.html
+https://medium.com/pressure-labs/a-new-devs-guide-to-google-play-sanity-4-a-groovy-script-to-save-them-all-456a12672886
 
 https://github.com/Triple-T/gradle-play-publisher
 
@@ -96,3 +97,7 @@ https://github.com/Commit451/updatewrapper
 
 Auto increment build no
 http://devdeeds.com/auto-increment-build-number-using-gradle-in-android/
+
+
+play sound wwhen build completes
+https://www.reddit.com/r/androiddev/comments/66pern/play_sound_when_your_build_fails/

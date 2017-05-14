@@ -15,6 +15,8 @@ http://macoscope.com/blog/using-sonarqube-with-jenkins-continuous-integration-an
 https://medium.com/flow-ci/how-to-set-up-android-emulator-in-flow-ci-7c560315abe4#.uiy9ah75m
 https://www.novoda.com/blog/new-jenkins-pipelines/
 https://www.reddit.com/r/androiddev/comments/4xb61c/which_continuous_integration_system_does_everyone/
+https://hackernoon.com/configuring-android-project-continuous-integration-e06fd43c4953
+https://engineeringblog.yelp.com/2017/04/continuous-integration-on-android.html
 fastlane
 https://www.reddit.com/r/androiddev/comments/603cio/automation_scripts_for_releases_screenshots_play/
 

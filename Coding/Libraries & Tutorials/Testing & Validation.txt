@@ -181,3 +181,7 @@ https://www.reddit.com/r/androiddev/comments/5mimhe/why_i_dont_use_roboletric_ph
 
 mock touch
 https://github.com/appetizerio/appetizer-toolkit
+
+
+
+https://www.reddit.com/r/TestMyApp/
