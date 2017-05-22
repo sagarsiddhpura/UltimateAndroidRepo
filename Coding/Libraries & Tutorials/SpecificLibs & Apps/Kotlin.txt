@@ -30,6 +30,7 @@ http://kovenant.komponents.nl/
 https://github.com/FabianTerhorst/Iron
 https://github.com/alxrm/Audiogram
 https://github.com/alxrm/Timecon
+https://github.com/square/kotlinpoet
 
 
 TEsting
@@ -46,3 +47,7 @@ https://www.reddit.com/r/androiddev/comments/4jwjrj/kotlingist_mergeadapter_for_
 Libs
 https://github.com/jasvilladarez/RxFirebase
 https://github.com/thoughtbot/stencil
+
+
+shared preferences
+https://gist.github.com/davidwhitman/b83e1744e8435a2c8cba262c1179f1a8

@@ -27,6 +27,7 @@ https://robots.thoughtbot.com/android-imageview-scaletype-a-visual-guide
 
 Imageviews
 https://github.com/andremion/Music-Cover-View
+https://github.com/yingLanNull/ShadowImageView
 
 
 Image loading
@@ -71,9 +72,10 @@ Compress images
 https://gist.github.com/SandroMachado/9ee516bbd36768ca3844876c50cf4618
 https://github.com/zetbaitsu/Compressor
 https://www.paintcodeapp.com/
+https://github.com/Sunzxyong/Tiny
 
 
-Effects
+Effects crop
 https://github.com/PomepuyN/BlurEffectForAndroidDesign
 http://facebook.github.io/rebound/
 https://github.com/RomainPiel/Titanic
@@ -87,6 +89,7 @@ https://github.com/glomadrian/RoadRunner
 https://github.com/ArthurHub/Android-Image-Cropper
 https://github.com/patrickfav/Dali
 https://github.com/SlavaKyrai/QuadTreeAndroid
+https://github.com/steelkiwi/cropiwa
 
 
 SVG & Vector

@@ -36,6 +36,7 @@ https://hackernoon.com/using-custom-styles-with-google-maps-android-api-e1e5ec3a
 https://github.com/aarsy/GoogleMapsAnimations
 https://www.thedroidsonroids.com/blog/workcation-app-part-2-animating-markers-with-mapoverlaylayout/
 https://www.thedroidsonroids.com/blog/workcation-app-part-3-recyclerview-interaction-with-animated-markers/
+https://github.com/leandroBorgesFerreira/UpdatableMap/
 
 
 Virtual Network
@@ -223,6 +224,7 @@ https://www.reddit.com/r/androiddev/comments/4wp05d/websocket_libraries_what_are
 https://www.reddit.com/r/androiddev/comments/519lgc/how_does_one_properly_manage_a_socket_for_sending/
 https://github.com/pushpendra-spartan/android-websockets
 http://www.yudiz.com/a-quick-guide-to-socket-io-communication/
+http://fedepaol.github.io/blog/2017/04/30/android-okhttp-and-websockets/
 
 
 Wifi & Wifi direct

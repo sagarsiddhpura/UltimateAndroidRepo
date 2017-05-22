@@ -21,6 +21,10 @@ https://github.com/NYTimes/Store
 https://github.com/requery/requery
 https://github.com/florent37/Freezer
 
+
+view db live on mobile
+https://github.com/Ansh1234/AppDataReader
+
 App
 https://github.com/geralt-encore/Delightful-SQLBrite
 
@@ -40,6 +44,7 @@ https://www.reddit.com/r/androiddev/comments/4juhip/its_there_an_orm_with_all_th
 https://www.reddit.com/r/androiddev/comments/53z2kk/which_orm_solution_should_i_choose_in_2016/
 https://www.reddit.com/r/androiddev/comments/5xs0vf/in_general_what_databaseorm_do_you_use_and_why/
 https://github.com/RobotPajamas/Stetho-Couchbase
+https://www.reddit.com/r/androiddev/comments/6bclmn/what_do_you_guys_use_for_local_persistence/
 
 
 With recycler view

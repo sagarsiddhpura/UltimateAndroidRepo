@@ -111,6 +111,12 @@ https://github.com/panwrona/Workcation
 https://github.com/egek92/DiscrollView2
 http://www.zoftino.com/view-animation-effects-in-android
 https://developer.android.com/guide/topics/graphics/physics-based-animation.html
+https://github.com/shchurov/ParticleView
+https://github.com/glomadrian/Grav
+
+
+shape
+https://github.com/FabianTerhorst/Isometric
 
 
 Play Pause
@@ -219,6 +225,7 @@ https://github.com/Yalantis/Pull-to-Refresh.Rentals-iOS
 http://yalantis.com/blog/how-we-built-customizable-pull-to-refresh-pull-to-cook-soup-animation/
 https://github.com/Yalantis/PullToMakeFlight
 https://github.com/allan1st/JellyRefreshLayout
+https://github.com/dinuscxj/ShootRefreshView
 
 
 Nav menu

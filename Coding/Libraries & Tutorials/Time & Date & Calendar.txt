@@ -22,3 +22,4 @@ https://github.com/Kelin-Hong/ScrollablePanel
 https://github.com/PoePoeMyintSwe/ScrollablePanel/
 https://github.com/sickmartian/CalendarView
 https://github.com/Mulham-Raee/Horizontal-Calendar
+https://github.com/shichaohui/EasyCalendar

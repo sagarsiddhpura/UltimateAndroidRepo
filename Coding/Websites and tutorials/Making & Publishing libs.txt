@@ -31,3 +31,4 @@ http://jeroenmols.com/blog/2015/08/06/artifactory/
 https://solidgeargroup.com/jitpack-public-repositories-android
 https://android.jlelse.eu/things-i-wish-i-knew-when-i-started-building-android-sdk-libraries-dba1a524d619#.tw4p6ti5h
 http://levibostian.com/blog/create-android-gradle-lib/
+https://www.reddit.com/r/androiddev/comments/68lof8/does_anyone_know_of_any_good_definitive_guides/

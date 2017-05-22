@@ -19,6 +19,7 @@ https://github.com/Quatja/Vorolay
 
 Image
 https://github.com/andremion/Louvre
+https://github.com/zhihu/Matisse
 
 
 Button like
@@ -27,6 +28,11 @@ https://github.com/GoodieBag/HorizontalPicker
 
 Media
 https://github.com/alhazmy13/MediaPicker
+https://github.com/zhihu/Matisse
 
 
 https://github.com/igalata/Bubble-Picker
+
+
+carousel
+https://github.com/GoodieBag/CarouselPicker

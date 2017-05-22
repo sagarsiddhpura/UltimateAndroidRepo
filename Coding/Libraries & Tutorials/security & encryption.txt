@@ -76,3 +76,8 @@ https://www.reddit.com/r/androiddev/comments/5od4s1/how_to_protect_my_inapp_purc
 
 Unique id
 https://developers.google.com/instance-id/
+
+
+
+apps
+https://github.com/rafaeltoledo/android-security

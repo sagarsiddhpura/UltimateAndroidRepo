@@ -65,6 +65,12 @@ https://github.com/rubensousa/FloatingToolbar
 https://github.com/JoaquimLey/FabOptions
 https://github.com/andremion/CounterFab
 
+
+Counter
+https://github.com/gildaswise/HorizontalCounter
+https://github.com/youkai-app/ProgressView
+
+
 Articles
 http://blog.makingiants.com/fab-compat-margins/
 https://medium.com/@sebastian212000/my-fab-brings-all-the-boys-in-the-yard-damn-right-7aa0e81b4402#.602up5s5m
@@ -138,6 +144,7 @@ https://github.com/aritraroy/KerningViews
 https://github.com/rosenpin/FadingTextView
 https://github.com/xbroak/CharCountTextView
 https://github.com/AndroidDeveloperLB/AutoFitTextView
+https://github.com/Yasic/ParticleTextView
 
 
 
@@ -174,6 +181,7 @@ http://dubedout.eu/2016/11/13/viewpager-indicator-libraries-you-should-know/?utm
 https://github.com/jfeinstein10/JazzyViewPager animations
 https://github.com/yarolegovich/DiscreteScrollView
 https://github.com/Ramotion/expanding-collection-android
+https://github.com/alibaba/UltraViewPager
 
 
 Draw
@@ -201,6 +209,7 @@ http://code.tutsplus.com/articles/scrolling-techniques-for-material-design--cms-
 https://github.com/rubensousa/FloatingToolbar
 https://medium.com/@lucasurbas/making-android-toolbar-responsive-2627d4e07129#.uthngjky2
 https://github.com/florent37/AwesomeBar
+https://github.com/HendraAnggrian/collapsingtoolbarlayout-subtitle
 
 
 Calendar Widget
@@ -273,6 +282,7 @@ https://github.com/DavidPacioianu/InkPageIndicator
 https://github.com/rubensousa/ViewPagerCards/
 http://www.jayrambhia.com/blog/android-viewpager-cards-1
 https://github.com/Cleveroad/FanLayoutManager
+https://github.com/BakerJQ/Android-InfiniteCards
 
 
 Percentage Layout
@@ -315,6 +325,7 @@ http://www.materialdoc.com/snackbar/#withcustomview
 
 Cards
 https://github.com/hitherejoe/LeanbackCards
+https://github.com/BakerJQ/Android-InfiniteCards
 
 
 Others
@@ -377,6 +388,7 @@ https://github.com/anastr/FlatTimeCollection
 
 Shapes
 https://github.com/siyamed/android-shape-imageview
+https://github.com/stkent/PolygonDrawingUtil
 
 
 Bottom Sheet
@@ -412,6 +424,7 @@ https://github.com/armcha/Space-Navigation-View
 https://github.com/Cleveroad/LoopBar
 https://github.com/DevLight-Mobile-Agency/NavigationTabBar
 https://github.com/peng8350/JPTabBar
+https://github.com/bufferapp/AdaptableBottomNavigation
 
 
 Switch
@@ -469,6 +482,7 @@ https://github.com/anupcowkur/Android-Wheel-Menu
 
 Password Passcode
 https://github.com/Arjun-sna/android-passcodeview
+https://github.com/hanks-zyh/PasscodeView
 
 
 Stepper Progress bar
@@ -514,3 +528,8 @@ https://github.com/cdflynn/bubble-scroll
 
 Table
 https://github.com/Cleveroad/AdaptiveTableLayout
+
+
+carousel
+https://github.com/GoodieBag/CarouselPicker
+

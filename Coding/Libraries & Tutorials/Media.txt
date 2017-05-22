@@ -53,6 +53,7 @@ http://enoent.fr/blog/2014/06/20/compile-ffmpeg-for-android/
 
 Libs
 https://github.com/danikula/AndroidVideoCache
+https://github.com/akshay2211/MusicWave
 
 Widgets
 https://github.com/OHoussein/android-material-play-pause-view
@@ -72,6 +73,7 @@ And you should read the dev guide too https://google.github.io/ExoPlayer/guide.h
 Chooser picker
 https://github.com/Bilibili/boxing
 https://github.com/alhazmy13/MediaPicker
+https://github.com/zhihu/Matisse
 
 
 Gallery

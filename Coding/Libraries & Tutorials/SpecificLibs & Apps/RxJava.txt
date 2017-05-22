@@ -116,6 +116,7 @@ https://github.com/0ximDigital/Rx2Animations
 https://github.com/storix/RxDiffUtil
 https://github.com/uber/AutoDispose
 https://github.com/nekocode/RxActivityResult
+https://github.com/artem-zinnatullin/RxUi
 
 
 Good

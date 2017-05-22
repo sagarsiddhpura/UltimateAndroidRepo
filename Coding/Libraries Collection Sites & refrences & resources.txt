@@ -19,6 +19,7 @@ https://www.reddit.com/r/androiddev/comments/4vx3rx/what_are_some_good_blogssite
 https://github.com/SubhrajyotiSen/AndroidResources
 https://jacqueslenormand.com/mobile.html
 https://github.com/ParaskP7/android-dev-sources
+http://www.droidtalks.pro/
 
 
 Java

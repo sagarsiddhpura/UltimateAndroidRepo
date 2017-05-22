@@ -94,6 +94,9 @@ https://github.com/gantonious/ViewCellAdapter
 https://github.com/10clouds/InifiniteRecyclerView
 https://github.com/filbabic/FlexibleAdapter
 https://github.com/alibaba/vlayout
+https://github.com/DevAhamed/MultiViewAdapter
+https://github.com/holidaycheck/RecyclerViewInjectorAdapter
+https://github.com/MEiDIK/SlimAdapter
 
 
 Expandabele RV

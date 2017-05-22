@@ -105,7 +105,8 @@ http://translatelab.com/android-ios-app-review-sites-list/
 ASO
 https://www.reddit.com/r/androiddev/comments/4yhk8p/ive_developed_a_tool_that_takes_care_of_your_aso/
 https://www.reddit.com/r/androiddev/comments/5dzi4z/looking_for_resources_and_feedback_for_aso/
-
+https://mobilegrowthstack.com/the-app-store-optimization-stack-7443936050c5
+https://www.apptweak.com/
 
 
 Distribute promo codes
