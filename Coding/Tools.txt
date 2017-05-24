@@ -202,3 +202,6 @@ https://github.com/pbreault/adb-idea
 
 Testing
 https://www.reddit.com/r/TestMyApp/
+
+Create slides
+https://romannurik.github.io/SlidesCodeHighlighter/

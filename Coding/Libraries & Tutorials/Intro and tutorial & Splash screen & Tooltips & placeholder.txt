@@ -1,67 +1,60 @@
+App Intro
 https://github.com/PaoloRotolo/AppIntro
 https://github.com/mohak1712/Primer
-
-https://github.com/worker8/TourGuide
-
-https://github.com/deano2390/MaterialShowcaseView
-
-https://github.com/amlcurran/ShowcaseView
-
 https://github.com/sacot41/SCViewPager
-
-https://github.com/ViksaaSkool/AwesomeSplash
-
-https://medium.com/@lucasurbas/placeholder-ui-launch-screen-d85c35552119
-
-
-https://github.com/jonfinerty/Once
-
-
-https://github.com/smasoumi/FAB-Loading
-
-
-https://github.com/sephiroth74/android-target-tooltip
-https://github.com/rharter/android-tooltips
 https://github.com/Nightonke/WoWoViewPager
 https://github.com/txusballesteros/welcome-coordinator
 https://github.com/MizzleDK/IntroActivity
 https://github.com/Ramotion/paper-onboarding-android
 https://github.com/Cleveroad/Bitutorial
+https://github.com/TangoAgency/material-intro-screen
+https://github.com/Cleveroad/SlidingTutorial-Android
 https://github.com/eoinfogarty/Onboarding
-https://github.com/pushpendra-spartan/introduction-screen-animation
-http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/
-https://github.com/TangoAgency/material-intro-screen
-https://github.com/Cleveroad/SlidingTutorial-Android
-https://github.com/armcha/Vertical-Intro
-http://mockuphone.com/
-https://github.com/medyo/android-about-page
 https://github.com/apl-devs/AppIntro
-https://github.com/Cleveroad/SlidingTutorial-Android
-https://github.com/TangoAgency/material-intro-screen
 https://github.com/HeinrichReimer/material-intro
 https://github.com/riggaroo/MaterialIntroTutorial
+https://github.com/armcha/Vertical-Intro
 https://github.com/rubengees/introduction
 https://github.com/MatthewTamlin/SlidingIntroScreen
+Okay
+https://github.com/pushpendra-spartan/introduction-screen-animation
+
+
+Other
+https://github.com/jonfinerty/Once
+https://github.com/smasoumi/FAB-Loading
+Tooltips
+https://github.com/sephiroth74/android-target-tooltip
+https://github.com/rharter/android-tooltips
+
+
+http://mockuphone.com/
 
 
 Highlight views Select
 https://github.com/anastr/SimpleTargetView
 https://github.com/KeepSafe/TapTargetView
 https://github.com/Muuddz/Android-ViewSelector
+https://github.com/worker8/TourGuide
+https://github.com/deano2390/MaterialShowcaseView
+https://github.com/amlcurran/ShowcaseView
 
 
 Tutorials & Articles
 https://www.reddit.com/r/androiddev/comments/38nu7x/how_can_i_make_this_onboarding_animation/
 https://www.reddit.com/r/androiddev/comments/3mzhes/youtube_android_app_focus_overlay/
-
+https://medium.com/@lucasurbas/placeholder-ui-launch-screen-d85c35552119
+http://cyrilmottier.com/2016/06/20/launch-screens-from-a-tap-to-your-app/
 https://medium.com/android-news/creating-an-intro-screen-for-your-app-using-viewpager-pagetransformer-9950517ea04f
 
 
 https://www.useronboard.com/onboarding-teardowns/
 
+
 Splash Screens
 https://www.reddit.com/r/androiddev/comments/5grlac/create_a_splash_screen_on_android_the_right_way/
 https://www.bignerdranch.com/blog/splash-screens-the-right-way/
+https://github.com/ViksaaSkool/AwesomeSplash
 
 
 Design

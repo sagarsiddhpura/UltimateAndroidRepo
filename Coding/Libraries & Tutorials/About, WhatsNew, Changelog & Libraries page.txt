@@ -8,3 +8,5 @@ https://github.com/daniel-stoneuk/material-about-library
 https://github.com/eggheadgames/android-about-box
 https://github.com/mikepenz/AboutLibraries
 https://github.com/jrvansuita/MaterialAbout
+https://github.com/medyo/android-about-page
+

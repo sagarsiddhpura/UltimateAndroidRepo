@@ -32,6 +32,7 @@ https://www.reddit.com/user/avipars
 https://github.com/mplacona/selfie
 https://github.com/Muuddz/ViewToBitmap
 https://github.com/Muddz/ViewToBitmap
+https://github.com/Muddz/Viewshot
 
 
 
