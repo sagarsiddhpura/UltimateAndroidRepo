@@ -1,1 +1,4 @@
 https://github.com/flipboard/bottomsheet
+https://github.com/rubensousa/BottomSheetBuilder
+https://medium.com/@anitas3791/android-bottomsheetdialog-3871a6e9d538#.4we869rkk
+

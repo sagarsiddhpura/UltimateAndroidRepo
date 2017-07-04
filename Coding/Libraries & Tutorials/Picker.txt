@@ -7,6 +7,7 @@ https://github.com/GrenderG/Color-O-Matic
 
 Number Picker
 https://github.com/BorealisAgency/NumberPicker
+https://github.com/philliphsu/NumberPadTimePicker
 
 
 File Picker
@@ -36,3 +37,7 @@ https://github.com/igalata/Bubble-Picker
 
 carousel
 https://github.com/GoodieBag/CarouselPicker
+
+
+HorizontalPicker
+https://github.com/adityagohad/HorizontalPicker

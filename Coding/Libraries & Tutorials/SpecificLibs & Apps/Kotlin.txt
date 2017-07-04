@@ -10,6 +10,16 @@ https://m.signalvnoise.com/some-of-my-favorite-kotlin-features-that-we-use-a-lot
 https://medium.com/keepsafe-engineering/lessons-from-converting-an-app-to-100-kotlin-68984a05dcb6#.icxeup3ps
 
 
+Extension Functions
+https://m.signalvnoise.com/using-kotlin-to-make-android-apis-fun-again-14690975afb6
+
+
+Learn
+https://fabiomsr.github.io/from-java-to-kotlin/index.html
+http://blog.rahulchowdhury.co/handy-resources-to-learn-kotlin-easily/
+https://android.jlelse.eu/a-first-walk-into-kotlin-coroutines-on-android-fe4a6e25f46a
+
+
 apps
 https://github.com/hotpodata/redchain
 https://github.com/grandstaish/four-letters-redux
@@ -20,6 +30,8 @@ https://github.com/fvasco/pinpoi
 https://github.com/ImangazalievM/Notelin
 https://github.com/beyondeye/Reduks
 https://github.com/dbacinski/Design-Patterns-In-Kotlin
+https://github.com/general-mobile/kotlin-architecture-components-notes-demo
+https://github.com/fccaikai/Gan_Kotlin
 
 https://www.reddit.com/r/androiddev/comments/4414k2/painless_database_libraries_with_kotlin_rx_support/
 
@@ -32,6 +44,9 @@ https://github.com/FabianTerhorst/Iron
 https://github.com/alxrm/Audiogram
 https://github.com/alxrm/Timecon
 https://github.com/square/kotlinpoet
+https://ktlint.github.io/
+https://github.com/jasvilladarez/RxFirebase
+https://github.com/thoughtbot/stencil
 
 
 TEsting
@@ -43,11 +58,6 @@ http://hadihariri.com/2016/10/04/Mocking-Kotlin-With-Mockito/
 
 Recyclerview
 https://www.reddit.com/r/androiddev/comments/4jwjrj/kotlingist_mergeadapter_for_recyclerview/
-
-
-Libs
-https://github.com/jasvilladarez/RxFirebase
-https://github.com/thoughtbot/stencil
 
 
 shared preferences

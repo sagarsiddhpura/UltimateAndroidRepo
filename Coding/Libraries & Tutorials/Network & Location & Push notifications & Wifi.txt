@@ -18,6 +18,7 @@ https://github.com/sdoward/RxGoogleMaps
 https://github.com/mcharmas/Android-ReactiveLocation
 
 https://github.com/asifmujteba/EasyVolley
+https://github.com/ferozbaig96/VolleySimple
 https://github.com/orhanobut/wasp
 https://github.com/koush/ion
 
@@ -64,7 +65,7 @@ https://github.com/hoseinmobasher/Android-Axel
 https://github.com/tonyofrancis/fetch
 
 
-Nearby API
+Nearby API BLE 
 https://developers.google.com/nearby/
 https://medium.com/ribot-labs/exploring-google-eddystone-with-the-proximity-beacon-api-bc9256c97e05
 https://github.com/hitherejoe/WatchTower
@@ -79,6 +80,7 @@ http://developer.android.com/intl/ru/training/connect-devices-wirelessly/nsd.htm
 http://www.opengarden.com/meshkit.html
 https://github.com/afollestad/udp-discovery
 https://www.reddit.com/r/androiddev/comments/5t9bnu/what_apps_use_nearby_api/
+https://www.bridgefy.me/
 
 
 Monitor Network changes
@@ -195,6 +197,12 @@ http://qgraph.io/blog/carousel-push-notifications-drive-performance-halo-effect/
 https://pusher.com/
 https://smooch.io/
 onesignal
+China
+https://pushy.me/
+http://www.igetui.com/cn/index.html
+https://www.jiguang.cn/
+https://cloud.baidu.com/doc/index.html?title=docs/cplat/push
+
 
 https://www.firebase.com/
 https://gist.github.com/charly1811/7ba60a6f4776ebd3c88a
@@ -304,3 +312,13 @@ https://www.reddit.com/r/androiddev/comments/4hs9j0/smart_card_development_on_an
 
 URL shortner
 https://github.com/Commit451/PicoUrl
+
+
+
+notifications
+https://github.com/Tapadoo/Alerter
+
+
+
+mock
+https://github.com/5A59/MockNet/blob/master/proDocs/README-en.md

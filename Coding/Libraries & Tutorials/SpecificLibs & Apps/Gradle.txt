@@ -101,3 +101,6 @@ http://devdeeds.com/auto-increment-build-number-using-gradle-in-android/
 
 play sound wwhen build completes
 https://www.reddit.com/r/androiddev/comments/66pern/play_sound_when_your_build_fails/
+
+
+https://github.com/gradle/gradle-completion

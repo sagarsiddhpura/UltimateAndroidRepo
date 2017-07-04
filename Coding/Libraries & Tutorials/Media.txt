@@ -19,6 +19,7 @@ https://github.com/afollestad/easy-video-player
 https://github.com/eneim/Toro
 https://github.com/lawloretienne/Loop
 https://github.com/rubensousa/PreviewSeekBar
+https://github.com/QuickBlox/quickblox-android-sdk/
 
 Streaming
 https://www.oddnetworks.com/

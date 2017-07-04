@@ -25,3 +25,4 @@ http://www.aptoide.com/
 
 
 https://www.smashingmagazine.com/2016/08/five-rules-app-localization-china-money-dating-app-store/
+https://www.reddit.com/r/androiddev/comments/6hmmoe/selling_apps_in_china_experiences_of_nonchinese/

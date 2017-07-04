@@ -23,3 +23,9 @@ https://github.com/jose96043/TimezOut
 
 Services
 http://fabcirablog.weebly.com/blog/creating-a-never-ending-background-service-in-android
+https://github.com/instantiator/background-service-lib
+
+
+
+Alerts
+https://github.com/Tapadoo/Alerter

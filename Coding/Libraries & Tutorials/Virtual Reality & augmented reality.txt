@@ -1,3 +1,4 @@
+VR & AR
 https://developer.vuforia.com/downloads/sdk
 https://blitzbombcensusmaps.wordpress.com/2012/09/24/choosing-an-augmented-reality-library-for-android/
 Wikitudo
@@ -8,6 +9,7 @@ https://www.kudan.eu/
 http://www.wikitude.com/developer/documentation/android
 http://www.androidauthority.com/start-building-daydream-apps-vr-sdk-718029/?utm_source=feedly&utm_medium=webfeeds
 https://caster.io/lessons/build-your-first-google-vr-app-in-ten-minutes/
+https://www.reddit.com/r/androiddev/comments/6fsblz/what_framework_is_good_to_develop_ar_apps_for/
 
 
 https://www.reddit.com/r/androiddev/comments/4sssxy/is_there_any_augmented_reality_sdk_for_android/

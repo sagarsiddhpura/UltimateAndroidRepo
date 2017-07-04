@@ -21,6 +21,7 @@ https://github.com/nipun-birla/Swipe3DRotateView
 
 Swipe
 https://github.com/alexandrius/accordion-swipe-layout
+https://github.com/ebanx/swipe-button/
 
 
 Swipe refresh listener
@@ -40,3 +41,6 @@ https://github.com/noties/ScrollingBackgroundView
 https://medium.com/vscoengineering/android-ux-tricks-nested-scrolling-without-nested-scrolling-2d1c629d58c0#.k9susr5s0
 https://github.com/cdflynn/bubble-scroll
 https://github.com/egek92/DiscrollView2
+
+pull
+https://github.com/marcorighini/PullableView

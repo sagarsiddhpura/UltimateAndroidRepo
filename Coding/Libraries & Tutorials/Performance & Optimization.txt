@@ -80,4 +80,4 @@ https://medium.com/@froger_mcs/framemetrics-realtime-app-smoothness-tracking-3d8
 
 
 Offline
-https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.aeflkxu8vimageshttps://pnggauntlet.com/reduce apk sizehttps://medium.com/@margaretmz/reducing-android-apk-size-b0f311ad4d8frecyclerviewhttps://thisbitofcode.com/speeding-up-recyclerviews/db databasehttps://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2
+https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8#.aeflkxu8vimageshttps://pnggauntlet.com/reduce apk sizehttps://medium.com/@margaretmz/reducing-android-apk-size-b0f311ad4d8frecyclerviewhttps://thisbitofcode.com/speeding-up-recyclerviews/db databasehttps://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2https://hackernoon.com/squeezing-performance-from-sqlite-insertions-with-room-d769512f8330memory leakshttps://blog.aritraroy.in/everything-you-need-to-know-about-memory-leaks-in-android-apps-655f191ca859

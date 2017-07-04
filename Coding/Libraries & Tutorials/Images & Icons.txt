@@ -232,6 +232,7 @@ http://www.iconninja.com/
 
 http://joanzapata.com/android-iconify/
 https://icons8.com/
+https://iconstore.co/
 http://cookicons.co/#
 http://www.materialup.com/posts/material-product-icon-template
 http://fontawesome.io/icons/
@@ -298,3 +299,11 @@ https://github.com/pavel163/BifacialView
 
 icon parser
 https://github.com/sofakingforever/IconPackParser-Android
+
+
+adaptive icons
+https://adapticon.tooo.io/#/bg=https://adapticon.tooo.io/background.png/fg=https://adapticon.tooo.io/foreground.png
+
+
+
+https://shapeshifter.design/

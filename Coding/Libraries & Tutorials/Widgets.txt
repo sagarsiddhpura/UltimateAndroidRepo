@@ -145,6 +145,7 @@ https://github.com/rosenpin/FadingTextView
 https://github.com/xbroak/CharCountTextView
 https://github.com/AndroidDeveloperLB/AutoFitTextView
 https://github.com/Yasic/ParticleTextView
+https://github.com/sdsmdg/RotatingText
 
 
 
@@ -240,20 +241,22 @@ https://github.com/alxrm/youtube-play-icon
 https://github.com/dewarder/HoldingButton
 https://github.com/ishaan1995/ButtonProgressBar
 https://github.com/leandroBorgesFerreira/LoadingButtonAndroid
+https://github.com/ebanx/swipe-button
 
 
 Navigation drawer
+https://github.com/mikepenz/MaterialDrawer
 https://github.com/neokree/MaterialNavigationDrawer
 https://github.com/frogermcs/DrawerLayoutInstaller
 https://github.com/jfeinstein10/SlidingMenu
 https://www.reddit.com/r/androiddev/comments/3kdkct/quick_tip_preview_your_drawerlayout_drawer_in_the/
-https://github.com/mikepenz/MaterialDrawer
+Novelty
 https://github.com/mikeyxkcd/GuillotineMenu
 https://github.com/Yalantis/Side-Menu.Android
-https://github.com/mzule/FantasySlide
-http://nganthony.github.io/2016/01/24/implementing-android-mini-navigation-drawer.html
 https://github.com/rom4ek/ArcNavigationView
 https://github.com/yarolegovich/SlidingRootNav
+https://github.com/mzule/FantasySlide
+http://nganthony.github.io/2016/01/24/implementing-android-mini-navigation-drawer.html
 
 
 Dialog, Popups, warnings alerts
@@ -370,6 +373,7 @@ https://github.com/GoodieBag/HorizontalPicker
 https://github.com/GoodieBag/ProtractorView
 https://github.com/pavel163/FilledView
 https://github.com/pavel163/BifacialView
+https://github.com/marcorighini/PullableView
 
 
 Seekbar
@@ -392,6 +396,7 @@ https://github.com/stkent/PolygonDrawingUtil
 
 
 Bottom Sheet
+https://github.com/flipboard/bottomsheet
 https://github.com/rubensousa/BottomSheetBuilder
 https://medium.com/@anitas3791/android-bottomsheetdialog-3871a6e9d538#.4we869rkk
 
@@ -473,6 +478,7 @@ https://github.com/WassimBenltaief/FlowLayout
 Constraint Layout
 https://github.com/hitherejoe/Constraints
 https://medium.com/@loutry/guide-to-constraintlayout-407cd87bc013#.c5rgvgpmg
+https://constraintlayout.com/
 
 
 Cartwheel
@@ -500,6 +506,7 @@ https://github.com/desnyki/InfinityMenu
 https://github.com/google/hover
 https://github.com/adonixis/android-animated-menu-items
 https://github.com/ImangazalievM/CircleMenu
+https://github.com/rjsvieira/floatingMenu
 
 
 Checkbox
@@ -533,3 +540,8 @@ https://github.com/Cleveroad/AdaptiveTableLayout
 carousel
 https://github.com/GoodieBag/CarouselPicker
 
+
+
+Art navigation-drawer toolbar
+https://github.com/sdsmdg/trianglify
+https://github.com/manolovn/trianglify

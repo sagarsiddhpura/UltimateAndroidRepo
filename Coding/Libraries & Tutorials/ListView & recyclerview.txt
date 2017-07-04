@@ -98,6 +98,7 @@ https://github.com/alibaba/vlayout
 https://github.com/DevAhamed/MultiViewAdapter
 https://github.com/holidaycheck/RecyclerViewInjectorAdapter
 https://github.com/MEiDIK/SlimAdapter
+https://github.com/rahulchowdhury/Mystique
 
 
 Expandabele RV
@@ -141,7 +142,6 @@ http://arjunu.com/2015/10/android-recyclerview-with-different-cardviews/
 http://www.tutorialsbuzz.com/2015/11/android-recyclerview-filter-animation.html
 https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
 https://www.reddit.com/r/androiddev/comments/4flia7/recyclerview_and_picasso_help/
-https://www.reddit.com/r/androiddev/comments/4kmqde/how_to_improve_the_performance_on_a_recyclerview/
 https://medium.com/@ipaulpro/drag-and-swipe-with-recyclerview-b9456d2b1aaf#.nkll5ldh3
 https://medium.com/codeword/an-in-depth-look-at-snaphelper-new-tools-in-recyclerview-part-2-5a461a53bf4e#.70t4mfitx
 
@@ -204,3 +204,5 @@ https://github.com/storix/RxDiffUtil
 
 Speed up & performance
 https://thisbitofcode.com/speeding-up-recyclerviews/
+https://www.reddit.com/r/androiddev/comments/4kmqde/how_to_improve_the_performance_on_a_recyclerview/
+https://github.com/tumblr/graywater

@@ -29,6 +29,7 @@ https://androidsecurity.info/2016/11/24/certificate-pinning-in-android/
 https://androidsecurity.info/2016/12/15/storing-your-secure-information-in-the-ndk/
 https://androidsecurity.info/2016/12/07/tampering-detection-in-android/
 https://medium.com/@josiassena/using-the-android-keystore-system-to-store-sensitive-information-3a56175a454b#.9y1qomyih
+https://github.com/OWASP/owasp-mstg
 
 
 Passwords
@@ -68,7 +69,7 @@ https://github.com/jedisct1/libsodium
 https://blog.devknox.io/devknox-autocorrect-for-security-issues/
 https://github.com/yakivmospan/scytale
 https://github.com/rockaport/alice
-
+https://github.com/OWASP/owasp-mstg
 
 IAP
 https://www.reddit.com/r/androiddev/comments/5od4s1/how_to_protect_my_inapp_purchases_from_piracy/

@@ -1,1 +1,2 @@
 https://josiassena.com/android-studio-jira-and-other-bug-tracking-tools/
+https://www.reddit.com/r/androiddev/comments/6cnz3j/for_anyone_that_uses_jira_at_their_company_what/

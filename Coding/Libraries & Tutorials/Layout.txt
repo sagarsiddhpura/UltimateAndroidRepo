@@ -15,3 +15,8 @@ Generate Programmatically
 https://github.com/tmorcinek/android-codegenerator-library
 https://github.com/Avocarrot/json2view
 http://fblitho.com/
+
+
+Layout with art
+https://github.com/manolovn/trianglify
+https://github.com/sdsmdg/trianglify

@@ -1,0 +1,2 @@
+http://blog.octo.com/en/build-your-first-instant-app/
+https://medium.com/vimeo-engineering-blog/vimeo-android-instant-apps-2f8b1e94760c

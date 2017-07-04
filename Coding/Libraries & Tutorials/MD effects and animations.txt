@@ -92,6 +92,7 @@ https://github.com/booncol/Pulsator4Droid
 https://github.com/XunMengWinter/CircularAnim/blob/master/README-EN.md
 https://github.com/venshine/GoodView
 https://github.com/jinatonic/confetti
+https://github.com/DanielMartinus/Konfetti
 https://medium.com/google-developers/transitions-in-the-android-support-library-8bc86a1d688e#.cit2nzusi
 http://jeremie-martinez.com//2016/09/15/train-animations/
 https://medium.com/@sebastian212000/my-fab-brings-all-the-boys-in-the-yard-damn-right-7aa0e81b4402#.dp5t75urh
@@ -135,6 +136,7 @@ https://medium.com/google-developers/animation-jump-through-861f4f5b3de4#.voxqxo
 https://medium.com/@sebastian212000/my-fab-brings-all-the-boys-in-the-yard-damn-right-7aa0e81b4402#.602up5s5m
 http://www.uwanttolearn.com/android/constraint-layout-animations-dynamic-constraints-ui-java-hell/
 http://mikescamell.com/shared-element-transitions-part-2/
+https://medium.com/proandroiddev/implementing-complex-animations-in-android-full-working-code-41979cc2369e
 
 
 Tools
@@ -182,6 +184,7 @@ https://github.com/balysv/material-ripple
 https://github.com/ozodrukh/CircularReveal - https://github.com/gowong/material-sheet-fab
 http://www.tutorialsbuzz.com/2015/11/android-circular-reveal-effect-whatsapp.html
 http://uiandroid.com/reveal-effect-custom-color/
+https://android.jlelse.eu/a-little-thing-that-matter-how-to-reveal-an-activity-with-circular-revelation-d94f9bfcae28
 
 
 
@@ -284,6 +287,7 @@ https://github.com/mwolfson/android-historian
 SVG
 https://github.com/bonnyfone/vectalign - Animations
 https://github.com/alexjlockwood/ShapeShifter
+http://inloop.github.io/svg2android/
 
 
 Shape animations
@@ -300,3 +304,6 @@ https://stories.uplabs.com/can-you-code-this-ui-volume-6-7bd09fa6dd92#.8tubtlast
 
 Change grid to list
 https://github.com/gjiazhe/LayoutSwitch
+
+
+https://shapeshifter.design/

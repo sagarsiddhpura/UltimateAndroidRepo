@@ -107,6 +107,7 @@ https://www.reddit.com/r/androiddev/comments/4yhk8p/ive_developed_a_tool_that_ta
 https://www.reddit.com/r/androiddev/comments/5dzi4z/looking_for_resources_and_feedback_for_aso/
 https://mobilegrowthstack.com/the-app-store-optimization-stack-7443936050c5
 https://www.apptweak.com/
+https://asostack.com/the-app-store-optimization-stack-part-2-8383b26092bd
 
 
 Distribute promo codes
