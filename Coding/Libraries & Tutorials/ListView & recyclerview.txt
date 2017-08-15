@@ -3,7 +3,6 @@ http://www.survivingwithandroid.com/2014/08/android-listview-with-multiple-row.h
 http://amigold.github.io/FunDapter/
 
 RecyclerView
-https://github.com/cymcsg/UltimateRecyclerView
 https://github.com/googlesamples/android-RecyclerView
 https://github.com/rahulrj/Swipe_RecyclerView
 https://github.com/lucasr/twoway-view
@@ -24,6 +23,8 @@ https://github.com/GauravChaddha1996/CDSRecyclerView
 https://github.com/jaychang0917/SimpleRecyclerView
 https://github.com/infinum/MjolnirRecyclerView
 https://github.com/the-cybersapien/RecyclerELE
+good
+https://github.com/cymcsg/UltimateRecyclerView
 
 https://github.com/mrmike/DiffUtil-sample
 
@@ -68,7 +69,6 @@ Adapter
 https://github.com/Commit451/AdapterLayout
 https://github.com/500px/greedo-layout-for-android
 https://github.com/RecycledMedia/tradesy-android-binder
-https://github.com/mikepenz/FastAdapter
 https://github.com/Shyish/GenericRenderers
 http://hannesdorfmann.com/android/adapter-delegates
 https://github.com/alexive/visual-goodies
@@ -99,6 +99,8 @@ https://github.com/DevAhamed/MultiViewAdapter
 https://github.com/holidaycheck/RecyclerViewInjectorAdapter
 https://github.com/MEiDIK/SlimAdapter
 https://github.com/rahulchowdhury/Mystique
+Good
+https://github.com/mikepenz/FastAdapter
 
 
 Expandabele RV

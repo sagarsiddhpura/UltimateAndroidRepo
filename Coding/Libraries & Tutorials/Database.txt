@@ -21,7 +21,10 @@ https://github.com/NYTimes/Store
 https://github.com/requery/requery
 https://github.com/florent37/Freezer
 http://www.dizitart.org/nitrite-database.html
+https://github.com/wajahatkarim3/DBFlowManager
 
+https://gamedevalgorithms.com/2017/07/07/getting-started-with-sugar-orm/
+https://github.com/srinurp/AndroidRoom
 
 view db live on mobile
 https://github.com/Ansh1234/AppDataReader
@@ -82,3 +85,4 @@ https://github.com/Cleveroad/AdaptiveTableLayout
 
 performance
 https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2
+https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-indexes-indexes-c4e175f3c346

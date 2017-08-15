@@ -39,3 +39,4 @@ Cache
 https://www.reddit.com/r/androiddev/comments/55ssge/rxobservablediskcache_simple_nosql_offline_cache/
 
 
+https://github.com/JessYanCoding/ProgressManager

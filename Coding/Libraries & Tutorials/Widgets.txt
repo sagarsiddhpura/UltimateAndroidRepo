@@ -51,7 +51,7 @@ https://github.com/krtkush/LinearTimer circular
 https://github.com/ishaan1995/ButtonProgressBar
 
 
-FAB
+::FAB
 https://github.com/futuresimple/android-floating-action-button
 https://github.com/ckurtm/FabButton
 https://github.com/oguzbilgener/CircularFloatingActionMenu
@@ -64,6 +64,8 @@ https://github.com/DmitryMalkovich/circular-with-floating-action-button
 https://github.com/rubensousa/FloatingToolbar
 https://github.com/JoaquimLey/FabOptions
 https://github.com/andremion/CounterFab
+https://github.com/jahirfiquitiva/FABsMenu
+https://github.com/Fueled/fab.ulous
 
 
 Counter
@@ -225,7 +227,7 @@ https://github.com/fahimk/AndroidTreeView
 https://github.com/Polidea/tree-view-list-androioid
 
 
-Buttons
+::Buttons
 https://github.com/fahimk/fancybuttons
 http://www.dmytrodanylyk.com/pages/blog/material-flat-button.html
 http://www.dmytrodanylyk.com/pages/blog/flat-button.html
@@ -242,6 +244,7 @@ https://github.com/dewarder/HoldingButton
 https://github.com/ishaan1995/ButtonProgressBar
 https://github.com/leandroBorgesFerreira/LoadingButtonAndroid
 https://github.com/ebanx/swipe-button
+https://github.com/Abushawish/MultiStateToggleButton/
 
 
 Navigation drawer
@@ -257,6 +260,8 @@ https://github.com/rom4ek/ArcNavigationView
 https://github.com/yarolegovich/SlidingRootNav
 https://github.com/mzule/FantasySlide
 http://nganthony.github.io/2016/01/24/implementing-android-mini-navigation-drawer.html
+backgrounds
+https://github.com/nekocode/TriangulationDrawable
 
 
 Dialog, Popups, warnings alerts
@@ -286,6 +291,7 @@ https://github.com/rubensousa/ViewPagerCards/
 http://www.jayrambhia.com/blog/android-viewpager-cards-1
 https://github.com/Cleveroad/FanLayoutManager
 https://github.com/BakerJQ/Android-InfiniteCards
+https://github.com/Ramotion/cardslider-android
 
 
 Percentage Layout
@@ -305,6 +311,7 @@ https://github.com/TheFinestArtist/FinestWebView-Android
 https://github.com/novoda/simple-chrome-custom-tabs
 https://github.com/delight-im/Android-AdvancedWebView
 https://crosswalk-project.org/
+https://www.whatsthatlambda.com/android/how-to-enable-safe-browsing-in-webview
 
 
 Tags & Chips
@@ -329,6 +336,7 @@ http://www.materialdoc.com/snackbar/#withcustomview
 Cards
 https://github.com/hitherejoe/LeanbackCards
 https://github.com/BakerJQ/Android-InfiniteCards
+https://github.com/Ramotion/cardslider-android
 
 
 Others
@@ -509,10 +517,9 @@ https://github.com/ImangazalievM/CircleMenu
 https://github.com/rjsvieira/floatingMenu
 
 
-Checkbox
+::Checkbox
 https://github.com/sevar83/indeterminate-check
 https://github.com/Commit451/Untriggeredbox
-https://github.com/sevar83/indeterminate-checkbox
 
 
 Toast
@@ -539,9 +546,15 @@ https://github.com/Cleveroad/AdaptiveTableLayout
 
 carousel
 https://github.com/GoodieBag/CarouselPicker
-
+https://github.com/cdflynn/turn-layout-manager
 
 
 Art navigation-drawer toolbar
 https://github.com/sdsmdg/trianglify
 https://github.com/manolovn/trianglify
+
+
+credit card debit card
+https://github.com/KingsMentor/Luhn
+
+

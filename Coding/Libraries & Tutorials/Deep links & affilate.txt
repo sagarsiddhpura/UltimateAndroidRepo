@@ -8,6 +8,7 @@ https://medium.com/@ageitgey/everything-you-need-to-know-about-implementing-ios-
 https://medium.com/exploring-android/exploring-firebase-on-android-dynamic-links-7364def74808
 https://android.jlelse.eu/how-to-use-app-links-assistant-in-android-studio-2-3-c29741bb721d
 http://www.zoftino.com/facebook-deep-linking-in-android
+https://blog.kishorebabu.com/super-easy-mobile-deep-links-with-branch-io-cfcb19dc898e
 
 Libs
 https://branch.io/

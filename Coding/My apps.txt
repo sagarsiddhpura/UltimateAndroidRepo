@@ -107,3 +107,8 @@ https://developer.android.com/studio/build/optimize-your-build.html
 
 Whatschatt
 https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-insertions-971aff98eef2
+
+
+
+mygallery
+https://www.reddit.com/r/androiddev/comments/6ln2b3/what_rightsownership_if_any_do_i_maintain_over_my/

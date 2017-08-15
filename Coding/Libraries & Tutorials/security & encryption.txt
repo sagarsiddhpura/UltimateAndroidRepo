@@ -70,6 +70,7 @@ https://blog.devknox.io/devknox-autocorrect-for-security-issues/
 https://github.com/yakivmospan/scytale
 https://github.com/rockaport/alice
 https://github.com/OWASP/owasp-mstg
+https://github.com/saantiaguilera/android-api-SecureKeys
 
 IAP
 https://www.reddit.com/r/androiddev/comments/5od4s1/how_to_protect_my_inapp_purchases_from_piracy/

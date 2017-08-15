@@ -60,6 +60,7 @@ https://bugfender.com/android-remote-logger
 https://medium.com/@simonpercic/effortless-network-response-logging-on-android-cedf0ebbdae1#.2cf074yzh
 https://github.com/charbgr/SeismicInterceptor
 https://github.com/jgilfelt/chuck
+https://labstack.com/cookbook/android-logging
 
 
 Live Logging
@@ -117,3 +118,8 @@ https://www.reddit.com/r/androiddev/comments/48p2s5/logging_library/
 
 Rx
 https://github.com/T-Spoon/Traceur
+
+
+
+kotlin
+https://github.com/Q42/Tolbaaken

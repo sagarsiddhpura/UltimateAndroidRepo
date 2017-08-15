@@ -322,6 +322,10 @@ https://github.com/mohak1712/Insta-Chat
 https://github.com/hundeva/Space
 https://github.com/Nextome/GeoJson-Viewer
 https://github.com/hoanghung242/boardgametracker
+https://github.com/kollerlukas/Camera-Roll-Android-App
+https://github.com/joedarby/AlcoSensing
+https://github.com/mecid/robird-reborn
+https://github.com/wikimedia/apps-android-wikipedia
 
 
 Quiz
@@ -378,6 +382,8 @@ https://github.com/naman14/Timber
 https://github.com/Liza-S/Security-Point-App
 https://github.com/CCninja86/UltimateWordFinder
 https://github.com/Liza-S/Score-Keeper-app
+https://github.com/archos-sa/aos-AVP
+https://github.com/VladThodo/behe-keyboard
 
 
 Game

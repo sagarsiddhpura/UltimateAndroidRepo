@@ -5,6 +5,7 @@ https://github.com/jainsahab/AndroidSnooper
 
 Network
 https://github.com/afollestad/bridge
+https://labstack.com/cookbook/android-logging
 
 
 Downloading and caching data
@@ -195,7 +196,6 @@ http://www.sendbird.com/
 http://blog.makingiants.com/onesignal-for-push/
 http://qgraph.io/blog/carousel-push-notifications-drive-performance-halo-effect/
 https://pusher.com/
-https://smooch.io/
 onesignal
 China
 https://pushy.me/
@@ -322,3 +322,12 @@ https://github.com/Tapadoo/Alerter
 
 mock
 https://github.com/5A59/MockNet/blob/master/proDocs/README-en.md
+
+
+progress bar
+https://github.com/JessYanCoding/ProgressManager
+
+
+geo coding
+https://github.com/arbitur/Geocoding-Android
+https://github.com/Nextome/GeoJsonify

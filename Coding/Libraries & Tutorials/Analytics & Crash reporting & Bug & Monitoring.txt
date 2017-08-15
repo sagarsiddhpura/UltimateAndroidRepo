@@ -10,6 +10,12 @@ https://www.intercom.com/
 https://amplitude.com/pricing#seeall
 https://www.localytics.com/
 https://newrelic.com/
+MixPanel
+Azure Mobile Center
+Firebase
+Google Analytics
+Raygun
+Flurry
 
 Crash Reporting
 https://get.fabric.io/

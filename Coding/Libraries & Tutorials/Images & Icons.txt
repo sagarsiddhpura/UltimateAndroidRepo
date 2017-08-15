@@ -103,10 +103,12 @@ https://www.reddit.com/r/androiddev/comments/569zxd/has_anyone_here_completely_m
 https://medium.com/@manuelvicnt/your-app-icon-as-animatedvectordrawable-92325ba07c8e#.urj1la43m
 https://tech.fleka.me/how-to-load-svg-file-from-web-in-android-6cd2f4dc59b#.go1bmflhw
 https://github.com/alexjlockwood/ShapeShifter
+https://github.com/harjot-oberai/VectorMaster
 
 Have state drawable
 http://www.donnfelker.com/quick-and-easy-statelistdrawables-in-android-with-one-png/
 http://antonioleiva.com/unveiling-bandhook-foreground-any-layout/
+https://blog.stylingandroid.com/animatedstatelistdrawable/
 
 http://andraskindler.com/blog/2015/tinting_drawables/
 https://github.com/lopspower/SaveInsta
@@ -258,7 +260,7 @@ https://www.reddit.com/r/androiddev/comments/3f08ge/what_i_love_about_androidico
 SVG to android xml
 http://inloop.github.io/svg2android/
 http://a-student.github.io/SvgToVectorDrawableConverter.Web/
-
+https://w3goodies.com/online-file-converter/svg-to-android.html
 
 Resources
 https://www.reddit.com/user/naalty
@@ -307,3 +309,7 @@ https://adapticon.tooo.io/#/bg=https://adapticon.tooo.io/background.png/fg=https
 
 
 https://shapeshifter.design/
+
+
+watermark
+https://github.com/vinaygaba/RubberStamp

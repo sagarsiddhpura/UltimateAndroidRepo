@@ -213,3 +213,10 @@ https://github.com/naman14/gnome-android-tool
 
 
 https://shapeshifter.design/
+
+publish checklist
+https://chrome.google.com/webstore/detail/app-publish-checklist/pdfcpbcdddcbfekpgcghcjhilfififdh
+
+https://www.codota.com/
+
+https://github.com/cesarferreira/tray-apk-install
